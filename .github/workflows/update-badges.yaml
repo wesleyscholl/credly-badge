@@ -1,0 +1,18 @@
+name: Update badges
+on:
+    workflow_dispatch
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: wesleyscholl/credly-badge # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "Update badges" # optional
+          CREDLY_USER: wesley-scholl # optional, but default will use the same from github
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: 150 # optional, 110x110 default
+          NUMBER_LAST_BADGES: 50 # optional, will show the 48 in the first page
