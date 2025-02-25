@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-[![LFS142: Introduction to Backstage - Developer Portals Made Easy](https://images.credly.com/size/110x110x110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob)](http://www.credly.com/badges/855722cc-23fd-452c-a6b1-40e3c336f796 "LFS142: Introduction to Backstage - Developer Portals Made Easy")
+[![LFS142: Introduction to Backstage - Developer Portals Made Easy](https://images.credly.com/size/110x110x110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob)](http://www.credly.com/badges/855722cc-23fd-452c-a6b1-40e3c336f796 "LFS142: Introduction to Backstage - Developer Portals Made Easy")]
 [![LFS118: Ethical Principles for Conversational AI](https://images.credly.com/size/110x110x110x110/images/d504af50-e3f2-4fc8-87bb-9d4452fb09f9/blob)](http://www.credly.com/badges/486f5659-d916-4f0d-8669-efa956619c7c "LFS118: Ethical Principles for Conversational AI")
 [![LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks](https://images.credly.com/size/110x110x110x110/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob)](http://www.credly.com/badges/f67e1f47-ac44-494b-9fd7-bd2e68c451a3 "LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks")
 [![LFS116: PyTorch and Deep Learning for Decision Makers](https://images.credly.com/size/110x110x110x110/images/9b88ea8b-bd05-4196-b338-10521ec8305d/blob)](http://www.credly.com/badges/8a0d8d2c-053f-451b-843b-6086f3385cf9 "LFS116: PyTorch and Deep Learning for Decision Makers")
