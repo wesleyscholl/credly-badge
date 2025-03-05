@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: wesleyscholl/credly-badges@main
         with:
             GH_TOKEN: ${{ secrets.BADGE_PAT }}
             REPOSITORY: wesleyscholl/credly-badge # optional, By default, it will automatically use the repository who's executing the workflow.
