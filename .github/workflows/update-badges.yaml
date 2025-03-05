@@ -14,5 +14,5 @@ jobs:
           COMMIT_MESSAGE: "Update badges" # optional
           CREDLY_USER: wesley-scholl # optional, but default will use the same from github
           CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: 110 # optional, 110x110 default
-          NUMBER_LAST_BADGES: 50 # optional, will show the 48 in the first page
+          BADGE_SIZE: 200 # optional, 110x110 default
+          NUMBER_LAST_BADGES: 100 # optional, will show the 48 in the first page
