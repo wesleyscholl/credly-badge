@@ -9,7 +9,7 @@ jobs:
       - name: Badges - Readme
         uses: mikejoh/credly-badges@main
         with:
-            CREDLY_USERNAME: wesley-scholl
+            CREDLY_USERNAME: wesley-scholl.cc1a230f
             GITHUB_TOKEN: ${{ secrets.BADGE_PAT }}
             COMMIT_MESSAGE: "Update Credly badges!"
           # GH_TOKEN: ${{ secrets.BADGE_PAT }}
