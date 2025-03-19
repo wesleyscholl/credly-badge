@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-### 🐧 APIsec University
+### APIsec University
 
 <table width="100%">
   <tr>
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-### 🐧 Acronis
+### Acronis
 
 <table width="100%">
   <tr>
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-### 🐧 Adobe Education
+### Adobe Education
 
 <table width="100%">
   <tr>
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-### 🐧 Amazon Web Services Training and Certification
+### Amazon Web Services Training and Certification
 
 <table width="100%">
   <tr>
@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-### 🐧 Appcues
+### Appcues
 
 <table width="100%">
   <tr>
@@ -124,7 +124,7 @@
   </tr>
 </table>
 
-### 🐧 AttackIQ
+### AttackIQ
 
 <table width="100%">
   <tr>
@@ -143,7 +143,7 @@
   </tr>
 </table>
 
-### 🐧 Certiprof
+### Certiprof
 
 <table width="100%">
   <tr>
@@ -190,7 +190,7 @@
   </tr>
 </table>
 
-### 🐧 Cisco
+### Cisco
 
 <table width="100%">
   <tr>
@@ -209,7 +209,7 @@
   </tr>
 </table>
 
-### 🐧 CompTIA
+### CompTIA
 
 <table width="100%">
   <tr>
@@ -228,7 +228,7 @@
   </tr>
 </table>
 
-### 🐧 Data Protocol
+### Data Protocol
 
 <table width="100%">
   <tr>
@@ -261,7 +261,7 @@
   </tr>
 </table>
 
-### 🐧 Google Cloud
+### Google Cloud
 
 <table width="100%">
   <tr>
@@ -280,7 +280,7 @@
   </tr>
 </table>
 
-### 🐧 IBM
+### IBM
 
 <table width="100%">
   <tr>
@@ -299,7 +299,7 @@
   </tr>
 </table>
 
-### 🐧 IBM SkillsBuild
+### IBM SkillsBuild
 
 <table width="100%">
   <tr>
@@ -332,7 +332,7 @@
   </tr>
 </table>
 
-### 🐧 Intel
+### Intel
 
 <table width="100%">
   <tr>
@@ -365,7 +365,7 @@
   </tr>
 </table>
 
-### 🐧 MongoDB
+### MongoDB
 
 <table width="100%">
   <tr>
@@ -384,7 +384,7 @@
   </tr>
 </table>
 
-### 🐧 Okta
+### Okta
 
 <table width="100%">
   <tr>
@@ -417,7 +417,7 @@
   </tr>
 </table>
 
-### 🐧 Project Management Institute
+### Project Management Institute
 
 <table width="100%">
   <tr>
@@ -436,7 +436,7 @@
   </tr>
 </table>
 
-### 🐧 SAP
+### SAP
 
 <table width="100%">
   <tr>
@@ -497,7 +497,7 @@
   </tr>
 </table>
 
-### 🐧 SAS
+### SAS
 
 <table width="100%">
   <tr>
@@ -516,7 +516,7 @@
   </tr>
 </table>
 
-### 🐧 The Linux Foundation
+### The Linux Foundation
 
 <table width="100%">
   <tr>
