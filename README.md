@@ -130,14 +130,14 @@
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/9b4e48e7-1bb2-487a-a5a3-3871c2c4e528"><img src="https://images.credly.com/size/500x500/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531"><img src="https://images.credly.com/size/500x500/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png" /></a></td>
-    <td width="20%"></td>
+    <td width="20%"><a href="http://www.credly.com/badges/afe9bccc-32be-4ae1-bfbd-8054d7f99285"><img src="https://images.credly.com/size/500x500/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png" /></a></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/9b4e48e7-1bb2-487a-a5a3-3871c2c4e528">Foundations of Operationalizing MITRE ATT&CK v13 - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531">Foundations of Cyber Threat Intelligence - AttackIQ</a></td>
-    <td align="center" width="20%"></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/afe9bccc-32be-4ae1-bfbd-8054d7f99285">Agentless Threat Emulation with AttackIQ Flex v2 - AttackIQ</a></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
   </tr>
