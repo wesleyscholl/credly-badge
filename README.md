@@ -41,15 +41,15 @@
     <td width="20%"><a href="http://www.credly.com/badges/ba638320-2e5b-475a-ab83-77831a217dda"><img src="https://images.credly.com/size/500x500/images/e1680d7c-391a-4af9-9b49-d1763379251e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/7fb4c35b-7913-4c4f-81dc-a38b92abdadb"><img src="https://images.credly.com/size/500x500/images/cc8123df-6c14-498f-a924-dce128075a26/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8"><img src="https://images.credly.com/size/500x500/images/027fcce8-37be-48e0-9d57-00345f4a47d8/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff"><img src="https://images.credly.com/size/500x500/images/66201e02-bfd7-485d-9398-c21f46188aba/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282"><img src="https://images.credly.com/size/500x500/images/433c88ca-7013-47f0-abc5-efb6d59bb602/image.png" /></a></td>
-    <td width="20%"></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ba638320-2e5b-475a-ab83-77831a217dda">Tech Fundamentals - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7fb4c35b-7913-4c4f-81dc-a38b92abdadb">Tech Associate Cybersecurity - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8">Sales Fundamentals - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff">Tech Associate Backup and Recovery - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282">Tech Associate Endpoint Protection Management - Acronis</a></td>
-    <td align="center" width="20%"></td>
   </tr>
 </table>
 
