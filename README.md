@@ -449,32 +449,32 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/28c3e99d-6107-49c4-bf69-eda700fe283b"><img src="https://images.credly.com/size/500x500/images/3c79dd6e-730e-4e17-9856-af2b3d94ba9d/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/76e78444-d75d-4ef7-9c37-038d5689b2bb"><img src="https://images.credly.com/size/500x500/images/ef93706d-8255-4e2c-b739-a651e496ac51/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f"><img src="https://images.credly.com/size/500x500/images/2267cda6-7f79-4b9a-b016-6d9ed4f3c745/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/dfb7afc4-d968-41d7-ab67-0397d9edf1e0"><img src="https://images.credly.com/size/500x500/images/08a6ac52-a6b2-4e7a-8d74-d6e208c9633e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dc7ffe12-9d21-4fac-b4d2-392922a6e535"><img src="https://images.credly.com/size/500x500/images/5df9ce6d-ab63-44f0-b351-d78ef0165abd/blob" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/28c3e99d-6107-49c4-bf69-eda700fe283b">Diagramming Foundations - Lucid Software</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/76e78444-d75d-4ef7-9c37-038d5689b2bb">Intelligent Diagramming - Lucid Software</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f">Verified Lucid Admin - Lucid Software</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/dfb7afc4-d968-41d7-ab67-0397d9edf1e0">Creative Facilitation - Lucid Software</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/dc7ffe12-9d21-4fac-b4d2-392922a6e535">Basics in Lucidspark - Lucid Software</a></td>
+  </tr>
+  <tr>
     <td width="20%"><a href="http://www.credly.com/badges/160bc302-fc0c-42c0-bfa0-a9ccd327fa21"><img src="https://images.credly.com/size/500x500/images/6b4ef123-36a4-4c52-b252-bf61fc94271e/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/beb38da8-bb0e-489e-822f-bc0d15e47180"><img src="https://images.credly.com/size/500x500/images/9e60188b-381a-406f-9c90-dad6aa5c4bc2/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/aa87be32-25d5-4011-bb40-0827cbe0a345"><img src="https://images.credly.com/size/500x500/images/6c206f8c-08d5-4484-9342-7583fec27f11/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/6f9d6fd1-e847-4650-aabd-ff1d9b1929a0"><img src="https://images.credly.com/size/500x500/images/33cbba92-de4f-425a-93a3-6c2977630e39/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/ef1ca877-39f8-4f7d-aeb1-d7d5ff8addab"><img src="https://images.credly.com/size/500x500/images/8edfe206-7dd4-4c2b-8e1d-56c21e6e55f5/blob" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f">Verified Lucid Admin - Lucid Software</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/dc7ffe12-9d21-4fac-b4d2-392922a6e535">Basics in Lucidspark - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/160bc302-fc0c-42c0-bfa0-a9ccd327fa21">Brainstorming in Lucidspark - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/beb38da8-bb0e-489e-822f-bc0d15e47180">Planning in Lucidspark - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/aa87be32-25d5-4011-bb40-0827cbe0a345">Meetings in Lucidspark - Lucid Software</a></td>
-  </tr>
-  <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/6f9d6fd1-e847-4650-aabd-ff1d9b1929a0"><img src="https://images.credly.com/size/500x500/images/33cbba92-de4f-425a-93a3-6c2977630e39/blob" /></a></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-  </tr>
-  <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/6f9d6fd1-e847-4650-aabd-ff1d9b1929a0">Lucidspark Fundamentals - Lucid Software</a></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/ef1ca877-39f8-4f7d-aeb1-d7d5ff8addab">Agile Visualization - Lucid Software</a></td>
   </tr>
 </table>
 
@@ -717,30 +717,30 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/72591ac5-16d3-4060-891c-838c42cac5a2">LFS157: Introduction to Serverless on Kubernetes - The Linux Foundation</a></td>
   </tr>
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2"><img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397"><img src="https://images.credly.com/size/500x500/images/ff55a3b1-ffef-431d-b486-096bd93de299/blob" /></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2">CAPA: Certified Argo Project Associate - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397">LFD137: Open Source Contribution in Finance - The Linux Foundation</a></td>
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/bc8755cb-854d-4d50-ae8c-8de0e588d00c"><img src="https://images.credly.com/size/500x500/images/03d4e5e4-2d54-4b8a-b052-d57c06630efe/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b"><img src="https://images.credly.com/size/500x500/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f55e6c6e-a36b-45a3-b68d-f2b9f76fbfd2"><img src="https://images.credly.com/size/500x500/images/ec31c32f-3594-40ec-951b-75720d07efbf/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b"><img src="https://images.credly.com/size/500x500/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/b2473278-a029-4e8a-a6da-b87d8c5a3aa5"><img src="https://images.credly.com/size/500x500/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e6614a95-2223-4ff4-8f62-e634e0afe0ee"><img src="https://images.credly.com/size/500x500/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/bc8755cb-854d-4d50-ae8c-8de0e588d00c">LFEL1000: Introduction to FDC3 - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b">LFS180: Introduction to DevSecOps for Managers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f55e6c6e-a36b-45a3-b68d-f2b9f76fbfd2">LFS112: Ethics in AI and Data Science - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b">LFS180: Introduction to DevSecOps for Managers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/b2473278-a029-4e8a-a6da-b87d8c5a3aa5">LFS144: Introduction to Istio - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e6614a95-2223-4ff4-8f62-e634e0afe0ee">LFS142: Introduction to Backstage - Developer Portals Made Easy - The Linux Foundation</a></td>
   </tr>
