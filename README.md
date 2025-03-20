@@ -74,7 +74,6 @@
 </details>
 
 <br>
-
 ### Acronis
 
 <table width="100%">
@@ -194,7 +193,6 @@
 </details>
 
 <br>
-
 ### AttackIQ
 
 <table width="100%">
@@ -238,7 +236,6 @@
 </details>
 
 <br>
-
 ### Certiprof
 
 <table width="100%">
@@ -296,7 +293,6 @@
 </details>
 
 <br>
-
 ### Cisco
 
 <table width="100%">
@@ -378,7 +374,6 @@
 </details>
 
 <br>
-
 ### Google Cloud
 
 <table width="100%">
@@ -460,7 +455,6 @@
 </details>
 
 <br>
-
 ### ISC2
 
 <table width="100%">
@@ -523,7 +517,6 @@
 </details>
 
 <br>
-
 ### Lucid Software
 
 <table width="100%">
@@ -567,7 +560,6 @@
 </details>
 
 <br>
-
 ### MongoDB
 
 <table width="100%">
@@ -630,7 +622,6 @@
 </details>
 
 <br>
-
 ### Project Management Institute
 
 <table width="100%">
@@ -721,7 +712,6 @@
 </details>
 
 <br>
-
 ### SAS
 
 <table width="100%">
@@ -938,6 +928,5 @@
 </details>
 
 <br>
-
 
 <!--END_SECTION:badges-->
