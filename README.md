@@ -1,6 +1,8 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
+## Total Badges: (201)
+
 ## List of Issuing Organizations
 
 | Issuing Organization | Verified |
@@ -46,6 +48,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1b13abd0-c1c4-487d-86df-08ea97ca5bc4">API Authentication (2 hours) - APIsec University</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ee226300-0139-4185-8ef4-e08b4f496c13">API Security for Connected Cars and Fleets (1 hour) - APIsec University</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More APIsec University</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/d777b654-5e31-4ad1-ac02-5e18347995f4"><img src="https://images.credly.com/size/500x500/images/131fe3cd-8810-4724-8f25-dbe186a08805/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/4b89168e-3643-49cf-8808-d7857e8dc625"><img src="https://images.credly.com/size/500x500/images/9781310b-49e7-4564-a7ca-7a53784bbf1e/blob" /></a></td>
@@ -61,6 +70,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### Acronis
 
@@ -155,6 +166,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/aee3fa3b-a881-4438-8678-3ab5123a04ba">Mobile App Onboarding 101 - Appcues</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/56b27cef-12e4-433a-a0c2-d86672832293">Value-First Onboarding - Appcues</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More Appcues</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/ea2cffd3-d67b-48c4-99b2-a70c7cab1298"><img src="https://images.credly.com/size/500x500/images/86996d31-489c-424d-8bed-bee456d29d7f/image.png" /></a></td>
     <td width="20%"></td>
@@ -170,6 +188,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### AttackIQ
 
@@ -188,6 +208,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/defd163e-8d92-4b50-b562-1c1a93299fde">Top ATT&CK Techniques - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531">Foundations of Cyber Threat Intelligence - AttackIQ</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More AttackIQ</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/59b5256d-7c36-4a0a-be7a-b9b2bc49b593"><img src="https://images.credly.com/size/500x500/images/a0232f56-64d0-4253-bc24-5b34c77c6727/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/afe9bccc-32be-4ae1-bfbd-8054d7f99285"><img src="https://images.credly.com/size/500x500/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png" /></a></td>
@@ -203,6 +230,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### Certiprof
 
@@ -221,6 +250,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/94d71bf1-3efe-4906-9868-35b4635da375">Design Sprint Learner - Certiprof</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b">Prompt Engineering Foundation Learner - Certiprof</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More Certiprof</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/d2b142ca-bd0f-467d-9551-77cddab7c0b3"><img src="https://images.credly.com/size/500x500/images/458e7d21-4592-4cdf-ac6e-4f4a745ca59a/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/785299d1-af25-41a6-bb85-ca58767b3d84"><img src="https://images.credly.com/size/500x500/images/92411165-7035-4b5b-9b99-f0d7cb0fcc91/blob" /></a></td>
@@ -250,6 +286,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### Cisco
 
@@ -306,6 +344,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/d9ef10b0-2301-4720-b67c-7d97acc0df26">Completing Organization Verification - Data Protocol</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/bc948e95-835f-4a4f-b175-eec36be5474b">Content Moderation & Reporting Compliance - Data Protocol</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More Data Protocol</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/3b266d69-ec44-4c3f-a898-71ee5060fde1"><img src="https://images.credly.com/size/500x500/images/4da4c0f1-1345-4ffa-b956-72054ea4d9db/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/820655d4-dba4-4277-a9d8-15376517797b"><img src="https://images.credly.com/size/500x500/images/f98c9207-d655-4cb2-803e-67321adf23b7/image.png" /></a></td>
@@ -321,6 +366,8 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/3c065a9d-85e8-4ecb-945b-c572bc27fb58">Data Subject Access Rights Readiness - Data Protocol</a></td>
   </tr>
 </table>
+
+</details>
 
 ### Google Cloud
 
@@ -377,6 +424,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/0195f678-90fa-44f4-bbad-12a588ac593a">Journey to Cloud: Envisioning Your Solution - IBM SkillsBuild</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/5d97c726-b5b5-4a7c-968a-7e0167d7df17">Explorations into Mindfulness - IBM SkillsBuild</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More IBM SkillsBuild</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/3d176f1b-9218-4b26-b8ef-cee92e2f2622"><img src="https://images.credly.com/size/500x500/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/bcd2b361-ce6d-4bb7-9fc4-4bba25cc6a7f"><img src="https://images.credly.com/size/500x500/images/9a6e098a-618a-4e5a-8e8e-364a66b2f3de/Getting_20Started_20With_20Data_20Badge.png" /></a></td>
@@ -392,6 +446,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### ISC2
 
@@ -429,6 +485,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/3e84c8f0-8311-4fae-bb69-9864851a33b1">Intel® Granulate™ Application Optimization - Intel</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875">Cloud DevOps - Intel</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More Intel</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/a0c30798-d94c-4239-9a09-f0315bdc076d"><img src="https://images.credly.com/size/500x500/images/02014e24-2f1c-47e7-8398-5e36e3966d54/image.png" /></a></td>
     <td width="20%"></td>
@@ -444,6 +507,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### Lucid Software
 
@@ -462,6 +527,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dfb7afc4-d968-41d7-ab67-0397d9edf1e0">Creative Facilitation - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dc7ffe12-9d21-4fac-b4d2-392922a6e535">Basics in Lucidspark - Lucid Software</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More Lucid Software</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/160bc302-fc0c-42c0-bfa0-a9ccd327fa21"><img src="https://images.credly.com/size/500x500/images/6b4ef123-36a4-4c52-b252-bf61fc94271e/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/beb38da8-bb0e-489e-822f-bc0d15e47180"><img src="https://images.credly.com/size/500x500/images/9e60188b-381a-406f-9c90-dad6aa5c4bc2/blob" /></a></td>
@@ -477,6 +549,8 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ef1ca877-39f8-4f7d-aeb1-d7d5ff8addab">Agile Visualization - Lucid Software</a></td>
   </tr>
 </table>
+
+</details>
 
 ### MongoDB
 
@@ -514,6 +588,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/6fee7ac8-d8f4-4fa7-aab1-a227094a1271">Manage Network Zones - Okta</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/0f8dd0a6-2993-4530-951f-66d90713c107">Implement MFA with Okta - Okta</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More Okta</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/fe05a20f-53a2-46a5-8a61-ca187faddcee"><img src="https://images.credly.com/size/500x500/images/779ae3b3-5914-4225-b5cf-f1573a17abf5/blob" /></a></td>
     <td width="20%"></td>
@@ -529,6 +610,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 ### Project Management Institute
 
@@ -566,6 +649,13 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/8e2dee8e-3e8a-4c7c-9e96-6385a17f103d">Creating Applications and Extensions using SAP Build Code - Record of Achievement - SAP</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/963b6070-ca63-42ae-8a2d-86eff0ee595b">Introducing Cybersecurity - Record of Achievement - SAP</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More SAP</summary>
+
+<table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c"><img src="https://images.credly.com/size/500x500/images/95b96fee-b389-4ba9-840a-1698d18a572f/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/547b2512-d72e-4af7-991d-faf20742d28d"><img src="https://images.credly.com/size/500x500/images/16b4bf0f-8d8b-4e99-8ff9-fdfc0874b606/blob" /></a></td>
@@ -610,6 +700,8 @@
   </tr>
 </table>
 
+</details>
+
 ### SAS
 
 <table width="100%">
@@ -646,16 +738,23 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/6a076822-566f-464a-93d0-848011b87942">LFS158: Introduction to Kubernetes - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/bea07e83-6029-49ea-b8fb-3190d440719d">LFS101: Introduction to Linux - The Linux Foundation</a></td>
   </tr>
+</table>
+
+<br>
+<details>
+  <summary>More The Linux Foundation</summary>
+
+<table width="100%">
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1"><img src="https://images.credly.com/size/500x500/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3"><img src="https://images.credly.com/size/500x500/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1"><img src="https://images.credly.com/size/500x500/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/096960d9-1dee-4d50-847e-f6da239f3741"><img src="https://images.credly.com/size/500x500/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/35373f6c-2872-4e6d-8a29-4ec00d34fe94"><img src="https://images.credly.com/size/500x500/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe"><img src="https://images.credly.com/size/500x500/images/6ab043c6-a7cb-40ec-a4c5-c1ca7640fc19/blob" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1">LFC191: Open Source Licensing Basics for Software Developers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3">LFC101: Inclusive Speaker Orientation - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1">LFC191: Open Source Licensing Basics for Software Developers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/096960d9-1dee-4d50-847e-f6da239f3741">LFC102: Inclusive Open Source Community Orientation - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/35373f6c-2872-4e6d-8a29-4ec00d34fe94">LFD102: A Beginner's Guide to Open Source Software Development - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe">LFQ101: Fundamentals of Quantum Computing - The Linux Foundation</a></td>
@@ -815,6 +914,8 @@
     <td align="center" width="20%"></td>
   </tr>
 </table>
+
+</details>
 
 
 <!--END_SECTION:badges-->
