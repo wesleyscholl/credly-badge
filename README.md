@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (201)
+## Total Badges: (205)
 
 ## List of Issuing Organizations
 
@@ -77,20 +77,43 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/ed0ffcf6-c028-43aa-bd8c-f4b60bfe421c"><img src="https://images.credly.com/size/500x500/images/5b409d94-f9be-4130-bf98-04e939c318dd/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/ba638320-2e5b-475a-ab83-77831a217dda"><img src="https://images.credly.com/size/500x500/images/e1680d7c-391a-4af9-9b49-d1763379251e/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c1fac857-b0e5-41fd-95a2-3d85cc637510"><img src="https://images.credly.com/size/500x500/images/a64b7e11-311c-4888-a0af-93a6eeca7ce9/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/7fb4c35b-7913-4c4f-81dc-a38b92abdadb"><img src="https://images.credly.com/size/500x500/images/cc8123df-6c14-498f-a924-dce128075a26/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8"><img src="https://images.credly.com/size/500x500/images/027fcce8-37be-48e0-9d57-00345f4a47d8/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff"><img src="https://images.credly.com/size/500x500/images/66201e02-bfd7-485d-9398-c21f46188aba/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282"><img src="https://images.credly.com/size/500x500/images/433c88ca-7013-47f0-abc5-efb6d59bb602/image.png" /></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/ed0ffcf6-c028-43aa-bd8c-f4b60bfe421c">Cloud Sales Fundamentals - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ba638320-2e5b-475a-ab83-77831a217dda">Tech Fundamentals - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c1fac857-b0e5-41fd-95a2-3d85cc637510">Cloud Tech Professional Advanced Backup - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7fb4c35b-7913-4c4f-81dc-a38b92abdadb">Tech Associate Cybersecurity - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8">Sales Fundamentals - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff">Tech Associate Backup and Recovery - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282">Tech Associate Endpoint Protection Management - Acronis</a></td>
   </tr>
 </table>
+
+<br>
+<details>
+  <summary>More Acronis</summary>
+
+<table width="100%">
+  <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/ccc84640-24f8-4c5f-b2a6-8312ff2d1f93"><img src="https://images.credly.com/size/500x500/images/bf197475-118e-4564-9f5c-a53f5c836731/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff"><img src="https://images.credly.com/size/500x500/images/66201e02-bfd7-485d-9398-c21f46188aba/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282"><img src="https://images.credly.com/size/500x500/images/433c88ca-7013-47f0-abc5-efb6d59bb602/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0"><img src="https://images.credly.com/size/500x500/images/41ecbe70-9626-4b2e-9e78-a70244b14a17/image.png" /></a></td>
+    <td width="20%"></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/ccc84640-24f8-4c5f-b2a6-8312ff2d1f93">Cloud Tech Professional Advanced Disaster Recovery - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff">Tech Associate Backup and Recovery - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282">Tech Associate Endpoint Protection Management - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0">Sales Associate Endpoint Protection Management - Acronis</a></td>
+    <td align="center" width="20%"></td>
+  </tr>
+</table>
+
+</details>
 
 ### Adobe Education
 
@@ -746,15 +769,15 @@
 
 <table width="100%">
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3"><img src="https://images.credly.com/size/500x500/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1"><img src="https://images.credly.com/size/500x500/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3"><img src="https://images.credly.com/size/500x500/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/096960d9-1dee-4d50-847e-f6da239f3741"><img src="https://images.credly.com/size/500x500/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/35373f6c-2872-4e6d-8a29-4ec00d34fe94"><img src="https://images.credly.com/size/500x500/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe"><img src="https://images.credly.com/size/500x500/images/6ab043c6-a7cb-40ec-a4c5-c1ca7640fc19/blob" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3">LFC101: Inclusive Speaker Orientation - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1">LFC191: Open Source Licensing Basics for Software Developers - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3">LFC101: Inclusive Speaker Orientation - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/096960d9-1dee-4d50-847e-f6da239f3741">LFC102: Inclusive Open Source Community Orientation - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/35373f6c-2872-4e6d-8a29-4ec00d34fe94">LFD102: A Beginner's Guide to Open Source Software Development - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe">LFQ101: Fundamentals of Quantum Computing - The Linux Foundation</a></td>
@@ -816,16 +839,16 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/72591ac5-16d3-4060-891c-838c42cac5a2">LFS157: Introduction to Serverless on Kubernetes - The Linux Foundation</a></td>
   </tr>
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2"><img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397"><img src="https://images.credly.com/size/500x500/images/ff55a3b1-ffef-431d-b486-096bd93de299/blob" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2">CAPA: Certified Argo Project Associate - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397">LFD137: Open Source Contribution in Finance - The Linux Foundation</a></td>
   </tr>
