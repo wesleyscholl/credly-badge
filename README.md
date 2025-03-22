@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (211)
+## Total Badges: (216)
 
 ## List of Issuing Organizations
 
@@ -26,6 +26,7 @@
 | [Lucid Software](#lucid-software) | ✅ |
 | [MongoDB](#mongodb) | ✅ |
 | [Okta](#okta) | ✅ |
+| [Pendo](#pendo) | ✅ |
 | [Project Management Institute](#project-management-institute) | ✅ |
 | [SAP](#sap) | ✅ |
 | [SAS](#sas) | ✅ |
@@ -636,6 +637,25 @@
 
 </details>
 
+### Pendo
+
+<table width="100%">
+  <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/64fb8097-a639-4e5e-aa3f-29a1ab6161df"><img src="https://images.credly.com/size/500x500/images/d7e06f28-2a0b-41b1-9af3-bcd8024e7627/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/1ef688be-41a9-487b-b70a-3d1b7f6cdfd8"><img src="https://images.credly.com/size/500x500/images/43874240-fdb9-45c0-9861-44e3a471774b/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/66bdabd5-5891-4618-ab3a-b2b84446cdf1"><img src="https://images.credly.com/size/500x500/images/b3c64450-6392-48fc-862e-5945102d1043/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/a6c83fdf-6e8f-4ebc-865d-3ad802ed4f86"><img src="https://images.credly.com/size/500x500/images/69bba40b-1704-4ada-b2f2-9d8abed27a23/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/e7b6ca34-abba-472b-b87e-728ec0cfc17e"><img src="https://images.credly.com/size/500x500/images/c22b8e26-21aa-41e1-8aa1-d7574efcda96/blob" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/64fb8097-a639-4e5e-aa3f-29a1ab6161df">AI for Product Management - Pendo</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/1ef688be-41a9-487b-b70a-3d1b7f6cdfd8">Product Management Basics Certification - Pendo</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/66bdabd5-5891-4618-ab3a-b2b84446cdf1">Digital Adoption Certification - Pendo</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/a6c83fdf-6e8f-4ebc-865d-3ad802ed4f86">Radical Product Thinking: Vision Setting - Pendo</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/e7b6ca34-abba-472b-b87e-728ec0cfc17e">Product Discovery Certification - Pendo</a></td>
+  </tr>
+</table>
+
 ### Project Management Institute
 
 <table width="100%">
@@ -839,17 +859,17 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/72591ac5-16d3-4060-891c-838c42cac5a2">LFS157: Introduction to Serverless on Kubernetes - The Linux Foundation</a></td>
   </tr>
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2"><img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397"><img src="https://images.credly.com/size/500x500/images/ff55a3b1-ffef-431d-b486-096bd93de299/blob" /></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2">CAPA: Certified Argo Project Associate - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397">LFD137: Open Source Contribution in Finance - The Linux Foundation</a></td>
   </tr>
   <tr>
@@ -910,15 +930,15 @@
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/7e510992-3891-484a-9c3e-5a41fcd42011"><img src="https://images.credly.com/size/500x500/images/c8c237d0-9abf-4752-840b-4a0801753975/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630"><img src="https://images.credly.com/size/500x500/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723"><img src="https://images.credly.com/size/500x500/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630"><img src="https://images.credly.com/size/500x500/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1a63deeb-7999-4d66-ad3c-da441915bfbc"><img src="https://images.credly.com/size/500x500/images/3e2b162f-ef24-4e08-b663-062b64632cc7/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064"><img src="https://images.credly.com/size/500x500/images/3559f4ef-84b8-42be-8493-ba5ecc519288/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7e510992-3891-484a-9c3e-5a41fcd42011">LFD133: Introduction to WebAssembly - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630">LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723">LFS182: Securing Your Software Supply Chain with Sigstore - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630">LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1a63deeb-7999-4d66-ad3c-da441915bfbc">LFS166: Introduction to Magma - Cloud Native Wireless Networking - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064">LFS178: Getting Started with Self-Sovereign Identity - The Linux Foundation</a></td>
   </tr>
