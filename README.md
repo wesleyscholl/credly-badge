@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (208)
+## Total Badges: (211)
 
 ## List of Issuing Organizations
 
@@ -222,14 +222,14 @@
     <td width="20%"><a href="http://www.credly.com/badges/9b4e48e7-1bb2-487a-a5a3-3871c2c4e528"><img src="https://images.credly.com/size/500x500/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/82eb1feb-46fb-47db-bc72-1a38b21fd990"><img src="https://images.credly.com/size/500x500/images/507d90a0-49c9-4f64-8800-090732b47526/Strategic_Cybersecurity_Management_Badge.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/defd163e-8d92-4b50-b562-1c1a93299fde"><img src="https://images.credly.com/size/500x500/images/de20214a-9510-4822-8505-29d4c9dbb592/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531"><img src="https://images.credly.com/size/500x500/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/1491a934-c652-4261-a861-731d24b0d478"><img src="https://images.credly.com/size/500x500/images/fdd38700-45db-42ab-8cde-b2468fc21163/Mapping_MITRE_ATT_CK_to_CVE_for_Impact.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/a7dfc40e-4027-4734-9eb6-85d8d5936a20">Foundations of Purple Teaming - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/9b4e48e7-1bb2-487a-a5a3-3871c2c4e528">Foundations of Operationalizing MITRE ATT&CK v13 - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/82eb1feb-46fb-47db-bc72-1a38b21fd990">Strategic Cybersecurity Management - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/defd163e-8d92-4b50-b562-1c1a93299fde">Top ATT&CK Techniques - AttackIQ</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531">Foundations of Cyber Threat Intelligence - AttackIQ</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/1491a934-c652-4261-a861-731d24b0d478">Mapping MITRE ATT&CK to CVE for Impact - AttackIQ</a></td>
   </tr>
 </table>
 
@@ -239,18 +239,18 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/3edb0d2b-000e-476d-8b51-e00fccc934eb"><img src="https://images.credly.com/size/500x500/images/7f219af9-af26-49b4-bc52-113e2b669f10/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531"><img src="https://images.credly.com/size/500x500/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/bbc199a6-fad6-4151-9c56-18c5a5f3f765"><img src="https://images.credly.com/size/500x500/images/067014d1-9f43-4c10-acba-8d98d1b29576/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/59b5256d-7c36-4a0a-be7a-b9b2bc49b593"><img src="https://images.credly.com/size/500x500/images/a0232f56-64d0-4253-bc24-5b34c77c6727/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/afe9bccc-32be-4ae1-bfbd-8054d7f99285"><img src="https://images.credly.com/size/500x500/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png" /></a></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/3edb0d2b-000e-476d-8b51-e00fccc934eb">Threat-Informed Architecture - AttackIQ</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531">Foundations of Cyber Threat Intelligence - AttackIQ</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/bbc199a6-fad6-4151-9c56-18c5a5f3f765">Delivering Value with the ATT&CK Sightings Report - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/59b5256d-7c36-4a0a-be7a-b9b2bc49b593">AttackIQ Foundational Blueprints - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/afe9bccc-32be-4ae1-bfbd-8054d7f99285">Agentless Threat Emulation with AttackIQ Flex v2 - AttackIQ</a></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
   </tr>
 </table>
 
@@ -335,7 +335,7 @@
 
 <table width="100%">
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/d1f40e95-73d7-40d4-beed-8ba85a71caf1"><img src="https://images.credly.com/size/500x500/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/d1f40e95-73d7-40d4-beed-8ba85a71caf1"><img src="https://images.credly.com/size/500x500/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/93f96fd6-7c8e-4476-a737-35a51e0041d0"><img src="https://images.credly.com/size/500x500/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e7971c8d-caef-45bf-9d64-8a1d171eda70"><img src="https://images.credly.com/size/500x500/images/2d9ba442-a3ce-4105-9d69-57f478540f70/CompTIA_A_2B.png" /></a></td>
     <td width="20%"></td>
@@ -769,15 +769,15 @@
 
 <table width="100%">
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1"><img src="https://images.credly.com/size/500x500/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3"><img src="https://images.credly.com/size/500x500/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1"><img src="https://images.credly.com/size/500x500/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/096960d9-1dee-4d50-847e-f6da239f3741"><img src="https://images.credly.com/size/500x500/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/35373f6c-2872-4e6d-8a29-4ec00d34fe94"><img src="https://images.credly.com/size/500x500/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe"><img src="https://images.credly.com/size/500x500/images/6ab043c6-a7cb-40ec-a4c5-c1ca7640fc19/blob" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1">LFC191: Open Source Licensing Basics for Software Developers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/09b1c4b3-6486-4a24-bf5e-07efa7e615a3">LFC101: Inclusive Speaker Orientation - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/fcaee7b9-72ef-4ccc-9344-85dc537094c1">LFC191: Open Source Licensing Basics for Software Developers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/096960d9-1dee-4d50-847e-f6da239f3741">LFC102: Inclusive Open Source Community Orientation - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/35373f6c-2872-4e6d-8a29-4ec00d34fe94">LFD102: A Beginner's Guide to Open Source Software Development - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe">LFQ101: Fundamentals of Quantum Computing - The Linux Foundation</a></td>
@@ -841,15 +841,15 @@
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2"><img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397"><img src="https://images.credly.com/size/500x500/images/ff55a3b1-ffef-431d-b486-096bd93de299/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2">CAPA: Certified Argo Project Associate - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397">LFD137: Open Source Contribution in Finance - The Linux Foundation</a></td>
   </tr>
   <tr>
@@ -910,17 +910,17 @@
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/7e510992-3891-484a-9c3e-5a41fcd42011"><img src="https://images.credly.com/size/500x500/images/c8c237d0-9abf-4752-840b-4a0801753975/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723"><img src="https://images.credly.com/size/500x500/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630"><img src="https://images.credly.com/size/500x500/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064"><img src="https://images.credly.com/size/500x500/images/3559f4ef-84b8-42be-8493-ba5ecc519288/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723"><img src="https://images.credly.com/size/500x500/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1a63deeb-7999-4d66-ad3c-da441915bfbc"><img src="https://images.credly.com/size/500x500/images/3e2b162f-ef24-4e08-b663-062b64632cc7/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064"><img src="https://images.credly.com/size/500x500/images/3559f4ef-84b8-42be-8493-ba5ecc519288/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7e510992-3891-484a-9c3e-5a41fcd42011">LFD133: Introduction to WebAssembly - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723">LFS182: Securing Your Software Supply Chain with Sigstore - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630">LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064">LFS178: Getting Started with Self-Sovereign Identity - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723">LFS182: Securing Your Software Supply Chain with Sigstore - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1a63deeb-7999-4d66-ad3c-da441915bfbc">LFS166: Introduction to Magma - Cloud Native Wireless Networking - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064">LFS178: Getting Started with Self-Sovereign Identity - The Linux Foundation</a></td>
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/1928bf67-9fc2-415d-9765-35a99533dfc9"><img src="https://images.credly.com/size/500x500/images/655c6902-8aab-46f5-a847-4ff00628c498/blob" /></a></td>
