@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (255)
+## Total Badges: (256)
 
 ## List of Issuing Organizations
 
@@ -322,14 +322,14 @@
     <td width="20%"><a href="http://www.credly.com/badges/b098d288-599c-47e9-9956-ea7083bca1bf"><img src="https://images.credly.com/size/500x500/images/0f446e9d-9eb9-4bf0-90df-973909ef34b5/Monitor_KPIs_in_Analysis_Dashboards.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/251516bf-14f2-4481-afa0-1619e4b08bd5"><img src="https://images.credly.com/size/500x500/images/4b41ad8d-356c-47eb-b131-ecc9ad14b63c/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/9c363148-8312-40bb-8141-a9625ebc8ca5"><img src="https://images.credly.com/size/500x500/images/26ed6ad1-15f0-490c-ba85-532118aef638/Monitor_KPIs_in_Execution_Apps.png" /></a></td>
-    <td width="20%"></td>
+    <td width="20%"><a href="http://www.credly.com/badges/54c0c20a-ce4b-4896-91e6-06e1f51bc7d0"><img src="https://images.credly.com/size/500x500/images/4fd1f295-5a6f-4270-970a-9e6cc43d643c/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/a6fcee5e-24a0-4c57-afec-5a10cf840c17">Celonis Foundations - Celonis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/b098d288-599c-47e9-9956-ea7083bca1bf">Monitor KPIs in Analysis Dashboards - Celonis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/251516bf-14f2-4481-afa0-1619e4b08bd5">Process Automation Basics - Celonis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/9c363148-8312-40bb-8141-a9625ebc8ca5">Monitor KPIs in Execution Apps - Celonis</a></td>
-    <td align="center" width="20%"></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/54c0c20a-ce4b-4896-91e6-06e1f51bc7d0">Administer Celonis: Security, Permissions - Celonis</a></td>
   </tr>
 </table>
 
@@ -1034,15 +1034,15 @@
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2"><img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397"><img src="https://images.credly.com/size/500x500/images/ff55a3b1-ffef-431d-b486-096bd93de299/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2">CAPA: Certified Argo Project Associate - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397">LFD137: Open Source Contribution in Finance - The Linux Foundation</a></td>
   </tr>
