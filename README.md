@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (250)
+## Total Badges: (251)
 
 ## List of Issuing Organizations
 
@@ -280,15 +280,15 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/cebd166b-44d7-4558-8820-76ead5d43cf3"><img src="https://images.credly.com/size/500x500/images/14eba633-1a0b-4df4-b718-a366e0699a2e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b"><img src="https://images.credly.com/size/500x500/images/81d24d60-38ff-4f0e-a125-6a033cd2afc3/image.png" /></a></td>
-    <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/cebd166b-44d7-4558-8820-76ead5d43cf3">Contextual Targeting Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b">Data - Basis Technologies</a></td>
-    <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
