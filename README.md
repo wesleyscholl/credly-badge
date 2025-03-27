@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (258)
+## Total Badges: (260)
 
 ## List of Issuing Organizations
 
@@ -459,15 +459,15 @@
     <td width="20%"><a href="http://www.credly.com/badges/8966f9f5-45b1-49f8-8fce-31f734382ea3"><img src="https://images.credly.com/size/500x500/images/300ca11b-e1f5-42b5-944e-ef50274cd4fc/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f1686cc8-5d56-4665-9e27-944741af3470"><img src="https://images.credly.com/size/500x500/images/7ae3926e-6ff7-40f4-9621-9d11ceb89d95/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/01eae650-4ace-4683-8c2b-33acf3f49ff4"><img src="https://images.credly.com/size/500x500/images/6cb94318-6f54-4fd0-bade-ccc5eb4e9035/image.png" /></a></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td width="20%"><a href="http://www.credly.com/badges/9a406c3e-89a5-480a-bb48-2f442156e040"><img src="https://images.credly.com/size/500x500/images/04b4da8a-0289-4b61-8c50-cac2f9350932/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c5a928c6-98bf-4b92-8729-f2e70f722999"><img src="https://images.credly.com/size/500x500/images/d677fc24-2db5-4d0b-a206-624bf29f6106/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/8966f9f5-45b1-49f8-8fce-31f734382ea3">ClickHouse Materialized Views - ClickHouse</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f1686cc8-5d56-4665-9e27-944741af3470">Aggregations in ClickHouse Materialized Views - ClickHouse</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/01eae650-4ace-4683-8c2b-33acf3f49ff4">ClickHouse Sharding and Replication - ClickHouse</a></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/9a406c3e-89a5-480a-bb48-2f442156e040">Deleting and Updating Data in ClickHouse - ClickHouse</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c5a928c6-98bf-4b92-8729-f2e70f722999">Joining Data in ClickHouse - ClickHouse</a></td>
   </tr>
 </table>
 
