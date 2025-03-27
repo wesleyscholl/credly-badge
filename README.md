@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (251)
+## Total Badges: (252)
 
 ## List of Issuing Organizations
 
@@ -319,14 +319,14 @@
 <table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/a6fcee5e-24a0-4c57-afec-5a10cf840c17"><img src="https://images.credly.com/size/500x500/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png" /></a></td>
-    <td width="20%"></td>
+    <td width="20%"><a href="http://www.credly.com/badges/b098d288-599c-47e9-9956-ea7083bca1bf"><img src="https://images.credly.com/size/500x500/images/0f446e9d-9eb9-4bf0-90df-973909ef34b5/Monitor_KPIs_in_Analysis_Dashboards.png" /></a></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/a6fcee5e-24a0-4c57-afec-5a10cf840c17">Celonis Foundations - Celonis</a></td>
-    <td align="center" width="20%"></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/b098d288-599c-47e9-9956-ea7083bca1bf">Monitor KPIs in Analysis Dashboards - Celonis</a></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
