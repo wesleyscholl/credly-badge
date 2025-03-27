@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (256)
+## Total Badges: (258)
 
 ## List of Issuing Organizations
 
@@ -280,18 +280,18 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/c98cfbd6-7292-46a5-8b45-2a8451a28b1b"><img src="https://images.credly.com/size/500x500/images/b71a512b-6180-49f0-93ad-09840cfed148/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/63d093bd-83cd-4c90-b924-9da703771602"><img src="https://images.credly.com/size/500x500/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/cebd166b-44d7-4558-8820-76ead5d43cf3"><img src="https://images.credly.com/size/500x500/images/14eba633-1a0b-4df4-b718-a366e0699a2e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b"><img src="https://images.credly.com/size/500x500/images/81d24d60-38ff-4f0e-a125-6a033cd2afc3/image.png" /></a></td>
-    <td width="20%"></td>
-    <td width="20%"></td>
+    <td width="20%"><a href="http://www.credly.com/badges/5c388dac-1fa0-4c95-b5ca-430bf5689ad4"><img src="https://images.credly.com/size/500x500/images/f2a4508e-dd69-4b31-86b6-72dbaacc683c/image.png" /></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c98cfbd6-7292-46a5-8b45-2a8451a28b1b">Programmatic Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/63d093bd-83cd-4c90-b924-9da703771602">Data Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/cebd166b-44d7-4558-8820-76ead5d43cf3">Contextual Targeting Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b">Data - Basis Technologies</a></td>
-    <td align="center" width="20%"></td>
-    <td align="center" width="20%"></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/5c388dac-1fa0-4c95-b5ca-430bf5689ad4">Programmatic Guaranteed (PG) Essentials: Basis User Edition - Basis Technologies</a></td>
   </tr>
 </table>
 
