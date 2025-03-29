@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (267)
+## Total Badges: (272)
 
 ## List of Issuing Organizations
 
@@ -107,39 +107,53 @@
     <td width="20%"><a href="http://www.credly.com/badges/ccc84640-24f8-4c5f-b2a6-8312ff2d1f93"><img src="https://images.credly.com/size/500x500/images/bf197475-118e-4564-9f5c-a53f5c836731/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff"><img src="https://images.credly.com/size/500x500/images/66201e02-bfd7-485d-9398-c21f46188aba/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282"><img src="https://images.credly.com/size/500x500/images/433c88ca-7013-47f0-abc5-efb6d59bb602/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/5a2a8ea5-dfbd-4247-8e45-e3c0d32bc221"><img src="https://images.credly.com/size/500x500/images/281b5921-af59-4242-991b-7f529965da2f/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1807cf5a-7221-41f6-ab63-fb2cc25993b9"><img src="https://images.credly.com/size/500x500/images/e07effb3-12d5-43d9-8533-9a916f1d6577/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0"><img src="https://images.credly.com/size/500x500/images/41ecbe70-9626-4b2e-9e78-a70244b14a17/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ccc84640-24f8-4c5f-b2a6-8312ff2d1f93">Cloud Tech Professional Advanced Disaster Recovery - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff">Tech Associate Backup and Recovery - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282">Tech Associate Endpoint Protection Management - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/5a2a8ea5-dfbd-4247-8e45-e3c0d32bc221">MSP Academy: XDR Basics - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1807cf5a-7221-41f6-ab63-fb2cc25993b9">MSP Academy: Preventing Ransomware - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0">Sales Associate Endpoint Protection Management - Acronis</a></td>
   </tr>
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0"><img src="https://images.credly.com/size/500x500/images/41ecbe70-9626-4b2e-9e78-a70244b14a17/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/be573f37-8d86-4d44-98ae-d9d5aeed8faf"><img src="https://images.credly.com/size/500x500/images/93c8644a-339a-4473-bdfd-214f55d18b27/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/fbd94ce0-c4dc-47d0-8e1e-d27810449f46"><img src="https://images.credly.com/size/500x500/images/5096b26c-5970-451c-b3cc-18a911e5b51d/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/0512bf60-2154-4eed-a8ef-044f719068da"><img src="https://images.credly.com/size/500x500/images/9545e822-ada1-4dc3-9446-85cf0b4184f9/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/2fed5a26-2f7e-46c8-b806-e7e63d8c5320"><img src="https://images.credly.com/size/500x500/images/0662a048-544b-4028-ba29-5c93a4ec1054/image.png" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0">Sales Associate Endpoint Protection Management - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/be573f37-8d86-4d44-98ae-d9d5aeed8faf">MSP Academy: MDR Basics - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/fbd94ce0-c4dc-47d0-8e1e-d27810449f46">MSP Academy: Cyber Scripting - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/0512bf60-2154-4eed-a8ef-044f719068da">MSP Academy: Disaster Recovery - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/2fed5a26-2f7e-46c8-b806-e7e63d8c5320">MSP Academy: Microsoft 365 - Acronis</a></td>
+  </tr>
+  <tr>
     <td width="20%"><a href="http://www.credly.com/badges/2ee3e184-1db1-41da-a630-bb1190c3c165"><img src="https://images.credly.com/size/500x500/images/bccf3e4c-d6e7-45ba-beb7-8947df54518b/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/61fb7bf8-442c-44ed-a88d-5a6a33909941"><img src="https://images.credly.com/size/500x500/images/e5acc9b5-fd37-4bd1-a00f-515c590ab3fb/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f0f9626c-1592-46ad-9a10-60c52718fca6"><img src="https://images.credly.com/size/500x500/images/ecfb8092-568f-444d-89f0-c8ae13b95c26/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/0d68c24c-a0c7-4edd-8bc0-2f2701541294"><img src="https://images.credly.com/size/500x500/images/12b61cd7-ac0c-4f81-9e40-61dbae685041/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193"><img src="https://images.credly.com/size/500x500/images/56c00490-6c15-4f50-89d5-103d2250370e/image.png" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/fbd94ce0-c4dc-47d0-8e1e-d27810449f46">MSP Academy: Cyber Scripting - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/0512bf60-2154-4eed-a8ef-044f719068da">MSP Academy: Disaster Recovery - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2ee3e184-1db1-41da-a630-bb1190c3c165">Cloud Sales Professional Security Awareness Training - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/61fb7bf8-442c-44ed-a88d-5a6a33909941">MSP Academy: Troubleshooting - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f0f9626c-1592-46ad-9a10-60c52718fca6">MSP Academy: Vulnerability Assessment and Patch Management - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/0d68c24c-a0c7-4edd-8bc0-2f2701541294">MSP Academy: Event-in-a-Box for MSP - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193">MSP Academy: Automation - Acronis</a></td>
   </tr>
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193"><img src="https://images.credly.com/size/500x500/images/56c00490-6c15-4f50-89d5-103d2250370e/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/b3eb9e3a-9486-49c3-97f4-769c3cdfe2fe"><img src="https://images.credly.com/size/500x500/images/07d91527-264e-4271-844a-4c541e9a758f/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/2fc52225-a3ec-4b5d-8877-8d94c657ca86"><img src="https://images.credly.com/size/500x500/images/dab34e85-0e64-4394-95bc-5894d7224834/image.png" /></a></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193">MSP Academy: Automation - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/b3eb9e3a-9486-49c3-97f4-769c3cdfe2fe">MSP Academy: What is Backup? - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2fc52225-a3ec-4b5d-8877-8d94c657ca86">MSP Academy: File Sync and Share - Acronis</a></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
@@ -487,15 +501,15 @@
     <td width="20%"><a href="http://www.credly.com/badges/8966f9f5-45b1-49f8-8fce-31f734382ea3"><img src="https://images.credly.com/size/500x500/images/300ca11b-e1f5-42b5-944e-ef50274cd4fc/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f1686cc8-5d56-4665-9e27-944741af3470"><img src="https://images.credly.com/size/500x500/images/7ae3926e-6ff7-40f4-9621-9d11ceb89d95/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/01eae650-4ace-4683-8c2b-33acf3f49ff4"><img src="https://images.credly.com/size/500x500/images/6cb94318-6f54-4fd0-bade-ccc5eb4e9035/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/c5a928c6-98bf-4b92-8729-f2e70f722999"><img src="https://images.credly.com/size/500x500/images/d677fc24-2db5-4d0b-a206-624bf29f6106/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/9a406c3e-89a5-480a-bb48-2f442156e040"><img src="https://images.credly.com/size/500x500/images/04b4da8a-0289-4b61-8c50-cac2f9350932/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c5a928c6-98bf-4b92-8729-f2e70f722999"><img src="https://images.credly.com/size/500x500/images/d677fc24-2db5-4d0b-a206-624bf29f6106/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/8966f9f5-45b1-49f8-8fce-31f734382ea3">ClickHouse Materialized Views - ClickHouse</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f1686cc8-5d56-4665-9e27-944741af3470">Aggregations in ClickHouse Materialized Views - ClickHouse</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/01eae650-4ace-4683-8c2b-33acf3f49ff4">ClickHouse Sharding and Replication - ClickHouse</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/c5a928c6-98bf-4b92-8729-f2e70f722999">Joining Data in ClickHouse - ClickHouse</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/9a406c3e-89a5-480a-bb48-2f442156e040">Deleting and Updating Data in ClickHouse - ClickHouse</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c5a928c6-98bf-4b92-8729-f2e70f722999">Joining Data in ClickHouse - ClickHouse</a></td>
   </tr>
 </table>
 
@@ -1132,15 +1146,15 @@
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/7e510992-3891-484a-9c3e-5a41fcd42011"><img src="https://images.credly.com/size/500x500/images/c8c237d0-9abf-4752-840b-4a0801753975/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723"><img src="https://images.credly.com/size/500x500/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630"><img src="https://images.credly.com/size/500x500/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723"><img src="https://images.credly.com/size/500x500/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064"><img src="https://images.credly.com/size/500x500/images/3559f4ef-84b8-42be-8493-ba5ecc519288/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1a63deeb-7999-4d66-ad3c-da441915bfbc"><img src="https://images.credly.com/size/500x500/images/3e2b162f-ef24-4e08-b663-062b64632cc7/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7e510992-3891-484a-9c3e-5a41fcd42011">LFD133: Introduction to WebAssembly - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723">LFS182: Securing Your Software Supply Chain with Sigstore - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7d88b35c-a6bd-468a-a5a3-5f49cead1630">LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/8c21a380-abbe-4f20-877b-06ddd6e81723">LFS182: Securing Your Software Supply Chain with Sigstore - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/cd1cbaee-cb7f-4e62-b0fe-df7be6afd064">LFS178: Getting Started with Self-Sovereign Identity - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1a63deeb-7999-4d66-ad3c-da441915bfbc">LFS166: Introduction to Magma - Cloud Native Wireless Networking - The Linux Foundation</a></td>
   </tr>
