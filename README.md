@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (281)
+## Total Badges: (287)
 
 ## List of Issuing Organizations
 
@@ -86,15 +86,15 @@
     <td width="20%"><a href="http://www.credly.com/badges/ed0ffcf6-c028-43aa-bd8c-f4b60bfe421c"><img src="https://images.credly.com/size/500x500/images/5b409d94-f9be-4130-bf98-04e939c318dd/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/ba638320-2e5b-475a-ab83-77831a217dda"><img src="https://images.credly.com/size/500x500/images/e1680d7c-391a-4af9-9b49-d1763379251e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c1fac857-b0e5-41fd-95a2-3d85cc637510"><img src="https://images.credly.com/size/500x500/images/a64b7e11-311c-4888-a0af-93a6eeca7ce9/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/b5669a92-caa2-4508-b5f7-3f3c8ff283b0"><img src="https://images.credly.com/size/500x500/images/35899e91-1fdf-4cce-a7ed-fa27b7ee72bf/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/7fb4c35b-7913-4c4f-81dc-a38b92abdadb"><img src="https://images.credly.com/size/500x500/images/cc8123df-6c14-498f-a924-dce128075a26/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8"><img src="https://images.credly.com/size/500x500/images/027fcce8-37be-48e0-9d57-00345f4a47d8/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ed0ffcf6-c028-43aa-bd8c-f4b60bfe421c">Cloud Sales Fundamentals - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ba638320-2e5b-475a-ab83-77831a217dda">Tech Fundamentals - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c1fac857-b0e5-41fd-95a2-3d85cc637510">Cloud Tech Professional Advanced Backup - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/b5669a92-caa2-4508-b5f7-3f3c8ff283b0">Cloud Sales Professional XDR - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/7fb4c35b-7913-4c4f-81dc-a38b92abdadb">Tech Associate Cybersecurity - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8">Sales Fundamentals - Acronis</a></td>
   </tr>
 </table>
 
@@ -104,59 +104,73 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8"><img src="https://images.credly.com/size/500x500/images/027fcce8-37be-48e0-9d57-00345f4a47d8/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/ccc84640-24f8-4c5f-b2a6-8312ff2d1f93"><img src="https://images.credly.com/size/500x500/images/bf197475-118e-4564-9f5c-a53f5c836731/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff"><img src="https://images.credly.com/size/500x500/images/66201e02-bfd7-485d-9398-c21f46188aba/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282"><img src="https://images.credly.com/size/500x500/images/433c88ca-7013-47f0-abc5-efb6d59bb602/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/5a2a8ea5-dfbd-4247-8e45-e3c0d32bc221"><img src="https://images.credly.com/size/500x500/images/281b5921-af59-4242-991b-7f529965da2f/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/1807cf5a-7221-41f6-ab63-fb2cc25993b9"><img src="https://images.credly.com/size/500x500/images/e07effb3-12d5-43d9-8533-9a916f1d6577/image.png" /></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c214d990-5006-417a-ace6-254a0ce765d8">Sales Fundamentals - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/ccc84640-24f8-4c5f-b2a6-8312ff2d1f93">Cloud Tech Professional Advanced Disaster Recovery - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/48e734f5-cd0d-4b87-8915-71cebd4148ff">Tech Associate Backup and Recovery - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2f5c6870-4807-48f1-aef6-bf94ea550282">Tech Associate Endpoint Protection Management - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/5a2a8ea5-dfbd-4247-8e45-e3c0d32bc221">MSP Academy: XDR Basics - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/1807cf5a-7221-41f6-ab63-fb2cc25993b9">MSP Academy: Preventing Ransomware - Acronis</a></td>
   </tr>
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/4c227fed-3e39-4176-8cbb-749bbbab509d"><img src="https://images.credly.com/size/500x500/images/64fb3f79-1061-401c-a17e-30913f6470eb/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/1807cf5a-7221-41f6-ab63-fb2cc25993b9"><img src="https://images.credly.com/size/500x500/images/e07effb3-12d5-43d9-8533-9a916f1d6577/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/fa2c3fbb-0ddd-498a-86d0-b72131bf3061"><img src="https://images.credly.com/size/500x500/images/6fcc4950-73c1-47c1-aacd-610c95c3e3c2/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0"><img src="https://images.credly.com/size/500x500/images/41ecbe70-9626-4b2e-9e78-a70244b14a17/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/be573f37-8d86-4d44-98ae-d9d5aeed8faf"><img src="https://images.credly.com/size/500x500/images/93c8644a-339a-4473-bdfd-214f55d18b27/image.png" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/4c227fed-3e39-4176-8cbb-749bbbab509d">MSP Academy: Starting an MSP - Breaking Free from the Break-Fix Model - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/1807cf5a-7221-41f6-ab63-fb2cc25993b9">MSP Academy: Preventing Ransomware - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/fa2c3fbb-0ddd-498a-86d0-b72131bf3061">MSP Academy: What is EDR? - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0">Sales Associate Endpoint Protection Management - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/be573f37-8d86-4d44-98ae-d9d5aeed8faf">MSP Academy: MDR Basics - Acronis</a></td>
+  </tr>
+  <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/f7445e79-b525-42a8-b5a1-40a6177904e0"><img src="https://images.credly.com/size/500x500/images/84a7531f-1c1f-4c07-9bb4-417fd53efce2/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/fbd94ce0-c4dc-47d0-8e1e-d27810449f46"><img src="https://images.credly.com/size/500x500/images/5096b26c-5970-451c-b3cc-18a911e5b51d/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1a202a2d-d513-4113-9601-48441b44e509"><img src="https://images.credly.com/size/500x500/images/df548059-8baa-47bc-91bb-4c555e85fbd4/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/0512bf60-2154-4eed-a8ef-044f719068da"><img src="https://images.credly.com/size/500x500/images/9545e822-ada1-4dc3-9446-85cf0b4184f9/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/eb3ac457-171f-4cc4-85c3-404bfdff9469"><img src="https://images.credly.com/size/500x500/images/14f7adac-a15a-4375-b62d-092e542f3ce6/image.png" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/6496de03-96bd-40e7-9857-0763939329d0">Sales Associate Endpoint Protection Management - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/be573f37-8d86-4d44-98ae-d9d5aeed8faf">MSP Academy: MDR Basics - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/f7445e79-b525-42a8-b5a1-40a6177904e0">MSP Academy: Running an MSP Business - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/fbd94ce0-c4dc-47d0-8e1e-d27810449f46">MSP Academy: Cyber Scripting - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1a202a2d-d513-4113-9601-48441b44e509">MSP Academy: Marketing Your MSP - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/0512bf60-2154-4eed-a8ef-044f719068da">MSP Academy: Disaster Recovery - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/eb3ac457-171f-4cc4-85c3-404bfdff9469">MSP Academy: Maximizing Your Business Efficiency - Acronis</a></td>
   </tr>
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/eb3ac457-171f-4cc4-85c3-404bfdff9469"><img src="https://images.credly.com/size/500x500/images/14f7adac-a15a-4375-b62d-092e542f3ce6/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/2ee3e184-1db1-41da-a630-bb1190c3c165"><img src="https://images.credly.com/size/500x500/images/bccf3e4c-d6e7-45ba-beb7-8947df54518b/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/2fed5a26-2f7e-46c8-b806-e7e63d8c5320"><img src="https://images.credly.com/size/500x500/images/0662a048-544b-4028-ba29-5c93a4ec1054/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e4d2520a-d40e-4bf7-ad71-8a6ef1590faf"><img src="https://images.credly.com/size/500x500/images/8a6a185c-7437-43a9-8ddc-fc9825f40651/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/61fb7bf8-442c-44ed-a88d-5a6a33909941"><img src="https://images.credly.com/size/500x500/images/e5acc9b5-fd37-4bd1-a00f-515c590ab3fb/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/f0f9626c-1592-46ad-9a10-60c52718fca6"><img src="https://images.credly.com/size/500x500/images/ecfb8092-568f-444d-89f0-c8ae13b95c26/image.png" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/eb3ac457-171f-4cc4-85c3-404bfdff9469">MSP Academy: Maximizing Your Business Efficiency - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2ee3e184-1db1-41da-a630-bb1190c3c165">Cloud Sales Professional Security Awareness Training - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/2fed5a26-2f7e-46c8-b806-e7e63d8c5320">MSP Academy: Microsoft 365 - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e4d2520a-d40e-4bf7-ad71-8a6ef1590faf">MSP Academy: Increasing MSPs efficiency through AI - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/61fb7bf8-442c-44ed-a88d-5a6a33909941">MSP Academy: Troubleshooting - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/f0f9626c-1592-46ad-9a10-60c52718fca6">MSP Academy: Vulnerability Assessment and Patch Management - Acronis</a></td>
   </tr>
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/f0f9626c-1592-46ad-9a10-60c52718fca6"><img src="https://images.credly.com/size/500x500/images/ecfb8092-568f-444d-89f0-c8ae13b95c26/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/0d68c24c-a0c7-4edd-8bc0-2f2701541294"><img src="https://images.credly.com/size/500x500/images/12b61cd7-ac0c-4f81-9e40-61dbae685041/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193"><img src="https://images.credly.com/size/500x500/images/56c00490-6c15-4f50-89d5-103d2250370e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/b3eb9e3a-9486-49c3-97f4-769c3cdfe2fe"><img src="https://images.credly.com/size/500x500/images/07d91527-264e-4271-844a-4c541e9a758f/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c6cb7db2-49da-45ee-8ff1-b2dc42e57be6"><img src="https://images.credly.com/size/500x500/images/6469ffc1-e503-41e3-bac2-539248e38f2f/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/a5fc317c-7419-41a1-8a72-e6589999f53c"><img src="https://images.credly.com/size/500x500/images/7f1493b7-5ae3-4eec-9e0d-9a31b856a308/image.png" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/f0f9626c-1592-46ad-9a10-60c52718fca6">MSP Academy: Vulnerability Assessment and Patch Management - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/0d68c24c-a0c7-4edd-8bc0-2f2701541294">MSP Academy: Event-in-a-Box for MSP - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193">MSP Academy: Automation - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/b3eb9e3a-9486-49c3-97f4-769c3cdfe2fe">MSP Academy: What is Backup? - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c6cb7db2-49da-45ee-8ff1-b2dc42e57be6">MSP Academy: What is DLP? - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/a5fc317c-7419-41a1-8a72-e6589999f53c">MSP Academy: Work Relationships - Acronis</a></td>
   </tr>
   <tr>
@@ -174,15 +188,15 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1e581265-37e2-4e1b-978f-8e99b9513a96">MSP Academy: Active Listening - Acronis</a></td>
   </tr>
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/f72e4854-e6ee-4d59-8fbc-14236c34ecbd"><img src="https://images.credly.com/size/500x500/images/f42f7062-c648-450f-a22f-1ee35388e595/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/5ac06333-b487-426c-a3d1-ec982159cc55"><img src="https://images.credly.com/size/500x500/images/b5596da4-7d66-4482-9266-1d81f3fc9259/image.png" /></a></td>
-    <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/f72e4854-e6ee-4d59-8fbc-14236c34ecbd">MSP Academy: Navigating the landscape - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/5ac06333-b487-426c-a3d1-ec982159cc55">MSP Academy: Difficult Partners - Acronis</a></td>
-    <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
