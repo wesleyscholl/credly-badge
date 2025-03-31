@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (292)
+## Total Badges: (296)
 
 ## List of Issuing Organizations
 
@@ -22,6 +22,7 @@
 | [ClickHouse](#clickhouse) | ✅ |
 | [CompTIA](#comptia) | ✅ |
 | [Data Protocol](#data-protocol) | ✅ |
+| [Dremio](#dremio) | ✅ |
 | [Google Cloud](#google-cloud) | ✅ |
 | [IBM](#ibm) | ✅ |
 | [IBM SkillsBuild](#ibm-skillsbuild) | ✅ |
@@ -632,6 +633,25 @@
 
 </details>
 
+### Dremio
+
+<table width="100%">
+  <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/068d8473-b083-40f4-9b85-869250a14250"><img src="https://images.credly.com/size/500x500/images/12243391-8d11-4265-93b3-c82d8479f681/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/4ed3061d-7483-45e5-b395-bac62a267a0d"><img src="https://images.credly.com/size/500x500/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/fb9cc289-4b4b-414d-9860-37130b9c5665"><img src="https://images.credly.com/size/500x500/images/392f43ef-c47d-4c35-9824-6ae2564540e6/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/6f7bede8-eec4-4451-9a5b-fd68f0049b31"><img src="https://images.credly.com/size/500x500/images/5a340951-5fb9-485d-915e-0243062dece9/blob" /></a></td>
+    <td width="20%"></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/068d8473-b083-40f4-9b85-869250a14250">Dremio Verified Lakehouse Associate - Dremio</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/4ed3061d-7483-45e5-b395-bac62a267a0d">Dremio Verified Data Analyst - Dremio</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/fb9cc289-4b4b-414d-9860-37130b9c5665">Dremio Verified Reflections Specialist - Dremio</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/6f7bede8-eec4-4451-9a5b-fd68f0049b31">Dremio Verified Data Product Developer - Dremio</a></td>
+    <td align="center" width="20%"></td>
+  </tr>
+</table>
+
 ### Google Cloud
 
 <table width="100%">
@@ -1131,15 +1151,15 @@
     <td align="center" width="20%"><a href="http://www.credly.com/badges/72591ac5-16d3-4060-891c-838c42cac5a2">LFS157: Introduction to Serverless on Kubernetes - The Linux Foundation</a></td>
   </tr>
   <tr>
-    <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2"><img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c"><img src="https://images.credly.com/size/500x500/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397"><img src="https://images.credly.com/size/500x500/images/ff55a3b1-ffef-431d-b486-096bd93de299/blob" /></a></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/e40da063-f44a-451f-b1cf-9fb581b0f7f2">CAPA: Certified Argo Project Associate - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dd65cde5-f6ca-466b-9be1-c6da12803b3c">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f38cca62-ac97-4a04-b160-3aa65614a397">LFD137: Open Source Contribution in Finance - The Linux Foundation</a></td>
