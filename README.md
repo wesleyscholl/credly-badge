@@ -1,7 +1,7 @@
 # credly-badge
 
 <!--START_SECTION:badges-->
-## Total Badges: (315)
+## Total Badges: (319)
 
 ## List of Issuing Organizations
 
@@ -192,15 +192,15 @@
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193"><img src="https://images.credly.com/size/500x500/images/56c00490-6c15-4f50-89d5-103d2250370e/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/c6cb7db2-49da-45ee-8ff1-b2dc42e57be6"><img src="https://images.credly.com/size/500x500/images/6469ffc1-e503-41e3-bac2-539248e38f2f/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/b3eb9e3a-9486-49c3-97f4-769c3cdfe2fe"><img src="https://images.credly.com/size/500x500/images/07d91527-264e-4271-844a-4c541e9a758f/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c6cb7db2-49da-45ee-8ff1-b2dc42e57be6"><img src="https://images.credly.com/size/500x500/images/6469ffc1-e503-41e3-bac2-539248e38f2f/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/a5fc317c-7419-41a1-8a72-e6589999f53c"><img src="https://images.credly.com/size/500x500/images/7f1493b7-5ae3-4eec-9e0d-9a31b856a308/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1225f596-01e5-4947-ba5c-e1761fac0c43"><img src="https://images.credly.com/size/500x500/images/9a5d7450-9830-452e-8017-41e46bda168a/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/539c5596-3863-488a-bb8f-f801593f1193">MSP Academy: Automation - Acronis</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/c6cb7db2-49da-45ee-8ff1-b2dc42e57be6">MSP Academy: What is DLP? - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/b3eb9e3a-9486-49c3-97f4-769c3cdfe2fe">MSP Academy: What is Backup? - Acronis</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c6cb7db2-49da-45ee-8ff1-b2dc42e57be6">MSP Academy: What is DLP? - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/a5fc317c-7419-41a1-8a72-e6589999f53c">MSP Academy: Work Relationships - Acronis</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1225f596-01e5-4947-ba5c-e1761fac0c43">MSP Academy: Negotiation Skills - Acronis</a></td>
   </tr>
@@ -398,15 +398,15 @@
     <td width="20%"><a href="http://www.credly.com/badges/f8ada107-1bd7-4b02-b243-ce4467924929"><img src="https://images.credly.com/size/500x500/images/97393638-0d19-4191-990c-5be914725b40/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c98cfbd6-7292-46a5-8b45-2a8451a28b1b"><img src="https://images.credly.com/size/500x500/images/b71a512b-6180-49f0-93ad-09840cfed148/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/63d093bd-83cd-4c90-b924-9da703771602"><img src="https://images.credly.com/size/500x500/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/beeca3a7-ef4c-4c04-a39d-52952250bb5d"><img src="https://images.credly.com/size/500x500/images/59cbab42-8614-4474-acfe-b63d366a9ddb/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/cebd166b-44d7-4558-8820-76ead5d43cf3"><img src="https://images.credly.com/size/500x500/images/14eba633-1a0b-4df4-b718-a366e0699a2e/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/ddf99d3c-59d5-4679-8760-192f99aa05b9"><img src="https://images.credly.com/size/500x500/images/332e11d2-94ed-4de8-ae96-b42f43b24f2d/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f8ada107-1bd7-4b02-b243-ce4467924929">Digital Media Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c98cfbd6-7292-46a5-8b45-2a8451a28b1b">Programmatic Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/63d093bd-83cd-4c90-b924-9da703771602">Data Essentials - Basis Technologies</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/beeca3a7-ef4c-4c04-a39d-52952250bb5d">Direct Buying Essentials - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/cebd166b-44d7-4558-8820-76ead5d43cf3">Contextual Targeting Essentials - Basis Technologies</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/ddf99d3c-59d5-4679-8760-192f99aa05b9">Private Marketplace Essentials - Basis Technologies</a></td>
   </tr>
 </table>
 
@@ -416,15 +416,29 @@
 
 <table width="100%">
   <tr>
+    <td width="20%"><a href="http://www.credly.com/badges/389432f0-d660-4bc4-8b78-fe1082eaff26"><img src="https://images.credly.com/size/500x500/images/7d616a84-6512-4206-bd9d-8720bc31d59b/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/ddf99d3c-59d5-4679-8760-192f99aa05b9"><img src="https://images.credly.com/size/500x500/images/332e11d2-94ed-4de8-ae96-b42f43b24f2d/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/0b598252-cb02-4701-a582-69b85f6e81a3"><img src="https://images.credly.com/size/500x500/images/b8a41a79-a790-4042-a8c9-3c9e67164cef/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/cf4bc46d-056a-437c-bdbe-d4df2516de9f"><img src="https://images.credly.com/size/500x500/images/c0427c00-9ba1-4b37-b6af-d34f7f2fd52b/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b"><img src="https://images.credly.com/size/500x500/images/81d24d60-38ff-4f0e-a125-6a033cd2afc3/image.png" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/389432f0-d660-4bc4-8b78-fe1082eaff26">Marketing Funnel Essentials - Basis Technologies</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/ddf99d3c-59d5-4679-8760-192f99aa05b9">Private Marketplace Essentials - Basis Technologies</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/0b598252-cb02-4701-a582-69b85f6e81a3">Digital Media Associate - Basis Technologies</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/cf4bc46d-056a-437c-bdbe-d4df2516de9f">Digital Media Strategist - Basis Technologies</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b">Data - Basis Technologies</a></td>
+  </tr>
+  <tr>
     <td width="20%"><a href="http://www.credly.com/badges/5c388dac-1fa0-4c95-b5ca-430bf5689ad4"><img src="https://images.credly.com/size/500x500/images/f2a4508e-dd69-4b31-86b6-72dbaacc683c/image.png" /></a></td>
+    <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/c3ef4c72-815b-44d2-99d6-d94e60c5803b">Data - Basis Technologies</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/5c388dac-1fa0-4c95-b5ca-430bf5689ad4">Programmatic Guaranteed (PG) Essentials: Basis User Edition - Basis Technologies</a></td>
+    <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
     <td align="center" width="20%"></td>
