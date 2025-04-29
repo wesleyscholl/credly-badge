@@ -5,44 +5,44 @@
 
 ## List of Issuing Organizations
 
-| Issuing Organization | Verified | Organization Badges |
-|-----------------------|----------|--------------|
-| [APIsec University](#apisec-university-10) | ✅ | 10 |
-| [Acronis](#acronis-48) | ✅ | 48 |
-| [Adobe Education](#adobe-education-7) | ✅ | 7 |
-| [Alteryx](#alteryx-1) | ✅ | 1 |
-| [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5) | ✅ | 5 |
-| [Appcues](#appcues-6) | ✅ | 6 |
-| [AttackIQ](#attackiq-14) | ✅ | 14 |
-| [Basis Technologies](#basis-technologies-23) | ✅ | 23 |
-| [Broadcom](#broadcom-3) | ✅ | 3 |
-| [Celonis](#celonis-5) | ✅ | 5 |
-| [Certiprof](#certiprof-11) | ✅ | 11 |
-| [Cisco](#cisco-6) | ✅ | 6 |
-| [ClickHouse](#clickhouse-10) | ✅ | 10 |
-| [CompTIA](#comptia-3) | ✅ | 3 |
-| [Data Protocol](#data-protocol-10) | ✅ | 10 |
-| [Dremio](#dremio-4) | ✅ | 4 |
-| [Extreme Networks](#extreme-networks-9) | ✅ | 9 |
-| [Google Cloud](#google-cloud-7) | ✅ | 7 |
-| [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | ✅ | 1 |
-| [IBM](#ibm-5) | ✅ | 5 |
-| [IBM SkillsBuild](#ibm-skillsbuild-10) | ✅ | 10 |
-| [ISC2](#isc2-1) | ✅ | 1 |
-| [Ikigai Labs](#ikigai-labs-4) | ✅ | 4 |
-| [Intel](#intel-17) | ✅ | 17 |
-| [Kong](#kong-2) | ✅ | 2 |
-| [Lucid Software](#lucid-software-10) | ✅ | 10 |
-| [MongoDB](#mongodb-6) | ✅ | 6 |
-| [NASA Open Science](#nasa-open-science-1) | ✅ | 1 |
-| [Okta](#okta-14) | ✅ | 14 |
-| [Pendo](#pendo-6) | ✅ | 6 |
-| [Project Management Institute](#project-management-institute-4) | ✅ | 4 |
-| [SAP](#sap-19) | ✅ | 19 |
-| [SAS](#sas-5) | ✅ | 5 |
-| [The Linux Foundation](#the-linux-foundation-62) | ✅ | 62 |
-| [ZEDEDA](#zededa-2) | ✅ | 2 |
-| [Zendesk](#zendesk-5) | ✅ | 5 |
+| Issuing Organization | Description | Credly Badges | Verified |
+|-----------------------|----------------|----------------|----------|
+| [APIsec University](#apisec-university-10) | ... | 10 | ✅ |
+| [Acronis](#acronis-48) | ... | 48 | ✅ |
+| [Adobe Education](#adobe-education-7) | ... | 7 | ✅ |
+| [Alteryx](#alteryx-1) | ... | 1 | ✅ |
+| [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5) | ... | 5 | ✅ |
+| [Appcues](#appcues-6) | ... | 6 | ✅ |
+| [AttackIQ](#attackiq-14) | ... | 14 | ✅ |
+| [Basis Technologies](#basis-technologies-23) | ... | 23 | ✅ |
+| [Broadcom](#broadcom-3) | ... | 3 | ✅ |
+| [Celonis](#celonis-5) | ... | 5 | ✅ |
+| [Certiprof](#certiprof-11) | ... | 11 | ✅ |
+| [Cisco](#cisco-6) | ... | 6 | ✅ |
+| [ClickHouse](#clickhouse-10) | ... | 10 | ✅ |
+| [CompTIA](#comptia-3) | ... | 3 | ✅ |
+| [Data Protocol](#data-protocol-10) | ... | 10 | ✅ |
+| [Dremio](#dremio-4) | ... | 4 | ✅ |
+| [Extreme Networks](#extreme-networks-9) | ... | 9 | ✅ |
+| [Google Cloud](#google-cloud-7) | ... | 7 | ✅ |
+| [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | ... | 1 | ✅ |
+| [IBM](#ibm-5) | ... | 5 | ✅ |
+| [IBM SkillsBuild](#ibm-skillsbuild-10) | ... | 10 | ✅ |
+| [ISC2](#isc2-1) | ... | 1 | ✅ |
+| [Ikigai Labs](#ikigai-labs-4) | ... | 4 | ✅ |
+| [Intel](#intel-17) | ... | 17 | ✅ |
+| [Kong](#kong-2) | ... | 2 | ✅ |
+| [Lucid Software](#lucid-software-10) | ... | 10 | ✅ |
+| [MongoDB](#mongodb-6) | ... | 6 | ✅ |
+| [NASA Open Science](#nasa-open-science-1) | ... | 1 | ✅ |
+| [Okta](#okta-14) | ... | 14 | ✅ |
+| [Pendo](#pendo-6) | ... | 6 | ✅ |
+| [Project Management Institute](#project-management-institute-4) | ... | 4 | ✅ |
+| [SAP](#sap-19) | ... | 19 | ✅ |
+| [SAS](#sas-5) | ... | 5 | ✅ |
+| [The Linux Foundation](#the-linux-foundation-62) | ... | 62 | ✅ |
+| [ZEDEDA](#zededa-2) | ... | 2 | ✅ |
+| [Zendesk](#zendesk-5) | ... | 5 | ✅ |
 
 ### APIsec University (10)
 
