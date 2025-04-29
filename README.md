@@ -5,46 +5,46 @@
 
 ## List of Issuing Organizations
 
-| Issuing Organization | Verified |
-|-----------------------|----------|
-| [APIsec University](#apisec-university) | ✅ |
-| [Acronis](#acronis) | ✅ |
-| [Adobe Education](#adobe-education) | ✅ |
-| [Alteryx](#alteryx) | ✅ |
-| [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification) | ✅ |
-| [Appcues](#appcues) | ✅ |
-| [AttackIQ](#attackiq) | ✅ |
-| [Basis Technologies](#basis-technologies) | ✅ |
-| [Broadcom](#broadcom) | ✅ |
-| [Celonis](#celonis) | ✅ |
-| [Certiprof](#certiprof) | ✅ |
-| [Cisco](#cisco) | ✅ |
-| [ClickHouse](#clickhouse) | ✅ |
-| [CompTIA](#comptia) | ✅ |
-| [Data Protocol](#data-protocol) | ✅ |
-| [Dremio](#dremio) | ✅ |
-| [Extreme Networks](#extreme-networks) | ✅ |
-| [Google Cloud](#google-cloud) | ✅ |
-| [Hewlett Packard Enterprise](#hewlett-packard-enterprise) | ✅ |
-| [IBM](#ibm) | ✅ |
-| [IBM SkillsBuild](#ibm-skillsbuild) | ✅ |
-| [ISC2](#isc2) | ✅ |
-| [Ikigai Labs](#ikigai-labs) | ✅ |
-| [Intel](#intel) | ✅ |
-| [Kong](#kong) | ✅ |
-| [Lucid Software](#lucid-software) | ✅ |
-| [MongoDB](#mongodb) | ✅ |
-| [NASA Open Science](#nasa-open-science) | ✅ |
-| [Okta](#okta) | ✅ |
-| [Pendo](#pendo) | ✅ |
-| [Project Management Institute](#project-management-institute) | ✅ |
-| [SAP](#sap) | ✅ |
-| [SAS](#sas) | ✅ |
-| [The Linux Foundation](#the-linux-foundation) | ✅ |
-| [ZEDEDA](#zededa) | ✅ |
-| [Zendesk](#zendesk) | ✅ |
+| Issuing Organization | Verified | Total Badges |
+|-----------------------|----------|--------------|
+| [APIsec University](#apisec-university) | ✅ | | 10 |
+| [Acronis](#acronis) | ✅ | | 48 |
+| [Adobe Education](#adobe-education) | ✅ | | 7 |
+| [Alteryx](#alteryx) | ✅ | | 1 |
+| [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification) | ✅ | | 5 |
+| [Appcues](#appcues) | ✅ | | 6 |
+| [AttackIQ](#attackiq) | ✅ | | 14 |
+| [Basis Technologies](#basis-technologies) | ✅ | | 23 |
+| [Broadcom](#broadcom) | ✅ | | 3 |
+| [Celonis](#celonis) | ✅ | | 5 |
+| [Certiprof](#certiprof) | ✅ | | 11 |
+| [Cisco](#cisco) | ✅ | | 6 |
+| [ClickHouse](#clickhouse) | ✅ | | 10 |
+| [CompTIA](#comptia) | ✅ | | 3 |
+| [Data Protocol](#data-protocol) | ✅ | | 10 |
+| [Dremio](#dremio) | ✅ | | 4 |
+| [Extreme Networks](#extreme-networks) | ✅ | | 9 |
+| [Google Cloud](#google-cloud) | ✅ | | 7 |
+| [Hewlett Packard Enterprise](#hewlett-packard-enterprise) | ✅ | | 1 |
+| [IBM](#ibm) | ✅ | | 5 |
+| [IBM SkillsBuild](#ibm-skillsbuild) | ✅ | | 10 |
+| [ISC2](#isc2) | ✅ | | 1 |
+| [Ikigai Labs](#ikigai-labs) | ✅ | | 4 |
+| [Intel](#intel) | ✅ | | 17 |
+| [Kong](#kong) | ✅ | | 2 |
+| [Lucid Software](#lucid-software) | ✅ | | 10 |
+| [MongoDB](#mongodb) | ✅ | | 6 |
+| [NASA Open Science](#nasa-open-science) | ✅ | | 1 |
+| [Okta](#okta) | ✅ | | 14 |
+| [Pendo](#pendo) | ✅ | | 6 |
+| [Project Management Institute](#project-management-institute) | ✅ | | 4 |
+| [SAP](#sap) | ✅ | | 19 |
+| [SAS](#sas) | ✅ | | 5 |
+| [The Linux Foundation](#the-linux-foundation) | ✅ | | 62 |
+| [ZEDEDA](#zededa) | ✅ | | 2 |
+| [Zendesk](#zendesk) | ✅ | | 5 |
 
-### APIsec University
+### APIsec University (10)
 
 <table width="100%">
   <tr>
@@ -65,7 +65,7 @@
 
 <br>
 <details>
-  <summary>More APIsec University</summary>
+  <summary>More APIsec University (5)</summary>
 
 <table width="100%">
   <tr>
@@ -86,7 +86,7 @@
 
 </details>
 
-### Acronis
+### Acronis (48)
 
 <table width="100%">
   <tr>
@@ -107,7 +107,7 @@
 
 <br>
 <details>
-  <summary>More Acronis</summary>
+  <summary>More Acronis (43)</summary>
 
 <table width="100%">
   <tr>
@@ -240,7 +240,7 @@
 
 </details>
 
-### Adobe Education
+### Adobe Education (7)
 
 <table width="100%">
   <tr>
@@ -261,7 +261,7 @@
 
 <br>
 <details>
-  <summary>More Adobe Education</summary>
+  <summary>More Adobe Education (2)</summary>
 
 <table width="100%">
   <tr>
@@ -282,7 +282,7 @@
 
 </details>
 
-### Alteryx
+### Alteryx (1)
 
 <table width="100%">
   <tr>
@@ -301,7 +301,7 @@
   </tr>
 </table>
 
-### Amazon Web Services Training and Certification
+### Amazon Web Services Training and Certification (5)
 
 <table width="100%">
   <tr>
@@ -320,7 +320,7 @@
   </tr>
 </table>
 
-### Appcues
+### Appcues (6)
 
 <table width="100%">
   <tr>
@@ -341,7 +341,7 @@
 
 <br>
 <details>
-  <summary>More Appcues</summary>
+  <summary>More Appcues (1)</summary>
 
 <table width="100%">
   <tr>
@@ -362,7 +362,7 @@
 
 </details>
 
-### AttackIQ
+### AttackIQ (14)
 
 <table width="100%">
   <tr>
@@ -383,22 +383,22 @@
 
 <br>
 <details>
-  <summary>More AttackIQ</summary>
+  <summary>More AttackIQ (9)</summary>
 
 <table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/9fae25d9-70d7-49a4-b870-9550d2e2e6a6"><img src="https://images.credly.com/size/500x500/images/0518a655-5bfa-4882-8107-29711d31a837/Extending_ATT_CK_with_ATT_CK_Workbench.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/1491a934-c652-4261-a861-731d24b0d478"><img src="https://images.credly.com/size/500x500/images/fdd38700-45db-42ab-8cde-b2468fc21163/Mapping_MITRE_ATT_CK_to_CVE_for_Impact.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/b1be9755-9185-4635-9b1a-5ff36560c977"><img src="https://images.credly.com/size/500x500/images/3f24fe64-7535-4bb6-a82c-d0c5605c0896/MITRE_ATT_CK_Security_Stack_Mappings-_AWS__1_.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/3edb0d2b-000e-476d-8b51-e00fccc934eb"><img src="https://images.credly.com/size/500x500/images/7f219af9-af26-49b4-bc52-113e2b669f10/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531"><img src="https://images.credly.com/size/500x500/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/3edb0d2b-000e-476d-8b51-e00fccc934eb"><img src="https://images.credly.com/size/500x500/images/7f219af9-af26-49b4-bc52-113e2b669f10/image.png" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/9fae25d9-70d7-49a4-b870-9550d2e2e6a6">Extending ATT&CK with ATT&CK Workbench - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/1491a934-c652-4261-a861-731d24b0d478">Mapping MITRE ATT&CK to CVE for Impact - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/b1be9755-9185-4635-9b1a-5ff36560c977">MITRE ATT&CK Security Stack Mappings: AWS - AttackIQ</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/3edb0d2b-000e-476d-8b51-e00fccc934eb">Threat-Informed Architecture - AttackIQ</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/bce3d1b5-60cd-4eb3-962f-846969d75531">Foundations of Cyber Threat Intelligence - AttackIQ</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/3edb0d2b-000e-476d-8b51-e00fccc934eb">Threat-Informed Architecture - AttackIQ</a></td>
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/ead918b1-8420-4c9c-80b1-6d79b7217250"><img src="https://images.credly.com/size/500x500/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png" /></a></td>
@@ -418,7 +418,7 @@
 
 </details>
 
-### Basis Technologies
+### Basis Technologies (23)
 
 <table width="100%">
   <tr>
@@ -439,7 +439,7 @@
 
 <br>
 <details>
-  <summary>More Basis Technologies</summary>
+  <summary>More Basis Technologies (18)</summary>
 
 <table width="100%">
   <tr>
@@ -502,7 +502,7 @@
 
 </details>
 
-### Broadcom
+### Broadcom (3)
 
 <table width="100%">
   <tr>
@@ -521,7 +521,7 @@
   </tr>
 </table>
 
-### Celonis
+### Celonis (5)
 
 <table width="100%">
   <tr>
@@ -540,7 +540,7 @@
   </tr>
 </table>
 
-### Certiprof
+### Certiprof (11)
 
 <table width="100%">
   <tr>
@@ -561,7 +561,7 @@
 
 <br>
 <details>
-  <summary>More Certiprof</summary>
+  <summary>More Certiprof (6)</summary>
 
 <table width="100%">
   <tr>
@@ -596,7 +596,7 @@
 
 </details>
 
-### Cisco
+### Cisco (6)
 
 <table width="100%">
   <tr>
@@ -617,7 +617,7 @@
 
 <br>
 <details>
-  <summary>More Cisco</summary>
+  <summary>More Cisco (1)</summary>
 
 <table width="100%">
   <tr>
@@ -638,7 +638,7 @@
 
 </details>
 
-### ClickHouse
+### ClickHouse (10)
 
 <table width="100%">
   <tr>
@@ -659,7 +659,7 @@
 
 <br>
 <details>
-  <summary>More ClickHouse</summary>
+  <summary>More ClickHouse (5)</summary>
 
 <table width="100%">
   <tr>
@@ -680,7 +680,7 @@
 
 </details>
 
-### CompTIA
+### CompTIA (3)
 
 <table width="100%">
   <tr>
@@ -699,7 +699,7 @@
   </tr>
 </table>
 
-### Data Protocol
+### Data Protocol (10)
 
 <table width="100%">
   <tr>
@@ -720,7 +720,7 @@
 
 <br>
 <details>
-  <summary>More Data Protocol</summary>
+  <summary>More Data Protocol (5)</summary>
 
 <table width="100%">
   <tr>
@@ -741,7 +741,7 @@
 
 </details>
 
-### Dremio
+### Dremio (4)
 
 <table width="100%">
   <tr>
@@ -760,7 +760,7 @@
   </tr>
 </table>
 
-### Extreme Networks
+### Extreme Networks (9)
 
 <table width="100%">
   <tr>
@@ -781,7 +781,7 @@
 
 <br>
 <details>
-  <summary>More Extreme Networks</summary>
+  <summary>More Extreme Networks (4)</summary>
 
 <table width="100%">
   <tr>
@@ -802,7 +802,7 @@
 
 </details>
 
-### Google Cloud
+### Google Cloud (7)
 
 <table width="100%">
   <tr>
@@ -823,7 +823,7 @@
 
 <br>
 <details>
-  <summary>More Google Cloud</summary>
+  <summary>More Google Cloud (2)</summary>
 
 <table width="100%">
   <tr>
@@ -844,7 +844,7 @@
 
 </details>
 
-### Hewlett Packard Enterprise
+### Hewlett Packard Enterprise (1)
 
 <table width="100%">
   <tr>
@@ -863,7 +863,7 @@
   </tr>
 </table>
 
-### IBM
+### IBM (5)
 
 <table width="100%">
   <tr>
@@ -882,7 +882,7 @@
   </tr>
 </table>
 
-### IBM SkillsBuild
+### IBM SkillsBuild (10)
 
 <table width="100%">
   <tr>
@@ -903,7 +903,7 @@
 
 <br>
 <details>
-  <summary>More IBM SkillsBuild</summary>
+  <summary>More IBM SkillsBuild (5)</summary>
 
 <table width="100%">
   <tr>
@@ -924,7 +924,7 @@
 
 </details>
 
-### ISC2
+### ISC2 (1)
 
 <table width="100%">
   <tr>
@@ -943,7 +943,7 @@
   </tr>
 </table>
 
-### Ikigai Labs
+### Ikigai Labs (4)
 
 <table width="100%">
   <tr>
@@ -962,7 +962,7 @@
   </tr>
 </table>
 
-### Intel
+### Intel (17)
 
 <table width="100%">
   <tr>
@@ -983,7 +983,7 @@
 
 <br>
 <details>
-  <summary>More Intel</summary>
+  <summary>More Intel (12)</summary>
 
 <table width="100%">
   <tr>
@@ -1032,7 +1032,7 @@
 
 </details>
 
-### Kong
+### Kong (2)
 
 <table width="100%">
   <tr>
@@ -1051,20 +1051,20 @@
   </tr>
 </table>
 
-### Lucid Software
+### Lucid Software (10)
 
 <table width="100%">
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/28c3e99d-6107-49c4-bf69-eda700fe283b"><img src="https://images.credly.com/size/500x500/images/3c79dd6e-730e-4e17-9856-af2b3d94ba9d/image.png" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f"><img src="https://images.credly.com/size/500x500/images/2267cda6-7f79-4b9a-b016-6d9ed4f3c745/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/76e78444-d75d-4ef7-9c37-038d5689b2bb"><img src="https://images.credly.com/size/500x500/images/ef93706d-8255-4e2c-b739-a651e496ac51/image.png" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f"><img src="https://images.credly.com/size/500x500/images/2267cda6-7f79-4b9a-b016-6d9ed4f3c745/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dfb7afc4-d968-41d7-ab67-0397d9edf1e0"><img src="https://images.credly.com/size/500x500/images/08a6ac52-a6b2-4e7a-8d74-d6e208c9633e/image.png" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dc7ffe12-9d21-4fac-b4d2-392922a6e535"><img src="https://images.credly.com/size/500x500/images/5df9ce6d-ab63-44f0-b351-d78ef0165abd/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/28c3e99d-6107-49c4-bf69-eda700fe283b">Diagramming Foundations - Lucid Software</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f">Verified Lucid Admin - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/76e78444-d75d-4ef7-9c37-038d5689b2bb">Intelligent Diagramming - Lucid Software</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/a4a8d8c3-55b0-4a2d-8170-b49e9e2c442f">Verified Lucid Admin - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dfb7afc4-d968-41d7-ab67-0397d9edf1e0">Creative Facilitation - Lucid Software</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dc7ffe12-9d21-4fac-b4d2-392922a6e535">Basics in Lucidspark - Lucid Software</a></td>
   </tr>
@@ -1072,7 +1072,7 @@
 
 <br>
 <details>
-  <summary>More Lucid Software</summary>
+  <summary>More Lucid Software (5)</summary>
 
 <table width="100%">
   <tr>
@@ -1093,7 +1093,7 @@
 
 </details>
 
-### MongoDB
+### MongoDB (6)
 
 <table width="100%">
   <tr>
@@ -1114,7 +1114,7 @@
 
 <br>
 <details>
-  <summary>More MongoDB</summary>
+  <summary>More MongoDB (1)</summary>
 
 <table width="100%">
   <tr>
@@ -1135,7 +1135,7 @@
 
 </details>
 
-### NASA Open Science
+### NASA Open Science (1)
 
 <table width="100%">
   <tr>
@@ -1154,7 +1154,7 @@
   </tr>
 </table>
 
-### Okta
+### Okta (14)
 
 <table width="100%">
   <tr>
@@ -1175,7 +1175,7 @@
 
 <br>
 <details>
-  <summary>More Okta</summary>
+  <summary>More Okta (9)</summary>
 
 <table width="100%">
   <tr>
@@ -1210,7 +1210,7 @@
 
 </details>
 
-### Pendo
+### Pendo (6)
 
 <table width="100%">
   <tr>
@@ -1231,7 +1231,7 @@
 
 <br>
 <details>
-  <summary>More Pendo</summary>
+  <summary>More Pendo (1)</summary>
 
 <table width="100%">
   <tr>
@@ -1252,7 +1252,7 @@
 
 </details>
 
-### Project Management Institute
+### Project Management Institute (4)
 
 <table width="100%">
   <tr>
@@ -1271,7 +1271,7 @@
   </tr>
 </table>
 
-### SAP
+### SAP (19)
 
 <table width="100%">
   <tr>
@@ -1292,7 +1292,7 @@
 
 <br>
 <details>
-  <summary>More SAP</summary>
+  <summary>More SAP (14)</summary>
 
 <table width="100%">
   <tr>
@@ -1341,7 +1341,7 @@
 
 </details>
 
-### SAS
+### SAS (5)
 
 <table width="100%">
   <tr>
@@ -1360,7 +1360,7 @@
   </tr>
 </table>
 
-### The Linux Foundation
+### The Linux Foundation (62)
 
 <table width="100%">
   <tr>
@@ -1381,7 +1381,7 @@
 
 <br>
 <details>
-  <summary>More The Linux Foundation</summary>
+  <summary>More The Linux Foundation (57)</summary>
 
 <table width="100%">
   <tr>
@@ -1458,15 +1458,15 @@
     <td width="20%"><a href="http://www.credly.com/badges/c8cc89b1-0861-4f52-b675-a5ba11eecaf2"><img src="https://images.credly.com/size/500x500/images/ec7dd913-1a42-4986-b627-08121eec53e3/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3"><img src="https://images.credly.com/size/500x500/images/9ede332e-3868-44d6-8e09-e93f70a8f9cd/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d"><img src="https://images.credly.com/size/500x500/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" /></a></td>
-    <td width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b"><img src="https://images.credly.com/size/500x500/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" /></a></td>
     <td width="20%"><a href="http://www.credly.com/badges/f55e6c6e-a36b-45a3-b68d-f2b9f76fbfd2"><img src="https://images.credly.com/size/500x500/images/ec31c32f-3594-40ec-951b-75720d07efbf/blob" /></a></td>
+    <td width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b"><img src="https://images.credly.com/size/500x500/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" /></a></td>
   </tr>
   <tr>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/c8cc89b1-0861-4f52-b675-a5ba11eecaf2">LFC103: Inclusive Strategies for Open Source - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f17def52-4e1c-4c66-9281-7b36976398c3">LFS146: Introduction to Cilium - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/dac58059-4ef5-4762-9d24-96ab8883110d">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a></td>
-    <td align="center" width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b">LFS180: Introduction to DevSecOps for Managers - The Linux Foundation</a></td>
     <td align="center" width="20%"><a href="http://www.credly.com/badges/f55e6c6e-a36b-45a3-b68d-f2b9f76fbfd2">LFS112: Ethics in AI and Data Science - The Linux Foundation</a></td>
+    <td align="center" width="20%"><a href="http://www.credly.com/badges/c9a8ec9c-57f4-4680-bc38-ebe03eb1dc6b">LFS180: Introduction to DevSecOps for Managers - The Linux Foundation</a></td>
   </tr>
   <tr>
     <td width="20%"><a href="http://www.credly.com/badges/e6614a95-2223-4ff4-8f62-e634e0afe0ee"><img src="https://images.credly.com/size/500x500/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob" /></a></td>
@@ -1556,7 +1556,7 @@
 
 </details>
 
-### ZEDEDA
+### ZEDEDA (2)
 
 <table width="100%">
   <tr>
@@ -1575,7 +1575,7 @@
   </tr>
 </table>
 
-### Zendesk
+### Zendesk (5)
 
 <table width="100%">
   <tr>
