@@ -17,18 +17,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          apt update
-          apt install -y chromium-browser chromium-chromedriver
-          ln -s /usr/bin/chromium-browser /usr/bin/google-chrome || true
-          ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver || true
-          
           pip install -r requirements.txt
-          
-        env:
-          CHROME_BIN: /usr/bin/chromium-browser
-          PATH: /usr/lib/chromium-browser:$PATH
           
       - name: Badges - Readme
         uses: wesleyscholl/credly-badges@main
