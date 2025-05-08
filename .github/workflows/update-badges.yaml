@@ -17,6 +17,7 @@ jobs:
             CREDLY_USER: wesley-scholl.cc1a230f # optional, but default will use the same from github
             CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
             CREDLY_API_TOKEN: ${{ secrets.API_TOKEN }} # Credly API token required for API authorization 
+            CREDLY_BASE_URL: ${{ secrets.BASE_URL }} # Credly Base API URL
             BADGE_SIZE: 500 # optional, 110x110 default
             NUMBER_LAST_BADGES: 0 # optional, will show the 48 in the first page
             
