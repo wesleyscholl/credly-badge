@@ -25,7 +25,7 @@
 | [Dremio](#dremio-4) | Dremio is a data lakehouse platform that simplifies and accelerates analytics directly on cloud data lakes. | 4 | ✅ |
 | [Extreme Networks](#extreme-networks-9) | Extreme Networks provides cloud-driven networking solutions and services for enterprise-level connectivity. | 9 | ✅ |
 | [Google Cloud](#google-cloud-8) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 8 | ✅ |
-| [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | ... | 1 | ✅ |
+| [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | Hewlett Packard Enterprise specializes in enterprise IT solutions including servers, storage, and cloud services. | 1 | ✅ |
 | [IBM](#ibm-5) | IBM is a multinational technology company offering AI, cloud computing, and enterprise software solutions. | 5 | ✅ |
 | [IBM SkillsBuild](#ibm-skillsbuild-10) | IBM SkillsBuild is an IBM initiative offering free digital learning and career-readiness programs for job seekers. | 10 | ✅ |
 | [ISC2](#isc2-1) | ISC2 is a nonprofit organization offering cybersecurity certifications, including the well-known CISSP. | 1 | ✅ |
@@ -37,8 +37,8 @@
 | [NASA Open Science](#nasa-open-science-1) | NASA Open Science is a program by NASA promoting open access to scientific data, tools, and research collaboration. | 1 | ✅ |
 | [Okta](#okta-14) | Okta is a leading identity and access management platform providing secure authentication for users and applications. | 14 | ✅ |
 | [Pendo](#pendo-6) | Pendo is a product experience platform that helps software teams improve user onboarding, feedback, and retention. | 6 | ✅ |
-| [ProcessMaker](#processmaker-27) | ... | 27 | ✅ |
-| [Project Management Institute](#project-management-institute-4) | ... | 4 | ✅ |
+| [ProcessMaker](#processmaker-27) | ProcessMaker is a leading business process management (BPM) and workflow automation platform that enables organizations to design, automate, and optimize business workflows. | 27 | ✅ |
+| [Project Management Institute](#project-management-institute-4) | PMI is a global organization offering standards and certifications in project management, including the PMP. | 4 | ✅ |
 | [SAP](#sap-19) | SAP is a global enterprise software leader in ERP, data analytics, and digital transformation solutions. | 19 | ✅ |
 | [SAS](#sas-5) | SAS specializes in advanced analytics, AI, and business intelligence software and services. | 5 | ✅ |
 | [The Linux Foundation](#the-linux-foundation-62) | The Linux Foundation is a nonprofit that supports open-source innovation and provides training in Linux and emerging technologies. | 62 | ✅ |
