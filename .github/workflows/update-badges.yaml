@@ -6,6 +6,20 @@ jobs:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          sudo apt update
+          sudo apt install -y chromium-browser
+          
       - name: Badges - Readme
         uses: wesleyscholl/credly-badges@main
         with:
