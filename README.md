@@ -7,43 +7,43 @@
 
 | Issuing Organization | Description | Credly Badges | Verified |
 |-----------------------|----------------|----------------|----------|
-| [APIsec University](#apisec-university-10) | ... | 10 | ✅ |
-| [Acronis](#acronis-48) | ... | 48 | ✅ |
-| [Adobe Education](#adobe-education-7) | ... | 7 | ✅ |
-| [Alteryx](#alteryx-1) | ... | 1 | ✅ |
-| [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5) | ... | 5 | ✅ |
-| [Appcues](#appcues-6) | ... | 6 | ✅ |
-| [AttackIQ](#attackiq-14) | ... | 14 | ✅ |
-| [Basis Technologies](#basis-technologies-25) | ... | 25 | ✅ |
-| [Broadcom](#broadcom-3) | ... | 3 | ✅ |
-| [Celonis](#celonis-5) | ... | 5 | ✅ |
-| [Certiprof](#certiprof-11) | ... | 11 | ✅ |
-| [Cisco](#cisco-6) | ... | 6 | ✅ |
-| [ClickHouse](#clickhouse-20) | ... | 20 | ✅ |
-| [CompTIA](#comptia-3) | ... | 3 | ✅ |
-| [Data Protocol](#data-protocol-10) | ... | 10 | ✅ |
-| [Dremio](#dremio-4) | ... | 4 | ✅ |
-| [Extreme Networks](#extreme-networks-9) | ... | 9 | ✅ |
-| [Google Cloud](#google-cloud-8) | ... | 8 | ✅ |
+| [APIsec University](#apisec-university-10) | APIsec University is a learning platform focused on API security, offering certifications to strengthen secure development practices. | 10 | ✅ |
+| [Acronis](#acronis-48) | Acronis is a global leader in cyber protection, specializing in data backup, recovery, and secure file access. | 48 | ✅ |
+| [Adobe Education](#adobe-education-7) | Adobe's educational initiative that provides creative tools and resources for students and educators. | 7 | ✅ |
+| [Alteryx](#alteryx-1) | Alteryx is a data analytics company known for its user-friendly platform that enables data blending and advanced analytics. | 1 | ✅ |
+| [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5) | AWS's official training body offering cloud computing certifications and skill development. | 5 | ✅ |
+| [Appcues](#appcues-6) | Appcues is a platform that helps product teams build personalized user onboarding and in-app experiences without code. | 6 | ✅ |
+| [AttackIQ](#attackiq-14) | AttackIQ is a cybersecurity company that provides breach and attack simulation tools to test and improve defenses. | 14 | ✅ |
+| [Basis Technologies](#basis-technologies-25) | Basis Technologies specializes in DevOps and automation tools for SAP systems to accelerate digital transformation. | 25 | ✅ |
+| [Broadcom](#broadcom-3) | Broadcom is a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions. | 3 | ✅ |
+| [Celonis](#celonis-5) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 5 | ✅ |
+| [Certiprof](#certiprof-11) | Certiprof is a certification provider offering globally recognized credentials in project management, IT, and business agility. | 11 | ✅ |
+| [Cisco](#cisco-6) | Cisco is a multinational technology conglomerate known for networking hardware, cybersecurity, and IT certifications. | 6 | ✅ |
+| [ClickHouse](#clickhouse-20) | ClickHouse is an open-source columnar database management system optimized for real-time analytical queries. | 20 | ✅ |
+| [CompTIA](#comptia-3) | CompTIA is a nonprofit trade association providing vendor-neutral IT certifications and professional development. | 3 | ✅ |
+| [Data Protocol](#data-protocol-10) | Data Protocol is an educational platform offering bite-sized technical training for developers in modern data tools. | 10 | ✅ |
+| [Dremio](#dremio-4) | Dremio is a data lakehouse platform that simplifies and accelerates analytics directly on cloud data lakes. | 4 | ✅ |
+| [Extreme Networks](#extreme-networks-9) | Extreme Networks provides cloud-driven networking solutions and services for enterprise-level connectivity. | 9 | ✅ |
+| [Google Cloud](#google-cloud-8) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 8 | ✅ |
 | [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | ... | 1 | ✅ |
-| [IBM](#ibm-5) | ... | 5 | ✅ |
-| [IBM SkillsBuild](#ibm-skillsbuild-10) | ... | 10 | ✅ |
-| [ISC2](#isc2-1) | ... | 1 | ✅ |
-| [Ikigai Labs](#ikigai-labs-4) | ... | 4 | ✅ |
-| [Intel](#intel-17) | ... | 17 | ✅ |
-| [Kong](#kong-2) | ... | 2 | ✅ |
-| [Lucid Software](#lucid-software-10) | ... | 10 | ✅ |
-| [MongoDB](#mongodb-6) | ... | 6 | ✅ |
-| [NASA Open Science](#nasa-open-science-1) | ... | 1 | ✅ |
-| [Okta](#okta-14) | ... | 14 | ✅ |
-| [Pendo](#pendo-6) | ... | 6 | ✅ |
+| [IBM](#ibm-5) | IBM is a multinational technology company offering AI, cloud computing, and enterprise software solutions. | 5 | ✅ |
+| [IBM SkillsBuild](#ibm-skillsbuild-10) | IBM SkillsBuild is an IBM initiative offering free digital learning and career-readiness programs for job seekers. | 10 | ✅ |
+| [ISC2](#isc2-1) | ISC2 is a nonprofit organization offering cybersecurity certifications, including the well-known CISSP. | 1 | ✅ |
+| [Ikigai Labs](#ikigai-labs-4) | Ikigai Labs provides AI/ML platforms that enable easy building and deployment of predictive analytics workflows. | 4 | ✅ |
+| [Intel](#intel-17) | Intel is a leading semiconductor manufacturer known for CPUs, data center solutions, and AI hardware innovation. | 17 | ✅ |
+| [Kong](#kong-2) | Kong is an open-source API management and microservices platform for modern distributed architectures. | 2 | ✅ |
+| [Lucid Software](#lucid-software-10) | Lucid Software offers collaborative diagramming and whiteboarding tools like Lucidchart and Lucidspark. | 10 | ✅ |
+| [MongoDB](#mongodb-6) | MongoDB is the creator of the popular NoSQL database known for flexibility and scalability in modern application development. | 6 | ✅ |
+| [NASA Open Science](#nasa-open-science-1) | NASA Open Science is a program by NASA promoting open access to scientific data, tools, and research collaboration. | 1 | ✅ |
+| [Okta](#okta-14) | Okta is a leading identity and access management platform providing secure authentication for users and applications. | 14 | ✅ |
+| [Pendo](#pendo-6) | Pendo is a product experience platform that helps software teams improve user onboarding, feedback, and retention. | 6 | ✅ |
 | [ProcessMaker](#processmaker-27) | ... | 27 | ✅ |
 | [Project Management Institute](#project-management-institute-4) | ... | 4 | ✅ |
-| [SAP](#sap-19) | ... | 19 | ✅ |
-| [SAS](#sas-5) | ... | 5 | ✅ |
-| [The Linux Foundation](#the-linux-foundation-62) | ... | 62 | ✅ |
-| [ZEDEDA](#zededa-3) | ... | 3 | ✅ |
-| [Zendesk](#zendesk-9) | ... | 9 | ✅ |
+| [SAP](#sap-19) | SAP is a global enterprise software leader in ERP, data analytics, and digital transformation solutions. | 19 | ✅ |
+| [SAS](#sas-5) | SAS specializes in advanced analytics, AI, and business intelligence software and services. | 5 | ✅ |
+| [The Linux Foundation](#the-linux-foundation-62) | The Linux Foundation is a nonprofit that supports open-source innovation and provides training in Linux and emerging technologies. | 62 | ✅ |
+| [ZEDEDA](#zededa-3) | ZEDEDA offers edge computing orchestration solutions for deploying and managing applications at the network edge. | 3 | ✅ |
+| [Zendesk](#zendesk-9) | Zendesk is a customer service and engagement platform that helps businesses manage support and improve customer satisfaction. | 9 | ✅ |
 
 ### APIsec University (10)
 
