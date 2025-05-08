@@ -19,10 +19,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt update
-          sudo apt install -y chromium-browser chromium-chromedriver
-          sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome || true
-          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver || true
+          apt update
+          apt install -y chromium-browser chromium-chromedriver
+          ln -s /usr/bin/chromium-browser /usr/bin/google-chrome || true
+          ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver || true
           
           pip install -r requirements.txt
           
