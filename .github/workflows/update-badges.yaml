@@ -1,14 +1,17 @@
 name: Update badges
+
 on:
-    workflow_dispatch
+  workflow_dispatch
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-        
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -16,9 +19,16 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
           sudo apt update
-          sudo apt install -y chromium-browser
+          sudo apt install -y chromium-browser chromium-chromedriver
+          sudo ln -s /usr/bin/chromium-browser /usr/bin/google-chrome || true
+          sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/bin/chromedriver || true
+          
+          pip install -r requirements.txt
+          
+        env:
+          CHROME_BIN: /usr/bin/chromium-browser
+          PATH: /usr/lib/chromium-browser:$PATH
           
       - name: Badges - Readme
         uses: wesleyscholl/credly-badges@main
