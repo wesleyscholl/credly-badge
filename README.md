@@ -2177,14 +2177,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="15%">Earning Criteria</th>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence"><img src="http://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Getting Started with Artificial Intelligence - IBM SkillsBuild</a></td>
+    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence"><img src="https://images.credly.com/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Getting Started with Artificial Intelligence - IBM SkillsBuild</a></td>
     <td width="35%">This credential earner demonstrates a foundational understanding of Artificial Intelligence concepts and processes, including common applications of AI, and generative AI. The individual has worked with generative AI tools to refine and create prompts.</td>
     <td align="center" width="15%">Hours</td>
     <td width="15%">AI Applications, Artificial Intelligence, Data Structures, Generative AI, Machine Learning, Prompt Tuning, PWID-B0924900, Reinforcement Learning, Supervised Learning, Unsupervised Learning</td>
     <td width="15%">Complete Getting Started with Artificial Intelligence, a prescribed set of courses, designed by IBM., Complete all the assessments with a score of 80% or higher., This badge is only available to registered users who are working directly with organizations as part of the IBM SkillsBuild program.</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action"><img src="http://www.credly.com/badges/857864af-eead-46d0-9805-8d825642aa6d" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Generative AI in Action - IBM SkillsBuild</a></td>
+    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action"><img src="https://images.credly.com/images/8d1fe454-ecd2-40c1-b79f-b97ad326f8ea/Generative_20AI_20in_20action.png" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Generative AI in Action - IBM SkillsBuild</a></td>
     <td width="35%">This credential earner has applied technical knowledge of principles of generative AI, prompt engineering techniques, and Python libraries. The individual has demonstrated general knowledge of the methods, applications, and ethical considerations of using GenAI models. The earner has practiced essential workplace skills and explored generative AI career pathways.</td>
     <td align="center" width="15%">Days</td>
     <td width="15%">AI Ethics, Artificial Intelligence, Decoders, Encoders, Foundation Models, Generative AI, Prompt Engineering, PWID-B0916100, Scripting, Sentiment Analysis, Tokenization, Transformers</td>
@@ -2198,14 +2198,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     <td width="15%">Complete the self-paced online course Journey to Cloud: Envisioning Your Solution., Pass the final course assessment.</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-cybersecurity"><img src="http://www.credly.com/badges/ce8f9f38-c187-40f5-aa9c-db72b3c29698" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-cybersecurity">Getting Started with Cybersecurity - IBM SkillsBuild</a></td>
+    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-cybersecurity"><img src="https://images.credly.com/images/0462da0b-41f3-4542-b312-b2fc69869129/Getting_20Started_20With_20CybersecurityBadge.png" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-cybersecurity">Getting Started with Cybersecurity - IBM SkillsBuild</a></td>
     <td width="35%">This credential earner demonstrates a foundational understanding of cybersecurity key elements and the threats it addresses, including concepts of data privacy, and how to evaluate data security using the CIA triad model. The earner is aware of the job outlook in cybersecurity and is familiar with the skills required for success in various roles. The individual understands how a cybersecurity tool works.</td>
     <td align="center" width="15%">Hours</td>
     <td width="15%">Breaches, CIA Triad, Cybersecurity, Data Privacy, Data Security, Malware Protection, PWID-B0927900, Threats</td>
     <td width="15%">Complete Getting Started with Cybersecurity, a prescribed set of courses, designed by IBM., Complete the end-of-course assessments with a score of 80% or higher., This badge is only available to registered users who are working directly with organizations as part of the IBM SkillsBuild program.</td>
   </tr>
   <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-data"><img src="http://www.credly.com/badges/bcd2b361-ce6d-4bb7-9fc4-4bba25cc6a7f" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-data">Getting Started with Data - IBM SkillsBuild</a></td>
+    <td align="center" width="20%"><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-data"><img src="https://images.credly.com/images/9a6e098a-618a-4e5a-8e8e-364a66b2f3de/Getting_20Started_20With_20Data_20Badge.png" /></a><br><a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-data">Getting Started with Data - IBM SkillsBuild</a></td>
     <td width="35%">This credential earner demonstrates a foundational understanding of data concepts, such as types of data, big data, the data analytics process, data visualization, and the data science landscape. The individual has worked with data analytics tool to import, analyze and visualize data.</td>
     <td align="center" width="15%">Hours</td>
     <td width="15%">Big Data, Data, Data Analysis, Data Analytics, Data Science, Data Visualization, PWID-B0927800, Tableau</td>
