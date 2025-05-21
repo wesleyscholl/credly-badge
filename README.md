@@ -13,6 +13,9 @@ Why this collection rocks: I've personally hunted down and earned over 435 badge
 The best part? Every single badge listed here is 100% FREE - no hidden fees, no payment required, no catch! While there are thousands of training resources out there, not all offer that satisfying proof of completion. This curated collection focuses on those that do, so you can build an impressive portfolio while learning valuable skills.
 
 Ready to start badge hunting? Let's dive in! 🚀
+<br>
+<img src="https://camo.githubusercontent.com/322ccbb8d6816d05d5c91df8c8ed3ff9efea175b8c10aedc93facf50136f5429/68747470733a2f2f696d616765732e7a61706e69746f2e636f6d2f75736572732f3536383431312f706f73746572732f313636303833313638302d34322d393830382f64346334356438652d613531362d343333382d626562622d3166623430396430353933655f6c617267652e706e67" alt="credly-banner" width="500">
+<br>
 
 <!--START_SECTION:badges-->
 ## Total Badges: (435)
