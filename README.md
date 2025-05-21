@@ -22,7 +22,6 @@ Ready to start badge hunting? Let's dive in! 🚀
 <br>
 
 <!--START_SECTION:badges-->
-
 ## Total Badges: (435)
 
 ## List of Issuing Organizations (47)
