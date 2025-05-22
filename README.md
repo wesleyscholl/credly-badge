@@ -14,8 +14,6 @@ The best part? Every single badge listed here is 100% FREE - no hidden fees, no 
 
 Ready to start badge hunting? Let's dive in! 🚀
 
-<img src='https://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2' height='100' />
-
 
 <!--START_SECTION:badges-->
 
