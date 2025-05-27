@@ -21,9 +21,9 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (438)
+## Total Badges: (443)
 
-## Issuing Organizations: (47)
+## Issuing Organizations: (48)
 
 
 
@@ -42,7 +42,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -95,7 +95,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -611,7 +611,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -664,7 +664,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -714,7 +714,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Alation University (2)
+### Alation University (3)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -723,13 +723,13 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob' height='100' /><br>[Alation University](#alation-university-2) | Alation University provides training and certification programs for data governance, analytics, and data literacy. | 2 | ✅ | [Alation University](https://www.credly.com/organizations/alation/badges) |
+| <img src='https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob' height='100' /><br>[Alation University](#alation-university-3) | Alation University provides training and certification programs for data governance, analytics, and data literacy. | 3 | ✅ | [Alation University](https://www.credly.com/organizations/alation/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -761,6 +761,21 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">
+        <img src="https://images.credly.com/size/500x500/images/40a82a10-d520-4e5f-921f-7d0bf6f37525/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Alation Data Governance Advocate - Alation University</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> Alation Data Governance Advocate badge holders have demonstrated that they... Read more <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">here</a><br>
+      <strong>Skills:</strong> Data Governance, Data Stewardship<br>
+      <strong>Criteria:</strong> Alation Data Governance simplifies how organizations enforce authority over the definition, production, and use of their data. The Alation Data Catalog enables Active Data Governance, which accelerates a program’s time to success. This foundational course supports modern Data Governance with an active, non-invasive focus, and demonstrates the Alation Data Catalog’s impressive performance when supporting Data Governance initiatives. The Alation Data Governance assessment at the end of the course is an untimed, unproctored 25 question exam with a required passing score of 80%.<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
 </table>
 
 
@@ -780,7 +795,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -816,7 +831,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -869,7 +884,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -912,7 +927,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -965,7 +980,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1063,7 +1078,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1116,7 +1131,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1170,7 +1185,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1223,7 +1238,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1376,7 +1391,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1429,7 +1444,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1692,7 +1707,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1758,7 +1773,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1809,7 +1824,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1862,7 +1877,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1905,7 +1920,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -1958,7 +1973,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2067,7 +2082,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2133,7 +2148,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2186,7 +2201,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2240,7 +2255,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2293,7 +2308,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2501,7 +2516,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2567,7 +2582,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2620,7 +2635,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2718,7 +2733,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2771,7 +2786,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2803,7 +2818,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -2856,7 +2871,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3009,7 +3024,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3062,7 +3077,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3094,7 +3109,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3147,7 +3162,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3234,7 +3249,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3287,7 +3302,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3363,7 +3378,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3399,7 +3414,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3452,7 +3467,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3495,7 +3510,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3548,7 +3563,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3646,7 +3661,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3699,7 +3714,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3753,7 +3768,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3806,7 +3821,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -3981,7 +3996,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4017,7 +4032,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4068,7 +4083,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4121,7 +4136,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4204,7 +4219,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Make (2)
+### Make (3)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -4213,13 +4228,13 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png' height='100' /><br>[Make](#make-2) | Make is a no-code automation platform that allows users to connect apps and automate workflows without programming. | 2 | ✅ | [Make](https://www.credly.com/organizations/make/badges) |
+| <img src='https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png' height='100' /><br>[Make](#make-3) | Make is a no-code automation platform that allows users to connect apps and automate workflows without programming. | 3 | ✅ | [Make](https://www.credly.com/organizations/make/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4251,6 +4266,21 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Level:</strong> Foundational
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/make/badge/make-intermediate">
+        <img src="https://images.credly.com/size/500x500/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/make/badge/make-intermediate">Make Intermediate - Make</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The earner of this badge has completed all courses within... Read more <a href="https://www.credly.com/org/make/badge/make-intermediate">here</a><br>
+      <strong>Skills:</strong> Aggregator, Array, Automation, Data, Data Structures, Date Manipulation, Directive, Error Handling, Functions, get(), HTTP, HTTP Requests, JSON, map(), No-code, URL query, Webhooks<br>
+      <strong>Criteria:</strong> Complete the 'Introduction to Iterators and Array aggregators' course, and the associated assessment. Complete the 'Using get() and map() functions' course, and the associated assessment. Complete the 'Introduction to HTTP' course, and the associated assessment. Complete the 'Webhooks' course, and the associated assessment. Complete the 'Error Handling' course, and the associated assessment. Complete the 'Intermediate Functions' course, and the associated assessment. Passed the Make Intermediate assessment.<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Intermediate
+    </td>
+  </tr>
 </table>
 
 
@@ -4270,7 +4300,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4323,7 +4353,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4377,7 +4407,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4413,7 +4443,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4449,7 +4479,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4502,7 +4532,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4644,7 +4674,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4680,7 +4710,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4733,7 +4763,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4787,7 +4817,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -4840,7 +4870,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5125,7 +5155,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5178,7 +5208,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5210,7 +5240,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5263,7 +5293,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5460,7 +5490,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5513,7 +5543,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5541,7 +5571,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Software AG (2)
+### Software AG (3)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -5550,13 +5580,13 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png' height='100' /><br>[Software AG](#software-ag-2) | Software AG is a global software company providing solutions for integration, API management, and business process management. | 2 | ✅ | [Software AG](https://www.credly.com/organizations/software-ag/badges) |
+| <img src='https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png' height='100' /><br>[Software AG](#software-ag-3) | Software AG is a global software company providing solutions for integration, API management, and business process management. | 3 | ✅ | [Software AG](https://www.credly.com/organizations/software-ag/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5588,6 +5618,21 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Level:</strong> Foundational
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">
+        <img src="https://images.credly.com/size/500x500/images/b1671540-038b-406d-bb32-3b1460dec34b/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Certified ARIS Process Mining Associate - Software AG</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Process Mining... Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">here</a><br>
+      <strong>Skills:</strong> ARIS, ARIS Process Mining<br>
+      <strong>Criteria:</strong> (For External Users) - ARIS Process Mining Basic Course (For Internal Users) - ARIS Process Mining Course<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
 </table>
 
 
@@ -5607,7 +5652,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -5660,7 +5705,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -6330,7 +6375,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -6366,6 +6411,57 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
+### Ververica (2)
+
+
+<strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
+
+
+
+| Issuing Organization | Description | Credly Badges | Verified | Organization Link |
+|        :---:         |-------------|     :---:     |   :---:  |       :---:       |
+| <img src='None' height='100' /><br>[Ververica](#ververica-2) | ... | 2 | ✅ | [Ververica](None) |
+
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">
+        <img src="https://images.credly.com/size/500x500/images/fe4a469e-0317-4a46-a1bc-e8d4a2dd1c97/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Introduction to Apache Flink® SQL - Ververica</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> This course is for data engineers and those interested in... Read more <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">here</a><br>
+      <strong>Skills:</strong> Apache Flink, Flink SQL, Stream Processing<br>
+      <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with score a of at least 75%.<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">
+        <img src="https://images.credly.com/size/500x500/images/4e03183a-5dd7-4805-8928-ef6fe461e13a/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Introduction to Stream Processing and Apache Flink® - Ververica</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> This is a comprehensive introduction to Apache Flink and to... Read more <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">here</a><br>
+      <strong>Skills:</strong> Apache Flink, Flink SQL, Stream Processing<br>
+      <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with score a of at least 75%.<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+</table>
+
+
+
 ### ZEDEDA (3)
 
 
@@ -6381,7 +6477,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -6447,7 +6543,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -6500,7 +6596,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
-    <th width="80%">Description, Time to Earn, Skills & Earning Criteria</th>
+    <th width="80%">Description</th>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
