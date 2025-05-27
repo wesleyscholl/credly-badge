@@ -19,7 +19,9 @@ While this collection focuses on free badges, many paid Credly certifications ar
 
 Ready to start badge hunting? Let's dive in! 🚀
 
+<br>
 <div class="user-content-free-credly-badges" id="user-content-free-credly-badges" />
+<br>
 
 
 <!--START_SECTION:badges-->
