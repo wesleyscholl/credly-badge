@@ -2733,7 +2733,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob' height='100' /><br>[data.world](#data.world-4) | data.world is a cloud-based data collaboration platform that enables teams to work with data and analytics. | 4 | ✅ | [data.world](https://www.credly.com/organizations/data-world/badges) |
+| <img src='https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob' height='100' /><br>[data.world](#dataworld-4) | data.world is a cloud-based data collaboration platform that enables teams to work with data and analytics. | 4 | ✅ | [data.world](https://www.credly.com/organizations/data-world/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
