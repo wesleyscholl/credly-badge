@@ -25,6 +25,8 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 ## Issuing Organizations: (48)
 
+[Acronis](#acronis), [Adobe Education](#adobe-education), [Alation University](#alation-university), [Alteryx](#alteryx), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification), [APIsec University](#apisec-university), [Appcues](#appcues), [AttackIQ](#attackiq), [Basis Technologies](#basis-technologies), [Broadcom](#broadcom), [Camunda](#camunda), [Celonis](#celonis), [Certiprof](#certiprof), [Chainguard](#chainguard), [Cisco](#cisco), [ClickHouse](#clickhouse), [CompTIA](#comptia), [Data Protocol](#data-protocol), [data.world](#data.world), [Datadog](#datadog), [Dremio](#dremio), [Extreme Networks](#extreme-networks), [Google Cloud](#google-cloud), [Hewlett Packard Enterprise](#hewlett-packard-enterprise), [IBM](#ibm), [IBM SkillsBuild](#ibm-skillsbuild), [Ikigai Labs](#ikigai-labs), [Intel](#intel), [ISC2](#isc2), [Kong](#kong), [Lucid Software](#lucid-software), [Make](#make), [MongoDB](#mongodb), [NASA Open Science](#nasa-open-science), [NetApp](#netapp), [Okta](#okta), [OPSWAT](#opswat), [Pendo](#pendo), [ProcessMaker](#processmaker), [Project Management Institute](#project-management-institute), [SAP](#sap), [SAS](#sas), [Software AG](#software-ag), [The Linux Foundation](#the-linux-foundation), [Tigera](#tigera), [Ververica](#ververica), [ZEDEDA](#zededa), [Zendesk](#zendesk)
+
 
 
 ### Acronis (48)
