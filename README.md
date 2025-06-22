@@ -1,5 +1,5 @@
 # 🎖️🏆 Free Credly Badges 
-**A curated list of 450+ free Credly badges** 🥇🏅
+**A curated list of 460+ free Credly badges** 🥇🏅
 
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" height="200">
 
