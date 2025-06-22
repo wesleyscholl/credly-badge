@@ -25,11 +25,11 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (443)
+## Total Badges: (461)
 
-## Issuing Organizations: (48)
+## Issuing Organizations: (49)
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-7), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-5), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#data.world-4), [Datadog](#datadog-15), [Dremio](#dremio-4), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-8), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-17), [ISC2](#isc2-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-6), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-27), [Project Management Institute](#project-management-institute-4), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-2), [Ververica](#ververica-2), [ZEDEDA](#zededa-3), [Zendesk](#zendesk-9)
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-9), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-11), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-4), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-8), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-18), [ISC2](#isc2-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-6), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-27), [Project Management Institute](#project-management-institute-4), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-8), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -602,7 +602,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Adobe Education (7)
+### Adobe Education (9)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -611,7 +611,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png' height='100' /><br>[Adobe Education](#adobe-education-7) | Adobe's educational initiative that provides creative tools and resources for students and educators. | 7 | ✅ | [Adobe Education](https://www.credly.com/organizations/adobe-education/badges) |
+| <img src='https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png' height='100' /><br>[Adobe Education](#adobe-education-9) | Adobe's educational initiative that provides creative tools and resources for students and educators. | 9 | ✅ | [Adobe Education](https://www.credly.com/organizations/adobe-education/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -666,7 +666,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Adobe Education (4)</summary>
+<details><summary>More Adobe Education (6)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -714,6 +714,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-student-presentations-with">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-sketchnoting-with-adobe-ex">
+        <img src="https://images.credly.com/size/500x500/images/d03f2861-b51d-458b-9f06-671c7adb96e4/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-sketchnoting-with-adobe-ex">Adobe Lightning Learning | Sketchnoting with Adobe Express and Fresco - Adobe Education</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-sketchnoting-with-adobe-ex">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-science-with-adobe-express">
+        <img src="https://images.credly.com/size/500x500/images/57844680-83af-46f6-b32e-0b6bb31cd2b0/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-science-with-adobe-express">Lightning Learning | Teach Science with Adobe Express - Adobe Education</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-science-with-adobe-express">here</a><br>
     </td>
   </tr>
 </table>
@@ -1815,7 +1837,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### Celonis (5)
+### Celonis (11)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -1824,7 +1846,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png' height='100' /><br>[Celonis](#celonis-5) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 5 | ✅ | [Celonis](https://www.credly.com/organizations/celonis/badges) |
+| <img src='https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png' height='100' /><br>[Celonis](#celonis-11) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 11 | ✅ | [Celonis](https://www.credly.com/organizations/celonis/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -1879,7 +1901,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Celonis (2)</summary>
+<details><summary>More Celonis (8)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -1905,6 +1927,72 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/administer-celonis-security-permissions">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/create-and-deliver-demos">
+        <img src="https://images.credly.com/size/500x500/images/8eea269d-160d-414e-b02b-408f829845a5/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/create-and-deliver-demos">Create and Deliver Demos - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/create-and-deliver-demos">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/sustainability-base-camper">
+        <img src="https://images.credly.com/size/500x500/images/33067f77-beb4-4a39-ba5a-2be0c665129f/Sustainability_Base_Camper2.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/sustainability-base-camper">Sustainability Base Camper - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/sustainability-base-camper">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/act-on-recommended-tasks">
+        <img src="https://images.credly.com/size/500x500/images/c37f0b3a-e763-43a1-90dc-f3e05795595b/Act_on_Recommended_Tasks.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/act-on-recommended-tasks">Act on Recommended Tasks - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/act-on-recommended-tasks">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/use-and-interpret-views">
+        <img src="https://images.credly.com/size/500x500/images/8480091e-745d-4676-8d41-0372eb9931e5/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/use-and-interpret-views">Use and Interpret Views - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/use-and-interpret-views">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/navigate-the-celonis-studio">
+        <img src="https://images.credly.com/size/500x500/images/6d9f8209-3ff3-44ae-ad66-28e96a1828a6/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/navigate-the-celonis-studio">Navigate the Celonis Studio - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/navigate-the-celonis-studio">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/review-and-interpret-analyses">
+        <img src="https://images.credly.com/size/500x500/images/df958159-b3d3-404c-8058-c857dba944af/Review_and_Interpret_Analyses.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/review-and-interpret-analyses">Review and Interpret Analyses - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/review-and-interpret-analyses">here</a><br>
     </td>
   </tr>
 </table>
@@ -2092,13 +2180,13 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/chainguard/badge/painless-vulnerability-management-with-chainguard">
+      <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">
         <img src="https://images.credly.com/size/500x500/images/72b653fc-36a6-4dd3-8dc4-c73caa564f77/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/chainguard/badge/painless-vulnerability-management-with-chainguard">Painless Vulnerability Management With Chainguard - Chainguard</a>
+      <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Chainguard Vulnslayer - Chainguard</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge understand the fundamentals of vulnerability management,... Read more <a href="https://www.credly.com/org/chainguard/badge/painless-vulnerability-management-with-chainguard">here</a><br>
+      <strong>Description:</strong> Earners of this badge understand the fundamentals of vulnerability management,... Read more <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">here</a><br>
       <strong>Skills:</strong> Chainguard Images, Container Security, CVEs, OpenVex, SBOMs, Software Development Life Cycle (SDLC), Software Security, Vulnerability Management<br>
       <strong>Criteria:</strong> To earn this badge, candidates complete all of the course content, pass all course quizzes with a 100% grade, and submit a final technical or qualitative project that is approved by Chainguard's education team.<br>
       <strong>Time to Earn:</strong> Days<br>
@@ -2107,13 +2195,13 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/chainguard/badge/securing-the-ai-ml-supply-chain-with-chainguard">
+      <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">
         <img src="https://images.credly.com/size/500x500/images/5750aba6-98f3-43dd-b2d0-3d5a5d11edfd/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/chainguard/badge/securing-the-ai-ml-supply-chain-with-chainguard">Securing the AI/ML Supply Chain With Chainguard - Chainguard</a>
+      <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Chainguard AI/ML Guardian - Chainguard</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge understand the fundamentals and tools of... Read more <a href="https://www.credly.com/org/chainguard/badge/securing-the-ai-ml-supply-chain-with-chainguard">here</a><br>
+      <strong>Description:</strong> Earners of this badge understand the fundamentals and tools of... Read more <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">here</a><br>
       <strong>Skills:</strong> Artificial Intelligence, Containers, Cosign, Cybersecurity, Digital Signatures, Machine Learning, Provenance, Software Bill Of Materials, Software Supply Chain Security, Vulnerability Management, Vulnerability Scanning<br>
       <strong>Criteria:</strong> Candidates must complete all seven modules and pass seven module quizzes with a 100% score to receive a badge.<br>
       <strong>Time to Earn:</strong> Hours<br>
@@ -2122,13 +2210,13 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/chainguard/badge/container-crusader">
+      <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">
         <img src="https://images.credly.com/size/500x500/images/a4305115-691b-428b-a02a-201a0400e684/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/chainguard/badge/container-crusader">Container Crusader - Chainguard</a>
+      <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Chainguard Container Crusader - Chainguard</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This credential indicates that the recipient has completed all seven... Read more <a href="https://www.credly.com/org/chainguard/badge/container-crusader">here</a><br>
+      <strong>Description:</strong> This credential indicates that the recipient has completed all seven... Read more <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">here</a><br>
       <strong>Skills:</strong> Cloud Computing, Containers, DevOps, InfoSec<br>
       <strong>Criteria:</strong> A seven-course learning path on Chainguard Container Images.<br>
       <strong>Time to Earn:</strong> Days<br>
@@ -3405,6 +3493,57 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
+### Hyperexponential (2)
+
+
+<strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
+
+
+
+| Issuing Organization | Description | Credly Badges | Verified | Organization Link |
+|        :---:         |-------------|     :---:     |   :---:  |       :---:       |
+| <img src='https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob.png' height='100' /><br>[Hyperexponential](#hyperexponential-2) | Hyperexponential offers pricing software for insurers, enabling faster, data-driven underwriting and model deployment through its platform, hx Renew. | 2 | ✅ | [Hyperexponential](https://www.credly.com/organizations/hyperexponential/badges) |
+
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">
+        <img src="https://images.credly.com/size/500x500/images/a3eb64e4-313f-4564-b60f-b4ca0581fad6/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Developer Introduction to hx Renew - Hyperexponential</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the... Read more <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">here</a><br>
+      <strong>Skills:</strong> hx Renew, Insurance modelling, Python<br>
+      <strong>Criteria:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the fundamentals of building, managing, and publishing pricing tools in hx Renew using Python and platform best practices.<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">
+        <img src="https://images.credly.com/size/500x500/images/b22a82db-e716-4d7d-95db-9baac0ac692d/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">An Introduction to the hyperexponential Partner Program - Hyperexponential</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> This course introduces the hx Partner Program and outlines how... Read more <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">here</a><br>
+      <strong>Skills:</strong> hx Renew, hyperexponential, Insurance<br>
+      <strong>Criteria:</strong> Earned for the completion of hyperexponential's 'An Introduction to the hyperexponential Partner Program' course.<br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+</table>
+
+
+
 ### IBM (5)
 
 
@@ -3759,7 +3898,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Intel (17)
+### Intel (18)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -3768,7 +3907,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png' height='100' /><br>[Intel](#intel-17) | Intel is a leading semiconductor manufacturer known for CPUs, data center solutions, and AI hardware innovation. | 17 | ✅ | [Intel](https://www.credly.com/organizations/intel/badges) |
+| <img src='https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png' height='100' /><br>[Intel](#intel-18) | Intel is a leading semiconductor manufacturer known for CPUs, data center solutions, and AI hardware innovation. | 18 | ✅ | [Intel](https://www.credly.com/organizations/intel/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -3823,7 +3962,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Intel (14)</summary>
+<details><summary>More Intel (15)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -3981,6 +4120,17 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/ai-everywhere-ai-pcs">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/intel/badge/multi-cloud-strategies">
+        <img src="https://images.credly.com/size/500x500/images/29e9e473-c710-46a5-8329-789240319646/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/intel/badge/multi-cloud-strategies">Multi-Cloud Strategies - Intel</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/intel/badge/multi-cloud-strategies">here</a><br>
     </td>
   </tr>
 </table>
@@ -4169,7 +4319,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   <tr>
     <td align="center" width="20%" padding="10">
       <a href="https://www.credly.com/org/lucidsoftware/badge/verified-lucid-admin.1">
-        <img src="https://images.credly.com/size/500x500/images/2267cda6-7f79-4b9a-b016-6d9ed4f3c745/image.png" width="100">
+        <img src="https://images.credly.com/size/500x500/images/ae6838ff-9264-429e-a2fd-394c5f30bba1/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/verified-lucid-admin.1">Verified Lucid Admin - Lucid Software</a>
     </td>
@@ -5577,7 +5727,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Software AG (3)
+### Software AG (8)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -5586,7 +5736,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png' height='100' /><br>[Software AG](#software-ag-3) | Software AG is a global software company providing solutions for integration, API management, and business process management. | 3 | ✅ | [Software AG](https://www.credly.com/organizations/software-ag/badges) |
+| <img src='https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png' height='100' /><br>[Software AG](#software-ag-8) | Software AG is a global software company providing solutions for integration, API management, and business process management. | 8 | ✅ | [Software AG](https://www.credly.com/organizations/software-ag/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -5641,7 +5791,70 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
+<details><summary>More Software AG (5)</summary>
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-dashboard-associate">
+        <img src="https://images.credly.com/size/500x500/images/45676377-ffb0-4120-80a8-ae67cbcb537e/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-dashboard-associate">Certified ARIS Dashboard Associate - Software AG</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-dashboard-associate">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-risk-compliance-associate">
+        <img src="https://images.credly.com/size/500x500/images/44d28905-09d3-469a-a3db-7af2273466d4/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-risk-compliance-associate">Certified ARIS Risk & Compliance Associate - Software AG</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-risk-compliance-associate">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">
+        <img src="https://images.credly.com/size/500x500/images/624cf210-ddd0-4c37-9449-aceb770dfce9/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Software AG Certified Adabas Associate - Software AG</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">
+        <img src="https://images.credly.com/size/500x500/images/1e485440-3494-43ef-a8d6-640c7982fba5/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Software AG Certified NaturalONE Associate - Software AG</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">
+        <img src="https://images.credly.com/size/500x500/images/f3ad22df-7476-4450-a558-1d70d2bb5d30/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Software AG Certified Natural Associate - Software AG</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">here</a><br>
+    </td>
+  </tr>
+</table>
 
+</details>
 
 ### The Linux Foundation (62)
 
@@ -6366,7 +6579,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Tigera (2)
+### Tigera (3)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -6375,7 +6588,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png' height='100' /><br>[Tigera](#tigera-2) | Tigera is a cybersecurity company specializing in cloud-native security and observability for Kubernetes environments. | 2 | ✅ | [Tigera](https://www.credly.com/organizations/tigera/badges) |
+| <img src='https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png' height='100' /><br>[Tigera](#tigera-3) | Tigera is a cybersecurity company specializing in cloud-native security and observability for Kubernetes environments. | 3 | ✅ | [Tigera](https://www.credly.com/organizations/tigera/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -6410,6 +6623,21 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Skills:</strong> Cloud Security, eBPF, Kubernetes<br>
       <strong>Criteria:</strong> The owner of this badge has completed a final exam about eBPF technology and Calico eBPF.<br>
       <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Advanced
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">
+        <img src="https://images.credly.com/size/500x500/images/359fc4eb-c4cb-4313-9032-bd2afb6f6f10/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Certified Calico Operator - AWS Expert - Tigera</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The Certified Calico Operator: AWS Expert course helps you understand... Read more <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">here</a><br>
+      <strong>Skills:</strong> Amazon Elastic Kubernetes Service (EKS), Amazon Web Services (AWS), Cloud Security, Cluster Development<br>
+      <strong>Criteria:</strong> To become a Certified Calico Operator: AWS Expert, you need to pass the final exam with a score of 60% or higher.<br>
+      <strong>Time to Earn:</strong> Weeks<br>
       <strong>Level:</strong> Advanced
     </td>
   </tr>
@@ -6468,7 +6696,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### ZEDEDA (3)
+### ZEDEDA (4)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -6477,7 +6705,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png' height='100' /><br>[ZEDEDA](#zededa-3) | ZEDEDA offers edge computing orchestration solutions for deploying and managing applications at the network edge. | 3 | ✅ | [ZEDEDA](https://www.credly.com/organizations/zededa/badges) |
+| <img src='https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png' height='100' /><br>[ZEDEDA](#zededa-4) | ZEDEDA offers edge computing orchestration solutions for deploying and managing applications at the network edge. | 4 | ✅ | [ZEDEDA](https://www.credly.com/organizations/zededa/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -6532,7 +6760,26 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
+<details><summary>More ZEDEDA (1)</summary>
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-administration-specialist-zce">
+        <img src="https://images.credly.com/size/500x500/images/86e7e59b-cb88-4dfb-b5ce-d165531bbb7b/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-administration-specialist-zce">ZEDEDA Certified Edge Administration Specialist (ZCES) - ZEDEDA</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-administration-specialist-zce">here</a><br>
+    </td>
+  </tr>
+</table>
 
+</details>
 
 ### Zendesk (9)
 
