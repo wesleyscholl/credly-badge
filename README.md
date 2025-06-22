@@ -3502,7 +3502,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob.png' height='100' /><br>[Hyperexponential](#hyperexponential-2) | Hyperexponential offers pricing software for insurers, enabling faster, data-driven underwriting and model deployment through its platform, hx Renew. | 2 | ✅ | [Hyperexponential](https://www.credly.com/organizations/hyperexponential/badges) |
+| <img src='https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob' height='100' /><br>[Hyperexponential](#hyperexponential-2) | Hyperexponential offers pricing software for insurers, enabling faster, data-driven underwriting and model deployment through its platform, hx Renew. | 2 | ✅ | [Hyperexponential](https://www.credly.com/organizations/hyperexponential/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
