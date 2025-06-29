@@ -6,7 +6,7 @@
 ### 🏆 Your Free Badge Collection Awaits!
 Welcome to the ultimate treasure trove of completely free digital badges! 🎉
 
-<img src="https://github.com/user-attachments/assets/0b8e678a-0736-44b1-9111-e8c2a54b4936" alt="credly-example-badges" height="200">
+<img src="https://github.com/user-attachments/assets/0b8e678a-0736-44b1-9111-e8c2a54b4936" alt="credly-example-badges" max-width="100%" height="auto">
 
 ### 🏅 What's Credly? 
 Think of it as your digital trophy case! Credly is the go-to platform for showcasing your skills, training achievements, exam completions, and professional accomplishments. It's like LinkedIn's cool cousin who loves to celebrate your wins! Credly uses tamper-proof open badge technology with cryptographic security, making your credentials instantly verifiable and fraud-resistant. Each badge contains rich metadata including skills earned, time investment, and verification status (some include blockchain backing). When you share badges anywhere, recipients can click to verify authenticity in real-time. You can also manage and track all your badges from your **Badge Wallet**, keeping all of your accomplishments organized in one place.
