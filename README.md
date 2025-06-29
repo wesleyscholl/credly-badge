@@ -42,11 +42,13458 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (461)
+## Total Badges: (464)
 
-## Issuing Organizations: (49)
+## Issuing Organizations: (50)
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-9), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-11), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-4), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-8), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-18), [ISC2](#isc2-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-6), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-27), [Project Management Institute](#project-management-institute-4), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-8), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+<table width='100%' border='1' cellspacing='0' cellpadding='4'>
+<tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/acronis/badges">
+        <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
+      </a><br>
+      <a href="#acronis-48">Acronis</a>
+    </td>
+</tr>
+</table>
+[Acronis](#acronis-48), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/adobe-education/badges">
+        <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
+      </a><br>
+      <a href="#adobe-education-9">Adobe Education</a>
+    </td>
+</tr>
+</table>
+[Adobe Education](#adobe-education-9), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alation/badges">
+        <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
+      </a><br>
+      <a href="#alation-university-3">Alation University</a>
+    </td>
+</tr>
+</table>
+[Alation University](#alation-university-3), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/alteryx/badges">
+        <img src="https://images.credly.com/size/200x200/images/b8079e20-ff5f-47c4-aadd-494b54ef02eb/blob.png" width="100">
+      </a><br>
+      <a href="#alteryx-1">Alteryx</a>
+    </td>
+</tr>
+</table>
+[Alteryx](#alteryx-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/amazon-web-services/badges">
+        <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
+      </a><br>
+      <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    </td>
+</tr>
+</table>
+[Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/apisec-university/badges">
+        <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
+      </a><br>
+      <a href="#apisec-university-10">APIsec University</a>
+    </td>
+</tr>
+</table>
+[APIsec University](#apisec-university-10), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/appcues/badges">
+        <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
+      </a><br>
+      <a href="#appcues-6">Appcues</a>
+    </td>
+</tr>
+</table>
+[Appcues](#appcues-6), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/attackiq/badges">
+        <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
+      </a><br>
+      <a href="#attackiq-15">AttackIQ</a>
+    </td>
+</tr>
+</table>
+[AttackIQ](#attackiq-15), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/basis-technologies/badges">
+        <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
+      </a><br>
+      <a href="#basis-technologies-25">Basis Technologies</a>
+    </td>
+</tr>
+</table>
+[Basis Technologies](#basis-technologies-25), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/broadcom/badges">
+        <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
+      </a><br>
+      <a href="#broadcom-3">Broadcom</a>
+    </td>
+</tr>
+</table>
+[Broadcom](#broadcom-3), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/camunda/badges">
+        <img src="https://images.credly.com/size/200x200/images/deb111b4-fd83-428d-b0b8-b8a450b21e03/blob.png" width="100">
+      </a><br>
+      <a href="#camunda-2">Camunda</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/camunda/badges">
+        <img src="https://images.credly.com/size/200x200/images/deb111b4-fd83-428d-b0b8-b8a450b21e03/blob.png" width="100">
+      </a><br>
+      <a href="#camunda-2">Camunda</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/camunda/badges">
+        <img src="https://images.credly.com/size/200x200/images/deb111b4-fd83-428d-b0b8-b8a450b21e03/blob.png" width="100">
+      </a><br>
+      <a href="#camunda-2">Camunda</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/camunda/badges">
+        <img src="https://images.credly.com/size/200x200/images/deb111b4-fd83-428d-b0b8-b8a450b21e03/blob.png" width="100">
+      </a><br>
+      <a href="#camunda-2">Camunda</a>
+    </td>
+</tr>
+</table>
+[Camunda](#camunda-2), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/celonis/badges">
+        <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
+      </a><br>
+      <a href="#celonis-11">Celonis</a>
+    </td>
+</tr>
+</table>
+[Celonis](#celonis-11), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/certiprof/badges">
+        <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
+      </a><br>
+      <a href="#certiprof-11">Certiprof</a>
+    </td>
+</tr>
+</table>
+[Certiprof](#certiprof-11), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/chainguard/badges">
+        <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
+      </a><br>
+      <a href="#chainguard-3">Chainguard</a>
+    </td>
+</tr>
+</table>
+[Chainguard](#chainguard-3), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/cisco/badges">
+        <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
+      </a><br>
+      <a href="#cisco-6">Cisco</a>
+    </td>
+</tr>
+</table>
+[Cisco](#cisco-6), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/clickhouse/badges">
+        <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
+      </a><br>
+      <a href="#clickhouse-20">ClickHouse</a>
+    </td>
+</tr>
+</table>
+[ClickHouse](#clickhouse-20), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/comptia/badges">
+        <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
+      </a><br>
+      <a href="#comptia-3">CompTIA</a>
+    </td>
+</tr>
+</table>
+[CompTIA](#comptia-3), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-protocol/badges">
+        <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
+      </a><br>
+      <a href="#data-protocol-10">Data Protocol</a>
+    </td>
+</tr>
+</table>
+[Data Protocol](#data-protocol-10), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/data-world/badges">
+        <img src="https://images.credly.com/size/400x400/images/a878e5a2-7045-4d4f-a6fe-48c61eeede6e/blob" width="100">
+      </a><br>
+      <a href="#dataworld-4">data.world</a>
+    </td>
+</tr>
+</table>
+[data.world](#dataworld-4), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/datadog/badges">
+        <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
+      </a><br>
+      <a href="#datadog-15">Datadog</a>
+    </td>
+</tr>
+</table>
+[Datadog](#datadog-15), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/dremio/badges">
+        <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
+      </a><br>
+      <a href="#dremio-4">Dremio</a>
+    </td>
+</tr>
+</table>
+[Dremio](#dremio-4), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/extreme-networks/badges">
+        <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
+      </a><br>
+      <a href="#extreme-networks-9">Extreme Networks</a>
+    </td>
+</tr>
+</table>
+[Extreme Networks](#extreme-networks-9), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/google-cloud/badges">
+        <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
+      </a><br>
+      <a href="#google-cloud-10">Google Cloud</a>
+    </td>
+</tr>
+</table>
+[Google Cloud](#google-cloud-10), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/hewlett-packard-enterprise/badges">
+        <img src="https://images.credly.com/size/200x200/images/e18e9c8e-9303-4c7d-9fd6-cbb222bc64c2/HPE_logo.png" width="100">
+      </a><br>
+      <a href="#hewlett-packard-enterprise-1">Hewlett Packard Enterprise</a>
+    </td>
+</tr>
+</table>
+[Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/hyperexponential/badges">
+        <img src="https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob" width="100">
+      </a><br>
+      <a href="#hyperexponential-2">Hyperexponential</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/hyperexponential/badges">
+        <img src="https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob" width="100">
+      </a><br>
+      <a href="#hyperexponential-2">Hyperexponential</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/hyperexponential/badges">
+        <img src="https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob" width="100">
+      </a><br>
+      <a href="#hyperexponential-2">Hyperexponential</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/hyperexponential/badges">
+        <img src="https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob" width="100">
+      </a><br>
+      <a href="#hyperexponential-2">Hyperexponential</a>
+    </td>
+</tr>
+</table>
+[Hyperexponential](#hyperexponential-2), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm/badges">
+        <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
+      </a><br>
+      <a href="#ibm-5">IBM</a>
+    </td>
+</tr>
+</table>
+[IBM](#ibm-5), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
+        <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
+      </a><br>
+      <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    </td>
+</tr>
+</table>
+[IBM SkillsBuild](#ibm-skillsbuild-10), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ikigai-labs/badges">
+        <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
+      </a><br>
+      <a href="#ikigai-labs-6">Ikigai Labs</a>
+    </td>
+</tr>
+</table>
+[Ikigai Labs](#ikigai-labs-6), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/intel/badges">
+        <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
+      </a><br>
+      <a href="#intel-18">Intel</a>
+    </td>
+</tr>
+</table>
+[Intel](#intel-18), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/isc2/badges">
+        <img src="https://images.credly.com/size/200x200/images/0e8d9cd4-ce53-4afd-be2e-d8b30021b61b/blob.png" width="100">
+      </a><br>
+      <a href="#isc2-1">ISC2</a>
+    </td>
+</tr>
+</table>
+[ISC2](#isc2-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/isovalent/badges">
+        <img src="https://images.credly.com/size/200x200/images/ff41e983-ef0e-4f20-96d4-5c0daad904a7/blob.png" width="100">
+      </a><br>
+      <a href="#isovalent-1">Isovalent</a>
+    </td>
+</tr>
+</table>
+[Isovalent](#isovalent-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/kong/badges">
+        <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
+      </a><br>
+      <a href="#kong-2">Kong</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/kong/badges">
+        <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
+      </a><br>
+      <a href="#kong-2">Kong</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/kong/badges">
+        <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
+      </a><br>
+      <a href="#kong-2">Kong</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/kong/badges">
+        <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
+      </a><br>
+      <a href="#kong-2">Kong</a>
+    </td>
+</tr>
+</table>
+[Kong](#kong-2), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/lucidsoftware/badges">
+        <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
+      </a><br>
+      <a href="#lucid-software-10">Lucid Software</a>
+    </td>
+</tr>
+</table>
+[Lucid Software](#lucid-software-10), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/make/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
+      </a><br>
+      <a href="#make-3">Make</a>
+    </td>
+</tr>
+</table>
+[Make](#make-3), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/mongodb/badges">
+        <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
+      </a><br>
+      <a href="#mongodb-6">MongoDB</a>
+    </td>
+</tr>
+</table>
+[MongoDB](#mongodb-6), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/nasa-open-science/badges">
+        <img src="https://images.credly.com/size/200x200/images/d2cf3383-8989-4acd-8cb8-4ca9024643fc/blob.png" width="100">
+      </a><br>
+      <a href="#nasa-open-science-1">NASA Open Science</a>
+    </td>
+</tr>
+</table>
+[NASA Open Science](#nasa-open-science-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/netapp/badges">
+        <img src="https://images.credly.com/size/200x200/images/92e705f4-b027-4d05-94fa-6d55048f2d92/NetApp_Logo.png" width="100">
+      </a><br>
+      <a href="#netapp-1">NetApp</a>
+    </td>
+</tr>
+</table>
+[NetApp](#netapp-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/okta/badges">
+        <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
+      </a><br>
+      <a href="#okta-14">Okta</a>
+    </td>
+</tr>
+</table>
+[Okta](#okta-14), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/opswat/badges">
+        <img src="https://images.credly.com/size/200x200/images/a5a39dfa-c315-422c-90d2-4b954b66ed28/blob.png" width="100">
+      </a><br>
+      <a href="#opswat-1">OPSWAT</a>
+    </td>
+</tr>
+</table>
+[OPSWAT](#opswat-1), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/pendo/badges">
+        <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
+      </a><br>
+      <a href="#pendo-6">Pendo</a>
+    </td>
+</tr>
+</table>
+[Pendo](#pendo-6), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/processmaker/badges">
+        <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
+      </a><br>
+      <a href="#processmaker-27">ProcessMaker</a>
+    </td>
+</tr>
+</table>
+[ProcessMaker](#processmaker-27), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/project-management-institute/badges">
+        <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
+      </a><br>
+      <a href="#project-management-institute-4">Project Management Institute</a>
+    </td>
+</tr>
+</table>
+[Project Management Institute](#project-management-institute-4), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sap/badges">
+        <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
+      </a><br>
+      <a href="#sap-19">SAP</a>
+    </td>
+</tr>
+</table>
+[SAP](#sap-19), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/sas/badges">
+        <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
+      </a><br>
+      <a href="#sas-5">SAS</a>
+    </td>
+</tr>
+</table>
+[SAS](#sas-5), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/software-ag/badges">
+        <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
+      </a><br>
+      <a href="#software-ag-8">Software AG</a>
+    </td>
+</tr>
+</table>
+[Software AG](#software-ag-8), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
+        <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
+      </a><br>
+      <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    </td>
+</tr>
+</table>
+[The Linux Foundation](#the-linux-foundation-62), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/tigera/badges">
+        <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
+      </a><br>
+      <a href="#tigera-3">Tigera</a>
+    </td>
+</tr>
+</table>
+[Tigera](#tigera-3), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ververica/badges">
+        <img src="https://images.credly.com/size/400x400/images/190e5ac2-80ea-4f85-b553-0f78addbd8f8/blob.png" width="100">
+      </a><br>
+      <a href="#ververica-2">Ververica</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ververica/badges">
+        <img src="https://images.credly.com/size/400x400/images/190e5ac2-80ea-4f85-b553-0f78addbd8f8/blob.png" width="100">
+      </a><br>
+      <a href="#ververica-2">Ververica</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ververica/badges">
+        <img src="https://images.credly.com/size/400x400/images/190e5ac2-80ea-4f85-b553-0f78addbd8f8/blob.png" width="100">
+      </a><br>
+      <a href="#ververica-2">Ververica</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/ververica/badges">
+        <img src="https://images.credly.com/size/400x400/images/190e5ac2-80ea-4f85-b553-0f78addbd8f8/blob.png" width="100">
+      </a><br>
+      <a href="#ververica-2">Ververica</a>
+    </td>
+</tr>
+</table>
+[Ververica](#ververica-2), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zededa/badges">
+        <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
+      </a><br>
+      <a href="#zededa-4">ZEDEDA</a>
+    </td>
+</tr>
+</table>
+[ZEDEDA](#zededa-4), <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/organizations/zendesk/badges">
+        <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
+      </a><br>
+      <a href="#zendesk-9">Zendesk</a>
+    </td>
+</tr>
+</table>
+[Zendesk](#zendesk-9)
 
 
 
@@ -75,9 +13522,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Tech Fundamentals - Acronis</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Acronis Tech Fundamentals course is designed for technical representatives... Read more <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">here</a><br>
+      <strong>Description:</strong> The Acronis Tech Fundamentals course is designed for technical representatives working at a reseller or system integrator looking to gain... <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Read more here</a><br>
       <strong>Skills:</strong> Acronis Cyber Protect, Installing Agents, Licensing<br>
-      <strong>Criteria:</strong> Pass the Tech Fundamentals exam with more than 70% score.<br>
+      <strong>Criteria:</strong> ('Pass the Tech Fundamentals exam with more than 70% score.', None) <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -90,9 +13537,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Tech Associate Endpoint Protection Management - Acronis</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Acronis Cyber Protect Tech Associate Endpoint Protection Management course... Read more <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">here</a><br>
+      <strong>Description:</strong> The Acronis Cyber Protect Tech Associate Endpoint Protection Management course is designed for technical representatives working at a reseller or... <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Read more here</a><br>
       <strong>Skills:</strong> Cybersecurity, Endpoint Protection Management, Monitoring, Reporting<br>
-      <strong>Criteria:</strong> Complete the Tech Associate Endpoint Protection Management exam with a score above 70%.<br>
+      <strong>Criteria:</strong> ('Complete the Tech Associate Endpoint Protection Management exam with a score above 70%.', None) <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -105,9 +13552,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Sales Fundamentals - Acronis</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Acronis Cyber Protect Sales Fundamentals course is designed for... Read more <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">here</a><br>
+      <strong>Description:</strong> The Acronis Cyber Protect Sales Fundamentals course is designed for sales and marketing representatives working at a reseller or system... <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Read more here</a><br>
       <strong>Skills:</strong> Acronis Cyber Protect, Cybersecurity, Licensing<br>
-      <strong>Criteria:</strong> Complete the Sales Fundamentals exam with a score above 70%.<br>
+      <strong>Criteria:</strong> ('Complete the Sales Fundamentals exam with a score above 70%.', None) <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -644,9 +14091,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">30 min Lightning Learning | Generative AI in the Classroom - Adobe Education</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Lightning Learning: This certificate and badge are awarded in recognition... Read more <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">here</a><br>
-      <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics, Leadership<br>
-      <strong>Criteria:</strong> 30 minutes of Adobe Professional Development<br>
+      <strong>Description:</strong> Lightning Learning: This certificate and badge are awarded in recognition of 30 minutes of professional learning through completion of the... <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">Read more here</a><br>
+      <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics<br>
+      <strong>Criteria:</strong> ('30 minutes of Adobe Professional Development', None) <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -659,9 +14106,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Adobe Lightning Learning | Visible Thinking Routines with Adobe Express - Adobe Education</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This certificate and badge are awarded in recognition of .5... Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">here</a><br>
-      <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics, Leadership<br>
-      <strong>Criteria:</strong> .5 hours of Adobe Professional Learning<br>
+      <strong>Description:</strong> This certificate and badge are awarded in recognition of .5 hours of professional learning through completion of the Adobe Express... <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Read more here</a><br>
+      <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics<br>
+      <strong>Criteria:</strong> ('.5 hours of Adobe Professional Learning', None) <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -674,9 +14121,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Adobe Lightning Learning | Building Community with Adobe Express - Adobe Education</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This certificate and badge are awarded in recognition of .5... Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">here</a><br>
-      <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics, Leadership<br>
-      <strong>Criteria:</strong> .5 hours of Adobe Professional Learning<br>
+      <strong>Description:</strong> This certificate and badge are awarded in recognition of .5 hours of professional learning through completion of the Adobe Express... <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Read more here</a><br>
+      <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics<br>
+      <strong>Criteria:</strong> ('.5 hours of Adobe Professional Learning', None) <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -784,9 +14231,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/alation/badge/alation-data-steward">Alation Data Steward - Alation University</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Alation Data Steward badge holders have demonstrated that they have... Read more <a href="https://www.credly.com/org/alation/badge/alation-data-steward">here</a><br>
-      <strong>Skills:</strong> Data Analyst, Data Catalog, Data Community, Data Culture, Data Curation, Data Intelligence, Data Science, Data Stewardship<br>
-      <strong>Criteria:</strong> Stewardship of the data catalog is a key function in driving the adoption of the data catalog as well as a part of any Active Data Governance program. This course covers what a user assigned the Steward role has access to, and how they can monitor their curation progress for data objects they are assigned. The Alation Data Steward assessment at the end of the course is an untimed, unproctored 20 question exam with a required passing score of 75%.<br>
+      <strong>Description:</strong> Alation Data Steward badge holders have demonstrated that they have foundational knowledge and fundamental understanding of the Steward role including... <a href="https://www.credly.com/org/alation/badge/alation-data-steward">Read more here</a><br>
+      <strong>Skills:</strong> Data Analyst, Data Catalog, Data Community, Data Culture, Data Curation<br>
+      <strong>Criteria:</strong> Stewardship of the data catalog is a key function in driving the adoption of the data catalog as well as... <a href="https://www.credly.com/org/alation/badge/alation-data-steward">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -799,9 +14246,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">Alation Data Analyst Advocate - Alation University</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Alation Data Analyst Advocate badge holders have demonstrated that they... Read more <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">here</a><br>
-      <strong>Skills:</strong> Business User, Data Analysis, Data Analyst, Data Catalog, Data Community, Data Culture, Data Engineering, Data Science<br>
-      <strong>Criteria:</strong> Analyst Advocate course is the next step in our program for anyone who performs data analysis within their role or works with data on a regular basis. The course strives to guide and share methods to integrate use of the data catalog into workflows by applying curation and collaboration in a way that encourages and enables fellow users, impacting your overall data community. The Alation Analyst Advocate assessment at the end of the course is an untimed, unproctored 20 question exam with a required passing score of 75%.<br>
+      <strong>Description:</strong> Alation Data Analyst Advocate badge holders have demonstrated that they have foundational knowledge of the fundamental methods to integrate use... <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">Read more here</a><br>
+      <strong>Skills:</strong> Business User, Data Analysis, Data Analyst, Data Catalog, Data Community<br>
+      <strong>Criteria:</strong> Analyst Advocate course is the next step in our program for anyone who performs data analysis within their role or... <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -814,9 +14261,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Alation Data Governance Advocate - Alation University</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Alation Data Governance Advocate badge holders have demonstrated that they... Read more <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">here</a><br>
+      <strong>Description:</strong> Alation Data Governance Advocate badge holders have demonstrated that they have foundational knowledge of the fundamental goals, principles, processes, methods,... <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Read more here</a><br>
       <strong>Skills:</strong> Data Governance, Data Stewardship<br>
-      <strong>Criteria:</strong> Alation Data Governance simplifies how organizations enforce authority over the definition, production, and use of their data. The Alation Data Catalog enables Active Data Governance, which accelerates a program’s time to success. This foundational course supports modern Data Governance with an active, non-invasive focus, and demonstrates the Alation Data Catalog’s impressive performance when supporting Data Governance initiatives. The Alation Data Governance assessment at the end of the course is an untimed, unproctored 25 question exam with a required passing score of 80%.<br>
+      <strong>Criteria:</strong> Alation Data Governance simplifies how organizations enforce authority over the definition, production, and use of their data. The Alation Data... <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -850,9 +14297,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">Alteryx Foundational Micro-Credential - Alteryx</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this micro-credential have a basic understanding of data... Read more <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">here</a><br>
+      <strong>Description:</strong> Earners of this micro-credential have a basic understanding of data analytics concepts and key Designer functionality. They can identify data... <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">Read more here</a><br>
       <strong>Skills:</strong> Alteryx, Analytical Thinking, Data Analysis<br>
-      <strong>Criteria:</strong> Achieving a passing score on the Alteryx Foundation Micro-Credential – a 1 hour exam with multiple choice, multiple response, and matching questions.<br>
+      <strong>Criteria:</strong> Achieving a passing score on the Alteryx Foundation Micro-Credential – a 1 hour exam with multiple choice, multiple response, and... <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -886,9 +14333,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">AWS Educate Introduction to Cloud 101 - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101... Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">here</a><br>
+      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">Read more here</a><br>
       <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, AWS Cloud Computing, Cloud Foundations<br>
-      <strong>Criteria:</strong> Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment.<br>
+      <strong>Criteria:</strong> ('Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -901,9 +14348,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">AWS Educate Introduction to Generative AI - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative... Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">here</a><br>
+      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">Read more here</a><br>
       <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br>
-      <strong>Criteria:</strong> Successfully pass the AWS Educate Introduction to Generative AI assessment.<br>
+      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Introduction to Generative AI assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">Read more here</a><br>
       <strong>Time to Earn:</strong> N/A<br>
       <strong>Level:</strong> None
     </td>
@@ -916,9 +14363,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">AWS Educate Machine Learning Foundations - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations... Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">here</a><br>
+      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">Read more here</a><br>
       <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, ML<br>
-      <strong>Criteria:</strong> Successfully pass the AWS Educate Machine Learning Foundations assessment.<br>
+      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Machine Learning Foundations assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -982,9 +14429,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Securing LLM and NLP APIs (1 hour) - APIsec University</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Explore the intersection of Large Language Models (LLMs) and API... Read more <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">here</a><br>
+      <strong>Description:</strong> Explore the intersection of Large Language Models (LLMs) and API security in this course, where you'll learn how to protect... <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Read more here</a><br>
       <strong>Skills:</strong> API Security, LLMs, NLPs<br>
-      <strong>Criteria:</strong> Complete all modules Pass final quiz<br>
+      <strong>Criteria:</strong> ('Complete all modules Pass final quiz', None) <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -997,9 +14444,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">API Gateway Security Best Practices (1 hour) - APIsec University</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Learn about the role and best practices of API Gateways... Read more <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">here</a><br>
+      <strong>Description:</strong> ('Learn about the role and best practices of API Gateways in API security with Kay James from Ambassador Labs.', None) <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">Read more here</a><br>
       <strong>Skills:</strong> API Gateways, API Security, Cybersecurity<br>
-      <strong>Criteria:</strong> Complete all four modules Pass final quiz<br>
+      <strong>Criteria:</strong> ('Complete all four modules Pass final quiz', None) <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1012,9 +14459,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Getting Started in API Pen-Testing (1 hour) - APIsec University</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> In Getting Started in API Pen-Testing, course instructor, Teresa Pereira,... Read more <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">here</a><br>
+      <strong>Description:</strong> In Getting Started in API Pen-Testing, course instructor, Teresa Pereira, covers primary attack vectors, penetration testing methodologies, and a shift-left... <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Read more here</a><br>
       <strong>Skills:</strong> API Security, Application Security Testing, Penetration Testing<br>
-      <strong>Criteria:</strong> Completing all 6 course modules - 1 hour Passed all module quizzes Passed final assessment<br>
+      <strong>Criteria:</strong> ('Completing all 6 course modules - 1 hour Passed all module quizzes Passed final assessment', None) <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1133,9 +14580,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/appcues/badge/appcues-basics">Appcues Basics - Appcues</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Learn the basics of installation, building experiences, and measuring their... Read more <a href="https://www.credly.com/org/appcues/badge/appcues-basics">here</a><br>
+      <strong>Description:</strong> Learn the basics of installation, building experiences, and measuring their impact in this quick course. Take all the Appcues Basics... <a href="https://www.credly.com/org/appcues/badge/appcues-basics">Read more here</a><br>
       <strong>Skills:</strong> Appcues, Product Adoption, User Onboarding<br>
-      <strong>Criteria:</strong> The final assessment is made up of 21 questions, and they’re all multiple-choice. Best of luck (not that you need it).<br>
+      <strong>Criteria:</strong> The final assessment is made up of 21 questions, and they’re all multiple-choice. Best of luck (not that you need... <a href="https://www.credly.com/org/appcues/badge/appcues-basics">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1148,9 +14595,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">Mobile App Onboarding 101 - Appcues</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> App abandonment is the single biggest issue for mobile app... Read more <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">here</a><br>
-      <strong>Skills:</strong> APP, Mobile, Onboarding, Onboarding Strategies, Product Adoption, Product Adoption Strategies, product led growth, Product Marketing<br>
-      <strong>Criteria:</strong> The final assessment is made up of 23 questions, and they’re all multiple choice. Best of luck (not that you need it).<br>
+      <strong>Description:</strong> App abandonment is the single biggest issue for mobile app businesses. Fixing it is the key to growing an active... <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">Read more here</a><br>
+      <strong>Skills:</strong> APP, Mobile, Onboarding, Onboarding Strategies, Product Adoption<br>
+      <strong>Criteria:</strong> The final assessment is made up of 23 questions, and they’re all multiple choice. Best of luck (not that you... <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1163,9 +14610,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">User Onboarding 101 - Appcues</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This introductory user onboarding course from Appcues' Product Adoption Academy... Read more <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">here</a><br>
-      <strong>Skills:</strong> End User Experience, Product Adoption, Product-led Growth, Product Management, Product Marketing, User Onboarding<br>
-      <strong>Criteria:</strong> The final User Onboarding 101 assessment includes 30 multiple choice questions based on the course curriculum.<br>
+      <strong>Description:</strong> This introductory user onboarding course from Appcues' Product Adoption Academy is perfect for SaaS professionals looking to level-up their user... <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">Read more here</a><br>
+      <strong>Skills:</strong> End User Experience, Product Adoption, Product-led Growth, Product Management, Product Marketing<br>
+      <strong>Criteria:</strong> ('The final User Onboarding 101 assessment includes 30 multiple choice questions based on the course curriculum.', None) <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1240,9 +14687,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">Foundations of Operationalizing MITRE ATT&CK v13 - AttackIQ</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The holder of this badge has demonstrated comprehensive understanding of... Read more <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">here</a><br>
-      <strong>Skills:</strong> ATT&CK Framework, Cyber Security, Cyber Threat Intelligence, D3FEND, MITRE ATT&CK Framework, Purple Team, Threat-Informed Defense<br>
-      <strong>Criteria:</strong> Students must complete a comprehensive course that teaches the fundamentals of the ATT&CK Framework, a knowledge base of adversary tactics, techniques, and common knowledge. Students learn how to use the ATT&CK Matrices to identify and mitigate threats, leverage data sources, threat intelligence, and tools to operationalize ATT&CK. Additionally, students learn how ATT&CK can be used to create detection and analytics, and the relevance of ATT&CK to adversary emulation. Students must score 80% or higher on a final exam based on the topics and skills taught in the course.<br>
+      <strong>Description:</strong> The holder of this badge has demonstrated comprehensive understanding of MITRE ATT&CK framework application in cybersecurity defenses, including tactics, techniques,... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">Read more here</a><br>
+      <strong>Skills:</strong> ATT&CK Framework, Cyber Security, Cyber Threat Intelligence, D3FEND, MITRE ATT&CK Framework<br>
+      <strong>Criteria:</strong> Students must complete a comprehensive course that teaches the fundamentals of the ATT&CK Framework, a knowledge base of adversary tactics,... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1255,9 +14702,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">Foundations of Cyber Threat Intelligence - AttackIQ</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The holder of this badge has demonstrated knowledge in the... Read more <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">here</a><br>
+      <strong>Description:</strong> The holder of this badge has demonstrated knowledge in the application of the cyber threat intelligence cycle. Additionally, they have... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">Read more here</a><br>
       <strong>Skills:</strong> Cyber Threat Intelligence, Threat Intelligence, Threat Intelligence Analyst<br>
-      <strong>Criteria:</strong> Master the essentials of cyber threat intelligence with 'Foundations of Cyber Threat Intelligence.' Learn to implement the intelligence lifecycle, develop actionable insights, and enhance your organization's security posture. Gain skills in data collection, analysis, and dissemination to stay ahead of evolving threats. The student must pass a final exam on the content of the course with an 80% or higher assessment.<br>
+      <strong>Criteria:</strong> Master the essentials of cyber threat intelligence with 'Foundations of Cyber Threat Intelligence.' Learn to implement the intelligence lifecycle, develop... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1270,9 +14717,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">Agentless Threat Emulation with AttackIQ Flex v2 - AttackIQ</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the "Agentless Threat Emulation with AttackIQ Flex v2"... Read more <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">here</a><br>
+      <strong>Description:</strong> Earners of the "Agentless Threat Emulation with AttackIQ Flex v2" badge have demonstrated the ability to conduct advanced agentless security... <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">Read more here</a><br>
       <strong>Skills:</strong> Breach and Attack Simulation, Penetration Testing, Threat-Informed Defense<br>
-      <strong>Criteria:</strong> Master agentless threat emulation with AttackIQ Flex v2. Learn to test security controls, apply threat-informed defense strategies, and leverage the new Insights module. Gain expertise in governance and compliance, ensuring adherence to NIST CSF, DORA, and other frameworks. Students must score 80% or higher in a final assessment of their comprehension of the course.<br>
+      <strong>Criteria:</strong> Master agentless threat emulation with AttackIQ Flex v2. Learn to test security controls, apply threat-informed defense strategies, and leverage the... <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1446,9 +14893,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/basis-technologies/badge/data">Data - Basis Technologies</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this course have gained a fundamental understanding of... Read more <a href="https://www.credly.com/org/basis-technologies/badge/data">here</a><br>
+      <strong>Description:</strong> Earners of this course have gained a fundamental understanding of what first-party data is, what third-party data is, what behavioral... <a href="https://www.credly.com/org/basis-technologies/badge/data">Read more here</a><br>
       <strong>Skills:</strong> behavior targeting, cross-device, First-Party Data, Third-Party Data<br>
-      <strong>Criteria:</strong> Complete a 20-minute self-paced eLearning course.<br>
+      <strong>Criteria:</strong> ('Complete a 20-minute self-paced eLearning course.', None) <a href="https://www.credly.com/org/basis-technologies/badge/data">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1461,9 +14908,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Contextual Targeting Essentials - Basis Technologies</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this course have gained a fundamental understanding of... Read more <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">here</a><br>
-      <strong>Skills:</strong> Advertising, Audiences, Basis Technologies, Certification, Contextual Targeting, Cookieless, Cookies, Demand Side Platform, Digital Adversiting, Digital Media, DSP, Programmatic, Targeting<br>
-      <strong>Criteria:</strong> Complete a 60-minute self-paced eLearning course and take a test.<br>
+      <strong>Description:</strong> Earners of this course have gained a fundamental understanding of what contextual targeting is and how it works, learned the... <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Read more here</a><br>
+      <strong>Skills:</strong> Advertising, Audiences, Basis Technologies, Certification, Contextual Targeting<br>
+      <strong>Criteria:</strong> ('Complete a 60-minute self-paced eLearning course and take a test.', None) <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1476,9 +14923,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Data Essentials - Basis Technologies</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of Data Essentials have gained a fundamental understanding of... Read more <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">here</a><br>
-      <strong>Skills:</strong> Ad Targeting, Advertising, Audiences, Audience Targeting, Centro, Certification, Contextual Targeting, Cookieless, Cookies, Demand Side Platform, Digital Adversiting, Digital Media, DSP, First-Party Data, Internet Cookies, Programmatic, Third-Party Data<br>
-      <strong>Criteria:</strong> Complete a 60-minute, self-paced eLearning course and take a test.<br>
+      <strong>Description:</strong> Earners of Data Essentials have gained a fundamental understanding of the main concepts of data in advertising. This includes the... <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Read more here</a><br>
+      <strong>Skills:</strong> Ad Targeting, Advertising, Audiences, Audience Targeting, Centro<br>
+      <strong>Criteria:</strong> ('Complete a 60-minute, self-paced eLearning course and take a test.', None) <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1762,9 +15209,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">IT Academy: Software Defined Storage Concepts - Broadcom</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The IT Academy: Software Defined Storage Concepts badge holder is... Read more <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">here</a><br>
-      <strong>Skills:</strong> Cache Layer, Capacity Layer, Hyper-converged Infrastructure, Policy-Driven Control Plane, Software-Defined Storage, Storage Concepts, Virtual Data Plane, vSAN<br>
-      <strong>Criteria:</strong> Review and complete all the modules of the Software-Defined Storage Concepts Course<br>
+      <strong>Description:</strong> The IT Academy: Software Defined Storage Concepts badge holder is an entry level professional that has the basic understanding of... <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">Read more here</a><br>
+      <strong>Skills:</strong> Cache Layer, Capacity Layer, Hyper-converged Infrastructure, Policy-Driven Control Plane, Software-Defined Storage<br>
+      <strong>Criteria:</strong> ('Review and complete all the modules of the Software-Defined Storage Concepts Course', None) <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1777,9 +15224,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">IT Academy: Network Virtualization Concepts - Broadcom</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Network Virtualization Concepts badge holder is an entry level... Read more <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">here</a><br>
-      <strong>Skills:</strong> NSX, SDDC, SDN, Software-Defined Data Center, Switches, Virtualization, Virtual Networks, VLANs, vSphere<br>
-      <strong>Criteria:</strong> Complete all the modules within the Network Virtualization Concepts Course.<br>
+      <strong>Description:</strong> The Network Virtualization Concepts badge holder is an entry level professional that has the basic understanding of network virtualization, the... <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">Read more here</a><br>
+      <strong>Skills:</strong> NSX, SDDC, SDN, Software-Defined Data Center, Switches<br>
+      <strong>Criteria:</strong> ('Complete all the modules within the Network Virtualization Concepts Course.', None) <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1792,9 +15239,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">IT Academy: Cloud and Virtualization Concepts - Broadcom</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Cloud and Virtualization provides the end user with the knowledge... Read more <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">here</a><br>
-      <strong>Skills:</strong> Cloud, Data Center, DRS, ESXi, Fusion, HA, Hybrid Cloud, Hypervisor, IaaS, PaaS, Private Cloud, Public Cloud, SaaS, Snapshots, Storage, Vcenter, Virtualization, vMotion, vSphere, Workstation<br>
-      <strong>Criteria:</strong> Complete all the modules associated with the Cloud and Virtualization Basics Course.<br>
+      <strong>Description:</strong> Cloud and Virtualization provides the end user with the knowledge needed to start a career in the digital world. This... <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">Read more here</a><br>
+      <strong>Skills:</strong> Cloud, Data Center, DRS, ESXi, Fusion<br>
+      <strong>Criteria:</strong> ('Complete all the modules associated with the Cloud and Virtualization Basics Course.', None) <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1828,9 +15275,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Camunda Knowledge - Agentic Orchestration - Camunda</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Camunda Knowledge - Agentic Orchestration badge have... Read more <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">here</a><br>
+      <strong>Description:</strong> Earners of the Camunda Knowledge - Agentic Orchestration badge have demonstrated proficiency in using Camunda to model, deploy & manage... <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Read more here</a><br>
       <strong>Skills:</strong> Agentic, AI Agents, BPMN, Camunda, Process Orchestration<br>
-      <strong>Criteria:</strong> Completion of the Agentic Orchestration Learning Path in Camunda Academy and the associated assessment.<br>
+      <strong>Criteria:</strong> ('Completion of the Agentic Orchestration Learning Path in Camunda Academy and the associated assessment.', None) <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -1843,9 +15290,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">Camunda Knowledge - DMN - Camunda</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Camunda Knowledge - DMN badge have demonstrated... Read more <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">here</a><br>
+      <strong>Description:</strong> Earners of the Camunda Knowledge - DMN badge have demonstrated proficiency in using Decision Model and Notation (DMN) to model,... <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">Read more here</a><br>
       <strong>Skills:</strong> Camunda, Decision Model & Notation, DMN<br>
-      <strong>Criteria:</strong> Completion of the DMN Learning Path in Camunda Academy and the associated assessment. Completion of an Instructor Led, DMN course and the associated assessment.<br>
+      <strong>Criteria:</strong> Completion of the DMN Learning Path in Camunda Academy and the associated assessment. Completion of an Instructor Led, DMN course... <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -1879,9 +15326,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Celonis Foundations - Celonis</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The earner of this badge has demonstrated a profound interest... Read more <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">here</a><br>
-      <strong>Skills:</strong> Celonis Platform, Process Analysis, Process Automation, Process Improvement, Process Intelligence, Process Mining, Process Monitoring<br>
-      <strong>Criteria:</strong> Complete the Celonis Kickstarter course OR Complete the Introduction to Process Mining course<br>
+      <strong>Description:</strong> The earner of this badge has demonstrated a profound interest in the Celonis Platform. The earner is able to put... <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Read more here</a><br>
+      <strong>Skills:</strong> Celonis Platform, Process Analysis, Process Automation, Process Improvement, Process Intelligence<br>
+      <strong>Criteria:</strong> ('Complete the Celonis Kickstarter course OR Complete the Introduction to Process Mining course', None) <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1894,9 +15341,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Monitor KPIs in Analysis Dashboards - Celonis</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The earner can review and interact with a typical executive/leader... Read more <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">here</a><br>
+      <strong>Description:</strong> The earner can review and interact with a typical executive/leader dashboard. They ca interact with analysis charts to review KPIs... <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Read more here</a><br>
       <strong>Skills:</strong> Celonis Platform, Celonis Process Analyses, Monitoring KPIs, Process Mining, Working with Celonis Analysis and Dashboards<br>
-      <strong>Criteria:</strong> Complete the Monitor KPIs in Analysis Dashboards Training Track<br>
+      <strong>Criteria:</strong> ('Complete the Monitor KPIs in Analysis Dashboards Training Track', None) <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -1909,9 +15356,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Monitor KPIs in Execution Apps - Celonis</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The earner can leverage Celonis Apps to monitor KPIs and... Read more <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">here</a><br>
+      <strong>Description:</strong> The earner can leverage Celonis Apps to monitor KPIs and take immediate action. They can complete tasks in the Management... <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Read more here</a><br>
       <strong>Skills:</strong> Celonis Platform, KPI Monitoring, Process Intelligence<br>
-      <strong>Criteria:</strong> Complete the "Monitor KPIs in Execution Apps" Training Track<br>
+      <strong>Criteria:</strong> ('Complete the "Monitor KPIs in Execution Apps" Training Track', None) <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -2041,9 +15488,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">Prompt Engineering Foundation Learner 2025 - Certiprof</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in... Read more <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">here</a><br>
+      <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in an initial learning activity as part of their certification journey.... <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">Read more here</a><br>
       <strong>Skills:</strong> Commitment, Initiative, Organization, Preparation, Self-learning<br>
-      <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification. 3. Demonstrate an interest in acquiring and validating skills through formative assessments.<br>
+      <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification.... <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2056,9 +15503,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">Scrum Foundation Learner 2025 - Certiprof</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in... Read more <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">here</a><br>
+      <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in an initial learning activity as part of their certification journey.... <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">Read more here</a><br>
       <strong>Skills:</strong> Commitment, Initiative, Organization, Preparation, Self-learning<br>
-      <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification. 3. Demonstrate an interest in acquiring and validating skills through formative assessments.<br>
+      <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification.... <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2071,9 +15518,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">Cybersecurity Awareness Learner 2025 - Certiprof</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in... Read more <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">here</a><br>
+      <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in an initial learning activity as part of their certification journey.... <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">Read more here</a><br>
       <strong>Skills:</strong> Commitment, Initiative, Organization, Preparation, Self-learning<br>
-      <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification. 3. Demonstrate an interest in acquiring and validating skills through formative assessments.<br>
+      <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification.... <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2203,9 +15650,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Chainguard Vulnslayer - Chainguard</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge understand the fundamentals of vulnerability management,... Read more <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">here</a><br>
-      <strong>Skills:</strong> Chainguard Images, Container Security, CVEs, OpenVex, SBOMs, Software Development Life Cycle (SDLC), Software Security, Vulnerability Management<br>
-      <strong>Criteria:</strong> To earn this badge, candidates complete all of the course content, pass all course quizzes with a 100% grade, and submit a final technical or qualitative project that is approved by Chainguard's education team.<br>
+      <strong>Description:</strong> Earners of this badge understand the fundamentals of vulnerability management, its tools, and best practices. They have demonstrated knowledge of... <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Read more here</a><br>
+      <strong>Skills:</strong> Chainguard Images, Container Security, CVEs, OpenVex, SBOMs<br>
+      <strong>Criteria:</strong> To earn this badge, candidates complete all of the course content, pass all course quizzes with a 100% grade, and... <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2218,9 +15665,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Chainguard AI/ML Guardian - Chainguard</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge understand the fundamentals and tools of... Read more <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">here</a><br>
-      <strong>Skills:</strong> Artificial Intelligence, Containers, Cosign, Cybersecurity, Digital Signatures, Machine Learning, Provenance, Software Bill Of Materials, Software Supply Chain Security, Vulnerability Management, Vulnerability Scanning<br>
-      <strong>Criteria:</strong> Candidates must complete all seven modules and pass seven module quizzes with a 100% score to receive a badge.<br>
+      <strong>Description:</strong> Earners of this badge understand the fundamentals and tools of software supply chain security for AI/ML development. They have demonstrated... <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Read more here</a><br>
+      <strong>Skills:</strong> Artificial Intelligence, Containers, Cosign, Cybersecurity, Digital Signatures<br>
+      <strong>Criteria:</strong> ('Candidates must complete all seven modules and pass seven module quizzes with a 100% score to receive a badge.', None) <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2233,9 +15680,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Chainguard Container Crusader - Chainguard</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This credential indicates that the recipient has completed all seven... Read more <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">here</a><br>
+      <strong>Description:</strong> This credential indicates that the recipient has completed all seven courses in the Complete Guide to Chainguard Images, demonstrating expertise... <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Read more here</a><br>
       <strong>Skills:</strong> Cloud Computing, Containers, DevOps, InfoSec<br>
-      <strong>Criteria:</strong> A seven-course learning path on Chainguard Container Images.<br>
+      <strong>Criteria:</strong> ('A seven-course learning path on Chainguard Container Images.', None) <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -2269,9 +15716,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Introduction to Modern AI - Cisco</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the... Read more <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">here</a><br>
-      <strong>Skills:</strong> AI Learning, Chatbots, Computer Vision, Machine Learning, Machine Translation, Prompting Tips<br>
-      <strong>Criteria:</strong> Achieve a passing score on a comprehensive exam<br>
+      <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the Introduction to Modern AI course. The learner will have practiced... <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Read more here</a><br>
+      <strong>Skills:</strong> AI Learning, Chatbots, Computer Vision, Machine Learning, Machine Translation<br>
+      <strong>Criteria:</strong> ('Achieve a passing score on a comprehensive exam', None) <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2284,9 +15731,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Engaging Stakeholders for Success - Cisco</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the... Read more <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">here</a><br>
+      <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the Engaging Stakeholders for Success course and achieved the student level... <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Read more here</a><br>
       <strong>Skills:</strong> Active Listening, Interview Techniques, Stakeholders, Trust<br>
-      <strong>Criteria:</strong> A passing score of at least 70% on a comprehensive test<br>
+      <strong>Criteria:</strong> ('A passing score of at least 70% on a comprehensive test', None) <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2299,9 +15746,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Creating Compelling Reports - Cisco</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the... Read more <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">here</a><br>
+      <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the Creating Compelling Reports course and achieved this student level credential.... <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Read more here</a><br>
       <strong>Skills:</strong> Determining Relevance, Report Audience, Report Purpose, Report Tone<br>
-      <strong>Criteria:</strong> A passing score of at least 70% on a comprehensive test<br>
+      <strong>Criteria:</strong> ('A passing score of at least 70% on a comprehensive test', None) <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2376,9 +15823,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">Getting Started with ClickHouse - ClickHouse</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Getting Started with ClickHouse course completion badge... Read more <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">here</a><br>
+      <strong>Description:</strong> Earners of the Getting Started with ClickHouse course completion badge understand what ClickHouse is used for, how to get ClickHouse... <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">Read more here</a><br>
       <strong>Skills:</strong> ClickHouse, ClickHouse Cloud, ClickHouse DBMS<br>
-      <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz at the end of the course.<br>
+      <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz... <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2391,9 +15838,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">ClickHouse Architecture - ClickHouse</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the ClickHouse Architecture course completion badge understand what... Read more <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">here</a><br>
+      <strong>Description:</strong> Earners of the ClickHouse Architecture course completion badge understand what a MergeTree table engine in ClickHouse is and how it... <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">Read more here</a><br>
       <strong>Skills:</strong> ClickHouse, ClickHouse Cloud, ClickHouse DBMS<br>
-      <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz at the end of the course.<br>
+      <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz... <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -2406,9 +15853,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">Modeling Data for ClickHouse - ClickHouse</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Modeling Data course completion badge know how... Read more <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">here</a><br>
+      <strong>Description:</strong> Earners of the Modeling Data course completion badge know how to create tables in ClickHouse and understand the various built-in... <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">Read more here</a><br>
       <strong>Skills:</strong> ClickHouse, ClickHouse Cloud, ClickHouse DBMS<br>
-      <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz at the end of the course.<br>
+      <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz... <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2637,9 +16084,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">CompTIA A+ Certification - CompTIA</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> CompTIA A+ earners who certified between January 1993 and December... Read more <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">here</a><br>
+      <strong>Description:</strong> CompTIA A+ earners who certified between January 1993 and December 31, 2010, have an A+ considered good-for-life (GFL). It does... <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br>
       <strong>Skills:</strong> CompTIA A+, Computer Repair, PC Upgrades, Printer Maintenance, Windows Operating Systems<br>
-      <strong>Criteria:</strong> Achieved a passing score on the CompTIA A+ exams prior to January 1, 2011<br>
+      <strong>Criteria:</strong> ('Achieved a passing score on the CompTIA A+ exams prior to January 1, 2011', None) <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2652,9 +16099,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">CompTIA A+ ce Certification - CompTIA</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the CompTIA A+ certification are proven problem solvers... Read more <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">here</a><br>
-      <strong>Skills:</strong> Backup And Recovery, Cloud Computing, CompTIA A+, Cybersecurity, Help Desk, IT Support, Linux, Mac Support, Mobile Device Support, Networking, Operating Systems (OS), System Configuration (SC), Systems Administration, Technical Support, Troubleshooting, Virtualization<br>
-      <strong>Criteria:</strong> Obtain the recommended experience -- 9-12 months of hands-on tech support experience in the lab or field Achieve a passing score on both CompTIA A+ performance-based exams<br>
+      <strong>Description:</strong> Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
+      <strong>Skills:</strong> Backup And Recovery, Cloud Computing, CompTIA A+, Cybersecurity, Help Desk<br>
+      <strong>Criteria:</strong> Obtain the recommended experience -- 9-12 months of hands-on tech support experience in the lab or field Achieve a passing... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2667,9 +16114,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">CompTIA Security+ ce Certification - CompTIA</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the CompTIA Security+ certification have the knowledge and... Read more <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">here</a><br>
-      <strong>Skills:</strong> Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security, Disaster Recovery Planning, Firewall Configuration, Information Security Management, Malware Identification, Mobile Device Security, Network Security, Security Awareness, Security Configuration, Security Management, Security Policies, Threat Detection, Threat Management<br>
-      <strong>Criteria:</strong> Obtain the recommended experience -- CompTIA Network+ and two years of experience in IT administration with a security focus. Achieve a passing score on the CompTIA Security+ performance-based exam. Complete continuing education requirements for renewal.<br>
+      <strong>Description:</strong> Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br>
+      <strong>Skills:</strong> Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security<br>
+      <strong>Criteria:</strong> Obtain the recommended experience -- CompTIA Network+ and two years of experience in IT administration with a security focus. Achieve... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2703,9 +16150,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Navigating the Developer Data Use Policy - Data Protocol</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Explore key components of Meta’s Developer Data Use Policy. Learning... Read more <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">here</a><br>
+      <strong>Description:</strong> Explore key components of Meta’s Developer Data Use Policy. Learning to understand the policy, from data collection to data deletion,... <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Read more here</a><br>
       <strong>Skills:</strong> App Lab Review, Developer Data Use Policy, Meta Horizon<br>
-      <strong>Criteria:</strong> Learners must complete Navigating the Developer Data Use Policy and pass the final assessment to earn this badge.<br>
+      <strong>Criteria:</strong> ('Learners must complete Navigating the Developer Data Use Policy and pass the final assessment to earn this badge.', None) <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2718,9 +16165,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">Content Moderation & Reporting Compliance - Data Protocol</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Code of Conduct for Virtual Experiences (CCVE) demonstrates your... Read more <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">here</a><br>
+      <strong>Description:</strong> The Code of Conduct for Virtual Experiences (CCVE) demonstrates your and Meta's commitment to creating a platform our shared users... <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">Read more here</a><br>
       <strong>Skills:</strong> Code of Conduct for Virtual Experiences, Content Moderation, Meta Horizon<br>
-      <strong>Criteria:</strong> The Code of Conduct for Virtual Experiences (CCVE) demonstrates your and Meta's commitment to creating a platform our shared users can trust. This course walks you through your compliance requirements, and tips for tailoring your code of conduct to best suit your community.<br>
+      <strong>Criteria:</strong> The Code of Conduct for Virtual Experiences (CCVE) demonstrates your and Meta's commitment to creating a platform our shared users... <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2733,9 +16180,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">Completing Age Group Self-Certification - Data Protocol</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Learn how to self-certify which age group your app on... Read more <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">here</a><br>
+      <strong>Description:</strong> Learn how to self-certify which age group your app on the Meta Horizon platform is intended for and why it... <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">Read more here</a><br>
       <strong>Skills:</strong> Age Group Self-Certification, Meta Horizon, Mixed Ages<br>
-      <strong>Criteria:</strong> Learn how to self-certify which age group your app on the Meta Quest platform is intended for and why it matters.<br>
+      <strong>Criteria:</strong> Learn how to self-certify which age group your app on the Meta Quest platform is intended for and why it... <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2854,9 +16301,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">data.world Foundations - data.world</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of data.world Foundations have a fundamental understanding of concepts... Read more <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">here</a><br>
-      <strong>Skills:</strong> Data, Data Elements, Data Governance, Data Literacy, Data Management, Information Cataloging<br>
-      <strong>Criteria:</strong> Complete the data.world Foundations Learning Path in data.world University. Pass an assessment covering foundational topics.<br>
+      <strong>Description:</strong> Earners of data.world Foundations have a fundamental understanding of concepts such as 'data catalog', while gaining an understanding of the... <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">Read more here</a><br>
+      <strong>Skills:</strong> Data, Data Elements, Data Governance, Data Literacy, Data Management<br>
+      <strong>Criteria:</strong> ('Complete the data.world Foundations Learning Path in data.world University. Pass an assessment covering foundational topics.', None) <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2869,9 +16316,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">data.world End User Certification - data.world</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the data.world End User Certification have an understanding... Read more <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">here</a><br>
+      <strong>Description:</strong> Earners of the data.world End User Certification have an understanding of browsing, searching, and providing valuable feedback within the data.world... <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">Read more here</a><br>
       <strong>Skills:</strong> Datasets, Information Access, Information Cataloging, Information Discovery, Information Retrieval<br>
-      <strong>Criteria:</strong> Complete the data.world End User Learning Path in data.world University. Pass an assessment covering foundational and navigation topics.<br>
+      <strong>Criteria:</strong> ('Complete the data.world End User Learning Path in data.world University. Pass an assessment covering foundational and navigation topics.', None) <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2884,9 +16331,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">data.world Steward Certification - data.world</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the data.world Steward Certification have an understanding of... Read more <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">here</a><br>
-      <strong>Skills:</strong> Collection Development, Data Collection, Data Curation, Data Management, Data Quality, Data Security, Data Stewardship, Information Cataloging<br>
-      <strong>Criteria:</strong> Complete the data.world Steward Learning Path in data.world University. Pass an assessment covering enrichment and curation topics.<br>
+      <strong>Description:</strong> Earners of the data.world Steward Certification have an understanding of curation and enrichment within their data catalog. They know how... <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">Read more here</a><br>
+      <strong>Skills:</strong> Collection Development, Data Collection, Data Curation, Data Management, Data Quality<br>
+      <strong>Criteria:</strong> ('Complete the data.world Steward Learning Path in data.world University. Pass an assessment covering enrichment and curation topics.', None) <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -2939,9 +16386,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Cloud Security Engineer - Cloud SIEM Learning Path - Datadog</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge is earned after completion of the Cloud Security... Read more <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">here</a><br>
-      <strong>Skills:</strong> Cloud SIEM, Datadog, Incident Management, Incident Response, Log Management, Logs<br>
-      <strong>Criteria:</strong> Cloud Security Engineer - Cloud SIEM Learning Path<br>
+      <strong>Description:</strong> This badge is earned after completion of the Cloud Security Engineer - Cloud SIEM learning path on the Datadog Learning... <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Read more here</a><br>
+      <strong>Skills:</strong> Cloud SIEM, Datadog, Incident Management, Incident Response, Log Management<br>
+      <strong>Criteria:</strong> ('Cloud Security Engineer - Cloud SIEM Learning Path', None) <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2954,9 +16401,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Backend Engineer Learning Path - Datadog</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge is earned after completion of the Backend Engineer... Read more <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">here</a><br>
-      <strong>Skills:</strong> APM, Application Performance Monitoring, Backend Engineer, Cloud Network Monitoring, CNM, Datadog, Infrastructure, Log Management, Logs, Metrics, Traces<br>
-      <strong>Criteria:</strong> Backend Engineer Learning Path<br>
+      <strong>Description:</strong> This badge is earned after completion of the Backend Engineer learning path on the Datadog Learning Center. The learning path... <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Read more here</a><br>
+      <strong>Skills:</strong> APM, Application Performance Monitoring, Backend Engineer, Cloud Network Monitoring, CNM<br>
+      <strong>Criteria:</strong> ('Backend Engineer Learning Path', None) <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -2969,9 +16416,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Site Reliability Engineer Learning Path - Datadog</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge is earned after completion of the Site Reliability... Read more <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">here</a><br>
-      <strong>Skills:</strong> APM, Application Performance Monitoring, Cloud Network Monitoring, CNM, Datadog, Incident Management, Incident Response, Infrastructure, Service Level Objectives, Site Reliability Engineer, SLO, SRE<br>
-      <strong>Criteria:</strong> Site Reliability Engineer Learning Path<br>
+      <strong>Description:</strong> This badge is earned after completion of the Site Reliability Engineer learning path on the Datadog Learning Center. The learning... <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Read more here</a><br>
+      <strong>Skills:</strong> APM, Application Performance Monitoring, Cloud Network Monitoring, CNM, Datadog<br>
+      <strong>Criteria:</strong> ('Site Reliability Engineer Learning Path', None) <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3145,9 +16592,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">Dremio Verified Reflections Specialist - Dremio</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Dremio Verified Reflections Specialist has demonstrated a capacity to... Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">here</a><br>
+      <strong>Description:</strong> The Dremio Verified Reflections Specialist has demonstrated a capacity to learn, understand and critically think about Data Reflections in Dremio.... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">Read more here</a><br>
       <strong>Skills:</strong> Data Products, Dremio, Query Acceleration<br>
-      <strong>Criteria:</strong> Run faster queries, consume less resources, and improve your overall performance. Learn about data reflections and begin using them right away! This course builds on our Data Reflection Fundamentals and dives deeper into advanced topics around creating, editing, and managing reflections so you can be the enterprise authority on Reflections in your organization.<br>
+      <strong>Criteria:</strong> Run faster queries, consume less resources, and improve your overall performance. Learn about data reflections and begin using them right... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3160,9 +16607,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">Dremio Verified Data Product Developer - Dremio</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Dremio Verified Data Product Developer has demonstrated a capacity... Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">here</a><br>
+      <strong>Description:</strong> The Dremio Verified Data Product Developer has demonstrated a capacity to learn, understand and critically think about cutting edge Data... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">Read more here</a><br>
       <strong>Skills:</strong> Data Lakehouses, Data Products, Dremio<br>
-      <strong>Criteria:</strong> The Dremio Fundamentals course covers the basics of working with the Dremio UI as well as the associated Data Lakehouse concepts. The Data Product Fundamentals course ...<br>
+      <strong>Criteria:</strong> The Dremio Fundamentals course covers the basics of working with the Dremio UI as well as the associated Data Lakehouse... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3175,9 +16622,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">Dremio Verified Data Analyst - Dremio</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The “Dremio Verified Data Analyst” demonstrates a dedicated interest in... Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">here</a><br>
+      <strong>Description:</strong> The “Dremio Verified Data Analyst” demonstrates a dedicated interest in and capacity to understand and work with Dremio. This individual... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">Read more here</a><br>
       <strong>Skills:</strong> Data Lakehouses, Dremio, SQL<br>
-      <strong>Criteria:</strong> The Dremio Fundamentals course covers the basics of working with the Dremio UI as well as the associated Data Lakehouse concepts. The SQL for Data Analyst course prepares users to write, optimize and execute SQL allowing Data Analysts to bring data together across multiple data sources in Dremio.<br>
+      <strong>Criteria:</strong> The Dremio Fundamentals course covers the basics of working with the Dremio UI as well as the associated Data Lakehouse... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3230,9 +16677,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Extreme Fabric - Installation and Configuration - Extreme Networks</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge can deploy Extreme Networks Fabric Connect... Read more <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">here</a><br>
-      <strong>Skills:</strong> ERS, Extreme Campus Fabric, Fabric Connect, Fabric Technology, Networking, Network Installation, Universal Hardware, VOSS, VSN<br>
-      <strong>Criteria:</strong> Create an Extreme Academy - Certifications account Book and attend course Take Assessment on Extreme Academy - Certifications<br>
+      <strong>Description:</strong> Earners of this badge can deploy Extreme Networks Fabric Connect solutions based on reference architectures from Extreme Networks customer scenarios.Upon... <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Read more here</a><br>
+      <strong>Skills:</strong> ERS, Extreme Campus Fabric, Fabric Connect, Fabric Technology, Networking<br>
+      <strong>Criteria:</strong> ('Create an Extreme Academy - Certifications account Book and attend course Take Assessment on Extreme Academy - Certifications', None) <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3245,9 +16692,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">ExtremeCloud SD-WAN - Installation and Configuration - Extreme Networks</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge will be able to explain the... Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">here</a><br>
-      <strong>Skills:</strong> Application Performance, Connectivity, Deploy, ExtremeCloud SD-WAN Solution, Installation And Configuration, Monitor application traffic, Onboarding Strategies, SD-WAN, Security<br>
-      <strong>Criteria:</strong> Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications<br>
+      <strong>Description:</strong> Earners of this badge will be able to explain the architecture of the ExtremeCloud SD-WAN solution including the key solution... <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">Read more here</a><br>
+      <strong>Skills:</strong> Application Performance, Connectivity, Deploy, ExtremeCloud SD-WAN Solution, Installation And Configuration<br>
+      <strong>Criteria:</strong> ('Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications', None) <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3260,9 +16707,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">ExtremeWireless Cloud - Management - Extreme Networks</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge will have the knowledge to manage... Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">here</a><br>
-      <strong>Skills:</strong> ExtremeWireless Cloud, Logs, ML Insights, Network Management, SNMP, Wireless Network Management, Wireless Networks<br>
-      <strong>Criteria:</strong> Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications<br>
+      <strong>Description:</strong> Earners of this badge will have the knowledge to manage the wireless network using ExtremeCloud™ IQ. Upon completion, they will... <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">Read more here</a><br>
+      <strong>Skills:</strong> ExtremeWireless Cloud, Logs, ML Insights, Network Management, SNMP<br>
+      <strong>Criteria:</strong> ('Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications', None) <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3345,7 +16792,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Google Cloud (8)
+### Google Cloud (10)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -3354,7 +16801,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-8) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 8 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
+| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-10) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 10 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -3370,9 +16817,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Prompt Design in Vertex AI Skill Badge - Google Cloud</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Complete the introductory Prompt Design in Vertex AI skill badge... Read more <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">here</a><br>
+      <strong>Description:</strong> Complete the introductory Prompt Design in Vertex AI skill badge to demonstrate skills in the following: prompt engineering, image analysis,... <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Read more here</a><br>
       <strong>Skills:</strong> Artificial Intelligence (AI), Gemini APIs, Generative AI, Prompt Engineering<br>
-      <strong>Criteria:</strong> Successful completion of the hands-on challenge lab<br>
+      <strong>Criteria:</strong> ('Successful completion of the hands-on challenge lab', None) <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3385,9 +16832,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Build Real World AI Applications with Gemini and Imagen Skill Badge - Google Cloud</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Complete the introductory Build Real World AI Applications with Gemini... Read more <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">here</a><br>
+      <strong>Description:</strong> Complete the introductory Build Real World AI Applications with Gemini and Imagen skill badge to demonstrate skills in the following:... <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Read more here</a><br>
       <strong>Skills:</strong> Gemini, Imagen, Natural Language Processing (NLP), Vertex AI<br>
-      <strong>Criteria:</strong> Successful completion of the hands-on challenge lab<br>
+      <strong>Criteria:</strong> ('Successful completion of the hands-on challenge lab', None) <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3400,16 +16847,16 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Get Started with Pub/Sub Skill Badge - Google Cloud</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Complete the Get Started with Pub/Sub skill badge to demonstrate... Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">here</a><br>
+      <strong>Description:</strong> Complete the Get Started with Pub/Sub skill badge to demonstrate skills in the following: how to use Pub/Sub through the... <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Read more here</a><br>
       <strong>Skills:</strong> Cloud Scheduler, Pub/sub, Pub/sub lite<br>
-      <strong>Criteria:</strong> Successful completion of the hands-on challenge lab<br>
+      <strong>Criteria:</strong> ('Successful completion of the hands-on challenge lab', None) <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
 </table>
 
-<details><summary>More Google Cloud (5)</summary>
+<details><summary>More Google Cloud (7)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -3470,6 +16917,28 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/using-the-google-cloud-speech-api">here</a><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/use-apis-to-work-with-cloud-storage-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/0c6a247d-8bbd-407b-8f83-dd863d251587/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/use-apis-to-work-with-cloud-storage-skill-badge">Use APIs to Work with Cloud Storage Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/use-apis-to-work-with-cloud-storage-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge">The Basics of Google Cloud Compute Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge">here</a><br>
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -3499,9 +16968,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">Fast start - HPE Cloud computing foundation - Hewlett Packard Enterprise</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have successfully completed the Cloud computing... Read more <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">here</a><br>
-      <strong>Skills:</strong> Cloud Architectures, Containers, DevOps, Operational Models, Orchestration, Services, Virtualization<br>
-      <strong>Criteria:</strong> Recommendation of at least 1-year of baseline knowledge and experience working with cloud computing, IT/Cloud operational processes and services, ITIL 4, security, virtualization, containers, and/or HPE's GreenLake Hybrid Cloud operating model. Complete Cloud computing foundation (HL973S or HL973AAE) curriculum. Complete the H38BPAAE: Skills Assessment: Cloud computing foundation - Fast start badge This badge may also be earned with a Bronze, Silver, or Gold HPE Digital Learner subscription.<br>
+      <strong>Description:</strong> Earners of this badge have successfully completed the Cloud computing foundation curriculum which provides baseline fundamentals around the purpose, terminology,... <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">Read more here</a><br>
+      <strong>Skills:</strong> Cloud Architectures, Containers, DevOps, Operational Models, Orchestration<br>
+      <strong>Criteria:</strong> Recommendation of at least 1-year of baseline knowledge and experience working with cloud computing, IT/Cloud operational processes and services, ITIL... <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3535,9 +17004,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Developer Introduction to hx Renew - Hyperexponential</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the... Read more <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">here</a><br>
+      <strong>Description:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the fundamentals of building, managing, and publishing pricing tools in hx... <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Read more here</a><br>
       <strong>Skills:</strong> hx Renew, Insurance modelling, Python<br>
-      <strong>Criteria:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the fundamentals of building, managing, and publishing pricing tools in hx Renew using Python and platform best practices.<br>
+      <strong>Criteria:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the fundamentals of building, managing, and publishing pricing tools in hx... <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3550,9 +17019,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">An Introduction to the hyperexponential Partner Program - Hyperexponential</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This course introduces the hx Partner Program and outlines how... Read more <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">here</a><br>
+      <strong>Description:</strong> This course introduces the hx Partner Program and outlines how we collaborate with partners to deliver value through hx Renew.... <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">Read more here</a><br>
       <strong>Skills:</strong> hx Renew, hyperexponential, Insurance<br>
-      <strong>Criteria:</strong> Earned for the completion of hyperexponential's 'An Introduction to the hyperexponential Partner Program' course.<br>
+      <strong>Criteria:</strong> ("Earned for the completion of hyperexponential's 'An Introduction to the hyperexponential Partner Program' course.", None) <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3586,9 +17055,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Big Data Foundations - Level 1 - IBM</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge earner has a basic understanding of Big Data... Read more <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">here</a><br>
+      <strong>Description:</strong> This badge earner has a basic understanding of Big Data concepts and their applications to gain insight for providing better... <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Read more here</a><br>
       <strong>Skills:</strong> Big Data, Hadoop, PWID-B0257400<br>
-      <strong>Criteria:</strong> Satisfactory course completion: Big Data 101<br>
+      <strong>Criteria:</strong> ('Satisfactory course completion: Big Data 101', None) <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3601,9 +17070,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">Quantum-Safe Encryption Essentials - IBM</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge earner can explain the need for quantum-safe technologies... Read more <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">here</a><br>
-      <strong>Skills:</strong> Cryptography, Cyber Resiliency, Data Security, Encryption, IBM Quantum Safe, PWID-B0793200, Quantum Safe, Security<br>
-      <strong>Criteria:</strong> Successfully complete the course: 'Fundamentals of Encryption & Quantum-Safe Techniques' on Cognitive Class. Receiving a passing score on the final assessment test.<br>
+      <strong>Description:</strong> This badge earner can explain the need for quantum-safe technologies to keep data, systems, and IT infrastructure safe. They understand... <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">Read more here</a><br>
+      <strong>Skills:</strong> Cryptography, Cyber Resiliency, Data Security, Encryption, IBM Quantum Safe<br>
+      <strong>Criteria:</strong> Successfully complete the course: 'Fundamentals of Encryption & Quantum-Safe Techniques' on Cognitive Class. Receiving a passing score on the final... <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3616,9 +17085,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">Data Science for Business - Level 1 - IBM</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge earner understands the relationship between collection and dissemination... Read more <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">here</a><br>
-      <strong>Skills:</strong> Data Privacy, Data Science, Ethics, Government, IT Security, PWID-B0485900<br>
-      <strong>Criteria:</strong> Successful completion of the course "Data Privacy".<br>
+      <strong>Description:</strong> This badge earner understands the relationship between collection and dissemination of data in technology. The individual also understands the public... <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">Read more here</a><br>
+      <strong>Skills:</strong> Data Privacy, Data Science, Ethics, Government, IT Security<br>
+      <strong>Criteria:</strong> ('Successful completion of the course "Data Privacy".', None) <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3682,9 +17151,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Getting Started with Artificial Intelligence - IBM SkillsBuild</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This credential earner demonstrates a foundational understanding of Artificial Intelligence... Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">here</a><br>
-      <strong>Skills:</strong> AI Applications, Artificial Intelligence, Data Structures, Generative AI, Machine Learning, Prompt Tuning, PWID-B0924900, Reinforcement Learning, Supervised Learning, Unsupervised Learning<br>
-      <strong>Criteria:</strong> Complete Getting Started with Artificial Intelligence, a prescribed set of courses, designed by IBM. Complete all the assessments with a score of 80% or higher. This badge is only available to registered users who are working directly with organizations as part of the IBM SkillsBuild program.<br>
+      <strong>Description:</strong> This credential earner demonstrates a foundational understanding of Artificial Intelligence concepts and processes, including common applications of AI, and generative... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Read more here</a><br>
+      <strong>Skills:</strong> AI Applications, Artificial Intelligence, Data Structures, Generative AI, Machine Learning<br>
+      <strong>Criteria:</strong> Complete Getting Started with Artificial Intelligence, a prescribed set of courses, designed by IBM. Complete all the assessments with a... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3697,9 +17166,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Generative AI in Action - IBM SkillsBuild</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This credential earner has applied technical knowledge of principles of... Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">here</a><br>
-      <strong>Skills:</strong> AI Ethics, Artificial Intelligence, Decoders, Encoders, Foundation Models, Generative AI, Prompt Engineering, PWID-B0916100, Scripting, Sentiment Analysis, Tokenization, Transformers<br>
-      <strong>Criteria:</strong> Complete Generative AI, a prescribed set of courses, designed by IBM. Complete the end-of-course assessments with a score of 80% or higher. This badge is only available to registered users who are working directly with organizations as part of the IBM SkillsBuild program.<br>
+      <strong>Description:</strong> This credential earner has applied technical knowledge of principles of generative AI, prompt engineering techniques, and Python libraries. The individual... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Read more here</a><br>
+      <strong>Skills:</strong> AI Ethics, Artificial Intelligence, Decoders, Encoders, Foundation Models<br>
+      <strong>Criteria:</strong> Complete Generative AI, a prescribed set of courses, designed by IBM. Complete the end-of-course assessments with a score of 80%... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -3712,9 +17181,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Journey to Cloud: Envisioning Your Solution - IBM SkillsBuild</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This credential earner demonstrates knowledge and understanding of the digital... Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">here</a><br>
-      <strong>Skills:</strong> Agile Practices, API, Application Deployment, Application Testing, Business Framing, Cloud Adoption, Cloud Application Pilot, Cloud Computing, Cloud Migration, Digital Transformation, Digital Transformation Drivers, Empathy Mapping, Enterprise Design Thinking, Hybrid Cloud, IaaS, IBM Code Engine, IBM Garage Methodology, Legacy IT Architecture, Microservices, Minimal Viable Product, PaaS, Private Cloud, Public Cloud, PWID-B0628500, SaaS<br>
-      <strong>Criteria:</strong> Complete the self-paced online course Journey to Cloud: Envisioning Your Solution. Pass the final course assessment.<br>
+      <strong>Description:</strong> This credential earner demonstrates knowledge and understanding of the digital transformation drivers made possible by cloud technologies and services. This... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Read more here</a><br>
+      <strong>Skills:</strong> Agile Practices, API, Application Deployment, Application Testing, Business Framing<br>
+      <strong>Criteria:</strong> ('Complete the self-paced online course Journey to Cloud: Envisioning Your Solution. Pass the final course assessment.', None) <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3833,9 +17302,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">aiCast 101 - Ikigai Labs</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has demonstrated the ability to utilize the... Read more <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">here</a><br>
-      <strong>Skills:</strong> Artificial Intelligence (AI), Data Science, Forecasting, Generative AI, Machine Learning (ML), Tabular Data, Time Series<br>
-      <strong>Criteria:</strong> Complete the 2-hour aiCast 101 course including hands-on exercises in the Ikigai platform.<br>
+      <strong>Description:</strong> The badge earner has demonstrated the ability to utilize the Ikigai platform through preparing data and generating a forecast using... <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">Read more here</a><br>
+      <strong>Skills:</strong> Artificial Intelligence (AI), Data Science, Forecasting, Generative AI, Machine Learning (ML)<br>
+      <strong>Criteria:</strong> ('Complete the 2-hour aiCast 101 course including hands-on exercises in the Ikigai platform.', None) <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3848,9 +17317,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">CDII - Making Predictions - Ikigai Labs</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has demonstrated the ability to build an... Read more <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">here</a><br>
+      <strong>Description:</strong> The badge earner has demonstrated the ability to build an end-to-end AI solution with a real use-case and datasets. They... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">Read more here</a><br>
       <strong>Skills:</strong> AI Applications, Artificial Intelligence (AI), Data Science, Machine Learning (ML), Predictive Flows<br>
-      <strong>Criteria:</strong> Completed a 2-hour course introducing how to build an end-to-end AI solution within the Ikigai platform. Created a prediction flow by uploading datasets and building a data stitching flow.<br>
+      <strong>Criteria:</strong> Completed a 2-hour course introducing how to build an end-to-end AI solution within the Ikigai platform. Created a prediction flow... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3863,9 +17332,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">CDII - Making an AI App - Ikigai Labs</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has demonstrated the ability to build an... Read more <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">here</a><br>
-      <strong>Skills:</strong> AI Applications, Artificial Intelligence (AI), Dashboards, Data Science, Data Visualization, Machine Learning (ML), Predictive Flows<br>
-      <strong>Criteria:</strong> Completed a 2-hour course introducing how to build an embedded AI App solution within the Ikigai platform. Created a dashboard or a visual interface for their app by building charts from flows. Created dashboard filters to refine data visualization and demonstrated the ability to run a flow through the dashboard with user input.<br>
+      <strong>Description:</strong> The badge earner has demonstrated the ability to build an end-to-end AI solution with a real use-case and datasets. They... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">Read more here</a><br>
+      <strong>Skills:</strong> AI Applications, Artificial Intelligence (AI), Dashboards, Data Science, Data Visualization<br>
+      <strong>Criteria:</strong> Completed a 2-hour course introducing how to build an embedded AI App solution within the Ikigai platform. Created a dashboard... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3940,9 +17409,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/intel/badge/cloud-devops">Cloud DevOps - Intel</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have demonstrated advanced knowledge, understanding, and... Read more <a href="https://www.credly.com/org/intel/badge/cloud-devops">here</a><br>
-      <strong>Skills:</strong> Agile, Application of DevOps for the Azure Cloud Platform, Application of DevOps for the Google Cloud Platform, artifacts, AWS Cloud Development Kit, Azure Cloud, CI/CD Pipeline, CI/CD security, Cloud Developer Operations, Code, Containers, Containers, Artifact Registries and Scan/Test Tools for Dev Ops, Continuous Delivery (CD), Continuous Integration and Continuous Delivery (CI/CD) Pipeline for DevOps, Continuous Integration (CI), Culture, development community, DevOps, DevOps ecosystem, DevOps Pipeline, DevSecOps, Feedback Loops, GCP Development tools., Git, GitHub, Google Cloud Platform, high-trust teams, IaC Security, Infrastructure-as-code, Infrastructure as Code within DevOps, Practical Applications for DevOps, registries, scan/test tools, Software Development Lifecycle (SDLC), Source Control Systems, Source Control Systems in a DevOps, Terraform, The Culture of DevOps, three ways, Value Stream Mapping, Waterfall<br>
-      <strong>Criteria:</strong> Learners must complete 5 hours of training and successfully pass each of the associated course quizzes. Passing score is 80% or better.<br>
+      <strong>Description:</strong> Earners of this badge have demonstrated advanced knowledge, understanding, and proficiency in understanding DevOps and the cultural changes required to... <a href="https://www.credly.com/org/intel/badge/cloud-devops">Read more here</a><br>
+      <strong>Skills:</strong> Agile, Application of DevOps for the Azure Cloud Platform, Application of DevOps for the Google Cloud Platform, artifacts, AWS Cloud Development Kit<br>
+      <strong>Criteria:</strong> Learners must complete 5 hours of training and successfully pass each of the associated course quizzes. Passing score is 80%... <a href="https://www.credly.com/org/intel/badge/cloud-devops">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -3955,9 +17424,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/intel/badge/cloud-principles">Cloud Principles - Intel</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have demonstrated knowledge, understanding, and proficiency... Read more <a href="https://www.credly.com/org/intel/badge/cloud-principles">here</a><br>
-      <strong>Skills:</strong> Application Architecture and Development in the Cloud, Business Considerations Driving Enterprise Cloud Decisions, Cloud Consumption Models, Cloud Hyperscalers, Cloud Industry, Cloud Migration Principles, Cloud Offerings, cloud orchestration, Cloud Services, Enterprise Considerations for Cloud, Software-Defined Networking, Software-Defined Storage, SQL and NoSQL Databases, Virtual Machines and Containers, Virtual Private Cloud, Networking and Security, Workload Placement for the Cloud<br>
-      <strong>Criteria:</strong> Learners must complete at least 4.25 hours of training and successfully pass each of the associated course quizzes. Passing score is 80% or better. Must be an employee of an Intel® Partner Alliance company.<br>
+      <strong>Description:</strong> Earners of this badge have demonstrated knowledge, understanding, and proficiency of the Cloud including Intel® technologies and solutions to be... <a href="https://www.credly.com/org/intel/badge/cloud-principles">Read more here</a><br>
+      <strong>Skills:</strong> Application Architecture and Development in the Cloud, Business Considerations Driving Enterprise Cloud Decisions, Cloud Consumption Models, Cloud Hyperscalers, Cloud Industry<br>
+      <strong>Criteria:</strong> Learners must complete at least 4.25 hours of training and successfully pass each of the associated course quizzes. Passing score... <a href="https://www.credly.com/org/intel/badge/cloud-principles">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3970,9 +17439,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/intel/badge/cloud-deployments">Cloud Deployments - Intel</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have demonstrated knowledge, understanding, and proficiency... Read more <a href="https://www.credly.com/org/intel/badge/cloud-deployments">here</a><br>
-      <strong>Skills:</strong> Cloud Networking, Cloud Orchestration And Automation, Cloud Storage Architectures, Cloud Workload Deployment Strategies, Container Deployment Strategies, Data Platforms, Edge to Cloud, Enterprise Considerations for Cloud, Media, Networking, Security and Risk for the Cloud and On-premise Environments, Software Architectures<br>
-      <strong>Criteria:</strong> Learners must complete at least 5.25 hours of training and successfully pass each of the associated course quizzes. Passing score is 80% or better. Must be an employee of an Intel® Partner Alliance company.<br>
+      <strong>Description:</strong> Earners of this badge have demonstrated knowledge, understanding, and proficiency of the Cloud including designing and implement workloads and solutions... <a href="https://www.credly.com/org/intel/badge/cloud-deployments">Read more here</a><br>
+      <strong>Skills:</strong> Cloud Networking, Cloud Orchestration And Automation, Cloud Storage Architectures, Cloud Workload Deployment Strategies, Container Deployment Strategies<br>
+      <strong>Criteria:</strong> Learners must complete at least 5.25 hours of training and successfully pass each of the associated course quizzes. Passing score... <a href="https://www.credly.com/org/intel/badge/cloud-deployments">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4179,11 +17648,47 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">ISC2 Candidate - ISC2</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> ISC2 Candidates are individuals pursuing or considering a cybersecurity certification.... Read more <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">here</a><br>
+      <strong>Description:</strong> ISC2 Candidates are individuals pursuing or considering a cybersecurity certification. To become a Candidate, the individual must apply online and... <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">Read more here</a><br>
       <strong>Skills:</strong> ISC2 Candidates are part of the diverse, global community of individuals with a desire to create a safe and secure cyber world., ISC2 Candidates are part of the ISC2 pledge to certify one million individuals and as such, have access to foundational education materials to pursue the entry-level Certified in Cybersecurity certification., ISC2 Candidates are pursuing their first ISC2 certification, or gaining the foundational knowledge necessary to join the cybersecurity workforce.<br>
-      <strong>Criteria:</strong> ISC2 Candidates agree to the ISC2 Privacy Policy ISC2 Candidates will create an account with ISC2 and agree to abide by the Code of Ethics After their first year, ISC2 Candidates are required to pay annual dues to maintain status<br>
+      <strong>Criteria:</strong> ISC2 Candidates agree to the ISC2 Privacy Policy ISC2 Candidates will create an account with ISC2 and agree to abide... <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+
+
+### Isovalent (1)
+
+
+<strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
+
+
+
+| Issuing Organization | Description | Credly Badges | Verified | Organization Link |
+|        :---:         |-------------|     :---:     |   :---:  |       :---:       |
+| <img src='https://images.credly.com/size/200x200/images/ff41e983-ef0e-4f20-96d4-5c0daad904a7/blob.png' height='100' /><br>[Isovalent](#isovalent-1) | Isovalent is the creator of Cilium, an eBPF-powered networking, security, and observability platform designed for scalable, secure, and high-performance Kubernetes environments. | 1 | ✅ | [Isovalent](https://www.credly.com/organizations/isovalent/badges) |
+
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">
+        <img src="https://images.credly.com/size/500x500/images/d0e84df5-83ab-438b-b51f-c464c78faa52/tempfile20250605-58-6rrhp1.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">Foundations: Kubernetes Networking & Cilium - Isovalent</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> This badge certifies that the Foundations Getting Started with Kubernetes Networking & Cilium lab by Isovalent has been successfully completed.... <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">Read more here</a><br>
+      <strong>Skills:</strong> Cilium, Kubernetes, Networking<br>
+      <strong>Criteria:</strong> The badge recipient has followed the Foundations: Kubernetes Networking & Cilium lab by Isovalent. The badge recipient has correctly answered... <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
     </td>
   </tr>
 </table>
@@ -4215,9 +17720,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Kong Mesh Foundations - Kong</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Kong Mesh Foundations badge have demonstrated the... Read more <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">here</a><br>
+      <strong>Description:</strong> Earners of the Kong Mesh Foundations badge have demonstrated the competence through a series of modules and lab exercises in... <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Read more here</a><br>
       <strong>Skills:</strong> Kong Mesh Installation, Managing Traffic with Kong Mesh, Securing Kong Mesh<br>
-      <strong>Criteria:</strong> Completed Kong Mesh Foundations Passed knowledge check quiz with 70% or higher<br>
+      <strong>Criteria:</strong> ('Completed Kong Mesh Foundations Passed knowledge check quiz with 70% or higher', None) <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4230,9 +17735,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Kong Gateway Foundations - Kong</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Kong Gateway Foundations badge have demonstrated competence,... Read more <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">here</a><br>
-      <strong>Skills:</strong> Configure Consumers, Configure Plugins, Configure Routes, Configure Services, Declarative Configuration with Deck, Design APIs with Insomnia<br>
-      <strong>Criteria:</strong> Completed Kong Gateway Foundations Passed knowledge check quiz with 70% accuracy or higher.<br>
+      <strong>Description:</strong> Earners of the Kong Gateway Foundations badge have demonstrated competence, through a series of modules and lab exercises, in the... <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Read more here</a><br>
+      <strong>Skills:</strong> Configure Consumers, Configure Plugins, Configure Routes, Configure Services, Declarative Configuration with Deck<br>
+      <strong>Criteria:</strong> ('Completed Kong Gateway Foundations Passed knowledge check quiz with 70% accuracy or higher.', None) <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4266,9 +17771,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Basics in Lucidspark - Lucid Software</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Basics in Lucidspark badge know how to... Read more <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">here</a><br>
+      <strong>Description:</strong> Earners of the Basics in Lucidspark badge know how to build a board, how to collaborate effectively with their team... <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Read more here</a><br>
       <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Virtual Collaboration, Virtual Whiteboarding<br>
-      <strong>Criteria:</strong> Complete every lesson of the Basics in Lucidspark Lucid Training Labs course and pass the final quiz.<br>
+      <strong>Criteria:</strong> ('Complete every lesson of the Basics in Lucidspark Lucid Training Labs course and pass the final quiz.', None) <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4281,9 +17786,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Brainstorming in Lucidspark - Lucid Software</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Brainstorming in Lucidspark badge know how to... Read more <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">here</a><br>
+      <strong>Description:</strong> Earners of the Brainstorming in Lucidspark badge know how to generate new ideas using Lucidspark, how to organize and synthesize... <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Read more here</a><br>
       <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Virtual Collaboration, Virtual Whiteboarding<br>
-      <strong>Criteria:</strong> Complete each lesson in the Brainstorming in Lucidspark Lucid Training Labs course and pass the final quiz.<br>
+      <strong>Criteria:</strong> ('Complete each lesson in the Brainstorming in Lucidspark Lucid Training Labs course and pass the final quiz.', None) <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4296,9 +17801,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Planning in Lucidspark - Lucid Software</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Planning in Lucidspark badge know how to... Read more <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">here</a><br>
-      <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Planning, Project Management, Virtual Collaboration, Virtual Whiteboarding<br>
-      <strong>Criteria:</strong> Complete each lesson in the Planning in Lucidspark Lucid Training Labs course and pass the final quiz.<br>
+      <strong>Description:</strong> Earners of the Planning in Lucidspark badge know how to transform ideas into clear plans using Lucidspark's unique planning features,... <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Read more here</a><br>
+      <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Planning, Project Management<br>
+      <strong>Criteria:</strong> ('Complete each lesson in the Planning in Lucidspark Lucid Training Labs course and pass the final quiz.', None) <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4417,9 +17922,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/make/badge/make-basics">Make Basics - Make</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The earner of this badge has completed all courses within... Read more <a href="https://www.credly.com/org/make/badge/make-basics">here</a><br>
-      <strong>Skills:</strong> Aggregation, Automation, Data, Data Literacy, Data Structures, Functions, No-code<br>
-      <strong>Criteria:</strong> Complete the 'Modules, scheduling, and bundles' course, and the associated assessment. Complete the 'An introduction to data types and data structures' course, and the associated assessment. Complete the 'Transforming data using functions' course, and the associated assessment. Complete the 'An Introduction to Aggregators' course, and the associated assessment. Passed the Make Basics assessment.<br>
+      <strong>Description:</strong> The earner of this badge has completed all courses within Make Basics and expanded their knowledge of several automation themes,... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
+      <strong>Skills:</strong> Aggregation, Automation, Data, Data Literacy, Data Structures<br>
+      <strong>Criteria:</strong> Complete the 'Modules, scheduling, and bundles' course, and the associated assessment. Complete the 'An introduction to data types and data... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4432,9 +17937,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/make/badge/make-foundation.1">Make Foundation - Make</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The earner of this badge has completed all courses within... Read more <a href="https://www.credly.com/org/make/badge/make-foundation.1">here</a><br>
-      <strong>Skills:</strong> Automation, Control Flow, Data Mapping, Filter Design, No-code, Operations, Templates<br>
-      <strong>Criteria:</strong> Complete the 'Setting up my first scenario' course, and the associated assessment. Complete the 'Expanding my first scenario' course, and the associated assessment. Complete the 'Introduction to operations' course, and the associated assessment. Complete the 'Introduction to Make UI' course, and the associated assessment. Passed the Make Foundation assessment.<br>
+      <strong>Description:</strong> The earner of this badge has completed all courses within Make Foundation and created their first automation, demonstrating proficiency in... <a href="https://www.credly.com/org/make/badge/make-foundation.1">Read more here</a><br>
+      <strong>Skills:</strong> Automation, Control Flow, Data Mapping, Filter Design, No-code<br>
+      <strong>Criteria:</strong> Complete the 'Setting up my first scenario' course, and the associated assessment. Complete the 'Expanding my first scenario' course, and... <a href="https://www.credly.com/org/make/badge/make-foundation.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4447,9 +17952,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/make/badge/make-intermediate">Make Intermediate - Make</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The earner of this badge has completed all courses within... Read more <a href="https://www.credly.com/org/make/badge/make-intermediate">here</a><br>
-      <strong>Skills:</strong> Aggregator, Array, Automation, Data, Data Structures, Date Manipulation, Directive, Error Handling, Functions, get(), HTTP, HTTP Requests, JSON, map(), No-code, URL query, Webhooks<br>
-      <strong>Criteria:</strong> Complete the 'Introduction to Iterators and Array aggregators' course, and the associated assessment. Complete the 'Using get() and map() functions' course, and the associated assessment. Complete the 'Introduction to HTTP' course, and the associated assessment. Complete the 'Webhooks' course, and the associated assessment. Complete the 'Error Handling' course, and the associated assessment. Complete the 'Intermediate Functions' course, and the associated assessment. Passed the Make Intermediate assessment.<br>
+      <strong>Description:</strong> The earner of this badge has completed all courses within Make Intermediate and expanded their knowledge of several automation themes,... <a href="https://www.credly.com/org/make/badge/make-intermediate">Read more here</a><br>
+      <strong>Skills:</strong> Aggregator, Array, Automation, Data, Data Structures<br>
+      <strong>Criteria:</strong> Complete the 'Introduction to Iterators and Array aggregators' course, and the associated assessment. Complete the 'Using get() and map() functions'... <a href="https://www.credly.com/org/make/badge/make-intermediate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -4483,9 +17988,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">MongoDB Schema Design Patterns and Antipatterns Skill Badge - MongoDB</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This digital credential validates your knowledge of schema design patterns... Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">here</a><br>
-      <strong>Skills:</strong> Antipatterns, Bloated Documents, Computed, Data Modeling, Extended Reference, Inheritance, MongoDB, Performance, Schema Patterns, Unbounded Arrays<br>
-      <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, identifying and avoiding common antipatterns such as unbounded arrays and bloated documents, and optimizing your MongoDB database for performance and efficiency. Complete and pass a 10-question skill check.<br>
+      <strong>Description:</strong> This digital credential validates your knowledge of schema design patterns like inheritance and computed patterns. It recognizes your understanding of... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">Read more here</a><br>
+      <strong>Skills:</strong> Antipatterns, Bloated Documents, Computed, Data Modeling, Extended Reference<br>
+      <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, identifying and avoiding common... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4498,9 +18003,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">MongoDB Schema Design Optimization Skill Badge - MongoDB</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This digital credential validates your knowledge of optimizing performance by... Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">here</a><br>
-      <strong>Skills:</strong> Archive, Bucket, Data Modeling, MongoDB, Outlier, Performance, Schema Patterns, Sharding, Single Collection, Subset<br>
-      <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, learning to identify and avoid common antipatterns such as unbounded arrays and bloated documents, and optimizing your MongoDB database for performance and efficiency. Complete and pass a 10-question skill check.<br>
+      <strong>Description:</strong> This digital credential validates your knowledge of optimizing performance by applying schema design patterns like single collection and bucket. It... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">Read more here</a><br>
+      <strong>Skills:</strong> Archive, Bucket, Data Modeling, MongoDB, Outlier<br>
+      <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, learning to identify and... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4513,9 +18018,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">MongoDB Advanced Schema Design Patterns and Antipatterns Skill Badge - MongoDB</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This digital credential validates your knowledge of advanced schema design... Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">here</a><br>
-      <strong>Skills:</strong> Antipatterns, Approximation, Case Sensitivity, Data Modeling, Data Normalization, Massive Number of Collections, MongoDB, Schema Lifecycle, Schema Patterns, Schema Versioning, Unnecessary Indexes<br>
-      <strong>Criteria:</strong> Complete 1 hour of training on learning advanced schema design patterns like approximation and schema versioning, managing schema lifecycle changes without downtime and identify performance-impacting antipatterns, and ensuring efficient and scalable database solutions. Complete and pass a 10-question skill check.<br>
+      <strong>Description:</strong> This digital credential validates your knowledge of advanced schema design patterns like approximation and schema versioning. It recognizes your understanding... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">Read more here</a><br>
+      <strong>Skills:</strong> Antipatterns, Approximation, Case Sensitivity, Data Modeling, Data Normalization<br>
+      <strong>Criteria:</strong> Complete 1 hour of training on learning advanced schema design patterns like approximation and schema versioning, managing schema lifecycle changes... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -4590,9 +18095,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">NASA Open Science 101 - NASA Open Science</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> NASA Open Science is a transformative initiative by NASA aimed... Read more <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">here</a><br>
-      <strong>Skills:</strong> Ethos of Open Science, Open Code, Open Data, Open Results, Open Science, Open Tools and Resources<br>
-      <strong>Criteria:</strong> This badge is earned by completing NASA's Open Science 101 training course. Open Science 101 provides a solid foundation on the principles of open science; how to plan, conduct, and participate in open science research projects; legal and ethical considerations when planning open science projects; and open science best practices.<br>
+      <strong>Description:</strong> NASA Open Science is a transformative initiative by NASA aimed at advancing open science practices, promoting transparency, and maximizing the... <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">Read more here</a><br>
+      <strong>Skills:</strong> Ethos of Open Science, Open Code, Open Data, Open Results, Open Science<br>
+      <strong>Criteria:</strong> This badge is earned by completing NASA's Open Science 101 training course. Open Science 101 provides a solid foundation on... <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4626,9 +18131,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">NetApp Accredited Cloud Native Associate - NetApp</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Holding this credential is validation of your ability to explain... Read more <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">here</a><br>
-      <strong>Skills:</strong> Backup monitoring and classification, BlueXP suite of capabilities, Cloud Concepts, Identify 1st party services (ANF, FSX, Google Cloud NetApp Volumes), Methods and differences between public, private, and hybrid cloud deployments, NetApp Cloud Solutions, Tiering<br>
-      <strong>Criteria:</strong> This introductory and foundational accreditation exam validates your ability to recognize and explain how NetApp provides value by managing data in a cloud environment. You should have a background or entry level experience in IT infrastructure.<br>
+      <strong>Description:</strong> Holding this credential is validation of your ability to explain how NetApp provides value by managing data in a cloud... <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">Read more here</a><br>
+      <strong>Skills:</strong> Backup monitoring and classification, BlueXP suite of capabilities, Cloud Concepts, Identify 1st party services (ANF, FSX, Google Cloud NetApp Volumes), Methods and differences between public, private, and hybrid cloud deployments<br>
+      <strong>Criteria:</strong> This introductory and foundational accreditation exam validates your ability to recognize and explain how NetApp provides value by managing data... <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Months<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4662,9 +18167,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Define a Secure Policy Structure - Okta</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Badge earners understand security assurance concepts and how to apply... Read more <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">here</a><br>
+      <strong>Description:</strong> Badge earners understand security assurance concepts and how to apply them in Okta to enhance security. They can explain assurance... <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
       <strong>Skills:</strong> Okta Administration, Okta Policy Framework, Security Assurance, Security Policies<br>
-      <strong>Criteria:</strong> Complete Secure with Assurance course Complete Okta Policy Framework Explained course Pass Assessment: Define a Secure Policy Structure<br>
+      <strong>Criteria:</strong> ('Complete Secure with Assurance course Complete Okta Policy Framework Explained course Pass Assessment: Define a Secure Policy Structure', None) <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -4677,9 +18182,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Implement Security Policies - Okta</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Badge earners understand authentication and MFA in Okta to enhance... Read more <a href="https://www.credly.com/org/okta/badge/implement-security-policies">here</a><br>
+      <strong>Description:</strong> Badge earners understand authentication and MFA in Okta to enhance security. They can select authenticators based on risk, manage MFA... <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
       <strong>Skills:</strong> Authentication Policies, Global Session Policies, MFA, MFA Enrollment, Password Recovery<br>
-      <strong>Criteria:</strong> Complete Set Up MFA Enrollment Complete Set Up Authentication Policies Complete Set Up Global Session Policies Complete Set Up Password Policies with Self-Service Recovery Capability Pass Assessment: Implement Security Policies with MFA<br>
+      <strong>Criteria:</strong> Complete Set Up MFA Enrollment Complete Set Up Authentication Policies Complete Set Up Global Session Policies Complete Set Up Password... <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -4692,9 +18197,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Manage Network Zones - Okta</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Badge earners understand Okta's network security features and how to... Read more <a href="https://www.credly.com/org/okta/badge/manage-network-zones">here</a><br>
-      <strong>Skills:</strong> CIDR, Dynamic Zones, IP Zones, Network Zones, Trusted Proxies, Unauthorized Access<br>
-      <strong>Criteria:</strong> Complete Set Up Basic Network Zones Complete Enhance Network Zone Configurations with Efficiency and Granularity Pass Assessment: Manage Network Zones<br>
+      <strong>Description:</strong> Badge earners understand Okta's network security features and how to configure them to secure access. They can define and configure... <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
+      <strong>Skills:</strong> CIDR, Dynamic Zones, IP Zones, Network Zones, Trusted Proxies<br>
+      <strong>Criteria:</strong> ('Complete Set Up Basic Network Zones Complete Enhance Network Zone Configurations with Efficiency and Granularity Pass Assessment: Manage Network Zones', None) <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -4857,9 +18362,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">OPSWAT Introduction to Critical Infrastructure Protection (ICIP) - OPSWAT</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This certification program introduces users to fundamental critical infrastructure protection... Read more <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">here</a><br>
+      <strong>Description:</strong> This certification program introduces users to fundamental critical infrastructure protection concepts, how to navigate the OPSWAT certification program requirements, and... <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">Read more here</a><br>
       <strong>Skills:</strong> CIP, critical infrastructure, OPSWAT Academy<br>
-      <strong>Criteria:</strong> Users are required to pass a final exam to earn both a certificate and to unlock the OPSWAT OFSA and OECA programs.<br>
+      <strong>Criteria:</strong> Users are required to pass a final exam to earn both a certificate and to unlock the OPSWAT OFSA and... <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4893,9 +18398,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">AI for Product Management - Pendo</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of AI... Read more <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">here</a><br>
+      <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of AI for product management, including leveraging AI throughout the development life... <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">Read more here</a><br>
       <strong>Skills:</strong> AI, Artificial Intelligence, Data Analysis, Product Management<br>
-      <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (90 minutes to complete) and is not proctored (okay to use notes).<br>
+      <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (90 minutes to complete) and is not proctored... <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4908,9 +18413,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">Digital Adoption Certification - Pendo</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of digital... Read more <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">here</a><br>
+      <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of digital adoption, including how to use data to analyze and optimize... <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">Read more here</a><br>
       <strong>Skills:</strong> Change Management, Digital Adoption, Digital Transformation, Product Management<br>
-      <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (90 minutes to complete) and is not proctored (okay to use notes).<br>
+      <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (90 minutes to complete) and is not proctored... <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4923,9 +18428,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">Product Discovery Certification - Pendo</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of product... Read more <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">here</a><br>
+      <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of product discovery, including how to use data and AI for more... <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">Read more here</a><br>
       <strong>Skills:</strong> Product Discovery, Product Management, User Research<br>
-      <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (60 minutes to complete) and is not proctored (okay to use notes).<br>
+      <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (60 minutes to complete) and is not proctored... <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5000,9 +18505,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">2025 Process Documentation - ProcessMaker</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Badge awarded to students upon completion of the Process Documentation... Read more <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">here</a><br>
+      <strong>Description:</strong> ('Badge awarded to students upon completion of the Process Documentation course in the Designer Basics Learning Path at ProcessMaker University.', None) <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">Read more here</a><br>
       <strong>Skills:</strong> Document with AI, Process Documentation, ProcessMaker AI, ProcessMaker Designer<br>
-      <strong>Criteria:</strong> Successfully complete the Process Documentation course. Demonstrate proficiency in documenting processes manually or using AI.<br>
+      <strong>Criteria:</strong> ('Successfully complete the Process Documentation course. Demonstrate proficiency in documenting processes manually or using AI.', None) <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5015,9 +18520,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Data Integrity - ProcessMaker</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Badge awarded to students upon completion of the Data Integrity... Read more <a href="https://www.credly.com/org/processmaker/badge/data-integrity">here</a><br>
+      <strong>Description:</strong> ('Badge awarded to students upon completion of the Data Integrity course in the Developer Learning Path @ ProcessMaker University.', None) <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Read more here</a><br>
       <strong>Skills:</strong> Data Integrity, Environment Variables, ProcessMaker Developer, Vocabularies<br>
-      <strong>Criteria:</strong> Successfully complete the Data Integrity course. Demonstrate proficiency in utilizing Vocabularies and Environment Variables to effectively manage and preserve data within ProcessMaker.<br>
+      <strong>Criteria:</strong> Successfully complete the Data Integrity course. Demonstrate proficiency in utilizing Vocabularies and Environment Variables to effectively manage and preserve data... <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -5030,9 +18535,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">2025 ProcessMaker 101 - ProcessMaker</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Badge awarded to students upon completion of the ProcessMaker 101... Read more <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">here</a><br>
+      <strong>Description:</strong> ('Badge awarded to students upon completion of the ProcessMaker 101 course at ProcessMaker University.', None) <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">Read more here</a><br>
       <strong>Skills:</strong> Basics, ProcessMaker Platform, ProcessMaker User<br>
-      <strong>Criteria:</strong> Successfully complete the ProcessMaker 101 course. Gain an understanding of the core features in ProcessMaker Platform. Familiarize with the fundamental aspects of the ProcessMaker Platform from a Participant's perspective. Navigate the interface and effectively manage your tasks and cases.<br>
+      <strong>Criteria:</strong> Successfully complete the ProcessMaker 101 course. Gain an understanding of the core features in ProcessMaker Platform. Familiarize with the fundamental... <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5338,9 +18843,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Fundamentals of Agile Project Management - Project Management Institute</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of Kickoff’s Fundamentals of Agile Project Management badge have... Read more <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">here</a><br>
-      <strong>Skills:</strong> Backlog Formation, Creating User Stories, Establishing Scrum Environment, Product Planning & Alignment, Sprint Execution, Sprint Planning, Sprint Tracking<br>
-      <strong>Criteria:</strong> Complete Kickoff’s 45-minute Fundamentals of Agile Project Management course, including all activities, lessons, and modules.<br>
+      <strong>Description:</strong> Earners of Kickoff’s Fundamentals of Agile Project Management badge have an essential understanding of agile processes and terminology. They’ve demonstrated... <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Read more here</a><br>
+      <strong>Skills:</strong> Backlog Formation, Creating User Stories, Establishing Scrum Environment, Product Planning & Alignment, Sprint Execution<br>
+      <strong>Criteria:</strong> ('Complete Kickoff’s 45-minute Fundamentals of Agile Project Management course, including all activities, lessons, and modules.', None) <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5353,9 +18858,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Fundamentals of Predictive Project Management - Project Management Institute</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of Kickoff’s Fundamentals of Predictive Project Management badge have... Read more <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">here</a><br>
-      <strong>Skills:</strong> Project Planning & Alignment, Project Scheduling, Project Tracking, Requirements Gathering, Risk Mitigation, Task Delegation<br>
-      <strong>Criteria:</strong> Complete Kickoff’s 45-minute Fundamentals of Predictive Project Management course, including all activities, lessons, and modules.<br>
+      <strong>Description:</strong> Earners of Kickoff’s Fundamentals of Predictive Project Management badge have an essential understanding of predictive processes and terminology. They’ve demonstrated... <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Read more here</a><br>
+      <strong>Skills:</strong> Project Planning & Alignment, Project Scheduling, Project Tracking, Requirements Gathering, Risk Mitigation<br>
+      <strong>Criteria:</strong> ('Complete Kickoff’s 45-minute Fundamentals of Predictive Project Management course, including all activities, lessons, and modules.', None) <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5368,9 +18873,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">Generative AI Overview for Project Managers - Project Management Institute</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge completed the eLearning course and assessment... Read more <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">here</a><br>
+      <strong>Description:</strong> Earners of this badge completed the eLearning course and assessment that will empower them to harness the power of AI... <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">Read more here</a><br>
       <strong>Skills:</strong> Enhancing PM with GenAI, Generative AI, Generative AI Tools<br>
-      <strong>Criteria:</strong> Successful completion of the Generative AI for Project Managers eLearning course. Upon completion of the course, those who successfully pass the assessment earn a digital badge.<br>
+      <strong>Criteria:</strong> Successful completion of the Generative AI for Project Managers eLearning course. Upon completion of the course, those who successfully pass... <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5423,9 +18928,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">Developing AI models with the Machine Learning clients for SAP HANA - Record of Achievement - SAP</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This Record of Achievement verifies that the learner has completed... Read more <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">here</a><br>
-      <strong>Skills:</strong> Data Analysis for Machine Learning, Ethics of SAP Business AI, Introduction to SAP HANA APL/PAL libraries, SAP Business AI Components, SAP Business AI strategy, Understanding of Regression, Classification and Machine Learning algorithms,<br>
-      <strong>Criteria:</strong> Completed the SAP Learning Journey "Developing AI models with the Machine Learning clients for SAP HANA" and passed all quiz questions on the SAP Learning site.<br>
+      <strong>Description:</strong> This Record of Achievement verifies that the learner has completed the learning journey “Developing AI models with the Machine Learning... <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">Read more here</a><br>
+      <strong>Skills:</strong> Data Analysis for Machine Learning, Ethics of SAP Business AI, Introduction to SAP HANA APL/PAL libraries, SAP Business AI Components, SAP Business AI strategy<br>
+      <strong>Criteria:</strong> Completed the SAP Learning Journey "Developing AI models with the Machine Learning clients for SAP HANA" and passed all quiz... <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5438,9 +18943,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">Putting AI Ethics into Practice at SAP - Record of Achievement - SAP</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This Record of Achievement validates that the learner has successfully... Read more <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">here</a><br>
+      <strong>Description:</strong> This Record of Achievement validates that the learner has successfully completed the SAP Learning MOOC " Putting AI Ethics into... <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">Read more here</a><br>
       <strong>Skills:</strong> Artificial Intelligence, Governance, Machine Learning<br>
-      <strong>Criteria:</strong> Completed the SAP Learning MOOC "Putting AI Ethics into Practice at SAP” and passed the quiz questions on the SAP Learning site.<br>
+      <strong>Criteria:</strong> Completed the SAP Learning MOOC "Putting AI Ethics into Practice at SAP” and passed the quiz questions on the SAP... <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5453,9 +18958,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Introducing the High Tech Industry - Record of Achievement - SAP</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This Record of Achievement verifies that the learner has completed... Read more <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">here</a><br>
+      <strong>Description:</strong> This Record of Achievement verifies that the learner has completed the learning journey "Introducing the High Tech Industry". The learner... <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Read more here</a><br>
       <strong>Skills:</strong> Explaining and Leveraging SAP Solutions for the High Tech Industry, Identifying and Analyzing Differentiating Business Processes and Industry Trends, Understanding the Essentials of the High Tech Industry<br>
-      <strong>Criteria:</strong> Completed the SAP Learning Journey "Introducing the High Tech Industry" and passed all quiz questions on the SAP Learning site.<br>
+      <strong>Criteria:</strong> ('Completed the SAP Learning Journey "Introducing the High Tech Industry" and passed all quiz questions on the SAP Learning site.', None) <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5673,9 +19178,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Introduction to Web Design - SAS</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This course provides an introduction to web design using HTML,... Read more <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">here</a><br>
-      <strong>Skills:</strong> Bootstrap (Front-End Framework), Cascading Style Sheets (CSS), HyperText Markup Language (HTML), JavaScript (Programming Language), SAS Studio, SAS Visual Analytics, SAS Viya, Web Design<br>
-      <strong>Criteria:</strong> The owner of this badge completed Introduction to Web Design.<br>
+      <strong>Description:</strong> This course provides an introduction to web design using HTML, CSS, Bootstrap, and JavaScript. This course helps you prepare for... <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Read more here</a><br>
+      <strong>Skills:</strong> Bootstrap (Front-End Framework), Cascading Style Sheets (CSS), HyperText Markup Language (HTML), JavaScript (Programming Language), SAS Studio<br>
+      <strong>Criteria:</strong> ('The owner of this badge completed Introduction to Web Design.', None) <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -5688,9 +19193,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Data Literacy Essentials - SAS</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This course is for anyone interested in learning how to... Read more <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">here</a><br>
+      <strong>Description:</strong> This course is for anyone interested in learning how to use data in meaningful ways. It is designed as an... <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Read more here</a><br>
       <strong>Skills:</strong> Basic Data Analysis, Basic Data Exploration, Basic Data Interpretation, Data Literacy, SAS<br>
-      <strong>Criteria:</strong> The owner of this badge completed Data Literacy Essentials.<br>
+      <strong>Criteria:</strong> ('The owner of this badge completed Data Literacy Essentials.', None) <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -5703,9 +19208,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Modern Data Science with SAS Viya Workbench and Python - SAS</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This course showcases how to manage a data science project... Read more <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">here</a><br>
+      <strong>Description:</strong> This course showcases how to manage a data science project using both SAS and Python to predict customer churn for... <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Read more here</a><br>
       <strong>Skills:</strong> Python, SAS Viya, SAS Workbench<br>
-      <strong>Criteria:</strong> The owner of this badge completed the course Modern Data Science with SAS(R) Viya(R) Workbench and Python.<br>
+      <strong>Criteria:</strong> ('The owner of this badge completed the course Modern Data Science with SAS(R) Viya(R) Workbench and Python.', None) <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -5769,9 +19274,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">Certified ARIS Modeler Associate - Software AG</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has successfully completed the ARIS Modeler Basic... Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">here</a><br>
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Modeler Basic course. The course helped demonstrate the basic and some intermediate... <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">Read more here</a><br>
       <strong>Skills:</strong> ARIS, Business Process Modeling<br>
-      <strong>Criteria:</strong> (For External Users) - ARIS Modeler Basic Course (For Internal Users) - ARIS Modeler Basic Course<br>
+      <strong>Criteria:</strong> ('(For External Users) - ARIS Modeler Basic Course (For Internal Users) - ARIS Modeler Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5784,9 +19289,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">Certified ARIS Administrator Associate - Software AG</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has successfully completed the ARIS Administrator Basic... Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">here</a><br>
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Administrator Basic course. The course helped demonstrate demonstrate some intermediate functionality of... <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">Read more here</a><br>
       <strong>Skills:</strong> ARIS, Business Process Modeling<br>
-      <strong>Criteria:</strong> (For External Users) ARIS Administrator Basic course (For Internal Users) ARIS Administrator Basic course<br>
+      <strong>Criteria:</strong> ('(For External Users) ARIS Administrator Basic course (For Internal Users) ARIS Administrator Basic course', None) <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5799,9 +19304,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Certified ARIS Process Mining Associate - Software AG</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has successfully completed the ARIS Process Mining... Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">here</a><br>
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Process Mining Basic course. The course introduced the world of Process Mining:... <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Read more here</a><br>
       <strong>Skills:</strong> ARIS, ARIS Process Mining<br>
-      <strong>Criteria:</strong> (For External Users) - ARIS Process Mining Basic Course (For Internal Users) - ARIS Process Mining Course<br>
+      <strong>Criteria:</strong> ('(For External Users) - ARIS Process Mining Basic Course (For Internal Users) - ARIS Process Mining Course', None) <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5898,9 +19403,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">LFS162: Introduction to DevOps and Site Reliability Engineering - The Linux Foundation</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the LFS162: Introduction to DevOps and Site Reliability... Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">here</a><br>
-      <strong>Skills:</strong> CI/CD, Cloud Computing, Containers, DevOps, IAC, Kubernetes, Site Reliability Engineering, SRE<br>
-      <strong>Criteria:</strong> Score a 70% passing grade on the final exam.<br>
+      <strong>Description:</strong> Earners of the LFS162: Introduction to DevOps and Site Reliability Engineering badge are familiar with DevOps and SRE practices. They... <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">Read more here</a><br>
+      <strong>Skills:</strong> CI/CD, Cloud Computing, Containers, DevOps, IAC<br>
+      <strong>Criteria:</strong> ('Score a 70% passing grade on the final exam.', None) <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5913,9 +19418,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">LFC194: Implementing Open Source License Compliance Management - The Linux Foundation</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the Implementing Open Source License Compliance Management (LFC194)... Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">here</a><br>
+      <strong>Description:</strong> Earners of the Implementing Open Source License Compliance Management (LFC194) badge understand what license compliance management is, why it is... <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">Read more here</a><br>
       <strong>Skills:</strong> Open Source Community Engagement, Open Source Compliance and Processes, Open Source Licensing, Open Source Review<br>
-      <strong>Criteria:</strong> Score an 80% passing grade on the final exam.<br>
+      <strong>Criteria:</strong> ('Score an 80% passing grade on the final exam.', None) <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5928,9 +19433,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">LFD133: Introduction to WebAssembly - The Linux Foundation</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the LFD133: Introduction to WebAssembly badge have gained... Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">here</a><br>
+      <strong>Description:</strong> Earners of the LFD133: Introduction to WebAssembly badge have gained a solid understanding of the WebAssembly runtime, its operations, and... <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">Read more here</a><br>
       <strong>Skills:</strong> Programming Languages, Web Applications, WebAssembly<br>
-      <strong>Criteria:</strong> Score a 70% passing grade on the final exam.<br>
+      <strong>Criteria:</strong> ('Score a 70% passing grade on the final exam.', None) <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6040,28 +19545,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc111-open-source-technical-documentation-essentia">here</a><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs256-devops-and-workflow-management-with-argo">
-        <img src="https://images.credly.com/size/500x500/images/dec28796-b4df-40e3-87f7-bdbcf02c3d2c/blob" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs256-devops-and-workflow-management-with-argo">LFS256: DevOps and Workflow Management with Argo - The Linux Foundation</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs256-devops-and-workflow-management-with-argo">here</a><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/the-linux-foundation/badge/capa-certified-argo-project-associate">
-        <img src="https://images.credly.com/size/500x500/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/the-linux-foundation/badge/capa-certified-argo-project-associate">CAPA: Certified Argo Project Associate - The Linux Foundation</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/capa-certified-argo-project-associate">here</a><br>
     </td>
   </tr>
   <tr>
@@ -6621,9 +20104,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">Kubernetes Admin Network Policy Shodan - Tigera</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge is awarded to Kubernetes experts who have completed... Read more <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">here</a><br>
+      <strong>Description:</strong> This badge is awarded to Kubernetes experts who have completed training and successfully passed the exam on Kubernetes Admin Network... <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">Read more here</a><br>
       <strong>Skills:</strong> Application Security, Cloud Security, Kubernetes, Network Security<br>
-      <strong>Criteria:</strong> The holder of this badge has successfully completed a hands-on lab workshop that demystifies Kubernetes Admin Network Policies (KANPs). During the workshop, they created and applied multiple policies to secure applications in a live Kubernetes environment, gaining practical experience in using KNP and KANPs to enhance cluster security and manage network traffic effectively. The holder of this badge has completed workshop exams and quizzes in the subject of Kubernetes Network Policy model, and Kubernetes Admin Network Policy resources.<br>
+      <strong>Criteria:</strong> The holder of this badge has successfully completed a hands-on lab workshop that demystifies Kubernetes Admin Network Policies (KANPs). During... <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -6636,9 +20119,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Certified Calico Operator - eBPF - Tigera</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This course will provide an introduction to eBPF and then... Read more <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">here</a><br>
+      <strong>Description:</strong> This course will provide an introduction to eBPF and then describe Calico’s eBPF pluggable data plane, reviewing the benefits and... <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Read more here</a><br>
       <strong>Skills:</strong> Cloud Security, eBPF, Kubernetes<br>
-      <strong>Criteria:</strong> The owner of this badge has completed a final exam about eBPF technology and Calico eBPF.<br>
+      <strong>Criteria:</strong> ('The owner of this badge has completed a final exam about eBPF technology and Calico eBPF.', None) <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -6651,9 +20134,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Certified Calico Operator - AWS Expert - Tigera</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> The Certified Calico Operator: AWS Expert course helps you understand... Read more <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">here</a><br>
+      <strong>Description:</strong> The Certified Calico Operator: AWS Expert course helps you understand how Kubernetes networking works, how to configure and manage a... <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Read more here</a><br>
       <strong>Skills:</strong> Amazon Elastic Kubernetes Service (EKS), Amazon Web Services (AWS), Cloud Security, Cluster Development<br>
-      <strong>Criteria:</strong> To become a Certified Calico Operator: AWS Expert, you need to pass the final exam with a score of 60% or higher.<br>
+      <strong>Criteria:</strong> To become a Certified Calico Operator: AWS Expert, you need to pass the final exam with a score of 60%... <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Read more here</a><br>
       <strong>Time to Earn:</strong> Weeks<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -6687,9 +20170,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Introduction to Apache Flink® SQL - Ververica</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This course is for data engineers and those interested in... Read more <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">here</a><br>
+      <strong>Description:</strong> This course is for data engineers and those interested in writing Flink applications and data streaming pipelines without Java or... <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Read more here</a><br>
       <strong>Skills:</strong> Apache Flink, Flink SQL, Stream Processing<br>
-      <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with score a of at least 75%.<br>
+      <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with... <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6702,9 +20185,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Introduction to Stream Processing and Apache Flink® - Ververica</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This is a comprehensive introduction to Apache Flink and to... Read more <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">here</a><br>
+      <strong>Description:</strong> This is a comprehensive introduction to Apache Flink and to stream processing systems tailored to anyone with an interest in... <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Read more here</a><br>
       <strong>Skills:</strong> Apache Flink, Flink SQL, Stream Processing<br>
-      <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with score a of at least 75%.<br>
+      <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with... <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6738,9 +20221,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">ZEDEDA Certified Edge Computing Associate (ZCEA) - ZEDEDA</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Recipients of the ZCEA badge have demonstrated they understand the... Read more <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">here</a><br>
-      <strong>Skills:</strong> Edge, Edge Computing, Edge Device, edge management, edge orchestration, IoT<br>
-      <strong>Criteria:</strong> Complete Edge Computing 101 training Pass the ZEDEDA Certified Edge Computing Associate (ZCEA) exam<br>
+      <strong>Description:</strong> Recipients of the ZCEA badge have demonstrated they understand the benefits and solutions of extending the cloud experience to the... <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">Read more here</a><br>
+      <strong>Skills:</strong> Edge, Edge Computing, Edge Device, edge management, edge orchestration<br>
+      <strong>Criteria:</strong> ('Complete Edge Computing 101 training Pass the ZEDEDA Certified Edge Computing Associate (ZCEA) exam', None) <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6753,9 +20236,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">ZEDEDA Edge Orchestration Essentials - ZEDEDA</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Recipients of this badge have learned the foundation to get... Read more <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">here</a><br>
+      <strong>Description:</strong> Recipients of this badge have learned the foundation to get started with the ZEDEDA edge orchestration solution including the ZEDEDA... <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">Read more here</a><br>
       <strong>Skills:</strong> Edge Computing, edge management, edge orchestration, zededa<br>
-      <strong>Criteria:</strong> Complete the ZEDEDA Edge Orchestration Essentials 1-day course<br>
+      <strong>Criteria:</strong> ('Complete the ZEDEDA Edge Orchestration Essentials 1-day course', None) <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6768,9 +20251,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">ZEDEDA Certified Edge Orchestration Professional (ZCEP) - ZEDEDA</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Recipient of the ZCEP badge have demonstrated the essential knowledge,... Read more <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">here</a><br>
-      <strong>Skills:</strong> Edge, Edge Computing, edge management, edge orchestration, IoT, System Admin, System Administration<br>
-      <strong>Criteria:</strong> 6 months of hands-on experience with the ZEDEDA solution Pass the ZEDEDA Certified Edge Orchestration Professional (ZCEP) exam<br>
+      <strong>Description:</strong> Recipient of the ZCEP badge have demonstrated the essential knowledge, skills, and abilities necessary to perform end-to-end configuration, implementation, and... <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">Read more here</a><br>
+      <strong>Skills:</strong> Edge, Edge Computing, edge management, edge orchestration, IoT<br>
+      <strong>Criteria:</strong> ('6 months of hands-on experience with the ZEDEDA solution Pass the ZEDEDA Certified Edge Orchestration Professional (ZCEP) exam', None) <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -6823,9 +20306,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">Omnichannel Agent - Zendesk</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Zendesk is built for agents first, which means that the... Read more <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">here</a><br>
-      <strong>Skills:</strong> Agent, Customer Support, CX, Omnichannel Communications, Zendesk, Zendesk Agent<br>
-      <strong>Criteria:</strong> This 2 hr and 40 minute learning path includes mixed-media courses, lessons, downloadable content, and knowledge checks with a short final assessment to help you learn Zendesk Talk, Zendesk Support, and Zendesk Messaging as an agent. We recommend taking the courses in the path sequence to ensure a quality learning experience.<br>
+      <strong>Description:</strong> Zendesk is built for agents first, which means that the Agent Workspace is made for them. After all, agents just... <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">Read more here</a><br>
+      <strong>Skills:</strong> Agent, Customer Support, CX, Omnichannel Communications, Zendesk<br>
+      <strong>Criteria:</strong> This 2 hr and 40 minute learning path includes mixed-media courses, lessons, downloadable content, and knowledge checks with a short... <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6838,9 +20321,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/zendesk/badge/messaging">Messaging - Zendesk</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Customers expect great service across all channels. Messaging makes it... Read more <a href="https://www.credly.com/org/zendesk/badge/messaging">here</a><br>
-      <strong>Skills:</strong> Administrator, Customer Support, CX, Messaging, Support, Zendesk<br>
-      <strong>Criteria:</strong> This 1h learning path contains 2 courses, lessons, downloadable content, and an assessment to help you learn Zendesk's messaging solution. We recommend taking the courses in the path sequence to ensure a quality learning experience.<br>
+      <strong>Description:</strong> Customers expect great service across all channels. Messaging makes it easy to stay in touch with personalized and engaging interactions.... <a href="https://www.credly.com/org/zendesk/badge/messaging">Read more here</a><br>
+      <strong>Skills:</strong> Administrator, Customer Support, CX, Messaging, Support<br>
+      <strong>Criteria:</strong> This 1h learning path contains 2 courses, lessons, downloadable content, and an assessment to help you learn Zendesk's messaging solution.... <a href="https://www.credly.com/org/zendesk/badge/messaging">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6853,9 +20336,9 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/zendesk/badge/talk-voice">Talk / voice - Zendesk</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Even in the age of emails, texts, and DMs, sometimes... Read more <a href="https://www.credly.com/org/zendesk/badge/talk-voice">here</a><br>
-      <strong>Skills:</strong> Administrator, Customer Support, CX, Support, Talk, Zendesk<br>
-      <strong>Criteria:</strong> This 1h 20m learning path contains 2 courses, lessons, downloadable content, and an assessment to learn Zendesk's voice solution. We recommend taking the courses in the path sequence to ensure a quality learning experience.<br>
+      <strong>Description:</strong> Even in the age of emails, texts, and DMs, sometimes talking to a real human solves the problem fastest. Our... <a href="https://www.credly.com/org/zendesk/badge/talk-voice">Read more here</a><br>
+      <strong>Skills:</strong> Administrator, Customer Support, CX, Support, Talk<br>
+      <strong>Criteria:</strong> This 1h 20m learning path contains 2 courses, lessons, downloadable content, and an assessment to learn Zendesk's voice solution. We... <a href="https://www.credly.com/org/zendesk/badge/talk-voice">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
