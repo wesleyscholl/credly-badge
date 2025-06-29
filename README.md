@@ -18,7 +18,7 @@ I've personally hunted down and earned over 460 badges (and counting!) from vari
 
 <img src="https://github.com/user-attachments/assets/7d3ae808-5df0-44cc-85ef-d2c5876cd28c" alt="credly-profile" height="400">
 
-
+### 🎉 100% Free, No Strings Attached!
 The best part? Every single badge listed here is 100% FREE - no hidden fees, no payment required, no catch! While there are thousands of training resources out there, not all offer that satisfying proof of completion. This curated collection focuses on those that do, so you can build an impressive portfolio while learning valuable skills.
 
 <img src="https://github.com/user-attachments/assets/800a0187-a98e-47a6-a7a2-e38e0aaf33b4" alt="earned-credly-badge-example" height="400">
