@@ -16,7 +16,6 @@ jobs:
             COMMIT_MESSAGE: "Update badges" # optional
             CREDLY_USER: wesley-scholl.cc1a230f # optional, but default will use the same from github
             CREDLY_SORT: -state_updated_at # optional, created_at, -created_at, issued_at, -issued_at, state_updated_at, -state_updated_at - Add a minus sign to reverse the order (e.g., -created_at)
-            GET_ALL_BADGES: false # optional, if true, it will get all badges from Credly, otherwise it will get the 100 most recent badges
             CREDLY_API_TOKEN: ${{ secrets.API_TOKEN }} # Credly API token required for API authorization 
             CREDLY_BASE_URL: ${{ secrets.BASE_URL }} # Credly Base API URL
             BADGE_SIZE: 500 # optional, 110x110 default
