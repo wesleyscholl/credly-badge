@@ -1,5 +1,5 @@
 # 🎖️🏆 Free Credly Badges 
-**A curated list of 460+ free Credly badges 🥇🏅** &nbsp; **Earn real, verified skills — all at zero cost! 🆓📚**
+**A curated list of 470+ free Credly badges 🥇🏅** &nbsp; **Earn real, verified skills — all at zero cost! 🆓📚**
 
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" height="200">
 
@@ -14,7 +14,7 @@ Think of it as your digital trophy case! Credly is the go-to platform for showca
 <img src="https://github.com/user-attachments/assets/be76ef42-4a25-493e-a369-a1cf7f1499cf" alt="credly-badge-wallet" max-width="100%" height="auto">
 
 ### 🎸 Why this collection rocks
-I've personally hunted down and earned over 460 badges (and counting!) from various organizations through Credly. Each badge represents real skills, completed training, or passed assessments - all without spending a dime! 💵✨
+I've personally hunted down and earned more than 470 badges (and counting!) from various organizations through Credly. Each badge represents real skills, completed training, or passed assessments - all without spending a dime! 💵✨
 
 <img src="https://github.com/user-attachments/assets/7d3ae808-5df0-44cc-85ef-d2c5876cd28c" alt="credly-profile" max-width="100%" height="auto">
 
