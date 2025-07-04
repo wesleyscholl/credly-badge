@@ -42,9 +42,9 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (464)
+## Total Badges: (471)
 
-## Issuing Organizations: (50)
+## Issuing Organizations: (51)
 
 <table width='100%' border='1' cellspacing='0' cellpadding='4'>
 <tr>
@@ -58,7 +58,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/adobe-education/badges">
       <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
     </a><br>
-    <a href="#adobe-education-9">Adobe Education</a>
+    <a href="#adobe-education-10">Adobe Education</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/alation/badges">
@@ -122,7 +122,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/celonis/badges">
       <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
     </a><br>
-    <a href="#celonis-11">Celonis</a>
+    <a href="#celonis-13">Celonis</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/certiprof/badges">
@@ -192,7 +192,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/google-cloud/badges">
       <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
     </a><br>
-    <a href="#google-cloud-10">Google Cloud</a>
+    <a href="#google-cloud-12">Google Cloud</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/hewlett-packard-enterprise/badges">
@@ -308,7 +308,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/processmaker/badges">
       <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
     </a><br>
-    <a href="#processmaker-27">ProcessMaker</a>
+    <a href="#processmaker-28">ProcessMaker</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/project-management-institute/badges">
@@ -328,14 +328,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br>
     <a href="#sas-5">SAS</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/software-ag/badges">
       <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
     </a><br>
     <a href="#software-ag-8">Software AG</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
       <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
@@ -360,15 +360,19 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br>
     <a href="#zededa-4">ZEDEDA</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/zendesk/badges">
       <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
     </a><br>
     <a href="#zendesk-9">Zendesk</a>
   </td>
+</tr>
 </table>
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-9), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-11), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-4), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-10), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-18), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-6), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-27), [Project Management Institute](#project-management-institute-4), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-8), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-13), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-4), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-12), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-18), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-6), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-8), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -941,7 +945,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Adobe Education (9)
+### Adobe Education (10)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -950,7 +954,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png' height='100' /><br>[Adobe Education](#adobe-education-9) | Adobe's educational initiative that provides creative tools and resources for students and educators. | 9 | ✅ | [Adobe Education](https://www.credly.com/organizations/adobe-education/badges) |
+| <img src='https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png' height='100' /><br>[Adobe Education](#adobe-education-10) | Adobe's educational initiative that provides creative tools and resources for students and educators. | 10 | ✅ | [Adobe Education](https://www.credly.com/organizations/adobe-education/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -1005,7 +1009,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Adobe Education (6)</summary>
+<details><summary>More Adobe Education (7)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -1075,6 +1079,17 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-science-with-adobe-express">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-math-with-adobe-express">
+        <img src="https://images.credly.com/size/500x500/images/f9654d37-481d-4472-b5ff-fd3995e263f0/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-math-with-adobe-express">Lightning Learning | Teach Math with Adobe Express - Adobe Education</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-math-with-adobe-express">here</a><br>
     </td>
   </tr>
 </table>
@@ -2176,7 +2191,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### Celonis (11)
+### Celonis (13)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -2185,7 +2200,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png' height='100' /><br>[Celonis](#celonis-11) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 11 | ✅ | [Celonis](https://www.credly.com/organizations/celonis/badges) |
+| <img src='https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png' height='100' /><br>[Celonis](#celonis-13) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 13 | ✅ | [Celonis](https://www.credly.com/organizations/celonis/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -2240,7 +2255,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Celonis (8)</summary>
+<details><summary>More Celonis (10)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -2332,6 +2347,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/review-and-interpret-analyses">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/celonis-process-management-foundations">
+        <img src="https://images.credly.com/size/500x500/images/2d1c8afe-9345-4f79-9be8-d3294dc04957/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/celonis-process-management-foundations">Celonis Process Management Foundations - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/celonis-process-management-foundations">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/model-in-process-designer">
+        <img src="https://images.credly.com/size/500x500/images/a7e390a2-d690-4f88-8816-04ff8647bfbf/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/model-in-process-designer">Model in Process Designer - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/model-in-process-designer">here</a><br>
     </td>
   </tr>
 </table>
@@ -3667,7 +3704,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Google Cloud (10)
+### Google Cloud (12)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -3676,7 +3713,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-10) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 10 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
+| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-12) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 12 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -3731,7 +3768,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Google Cloud (7)</summary>
+<details><summary>More Google Cloud (9)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -3812,6 +3849,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/monitoring-in-google-cloud-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/5a9654e8-37e5-4043-8a94-eeb0f98a2a9c/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/monitoring-in-google-cloud-skill-badge">Monitoring in Google Cloud Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/monitoring-in-google-cloud-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/create-a-secure-data-lake-on-cloud-storage-skill-ba">
+        <img src="https://images.credly.com/size/500x500/images/64335247-e0fc-4afc-ae27-e4cdd0d0590d/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/create-a-secure-data-lake-on-cloud-storage-skill-ba">Create a Secure Data Lake on Cloud Storage Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/create-a-secure-data-lake-on-cloud-storage-skill-ba">here</a><br>
     </td>
   </tr>
 </table>
@@ -5355,7 +5414,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### ProcessMaker (27)
+### ProcessMaker (28)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -5364,7 +5423,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob' height='100' /><br>[ProcessMaker](#processmaker-27) | ProcessMaker is a leading business process management (BPM) and workflow automation platform that enables organizations to design, automate, and optimize business workflows. | 27 | ✅ | [ProcessMaker](https://www.credly.com/organizations/processmaker/badges) |
+| <img src='https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob' height='100' /><br>[ProcessMaker](#processmaker-28) | ProcessMaker is a leading business process management (BPM) and workflow automation platform that enables organizations to design, automate, and optimize business workflows. | 28 | ✅ | [ProcessMaker](https://www.credly.com/organizations/processmaker/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -5419,7 +5478,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More ProcessMaker (24)</summary>
+<details><summary>More ProcessMaker (25)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -5689,6 +5748,17 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/requests-and-comments">here</a><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/processmaker/badge/developer-summer-refresher">
+        <img src="https://images.credly.com/size/500x500/images/c8188733-3f6d-4a76-8d31-48dbaaf3659e/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/processmaker/badge/developer-summer-refresher">Developer Summer Refresher - ProcessMaker</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/developer-summer-refresher">here</a><br>
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -5777,6 +5847,42 @@ Ready to start badge hunting? Let's dive in! 🚀
 </table>
 
 </details>
+
+### Red Hat (1)
+
+
+<strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
+
+
+
+| Issuing Organization | Description | Credly Badges | Verified | Organization Link |
+|        :---:         |-------------|     :---:     |   :---:  |       :---:       |
+| <img src='None' height='100' /><br>[Red Hat](#red-hat-1) | ... | 1 | ✅ | [Red Hat](None) |
+
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">
+        <img src="https://images.credly.com/size/500x500/images/9643810e-a1d8-4ea2-a747-3b051ce2305f/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">Red Hat AI Foundations Executive Certificate - Red Hat</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The Red Hat AI Foundations Executive Certificate is awarded to professionals who have successfully completed a series of courses covering... <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">Read more here</a><br>
+      <strong>Skills:</strong> AI Development, AI Ethics, AI Explainability, AI In Business, AI Tools and Frameworks<br>
+      <strong>Criteria:</strong> Complete the AI Fundamentals course Complete the Introduction to Artificial Intelligence course Complete the AI Ethics course Complete The Value... <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Weeks<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+</table>
+
+
 
 ### SAP (19)
 
