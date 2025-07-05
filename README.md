@@ -328,14 +328,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br>
     <a href="#sas-5">SAS</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/software-ag/badges">
       <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
     </a><br>
     <a href="#software-ag-8">Software AG</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
       <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
@@ -360,18 +360,12 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br>
     <a href="#zededa-4">ZEDEDA</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/zendesk/badges">
       <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
     </a><br>
     <a href="#zendesk-9">Zendesk</a>
   </td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr>
 </table>
 
