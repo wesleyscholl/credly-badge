@@ -318,7 +318,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/red-hat/badges">
-      <img src="https://images.credly.com/size/200x200/images/7b6eaf7c-6b7e-4b7e-8c7e-7b7eaf7c7b7e/blob.png" width="100">
+      <img src="https://images.credly.com/size/200x200/images/e0c8fa7e-3010-4e38-ba2b-2969641bb75c/blob.png" width="100">
     </a><br>
     <a href="#red-hat-1">Red Hat</a>
   </td>
@@ -5867,7 +5867,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/7b6eaf7c-6b7e-4b7e-8c7e-7b7eaf7c7b7e/blob.png' height='100' /><br>[Red Hat](#red-hat-1) | Red Hat is a leading provider of open-source software solutions, including Linux, cloud computing, and container technologies. | 1 | ✅ | [Red Hat](https://www.credly.com/organizations/red-hat/badges) |
+| <img src='https://images.credly.com/size/200x200/images/e0c8fa7e-3010-4e38-ba2b-2969641bb75c/blob.png' height='100' /><br>[Red Hat](#red-hat-1) | Red Hat is a leading provider of open-source software solutions, including Linux, cloud computing, and container technologies. | 1 | ✅ | [Red Hat](https://www.credly.com/organizations/red-hat/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
