@@ -368,6 +368,10 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br>
     <a href="#zendesk-9">Zendesk</a>
   </td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 </table>
 
