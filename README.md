@@ -42,9 +42,9 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (471)
+## Total Badges: (501)
 
-## Issuing Organizations: (51)
+## Issuing Organizations: (52)
 
 <table width='100%' border='1' cellspacing='0' cellpadding='4'>
 <tr>
@@ -122,7 +122,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/celonis/badges">
       <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
     </a><br>
-    <a href="#celonis-13">Celonis</a>
+    <a href="#celonis-18">Celonis</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/certiprof/badges">
@@ -180,7 +180,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/dremio/badges">
       <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
     </a><br>
-    <a href="#dremio-4">Dremio</a>
+    <a href="#dremio-5">Dremio</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/extreme-networks/badges">
@@ -192,7 +192,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/google-cloud/badges">
       <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
     </a><br>
-    <a href="#google-cloud-12">Google Cloud</a>
+    <a href="#google-cloud-21">Google Cloud</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/hewlett-packard-enterprise/badges">
@@ -230,7 +230,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/intel/badges">
       <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
     </a><br>
-    <a href="#intel-18">Intel</a>
+    <a href="#intel-19">Intel</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/isc2/badges">
@@ -268,7 +268,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/mongodb/badges">
       <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
     </a><br>
-    <a href="#mongodb-6">MongoDB</a>
+    <a href="#mongodb-20">MongoDB</a>
   </td>
 </tr>
 <tr>
@@ -323,24 +323,27 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="#red-hat-1">Red Hat</a>
   </td>
   <td align="center" width="20%" padding="10">
+    SAG ARIS GmbH
+  </td>
+  <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/sap/badges">
       <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
     </a><br>
     <a href="#sap-19">SAP</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/sas/badges">
       <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
     </a><br>
     <a href="#sas-5">SAS</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/software-ag/badges">
       <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
     </a><br>
-    <a href="#software-ag-8">Software AG</a>
+    <a href="#software-ag-3">Software AG</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
@@ -360,14 +363,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br>
     <a href="#ververica-2">Ververica</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/zededa/badges">
       <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
     </a><br>
     <a href="#zededa-4">ZEDEDA</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/zendesk/badges">
       <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
@@ -377,12 +380,11 @@ Ready to start badge hunting? Let's dive in! 🚀
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
 </tr>
 </table>
 
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-13), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-4), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-12), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-18), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-6), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-8), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-21), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAG ARIS GmbH](#sag-aris-gmbh-5), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -2201,7 +2203,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### Celonis (13)
+### Celonis (18)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -2210,7 +2212,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png' height='100' /><br>[Celonis](#celonis-13) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 13 | ✅ | [Celonis](https://www.credly.com/organizations/celonis/badges) |
+| <img src='https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png' height='100' /><br>[Celonis](#celonis-18) | Celonis is a process mining software company helping businesses discover and fix inefficiencies in their operations. | 18 | ✅ | [Celonis](https://www.credly.com/organizations/celonis/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -2265,7 +2267,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Celonis (10)</summary>
+<details><summary>More Celonis (15)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -2379,6 +2381,61 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/model-in-process-designer">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/prove-celonis-value">
+        <img src="https://images.credly.com/size/500x500/images/34cb4d2b-528a-46f1-a22b-fa865d9481cc/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/prove-celonis-value">Prove Celonis Value - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/prove-celonis-value">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/deliver-business-value-with-celonis">
+        <img src="https://images.credly.com/size/500x500/images/ba0e30de-b7e5-4477-bbec-d91673dbd71a/Deliver_Business_Value_with_Celonis.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/deliver-business-value-with-celonis">Deliver Business Value with Celonis - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/deliver-business-value-with-celonis">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/build-views">
+        <img src="https://images.credly.com/size/500x500/images/b69f9de6-7447-4993-8469-c88eb08eafcb/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/build-views">Build Views - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/build-views">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/build-analyses">
+        <img src="https://images.credly.com/size/500x500/images/dae93117-8a22-440e-8283-b33aed6a416f/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/build-analyses">Build Analyses - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/build-analyses">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/celonis/badge/write-pql-queries">
+        <img src="https://images.credly.com/size/500x500/images/e91290ab-4018-4d49-9a0a-baba77122b54/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/celonis/badge/write-pql-queries">Write PQL Queries - Celonis</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/celonis/badge/write-pql-queries">here</a><br>
     </td>
   </tr>
 </table>
@@ -3015,21 +3072,6 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">
-        <img src="https://images.credly.com/size/500x500/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">CompTIA A+ ce Certification - CompTIA</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
-      <strong>Skills:</strong> Backup And Recovery, Cloud Computing, CompTIA A+, Cybersecurity, Help Desk<br>
-      <strong>Criteria:</strong> Obtain the recommended experience -- 9-12 months of hands-on tech support experience in the lab or field Achieve a passing... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
-      <strong>Time to Earn:</strong> None<br>
-      <strong>Level:</strong> None
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
       <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
         <img src="https://images.credly.com/size/500x500/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100">
       </a><br>
@@ -3039,6 +3081,21 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Description:</strong> Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br>
       <strong>Skills:</strong> Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security<br>
       <strong>Criteria:</strong> Obtain the recommended experience -- CompTIA Network+ and two years of experience in IT administration with a security focus. Achieve... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br>
+      <strong>Time to Earn:</strong> None<br>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">
+        <img src="https://images.credly.com/size/500x500/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">CompTIA A+ ce Certification - CompTIA</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
+      <strong>Skills:</strong> Backup And Recovery, Cloud Computing, CompTIA A+, Cybersecurity, Help Desk<br>
+      <strong>Criteria:</strong> Obtain the recommended experience -- 9-12 months of hands-on tech support experience in the lab or field Achieve a passing... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -3489,7 +3546,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Dremio (4)
+### Dremio (5)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -3498,7 +3555,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png' height='100' /><br>[Dremio](#dremio-4) | Dremio is a data lakehouse platform that simplifies and accelerates analytics directly on cloud data lakes. | 4 | ✅ | [Dremio](https://www.credly.com/organizations/dremio/badges) |
+| <img src='https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png' height='100' /><br>[Dremio](#dremio-5) | Dremio is a data lakehouse platform that simplifies and accelerates analytics directly on cloud data lakes. | 5 | ✅ | [Dremio](https://www.credly.com/organizations/dremio/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -3553,7 +3610,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Dremio (1)</summary>
+<details><summary>More Dremio (2)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -3568,6 +3625,17 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-lakehouse-associate">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/dremio/badge/dremio-verified-ai-architect">
+        <img src="https://images.credly.com/size/500x500/images/ace21648-970c-4a68-a4fe-72dd32997f5f/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/dremio/badge/dremio-verified-ai-architect">Dremio Verified AI Architect - Dremio</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-ai-architect">here</a><br>
     </td>
   </tr>
 </table>
@@ -3714,7 +3782,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Google Cloud (12)
+### Google Cloud (21)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -3723,7 +3791,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-12) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 12 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
+| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-21) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 21 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -3778,7 +3846,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Google Cloud (9)</summary>
+<details><summary>More Google Cloud (18)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -3881,6 +3949,105 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/create-a-secure-data-lake-on-cloud-storage-skill-ba">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/analyze-sentiment-with-natural-language-api-skill-b">
+        <img src="https://images.credly.com/size/500x500/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/analyze-sentiment-with-natural-language-api-skill-b">Analyze Sentiment with Natural Language API Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/analyze-sentiment-with-natural-language-api-skill-b">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-api-gateway-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-api-gateway-skill-badge">Get Started with API Gateway Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-api-gateway-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/use-machine-learning-apis-on-google-cloud-skill-bad">
+        <img src="https://images.credly.com/size/500x500/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/use-machine-learning-apis-on-google-cloud-skill-bad">Use Machine Learning APIs on Google Cloud Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/use-machine-learning-apis-on-google-cloud-skill-bad">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/create-ml-models-with-bigquery-ml-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/create-ml-models-with-bigquery-ml-skill-badge">Create ML Models with BigQuery ML Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/create-ml-models-with-bigquery-ml-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/analyze-images-with-the-cloud-vision-api-skill-badg">
+        <img src="https://images.credly.com/size/500x500/images/bb8edfd1-9d69-48a3-bf81-3ab830caf393/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/analyze-images-with-the-cloud-vision-api-skill-badg">Analyze Images with the Cloud Vision API Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/analyze-images-with-the-cloud-vision-api-skill-badg">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge">Get Started with Dataplex Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/analyze-speech-and-language-with-google-apis-skill-">
+        <img src="https://images.credly.com/size/500x500/images/b82729b9-8f1f-4362-8b71-fb08f2cea6c2/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/analyze-speech-and-language-with-google-apis-skill-">Analyze Speech and Language with Google APIs Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/analyze-speech-and-language-with-google-apis-skill-">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge">Cloud Speech API: 3 Ways Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/configure-service-accounts-and-iam-roles-for-google">
+        <img src="https://images.credly.com/size/500x500/images/374800df-53a7-407e-b660-1efa73da122a/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/configure-service-accounts-and-iam-roles-for-google">Configure Service Accounts and IAM Roles for Google Cloud Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/configure-service-accounts-and-iam-roles-for-google">here</a><br>
     </td>
   </tr>
 </table>
@@ -4328,7 +4495,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Intel (18)
+### Intel (19)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -4337,7 +4504,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png' height='100' /><br>[Intel](#intel-18) | Intel is a leading semiconductor manufacturer known for CPUs, data center solutions, and AI hardware innovation. | 18 | ✅ | [Intel](https://www.credly.com/organizations/intel/badges) |
+| <img src='https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png' height='100' /><br>[Intel](#intel-19) | Intel is a leading semiconductor manufacturer known for CPUs, data center solutions, and AI hardware innovation. | 19 | ✅ | [Intel](https://www.credly.com/organizations/intel/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -4392,7 +4559,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Intel (15)</summary>
+<details><summary>More Intel (16)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -4561,6 +4728,17 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/multi-cloud-strategies">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/intel/badge/agents-agentic-ai-fundamentals">
+        <img src="https://images.credly.com/size/500x500/images/528f2824-e38f-445a-affe-52ba63b9d164/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/intel/badge/agents-agentic-ai-fundamentals">Agents & Agentic AI Fundamentals - Intel</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/intel/badge/agents-agentic-ai-fundamentals">here</a><br>
     </td>
   </tr>
 </table>
@@ -4868,7 +5046,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <td width="80%" padding="10">
       <strong>Description:</strong> The earner of this badge has completed all courses within Make Basics and expanded their knowledge of several automation themes,... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
       <strong>Skills:</strong> Aggregation, Automation, Data, Data Literacy, Data Structures<br>
-      <strong>Criteria:</strong> Complete the 'Modules, scheduling, and bundles' course, and the associated assessment. Complete the 'An introduction to data types and data... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the 'Introduction to Modules' course, and the associated assessment. Complete the 'An introduction to data types and data structures'... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4907,7 +5085,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### MongoDB (6)
+### MongoDB (20)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -4916,7 +5094,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png' height='100' /><br>[MongoDB](#mongodb-6) | MongoDB is the creator of the popular NoSQL database known for flexibility and scalability in modern application development. | 6 | ✅ | [MongoDB](https://www.credly.com/organizations/mongodb/badges) |
+| <img src='https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png' height='100' /><br>[MongoDB](#mongodb-20) | MongoDB is the creator of the popular NoSQL database known for flexibility and scalability in modern application development. | 20 | ✅ | [MongoDB](https://www.credly.com/organizations/mongodb/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -4926,15 +5104,15 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">
-        <img src="https://images.credly.com/size/500x500/images/c0733ced-67e1-4f03-bc9d-5d1f2b7ac473/blob" width="100">
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">
+        <img src="https://images.credly.com/size/500x500/images/71a08fbf-178b-4342-9b17-a5239942846c/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">MongoDB Schema Design Patterns and Antipatterns Skill Badge - MongoDB</a>
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">MongoDB Schema Design Patterns and Anti-patterns Skill Badge - MongoDB</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This digital credential validates your knowledge of schema design patterns like inheritance and computed patterns. It recognizes your understanding of... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">Read more here</a><br>
-      <strong>Skills:</strong> Antipatterns, Bloated Documents, Computed, Data Modeling, Extended Reference<br>
-      <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, identifying and avoiding common... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-antipatterns-ski">Read more here</a><br>
+      <strong>Description:</strong> This digital credential validates your knowledge of schema design patterns like inheritance and computed patterns. It recognizes your understanding of... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">Read more here</a><br>
+      <strong>Skills:</strong> Databases, Database Schemas, Database Tuning, Data Modeling, MongoDB<br>
+      <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, identifying and avoiding common... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4948,7 +5126,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Description:</strong> This digital credential validates your knowledge of optimizing performance by applying schema design patterns like single collection and bucket. It... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">Read more here</a><br>
-      <strong>Skills:</strong> Archive, Bucket, Data Modeling, MongoDB, Outlier<br>
+      <strong>Skills:</strong> Bucket, Course Evaluations, Data Analysis, Data Literacy, Data Modeling<br>
       <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, learning to identify and... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
@@ -4956,22 +5134,22 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">
-        <img src="https://images.credly.com/size/500x500/images/63848a8b-880e-46aa-b042-796faf1e911f/blob" width="100">
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">
+        <img src="https://images.credly.com/size/500x500/images/592afcf7-1323-4dc4-af0d-0c3cad726e95/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">MongoDB Advanced Schema Design Patterns and Antipatterns Skill Badge - MongoDB</a>
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge - MongoDB</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This digital credential validates your knowledge of advanced schema design patterns like approximation and schema versioning. It recognizes your understanding... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">Read more here</a><br>
+      <strong>Description:</strong> This digital credential validates your knowledge of advanced schema design patterns like approximation and schema versioning. It recognizes your understanding... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">Read more here</a><br>
       <strong>Skills:</strong> Antipatterns, Approximation, Case Sensitivity, Data Modeling, Data Normalization<br>
-      <strong>Criteria:</strong> Complete 1 hour of training on learning advanced schema design patterns like approximation and schema versioning, managing schema lifecycle changes... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-antipat">Read more here</a><br>
+      <strong>Criteria:</strong> Complete 1 hour of training on learning advanced schema design patterns like approximation and schema versioning, managing schema lifecycle changes... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Advanced
     </td>
   </tr>
 </table>
 
-<details><summary>More MongoDB (3)</summary>
+<details><summary>More MongoDB (17)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -5008,6 +5186,160 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
     <td width="80%" padding="10">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-genai-applications-with-mongodb">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/building-rag-apps-using-mongodb">
+        <img src="https://images.credly.com/size/500x500/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/building-rag-apps-using-mongodb">Building RAG Apps Using MongoDB - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-rag-apps-using-mongodb">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/building-ai-powered-search-with-mongodb-vector-sear.1">
+        <img src="https://images.credly.com/size/500x500/images/730e9c82-7869-4288-b580-9f8500a94465/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/building-ai-powered-search-with-mongodb-vector-sear.1">Building AI-Powered Search with MongoDB Vector Search - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-ai-powered-search-with-mongodb-vector-sear.1">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-query-optimization-techniques">
+        <img src="https://images.credly.com/size/500x500/images/e3d619cf-ce1f-4b75-ad4f-78c68cbbae51/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-query-optimization-techniques">MongoDB Query Optimization Techniques - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-query-optimization-techniques">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-aggregation-fundamentals">
+        <img src="https://images.credly.com/size/500x500/images/ca2735bc-3fbb-4536-839d-90d6047585d3/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-aggregation-fundamentals">MongoDB Aggregation Fundamentals - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-aggregation-fundamentals">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/optimizing-and-maintaining-mongodb-cluster-reliabil">
+        <img src="https://images.credly.com/size/500x500/images/46a27b55-bad9-4255-b90e-c3ba5096d1a8/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/optimizing-and-maintaining-mongodb-cluster-reliabil">Optimizing and Maintaining MongoDB Cluster Reliability - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/optimizing-and-maintaining-mongodb-cluster-reliabil">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-self-managed-authentication-author">
+        <img src="https://images.credly.com/size/500x500/images/0a588ba1-5414-46f4-8fb6-7f646fe363e8/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-self-managed-authentication-author">Securing MongoDB Self-Managed: Authentication & Authorization - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-self-managed-authentication-author">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-atlas-authentication-authorization">
+        <img src="https://images.credly.com/size/500x500/images/464ed8fc-5af5-48d5-8cfa-33b91f0c714d/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-atlas-authentication-authorization">Securing MongoDB Atlas: Authentication & Authorization - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-atlas-authentication-authorization">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/search-with-mongodb">
+        <img src="https://images.credly.com/size/500x500/images/b4ac66fd-9972-436e-b01e-c04aee2466de/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/search-with-mongodb">Search with MongoDB - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/search-with-mongodb">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/optimizing-mongodb-performance-with-tuning-tools.1">
+        <img src="https://images.credly.com/size/500x500/images/c1636efe-f81c-4d6b-932b-8129d7fbc3c2/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/optimizing-mongodb-performance-with-tuning-tools.1">Optimizing MongoDB Performance with Tuning Tools - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/optimizing-mongodb-performance-with-tuning-tools.1">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/monitoring-mongodb-with-built-in-tools">
+        <img src="https://images.credly.com/size/500x500/images/2b4f2381-9223-4c09-b6e7-c0a17d0045c4/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/monitoring-mongodb-with-built-in-tools">Monitoring MongoDB with Built-in Tools - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/monitoring-mongodb-with-built-in-tools">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/building-ai-agents-with-mongodb">
+        <img src="https://images.credly.com/size/500x500/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/building-ai-agents-with-mongodb">Building AI Agents with MongoDB - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-ai-agents-with-mongodb">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-sharding-strategies">
+        <img src="https://images.credly.com/size/500x500/images/014a5b40-118f-41ed-8f19-9b19437e12fb/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-sharding-strategies">MongoDB Sharding Strategies - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-sharding-strategies">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-indexing-design-fundamentals">
+        <img src="https://images.credly.com/size/500x500/images/27213be6-415d-411f-a69a-0171ca2c89f5/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/mongodb-indexing-design-fundamentals">MongoDB Indexing Design Fundamentals - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-indexing-design-fundamentals">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/mongodb/badge/building-ai-apps-with-mongodb-on-aws">
+        <img src="https://images.credly.com/size/500x500/images/f741f439-557b-4a5a-a48b-4be7fa67fe2d/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/mongodb/badge/building-ai-apps-with-mongodb-on-aws">Building AI Apps with MongoDB on AWS - MongoDB</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-ai-apps-with-mongodb-on-aws">here</a><br>
     </td>
   </tr>
 </table>
@@ -5113,7 +5445,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <td width="80%" padding="10">
       <strong>Description:</strong> Badge earners understand security assurance concepts and how to apply them in Okta to enhance security. They can explain assurance... <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
       <strong>Skills:</strong> Okta Administration, Okta Policy Framework, Security Assurance, Security Policies<br>
-      <strong>Criteria:</strong> ('Complete Secure with Assurance course Complete Okta Policy Framework Explained course Pass Assessment: Define a Secure Policy Structure', None) <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
+      <strong>Criteria:</strong> ('Complete the Define a Secure Policy Structure learning path. Pass the Assessment: Define a Secure Policy Structure.', None) <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -5128,7 +5460,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <td width="80%" padding="10">
       <strong>Description:</strong> Badge earners understand authentication and MFA in Okta to enhance security. They can select authenticators based on risk, manage MFA... <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
       <strong>Skills:</strong> Authentication Policies, Global Session Policies, MFA, MFA Enrollment, Password Recovery<br>
-      <strong>Criteria:</strong> Complete Set Up MFA Enrollment Complete Set Up Authentication Policies Complete Set Up Global Session Policies Complete Set Up Password... <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
+      <strong>Criteria:</strong> ('Complete the Implement Security Policies learning path. Pass the Assessment: Implement Security Policies with MFA.', None) <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -5143,7 +5475,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <td width="80%" padding="10">
       <strong>Description:</strong> Badge earners understand Okta's network security features and how to configure them to secure access. They can define and configure... <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
       <strong>Skills:</strong> CIDR, Dynamic Zones, IP Zones, Network Zones, Trusted Proxies<br>
-      <strong>Criteria:</strong> ('Complete Set Up Basic Network Zones Complete Enhance Network Zone Configurations with Efficiency and Granularity Pass Assessment: Manage Network Zones', None) <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
+      <strong>Criteria:</strong> ('Complete the Manage Network Zones learning path. Pass the Assessment: Manage Network Zones.', None) <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -5894,6 +6226,102 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
+### SAG ARIS GmbH (5)
+
+
+<strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
+
+
+
+| Issuing Organization | Description | Credly Badges | Verified | Organization Link |
+|        :---:         |-------------|     :---:     |   :---:  |       :---:       |
+| <img src='None' height='100' /><br>[SAG ARIS GmbH](#sag-aris-gmbh-5) | ... | 5 | ✅ | [SAG ARIS GmbH](None) |
+
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">
+        <img src="https://images.credly.com/size/500x500/images/2b0bba48-c6e9-495e-b932-b61471701523/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Certified ARIS Modeler Associate - SAG ARIS GmbH</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Modeler Basic course. The course helped demonstrate the basic and some intermediate... <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Read more here</a><br>
+      <strong>Skills:</strong> ARIS, Business Process Modeling<br>
+      <strong>Criteria:</strong> ('(For Internal Users) - ARIS Modeler Basic Course', None) <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">
+        <img src="https://images.credly.com/size/500x500/images/6fdfbe24-b191-4711-81c8-a84176e4de62/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Certified ARIS Administrator Associate - SAG ARIS GmbH</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Administrator Basic course. The course helped demonstrate demonstrate some intermediate functionality of... <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Read more here</a><br>
+      <strong>Skills:</strong> ARIS, Business Process Modeling<br>
+      <strong>Criteria:</strong> ('(For External Users) ARIS Administrator Basic course', None) <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">
+        <img src="https://images.credly.com/size/500x500/images/b1671540-038b-406d-bb32-3b1460dec34b/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Certified ARIS Process Mining Associate - SAG ARIS GmbH</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Description:</strong> The badge earner has successfully completed the ARIS Process Mining Basic course. The course introduced the world of Process Mining:... <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Read more here</a><br>
+      <strong>Skills:</strong> ARIS, ARIS Process Mining<br>
+      <strong>Criteria:</strong> ('(For Internal Users) - ARIS Process Mining Course', None) <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
+    </td>
+  </tr>
+</table>
+
+<details><summary>More SAG ARIS GmbH (2)</summary>
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-dashboard-associate">
+        <img src="https://images.credly.com/size/500x500/images/45676377-ffb0-4120-80a8-ae67cbcb537e/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-dashboard-associate">Certified ARIS Dashboard Associate - SAG ARIS GmbH</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-dashboard-associate">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-risk-compliance-associate">
+        <img src="https://images.credly.com/size/500x500/images/44d28905-09d3-469a-a3db-7af2273466d4/blob" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-risk-compliance-associate">Certified ARIS Risk & Compliance Associate - SAG ARIS GmbH</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-risk-compliance-associate">here</a><br>
+    </td>
+  </tr>
+</table>
+
+</details>
+
 ### SAP (19)
 
 
@@ -6240,7 +6668,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Software AG (8)
+### Software AG (3)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -6249,88 +6677,13 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png' height='100' /><br>[Software AG](#software-ag-8) | Software AG is a global software company providing solutions for integration, API management, and business process management. | 8 | ✅ | [Software AG](https://www.credly.com/organizations/software-ag/badges) |
+| <img src='https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png' height='100' /><br>[Software AG](#software-ag-3) | Software AG is a global software company providing solutions for integration, API management, and business process management. | 3 | ✅ | [Software AG](https://www.credly.com/organizations/software-ag/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
     <th width="80%">Description</th>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">
-        <img src="https://images.credly.com/size/500x500/images/2b0bba48-c6e9-495e-b932-b61471701523/blob" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">Certified ARIS Modeler Associate - Software AG</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has successfully completed the ARIS Modeler Basic course. The course helped demonstrate the basic and some intermediate... <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">Read more here</a><br>
-      <strong>Skills:</strong> ARIS, Business Process Modeling<br>
-      <strong>Criteria:</strong> ('(For External Users) - ARIS Modeler Basic Course (For Internal Users) - ARIS Modeler Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/certified-aris-modeler-associate">Read more here</a><br>
-      <strong>Time to Earn:</strong> Hours<br>
-      <strong>Level:</strong> Foundational
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">
-        <img src="https://images.credly.com/size/500x500/images/6fdfbe24-b191-4711-81c8-a84176e4de62/blob" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">Certified ARIS Administrator Associate - Software AG</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has successfully completed the ARIS Administrator Basic course. The course helped demonstrate demonstrate some intermediate functionality of... <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">Read more here</a><br>
-      <strong>Skills:</strong> ARIS, Business Process Modeling<br>
-      <strong>Criteria:</strong> ('(For External Users) ARIS Administrator Basic course (For Internal Users) ARIS Administrator Basic course', None) <a href="https://www.credly.com/org/software-ag/badge/certified-aris-administrator-associate">Read more here</a><br>
-      <strong>Time to Earn:</strong> Hours<br>
-      <strong>Level:</strong> Foundational
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">
-        <img src="https://images.credly.com/size/500x500/images/b1671540-038b-406d-bb32-3b1460dec34b/image.png" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Certified ARIS Process Mining Associate - Software AG</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> The badge earner has successfully completed the ARIS Process Mining Basic course. The course introduced the world of Process Mining:... <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Read more here</a><br>
-      <strong>Skills:</strong> ARIS, ARIS Process Mining<br>
-      <strong>Criteria:</strong> ('(For External Users) - ARIS Process Mining Basic Course (For Internal Users) - ARIS Process Mining Course', None) <a href="https://www.credly.com/org/software-ag/badge/certified-aris-process-mining-associate">Read more here</a><br>
-      <strong>Time to Earn:</strong> Hours<br>
-      <strong>Level:</strong> Foundational
-    </td>
-  </tr>
-</table>
-
-<details><summary>More Software AG (5)</summary>
-<table width="100%" border="1" cellspacing="0" cellpadding="4">
-  <tr>
-    <th width="20%">Badge</th>
-    <th width="80%">Description</th>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-dashboard-associate">
-        <img src="https://images.credly.com/size/500x500/images/45676377-ffb0-4120-80a8-ae67cbcb537e/blob" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-dashboard-associate">Certified ARIS Dashboard Associate - Software AG</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-dashboard-associate">here</a><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-risk-compliance-associate">
-        <img src="https://images.credly.com/size/500x500/images/44d28905-09d3-469a-a3db-7af2273466d4/blob" width="100">
-      </a><br>
-      <a href="https://www.credly.com/org/software-ag/badge/certified-aris-risk-compliance-associate">Certified ARIS Risk & Compliance Associate - Software AG</a>
-    </td>
-    <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/certified-aris-risk-compliance-associate">here</a><br>
-    </td>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
@@ -6340,7 +6693,11 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Software AG Certified Adabas Associate - Software AG</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">here</a><br>
+      <strong>Description:</strong> The badge earner has successfully completed the Adabas Basic course. The course lets the learner have understanding of the architecture,... <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Read more here</a><br>
+      <strong>Skills:</strong> ADABAS, Natural<br>
+      <strong>Criteria:</strong> ('(For External Users) - Adabas Basic Course (For Internal Users) - Adabas Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
@@ -6351,7 +6708,11 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Software AG Certified NaturalONE Associate - Software AG</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">here</a><br>
+      <strong>Description:</strong> The badge earner has successfully completed the NaturalONE Basic course and has demonstrated a foundational knowledge of the integrated development... <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Read more here</a><br>
+      <strong>Skills:</strong> Adabas & Natural, Eclipse, NaturalONE<br>
+      <strong>Criteria:</strong> ('(For External Users) - NaturalONE Basic Course (For Internal Users) - NaturalONE Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
@@ -6362,12 +6723,16 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Software AG Certified Natural Associate - Software AG</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">here</a><br>
+      <strong>Description:</strong> The badge earner has successfully completed the Natural Programming Basic course. The course gave an overview of the Natural programming... <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Read more here</a><br>
+      <strong>Skills:</strong> ADABAS, Natural<br>
+      <strong>Criteria:</strong> ('(For External Users) - Natural Programming Basic Course (For Internal Users) - Natural Programming Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Read more here</a><br>
+      <strong>Time to Earn:</strong> Hours<br>
+      <strong>Level:</strong> Foundational
     </td>
   </tr>
 </table>
 
-</details>
+
 
 ### The Linux Foundation (62)
 
