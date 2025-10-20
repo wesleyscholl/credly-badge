@@ -42,7 +42,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (501)
+## Total Badges: (503)
 
 ## Issuing Organizations: (52)
 
@@ -76,7 +76,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/amazon-web-services/badges">
       <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
     </a><br>
-    <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    <a href="#amazon-web-services-5">Amazon Web Services Training and Certification</a>
   </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/google-cloud/badges">
       <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
     </a><br>
-    <a href="#google-cloud-21">Google Cloud</a>
+    <a href="#google-cloud-23">Google Cloud</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/hewlett-packard-enterprise/badges">
@@ -323,7 +323,10 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="#red-hat-1">Red Hat</a>
   </td>
   <td align="center" width="20%" padding="10">
-    SAG ARIS GmbH
+    <a href="https://www.credly.com/organizations/sag-aris-gmbh/badges">
+      <img src="https://images.credly.com/size/200x200/images/fc2305c3-be17-4808-a6a3-540866f1cf97/organization-600x600.png" width="100">
+    </a><br>
+    <a href="#sag-aris-gmbh-5">SAG ARIS GmbH</a>
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/sap/badges">
@@ -384,7 +387,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 </table>
 
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-21), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAG ARIS GmbH](#sag-aris-gmbh-5), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-25), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world](#dataworld-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-23), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAG ARIS GmbH](#sag-aris-gmbh-5), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -1229,45 +1232,45 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">
-        <img src="https://images.credly.com/size/500x500/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" width="100">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">
+        <img src="https://images.credly.com/size/500x500/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">AWS Educate Introduction to Cloud 101 - Amazon Web Services Training and Certification</a>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">AWS Educate Introduction to Cloud 101 - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">Read more here</a><br>
+      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br>
       <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, AWS Cloud Computing, Cloud Foundations<br>
-      <strong>Criteria:</strong> ('Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101">Read more here</a><br>
+      <strong>Criteria:</strong> ('Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">
-        <img src="https://images.credly.com/size/500x500/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="100">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">
+        <img src="https://images.credly.com/size/500x500/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">AWS Educate Introduction to Generative AI - Amazon Web Services Training and Certification</a>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">AWS Educate Introduction to Generative AI - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">Read more here</a><br>
+      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br>
       <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br>
-      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Introduction to Generative AI assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai">Read more here</a><br>
+      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Introduction to Generative AI assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br>
       <strong>Time to Earn:</strong> N/A<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">
-        <img src="https://images.credly.com/size/500x500/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" width="100">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">
+        <img src="https://images.credly.com/size/500x500/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">AWS Educate Machine Learning Foundations - Amazon Web Services Training and Certification</a>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">AWS Educate Machine Learning Foundations - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">Read more here</a><br>
+      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br>
       <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, ML<br>
-      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Machine Learning Foundations assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations">Read more here</a><br>
+      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Machine Learning Foundations assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1282,24 +1285,24 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute">
-        <img src="https://images.credly.com/size/500x500/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" width="100">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">
+        <img src="https://images.credly.com/size/500x500/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute">AWS Educate Getting Started with Compute - Amazon Web Services Training and Certification</a>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">AWS Educate Getting Started with Compute - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute">here</a><br>
+      <strong>Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">here</a><br>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket">
-        <img src="https://images.credly.com/size/500x500/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png" width="100">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket">AWS Knowledge: Amazon Braket - Amazon Web Services Training and Certification</a>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">AWS Knowledge: Amazon Braket - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket">here</a><br>
+      <strong>Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">here</a><br>
     </td>
   </tr>
 </table>
@@ -3782,7 +3785,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
-### Google Cloud (21)
+### Google Cloud (23)
 
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
@@ -3791,7 +3794,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-21) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 21 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
+| <img src='https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png' height='100' /><br>[Google Cloud](#google-cloud-23) | Google Cloud is Google's cloud computing division, offering infrastructure, machine learning, and development tools. | 23 | ✅ | [Google Cloud](https://www.credly.com/organizations/google-cloud/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -3846,7 +3849,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
 </table>
 
-<details><summary>More Google Cloud (18)</summary>
+<details><summary>More Google Cloud (20)</summary>
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -4050,6 +4053,28 @@ Ready to start badge hunting? Let's dive in! 🚀
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/configure-service-accounts-and-iam-roles-for-google">here</a><br>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-eventarc-skill-badge">
+        <img src="https://images.credly.com/size/500x500/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-eventarc-skill-badge">Get Started with Eventarc Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-eventarc-skill-badge">here</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" padding="10">
+      <a href="https://www.credly.com/org/google-cloud/badge/protect-sensitive-data-with-data-loss-prevention-sk">
+        <img src="https://images.credly.com/size/500x500/images/81b8d708-19b5-4381-8ee1-576dcb20f536/image.png" width="100">
+      </a><br>
+      <a href="https://www.credly.com/org/google-cloud/badge/protect-sensitive-data-with-data-loss-prevention-sk">Protect Sensitive Data with Data Loss Prevention Skill Badge - Google Cloud</a>
+    </td>
+    <td width="80%" padding="10">
+      <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/protect-sensitive-data-with-data-loss-prevention-sk">here</a><br>
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -4190,15 +4215,15 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" padding="10">
-      <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">
-        <img src="https://images.credly.com/size/500x500/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="100">
+      <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">
+        <img src="https://images.credly.com/size/500x500/images/95272ba4-d722-4e3c-8727-d3235c75e4d6/blob" width="100">
       </a><br>
-      <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">Data Science for Business - Level 1 - IBM</a>
+      <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Data Privacy Fundamentals - IBM</a>
     </td>
     <td width="80%" padding="10">
-      <strong>Description:</strong> This badge earner understands the relationship between collection and dissemination of data in technology. The individual also understands the public... <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">Read more here</a><br>
+      <strong>Description:</strong> This badge earner understands the relationship between collection and dissemination of data in technology. The individual also understands the public... <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Read more here</a><br>
       <strong>Skills:</strong> Data Privacy, Data Science, Ethics, Government, IT Security<br>
-      <strong>Criteria:</strong> ('Successful completion of the course "Data Privacy".', None) <a href="https://www.credly.com/org/ibm/badge/data-science-for-business-level-1">Read more here</a><br>
+      <strong>Criteria:</strong> ('Successful completion of the course "Data Privacy Fundamentals".', None) <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6235,7 +6260,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='None' height='100' /><br>[SAG ARIS GmbH](#sag-aris-gmbh-5) | ... | 5 | ✅ | [SAG ARIS GmbH](None) |
+| <img src='https://images.credly.com/size/200x200/images/fc2305c3-be17-4808-a6a3-540866f1cf97/organization-600x600.png' height='100' /><br>[SAG ARIS GmbH](#sag-aris-gmbh-5) | SAG ARIS GmbH is a German company specializing in business process management and process intelligence solutions as part of the ARIS platform. | 5 | ✅ | [SAG ARIS GmbH](https://www.credly.com/organizations/sag-aris-gmbh/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
