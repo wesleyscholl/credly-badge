@@ -7818,11 +7818,19 @@ This repository provides a **centralized source of truth** for tracking, sharing
 
 ---
 
-### 🤝 Connect & Contribute
+## 🤝 Connect & Contribute
 
 Contributions, suggestions, and feedback are welcome! Feel free to **fork**, **star**, and **submit pull requests**.  
 
 Follow me for updates on learning automation and digital badges: [wesleyscholl](https://github.com/wesleyscholl)  
+
+---
+
+## ⭐ Star History
+
+If you find this repo useful, please consider starring the repository! Thanks
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wesleyscholl/credly-badge&type=Date)](https://star-history.com/#wesleyscholl/credly-badge&Date)
 
 ---
 
