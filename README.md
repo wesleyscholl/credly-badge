@@ -409,46 +409,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">
         <img src="https://images.credly.com/size/500x500/images/e1680d7c-391a-4af9-9b49-d1763379251e/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Tech Fundamentals - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Acronis Tech Fundamentals course is designed for technical representatives working at a reseller or system integrator looking to gain... <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Read more here</a><br>
       <strong>Skills:</strong> Acronis Cyber Protect, Installing Agents, Licensing<br>
-      <strong>Criteria:</strong> ('Pass the Tech Fundamentals exam with more than 70% score.', None) <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Read more here</a><br>
+      <strong>Criteria:</strong> Pass the Tech Fundamentals exam with more than 70% score. <a href="https://www.credly.com/org/acronis/badge/tech-fundamentals.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">
         <img src="https://images.credly.com/size/500x500/images/433c88ca-7013-47f0-abc5-efb6d59bb602/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Tech Associate Endpoint Protection Management - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Acronis Cyber Protect Tech Associate Endpoint Protection Management course is designed for technical representatives working at a reseller or... <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Read more here</a><br>
       <strong>Skills:</strong> Cybersecurity, Endpoint Protection Management, Monitoring, Reporting<br>
-      <strong>Criteria:</strong> ('Complete the Tech Associate Endpoint Protection Management exam with a score above 70%.', None) <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Tech Associate Endpoint Protection Management exam with a score above 70%. <a href="https://www.credly.com/org/acronis/badge/tech-associate-endpoint-protection-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">
         <img src="https://images.credly.com/size/500x500/images/027fcce8-37be-48e0-9d57-00345f4a47d8/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Sales Fundamentals - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Acronis Cyber Protect Sales Fundamentals course is designed for sales and marketing representatives working at a reseller or system... <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Read more here</a><br>
       <strong>Skills:</strong> Acronis Cyber Protect, Cybersecurity, Licensing<br>
-      <strong>Criteria:</strong> ('Complete the Sales Fundamentals exam with a score above 70%.', None) <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Sales Fundamentals exam with a score above 70%. <a href="https://www.credly.com/org/acronis/badge/sales-fundamentals.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -978,46 +978,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">
         <img src="https://images.credly.com/size/500x500/images/a557a7c7-e55e-48e6-b8b6-694ff09f4998/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">30 min Lightning Learning | Generative AI in the Classroom - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Lightning Learning: This certificate and badge are awarded in recognition of 30 minutes of professional learning through completion of the... <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">Read more here</a><br>
       <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics<br>
-      <strong>Criteria:</strong> ('30 minutes of Adobe Professional Development', None) <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">Read more here</a><br>
+      <strong>Criteria:</strong> 30 minutes of Adobe Professional Development <a href="https://www.credly.com/org/adobe-education/badge/30-min-lightning-learning-generative-ai-in-the-clas">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">
         <img src="https://images.credly.com/size/500x500/images/6e213a0e-8fcf-4cad-bb7b-312476d5c410/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Adobe Lightning Learning | Visible Thinking Routines with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This certificate and badge are awarded in recognition of .5 hours of professional learning through completion of the Adobe Express... <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Read more here</a><br>
       <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics<br>
-      <strong>Criteria:</strong> ('.5 hours of Adobe Professional Learning', None) <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Read more here</a><br>
+      <strong>Criteria:</strong> .5 hours of Adobe Professional Learning <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-visible-thinking-routines-">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">
         <img src="https://images.credly.com/size/500x500/images/5a3ad37d-aef2-4ad1-8355-7ac6e9f20f8b/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Adobe Lightning Learning | Building Community with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This certificate and badge are awarded in recognition of .5 hours of professional learning through completion of the Adobe Express... <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Read more here</a><br>
       <strong>Skills:</strong> Adobe Express, Communication Arts, Creative Education, Educational Technology, Graphics<br>
-      <strong>Criteria:</strong> ('.5 hours of Adobe Professional Learning', None) <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Read more here</a><br>
+      <strong>Criteria:</strong> .5 hours of Adobe Professional Learning <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-building-community-with-ad">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1129,13 +1129,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/alation/badge/alation-data-steward">
         <img src="https://images.credly.com/size/500x500/images/826c700d-6ed3-435f-8693-8d063e156af7/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/alation/badge/alation-data-steward">Alation Data Steward - Alation University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Alation Data Steward badge holders have demonstrated that they have foundational knowledge and fundamental understanding of the Steward role including... <a href="https://www.credly.com/org/alation/badge/alation-data-steward">Read more here</a><br>
       <strong>Skills:</strong> Data Analyst, Data Catalog, Data Community, Data Culture, Data Curation<br>
       <strong>Criteria:</strong> Stewardship of the data catalog is a key function in driving the adoption of the data catalog as well as... <a href="https://www.credly.com/org/alation/badge/alation-data-steward">Read more here</a><br>
@@ -1144,13 +1144,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">
         <img src="https://images.credly.com/size/500x500/images/e83029f3-3d9c-490b-b277-bd4f578f85ed/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">Alation Data Analyst Advocate - Alation University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Alation Data Analyst Advocate badge holders have demonstrated that they have foundational knowledge of the fundamental methods to integrate use... <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">Read more here</a><br>
       <strong>Skills:</strong> Business User, Data Analysis, Data Analyst, Data Catalog, Data Community<br>
       <strong>Criteria:</strong> Analyst Advocate course is the next step in our program for anyone who performs data analysis within their role or... <a href="https://www.credly.com/org/alation/badge/alation-data-analyst-advocate">Read more here</a><br>
@@ -1159,13 +1159,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">
         <img src="https://images.credly.com/size/500x500/images/40a82a10-d520-4e5f-921f-7d0bf6f37525/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Alation Data Governance Advocate - Alation University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Alation Data Governance Advocate badge holders have demonstrated that they have foundational knowledge of the fundamental goals, principles, processes, methods,... <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Read more here</a><br>
       <strong>Skills:</strong> Data Governance, Data Stewardship<br>
       <strong>Criteria:</strong> Alation Data Governance simplifies how organizations enforce authority over the definition, production, and use of their data. The Alation Data... <a href="https://www.credly.com/org/alation/badge/alation-data-governance-advocate">Read more here</a><br>
@@ -1195,13 +1195,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">
         <img src="https://images.credly.com/size/500x500/images/1ec9c0f8-60f4-4c96-8fc8-2442b9022a12/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">Alteryx Foundational Micro-Credential - Alteryx</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this micro-credential have a basic understanding of data analytics concepts and key Designer functionality. They can identify data... <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">Read more here</a><br>
       <strong>Skills:</strong> Alteryx, Analytical Thinking, Data Analysis<br>
       <strong>Criteria:</strong> Achieving a passing score on the Alteryx Foundation Micro-Credential – a 1 hour exam with multiple choice, multiple response, and... <a href="https://www.credly.com/org/alteryx/badge/alteryx-foundational-micro-credential">Read more here</a><br>
@@ -1231,46 +1231,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">
         <img src="https://images.credly.com/size/500x500/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">AWS Educate Introduction to Cloud 101 - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br>
       <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, AWS Cloud Computing, Cloud Foundations<br>
-      <strong>Criteria:</strong> ('Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">
         <img src="https://images.credly.com/size/500x500/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">AWS Educate Introduction to Generative AI - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br>
       <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br>
-      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Introduction to Generative AI assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br>
+      <strong>Criteria:</strong> Successfully pass the AWS Educate Introduction to Generative AI assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br>
       <strong>Time to Earn:</strong> N/A<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">
         <img src="https://images.credly.com/size/500x500/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">AWS Educate Machine Learning Foundations - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br>
       <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, ML<br>
-      <strong>Criteria:</strong> ('Successfully pass the AWS Educate Machine Learning Foundations assessment.', None) <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br>
+      <strong>Criteria:</strong> Successfully pass the AWS Educate Machine Learning Foundations assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -1327,46 +1327,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">
         <img src="https://images.credly.com/size/500x500/images/131fe3cd-8810-4724-8f25-dbe186a08805/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Securing LLM and NLP APIs (1 hour) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Explore the intersection of Large Language Models (LLMs) and API security in this course, where you'll learn how to protect... <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Read more here</a><br>
       <strong>Skills:</strong> API Security, LLMs, NLPs<br>
-      <strong>Criteria:</strong> ('Complete all modules Pass final quiz', None) <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Read more here</a><br>
+      <strong>Criteria:</strong> Complete all modules Pass final quiz <a href="https://www.credly.com/org/apisec-university/badge/securing-llm-and-nlp-apis-1-hour">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">
         <img src="https://images.credly.com/size/500x500/images/c6ede4da-a848-483d-b90f-a5b43dd5e04b/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">API Gateway Security Best Practices (1 hour) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> ('Learn about the role and best practices of API Gateways in API security with Kay James from Ambassador Labs.', None) <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">Read more here</a><br>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Learn about the role and best practices of API Gateways in API security with Kay James from Ambassador Labs. <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">Read more here</a><br>
       <strong>Skills:</strong> API Gateways, API Security, Cybersecurity<br>
-      <strong>Criteria:</strong> ('Complete all four modules Pass final quiz', None) <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">Read more here</a><br>
+      <strong>Criteria:</strong> Complete all four modules Pass final quiz <a href="https://www.credly.com/org/apisec-university/badge/api-gateway-security-best-practices-1-hour">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">
         <img src="https://images.credly.com/size/500x500/images/9781310b-49e7-4564-a7ca-7a53784bbf1e/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Getting Started in API Pen-Testing (1 hour) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> In Getting Started in API Pen-Testing, course instructor, Teresa Pereira, covers primary attack vectors, penetration testing methodologies, and a shift-left... <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Read more here</a><br>
       <strong>Skills:</strong> API Security, Application Security Testing, Penetration Testing<br>
-      <strong>Criteria:</strong> ('Completing all 6 course modules - 1 hour Passed all module quizzes Passed final assessment', None) <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Read more here</a><br>
+      <strong>Criteria:</strong> Completing all 6 course modules - 1 hour Passed all module quizzes Passed final assessment <a href="https://www.credly.com/org/apisec-university/badge/getting-started-in-api-pen-testing-1-hour">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1478,13 +1478,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/appcues/badge/appcues-basics">
         <img src="https://images.credly.com/size/500x500/images/86996d31-489c-424d-8bed-bee456d29d7f/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/appcues/badge/appcues-basics">Appcues Basics - Appcues</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Learn the basics of installation, building experiences, and measuring their impact in this quick course. Take all the Appcues Basics... <a href="https://www.credly.com/org/appcues/badge/appcues-basics">Read more here</a><br>
       <strong>Skills:</strong> Appcues, Product Adoption, User Onboarding<br>
       <strong>Criteria:</strong> The final assessment is made up of 21 questions, and they’re all multiple-choice. Best of luck (not that you need... <a href="https://www.credly.com/org/appcues/badge/appcues-basics">Read more here</a><br>
@@ -1493,13 +1493,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">
         <img src="https://images.credly.com/size/500x500/images/09dfa120-e875-4eec-8d80-2832596202ac/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">Mobile App Onboarding 101 - Appcues</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> App abandonment is the single biggest issue for mobile app businesses. Fixing it is the key to growing an active... <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">Read more here</a><br>
       <strong>Skills:</strong> APP, Mobile, Onboarding, Onboarding Strategies, Product Adoption<br>
       <strong>Criteria:</strong> The final assessment is made up of 23 questions, and they’re all multiple choice. Best of luck (not that you... <a href="https://www.credly.com/org/appcues/badge/mobile-app-onboarding-101">Read more here</a><br>
@@ -1508,16 +1508,16 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">
         <img src="https://images.credly.com/size/500x500/images/b72ce65d-cfb6-4208-b1e4-0a83e79b24f4/Asset_2_2x.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">User Onboarding 101 - Appcues</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This introductory user onboarding course from Appcues' Product Adoption Academy is perfect for SaaS professionals looking to level-up their user... <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">Read more here</a><br>
       <strong>Skills:</strong> End User Experience, Product Adoption, Product-led Growth, Product Management, Product Marketing<br>
-      <strong>Criteria:</strong> ('The final User Onboarding 101 assessment includes 30 multiple choice questions based on the course curriculum.', None) <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">Read more here</a><br>
+      <strong>Criteria:</strong> The final User Onboarding 101 assessment includes 30 multiple choice questions based on the course curriculum. <a href="https://www.credly.com/org/appcues/badge/user-onboarding-101">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -1585,13 +1585,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">
         <img src="https://images.credly.com/size/500x500/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">Foundations of Operationalizing MITRE ATT&CK v13 - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The holder of this badge has demonstrated comprehensive understanding of MITRE ATT&CK framework application in cybersecurity defenses, including tactics, techniques,... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">Read more here</a><br>
       <strong>Skills:</strong> ATT&CK Framework, Cyber Security, Cyber Threat Intelligence, D3FEND, MITRE ATT&CK Framework<br>
       <strong>Criteria:</strong> Students must complete a comprehensive course that teaches the fundamentals of the ATT&CK Framework, a knowledge base of adversary tactics,... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-operationalizing-mitre-att-ck-v13">Read more here</a><br>
@@ -1600,13 +1600,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">
         <img src="https://images.credly.com/size/500x500/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">Foundations of Cyber Threat Intelligence - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The holder of this badge has demonstrated knowledge in the application of the cyber threat intelligence cycle. Additionally, they have... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">Read more here</a><br>
       <strong>Skills:</strong> Cyber Threat Intelligence, Threat Intelligence, Threat Intelligence Analyst<br>
       <strong>Criteria:</strong> Master the essentials of cyber threat intelligence with 'Foundations of Cyber Threat Intelligence.' Learn to implement the intelligence lifecycle, develop... <a href="https://www.credly.com/org/attackiq/badge/foundations-of-cyber-threat-intelligence">Read more here</a><br>
@@ -1615,13 +1615,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">
         <img src="https://images.credly.com/size/500x500/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">Agentless Threat Emulation with AttackIQ Flex v2 - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the "Agentless Threat Emulation with AttackIQ Flex v2" badge have demonstrated the ability to conduct advanced agentless security... <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">Read more here</a><br>
       <strong>Skills:</strong> Breach and Attack Simulation, Penetration Testing, Threat-Informed Defense<br>
       <strong>Criteria:</strong> Master agentless threat emulation with AttackIQ Flex v2. Learn to test security controls, apply threat-informed defense strategies, and leverage the... <a href="https://www.credly.com/org/attackiq/badge/agentless-threat-emulation-with-attackiq-flex-v2">Read more here</a><br>
@@ -1791,46 +1791,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/basis-technologies/badge/data">
         <img src="https://images.credly.com/size/500x500/images/81d24d60-38ff-4f0e-a125-6a033cd2afc3/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/data">Data - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this course have gained a fundamental understanding of what first-party data is, what third-party data is, what behavioral... <a href="https://www.credly.com/org/basis-technologies/badge/data">Read more here</a><br>
       <strong>Skills:</strong> behavior targeting, cross-device, First-Party Data, Third-Party Data<br>
-      <strong>Criteria:</strong> ('Complete a 20-minute self-paced eLearning course.', None) <a href="https://www.credly.com/org/basis-technologies/badge/data">Read more here</a><br>
+      <strong>Criteria:</strong> Complete a 20-minute self-paced eLearning course. <a href="https://www.credly.com/org/basis-technologies/badge/data">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">
         <img src="https://images.credly.com/size/500x500/images/14eba633-1a0b-4df4-b718-a366e0699a2e/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Contextual Targeting Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this course have gained a fundamental understanding of what contextual targeting is and how it works, learned the... <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Read more here</a><br>
       <strong>Skills:</strong> Advertising, Audiences, Basis Technologies, Certification, Contextual Targeting<br>
-      <strong>Criteria:</strong> ('Complete a 60-minute self-paced eLearning course and take a test.', None) <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Read more here</a><br>
+      <strong>Criteria:</strong> Complete a 60-minute self-paced eLearning course and take a test. <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">
         <img src="https://images.credly.com/size/500x500/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Data Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of Data Essentials have gained a fundamental understanding of the main concepts of data in advertising. This includes the... <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Read more here</a><br>
       <strong>Skills:</strong> Ad Targeting, Advertising, Audiences, Audience Targeting, Centro<br>
-      <strong>Criteria:</strong> ('Complete a 60-minute, self-paced eLearning course and take a test.', None) <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Read more here</a><br>
+      <strong>Criteria:</strong> Complete a 60-minute, self-paced eLearning course and take a test. <a href="https://www.credly.com/org/basis-technologies/badge/data-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2107,46 +2107,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">
         <img src="https://images.credly.com/size/500x500/images/8402299b-f265-4a94-bfea-08fc925e7d0b/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">IT Academy: Software Defined Storage Concepts - Broadcom</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The IT Academy: Software Defined Storage Concepts badge holder is an entry level professional that has the basic understanding of... <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">Read more here</a><br>
       <strong>Skills:</strong> Cache Layer, Capacity Layer, Hyper-converged Infrastructure, Policy-Driven Control Plane, Software-Defined Storage<br>
-      <strong>Criteria:</strong> ('Review and complete all the modules of the Software-Defined Storage Concepts Course', None) <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">Read more here</a><br>
+      <strong>Criteria:</strong> Review and complete all the modules of the Software-Defined Storage Concepts Course <a href="https://www.credly.com/org/broadcom/badge/it-academy-software-defined-storage-concepts">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">
         <img src="https://images.credly.com/size/500x500/images/930cc3e4-8a2e-41ae-84b8-40fcf471f786/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">IT Academy: Network Virtualization Concepts - Broadcom</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Network Virtualization Concepts badge holder is an entry level professional that has the basic understanding of network virtualization, the... <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">Read more here</a><br>
       <strong>Skills:</strong> NSX, SDDC, SDN, Software-Defined Data Center, Switches<br>
-      <strong>Criteria:</strong> ('Complete all the modules within the Network Virtualization Concepts Course.', None) <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">Read more here</a><br>
+      <strong>Criteria:</strong> Complete all the modules within the Network Virtualization Concepts Course. <a href="https://www.credly.com/org/broadcom/badge/it-academy-network-virtualization-concepts">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">
         <img src="https://images.credly.com/size/500x500/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">IT Academy: Cloud and Virtualization Concepts - Broadcom</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Cloud and Virtualization provides the end user with the knowledge needed to start a career in the digital world. This... <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">Read more here</a><br>
       <strong>Skills:</strong> Cloud, Data Center, DRS, ESXi, Fusion<br>
-      <strong>Criteria:</strong> ('Complete all the modules associated with the Cloud and Virtualization Basics Course.', None) <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">Read more here</a><br>
+      <strong>Criteria:</strong> Complete all the modules associated with the Cloud and Virtualization Basics Course. <a href="https://www.credly.com/org/broadcom/badge/it-academy-cloud-and-virtualization-concepts">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2173,28 +2173,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">
         <img src="https://images.credly.com/size/500x500/images/493a773d-8dda-442b-8d08-52d65bd2faef/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Camunda Knowledge - Agentic Orchestration - Camunda</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Camunda Knowledge - Agentic Orchestration badge have demonstrated proficiency in using Camunda to model, deploy & manage... <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Read more here</a><br>
       <strong>Skills:</strong> Agentic, AI Agents, BPMN, Camunda, Process Orchestration<br>
-      <strong>Criteria:</strong> ('Completion of the Agentic Orchestration Learning Path in Camunda Academy and the associated assessment.', None) <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Read more here</a><br>
+      <strong>Criteria:</strong> Completion of the Agentic Orchestration Learning Path in Camunda Academy and the associated assessment. <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-agentic-orchestration">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">
         <img src="https://images.credly.com/size/500x500/images/c3cd19fe-6b89-496b-9fb8-e123f98556c3/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">Camunda Knowledge - DMN - Camunda</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Camunda Knowledge - DMN badge have demonstrated proficiency in using Decision Model and Notation (DMN) to model,... <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">Read more here</a><br>
       <strong>Skills:</strong> Camunda, Decision Model & Notation, DMN<br>
       <strong>Criteria:</strong> Completion of the DMN Learning Path in Camunda Academy and the associated assessment. Completion of an Instructor Led, DMN course... <a href="https://www.credly.com/org/camunda/badge/camunda-knowledge-dmn">Read more here</a><br>
@@ -2224,46 +2224,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">
         <img src="https://images.credly.com/size/500x500/images/4ff66a5e-7ca4-4018-a50a-621d1075c1bc/Foundations-Learning-Foundational.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Celonis Foundations - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The earner of this badge has demonstrated a profound interest in the Celonis Platform. The earner is able to put... <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Read more here</a><br>
       <strong>Skills:</strong> Celonis Platform, Process Analysis, Process Automation, Process Improvement, Process Intelligence<br>
-      <strong>Criteria:</strong> ('Complete the Celonis Kickstarter course OR Complete the Introduction to Process Mining course', None) <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Celonis Kickstarter course OR Complete the Introduction to Process Mining course <a href="https://www.credly.com/org/celonis/badge/celonis-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">
         <img src="https://images.credly.com/size/500x500/images/0f446e9d-9eb9-4bf0-90df-973909ef34b5/Monitor_KPIs_in_Analysis_Dashboards.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Monitor KPIs in Analysis Dashboards - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The earner can review and interact with a typical executive/leader dashboard. They ca interact with analysis charts to review KPIs... <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Read more here</a><br>
       <strong>Skills:</strong> Celonis Platform, Celonis Process Analyses, Monitoring KPIs, Process Mining, Working with Celonis Analysis and Dashboards<br>
-      <strong>Criteria:</strong> ('Complete the Monitor KPIs in Analysis Dashboards Training Track', None) <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Monitor KPIs in Analysis Dashboards Training Track <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-analysis-dashboards">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">
         <img src="https://images.credly.com/size/500x500/images/26ed6ad1-15f0-490c-ba85-532118aef638/Monitor_KPIs_in_Execution_Apps.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Monitor KPIs in Execution Apps - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The earner can leverage Celonis Apps to monitor KPIs and take immediate action. They can complete tasks in the Management... <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Read more here</a><br>
       <strong>Skills:</strong> Celonis Platform, KPI Monitoring, Process Intelligence<br>
-      <strong>Criteria:</strong> ('Complete the "Monitor KPIs in Execution Apps" Training Track', None) <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the "Monitor KPIs in Execution Apps" Training Track <a href="https://www.credly.com/org/celonis/badge/monitor-kpis-in-execution-apps">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -2463,13 +2463,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">
         <img src="https://images.credly.com/size/500x500/images/eca4984f-0df0-421f-a4c0-dba5d34994c7/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">Prompt Engineering Foundation Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in an initial learning activity as part of their certification journey.... <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">Read more here</a><br>
       <strong>Skills:</strong> Commitment, Initiative, Organization, Preparation, Self-learning<br>
       <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification.... <a href="https://www.credly.com/org/certiprof/badge/prompt-engineering-foundation-learner-2025">Read more here</a><br>
@@ -2478,13 +2478,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">
         <img src="https://images.credly.com/size/500x500/images/ffa0f61c-3cdf-401c-b602-98150552c644/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">Scrum Foundation Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in an initial learning activity as part of their certification journey.... <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">Read more here</a><br>
       <strong>Skills:</strong> Commitment, Initiative, Organization, Preparation, Self-learning<br>
       <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification.... <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-learner-2025">Read more here</a><br>
@@ -2493,13 +2493,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">
         <img src="https://images.credly.com/size/500x500/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">Cybersecurity Awareness Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Learner Badge by Certiprof recognizes the candidate's participation in an initial learning activity as part of their certification journey.... <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">Read more here</a><br>
       <strong>Skills:</strong> Commitment, Initiative, Organization, Preparation, Self-learning<br>
       <strong>Criteria:</strong> 1. Register on the Certiprof free certification platform. 2. Begin interacting with the required study materials for the chosen certification.... <a href="https://www.credly.com/org/certiprof/badge/cybersecurity-awareness-learner-2025">Read more here</a><br>
@@ -2625,13 +2625,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">
         <img src="https://images.credly.com/size/500x500/images/72b653fc-36a6-4dd3-8dc4-c73caa564f77/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Chainguard Vulnslayer - Chainguard</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge understand the fundamentals of vulnerability management, its tools, and best practices. They have demonstrated knowledge of... <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Read more here</a><br>
       <strong>Skills:</strong> Chainguard Images, Container Security, CVEs, OpenVex, SBOMs<br>
       <strong>Criteria:</strong> To earn this badge, candidates complete all of the course content, pass all course quizzes with a 100% grade, and... <a href="https://www.credly.com/org/chainguard/badge/chainguard-vulnslayer">Read more here</a><br>
@@ -2640,31 +2640,31 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">
         <img src="https://images.credly.com/size/500x500/images/5750aba6-98f3-43dd-b2d0-3d5a5d11edfd/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Chainguard AI/ML Guardian - Chainguard</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge understand the fundamentals and tools of software supply chain security for AI/ML development. They have demonstrated... <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Read more here</a><br>
       <strong>Skills:</strong> Artificial Intelligence, Containers, Cosign, Cybersecurity, Digital Signatures<br>
-      <strong>Criteria:</strong> ('Candidates must complete all seven modules and pass seven module quizzes with a 100% score to receive a badge.', None) <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Read more here</a><br>
+      <strong>Criteria:</strong> Candidates must complete all seven modules and pass seven module quizzes with a 100% score to receive a badge. <a href="https://www.credly.com/org/chainguard/badge/chainguard-ai-ml-guardian">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">
         <img src="https://images.credly.com/size/500x500/images/a4305115-691b-428b-a02a-201a0400e684/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Chainguard Container Crusader - Chainguard</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This credential indicates that the recipient has completed all seven courses in the Complete Guide to Chainguard Images, demonstrating expertise... <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Read more here</a><br>
       <strong>Skills:</strong> Cloud Computing, Containers, DevOps, InfoSec<br>
-      <strong>Criteria:</strong> ('A seven-course learning path on Chainguard Container Images.', None) <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Read more here</a><br>
+      <strong>Criteria:</strong> A seven-course learning path on Chainguard Container Images. <a href="https://www.credly.com/org/chainguard/badge/chainguard-container-crusader">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -2691,46 +2691,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">
         <img src="https://images.credly.com/size/500x500/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Introduction to Modern AI - Cisco</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the Introduction to Modern AI course. The learner will have practiced... <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Read more here</a><br>
       <strong>Skills:</strong> AI Learning, Chatbots, Computer Vision, Machine Learning, Machine Translation<br>
-      <strong>Criteria:</strong> ('Achieve a passing score on a comprehensive exam', None) <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Read more here</a><br>
+      <strong>Criteria:</strong> Achieve a passing score on a comprehensive exam <a href="https://www.credly.com/org/cisco/badge/introduction-to-modern-ai">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">
         <img src="https://images.credly.com/size/500x500/images/11a35743-6bcd-4406-83cd-bf74d1c8f646/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Engaging Stakeholders for Success - Cisco</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the Engaging Stakeholders for Success course and achieved the student level... <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Read more here</a><br>
       <strong>Skills:</strong> Active Listening, Interview Techniques, Stakeholders, Trust<br>
-      <strong>Criteria:</strong> ('A passing score of at least 70% on a comprehensive test', None) <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Read more here</a><br>
+      <strong>Criteria:</strong> A passing score of at least 70% on a comprehensive test <a href="https://www.credly.com/org/cisco/badge/engaging-stakeholders-for-success">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">
         <img src="https://images.credly.com/size/500x500/images/37b16109-9083-4b08-8eec-b9d8f4bb88a8/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Creating Compelling Reports - Cisco</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Cisco verifies the earner of this badge successfully completed the Creating Compelling Reports course and achieved this student level credential.... <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Read more here</a><br>
       <strong>Skills:</strong> Determining Relevance, Report Audience, Report Purpose, Report Tone<br>
-      <strong>Criteria:</strong> ('A passing score of at least 70% on a comprehensive test', None) <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Read more here</a><br>
+      <strong>Criteria:</strong> A passing score of at least 70% on a comprehensive test <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
@@ -2798,13 +2798,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">
         <img src="https://images.credly.com/size/500x500/images/592ca591-3f11-45e8-ba16-5c164b8ce631/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">Getting Started with ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Getting Started with ClickHouse course completion badge understand what ClickHouse is used for, how to get ClickHouse... <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">Read more here</a><br>
       <strong>Skills:</strong> ClickHouse, ClickHouse Cloud, ClickHouse DBMS<br>
       <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz... <a href="https://www.credly.com/org/clickhouse/badge/getting-started-with-clickhouse">Read more here</a><br>
@@ -2813,13 +2813,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">
         <img src="https://images.credly.com/size/500x500/images/2b6d5497-4253-4013-b45e-f918c738c948/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">ClickHouse Architecture - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the ClickHouse Architecture course completion badge understand what a MergeTree table engine in ClickHouse is and how it... <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">Read more here</a><br>
       <strong>Skills:</strong> ClickHouse, ClickHouse Cloud, ClickHouse DBMS<br>
       <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz... <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-architecture">Read more here</a><br>
@@ -2828,13 +2828,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">
         <img src="https://images.credly.com/size/500x500/images/e8586840-8094-4b9f-a64d-3a25e4ccb39c/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">Modeling Data for ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Modeling Data course completion badge know how to create tables in ClickHouse and understand the various built-in... <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">Read more here</a><br>
       <strong>Skills:</strong> ClickHouse, ClickHouse Cloud, ClickHouse DBMS<br>
       <strong>Criteria:</strong> To obtain this badge, learners must successfully complete a one-hour On-demand training (which includes hands-on labs) and pass a quiz... <a href="https://www.credly.com/org/clickhouse/badge/modeling-data-for-clickhouse">Read more here</a><br>
@@ -3059,28 +3059,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">
         <img src="https://images.credly.com/size/500x500/images/2d9ba442-a3ce-4105-9d69-57f478540f70/CompTIA_A_2B.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">CompTIA A+ Certification - CompTIA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> CompTIA A+ earners who certified between January 1993 and December 31, 2010, have an A+ considered good-for-life (GFL). It does... <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br>
       <strong>Skills:</strong> CompTIA A+, Computer Repair, PC Upgrades, Printer Maintenance, Windows Operating Systems<br>
-      <strong>Criteria:</strong> ('Achieved a passing score on the CompTIA A+ exams prior to January 1, 2011', None) <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br>
+      <strong>Criteria:</strong> Achieved a passing score on the CompTIA A+ exams prior to January 1, 2011 <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
         <img src="https://images.credly.com/size/500x500/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">CompTIA Security+ ce Certification - CompTIA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br>
       <strong>Skills:</strong> Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security<br>
       <strong>Criteria:</strong> Obtain the recommended experience -- CompTIA Network+ and two years of experience in IT administration with a security focus. Achieve... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br>
@@ -3089,13 +3089,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">
         <img src="https://images.credly.com/size/500x500/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">CompTIA A+ ce Certification - CompTIA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
       <strong>Skills:</strong> Backup And Recovery, Cloud Computing, CompTIA A+, Cybersecurity, Help Desk<br>
       <strong>Criteria:</strong> Obtain the recommended experience -- 9-12 months of hands-on tech support experience in the lab or field Achieve a passing... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br>
@@ -3125,28 +3125,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">
         <img src="https://images.credly.com/size/500x500/images/4da4c0f1-1345-4ffa-b956-72054ea4d9db/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Navigating the Developer Data Use Policy - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Explore key components of Meta’s Developer Data Use Policy. Learning to understand the policy, from data collection to data deletion,... <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Read more here</a><br>
       <strong>Skills:</strong> App Lab Review, Developer Data Use Policy, Meta Horizon<br>
-      <strong>Criteria:</strong> ('Learners must complete Navigating the Developer Data Use Policy and pass the final assessment to earn this badge.', None) <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Read more here</a><br>
+      <strong>Criteria:</strong> Learners must complete Navigating the Developer Data Use Policy and pass the final assessment to earn this badge. <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-developer-data-use-policy">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">
         <img src="https://images.credly.com/size/500x500/images/f29a9857-d529-4ac7-9d29-f85b0f5b1c53/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">Content Moderation & Reporting Compliance - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Code of Conduct for Virtual Experiences (CCVE) demonstrates your and Meta's commitment to creating a platform our shared users... <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">Read more here</a><br>
       <strong>Skills:</strong> Code of Conduct for Virtual Experiences, Content Moderation, Meta Horizon<br>
       <strong>Criteria:</strong> The Code of Conduct for Virtual Experiences (CCVE) demonstrates your and Meta's commitment to creating a platform our shared users... <a href="https://www.credly.com/org/data-protocol/badge/content-moderation-reporting-compliance">Read more here</a><br>
@@ -3155,13 +3155,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">
         <img src="https://images.credly.com/size/500x500/images/7b0f2f15-1df6-4ee3-a53d-70c8b92b0551/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">Completing Age Group Self-Certification - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Learn how to self-certify which age group your app on the Meta Horizon platform is intended for and why it... <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">Read more here</a><br>
       <strong>Skills:</strong> Age Group Self-Certification, Meta Horizon, Mixed Ages<br>
       <strong>Criteria:</strong> Learn how to self-certify which age group your app on the Meta Quest platform is intended for and why it... <a href="https://www.credly.com/org/data-protocol/badge/completing-age-group-self-certification">Read more here</a><br>
@@ -3276,46 +3276,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">
         <img src="https://images.credly.com/size/500x500/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">data.world Foundations - data.world</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of data.world Foundations have a fundamental understanding of concepts such as 'data catalog', while gaining an understanding of the... <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">Read more here</a><br>
       <strong>Skills:</strong> Data, Data Elements, Data Governance, Data Literacy, Data Management<br>
-      <strong>Criteria:</strong> ('Complete the data.world Foundations Learning Path in data.world University. Pass an assessment covering foundational topics.', None) <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the data.world Foundations Learning Path in data.world University. Pass an assessment covering foundational topics. <a href="https://www.credly.com/org/data-world/badge/data-world-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">
         <img src="https://images.credly.com/size/500x500/images/ae798915-9f16-49e9-9caa-63b1cddbea6d/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">data.world End User Certification - data.world</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the data.world End User Certification have an understanding of browsing, searching, and providing valuable feedback within the data.world... <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">Read more here</a><br>
       <strong>Skills:</strong> Datasets, Information Access, Information Cataloging, Information Discovery, Information Retrieval<br>
-      <strong>Criteria:</strong> ('Complete the data.world End User Learning Path in data.world University. Pass an assessment covering foundational and navigation topics.', None) <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the data.world End User Learning Path in data.world University. Pass an assessment covering foundational and navigation topics. <a href="https://www.credly.com/org/data-world/badge/data-world-end-user-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">
         <img src="https://images.credly.com/size/500x500/images/2dfb8c71-31cf-42df-8859-a9b2f7f59b14/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">data.world Steward Certification - data.world</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the data.world Steward Certification have an understanding of curation and enrichment within their data catalog. They know how... <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">Read more here</a><br>
       <strong>Skills:</strong> Collection Development, Data Collection, Data Curation, Data Management, Data Quality<br>
-      <strong>Criteria:</strong> ('Complete the data.world Steward Learning Path in data.world University. Pass an assessment covering enrichment and curation topics.', None) <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the data.world Steward Learning Path in data.world University. Pass an assessment covering enrichment and curation topics. <a href="https://www.credly.com/org/data-world/badge/data-world-steward-certification">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3361,46 +3361,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">
         <img src="https://images.credly.com/size/500x500/images/a570e637-5cbc-48b5-86b4-b890d242f9a8/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Cloud Security Engineer - Cloud SIEM Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge is earned after completion of the Cloud Security Engineer - Cloud SIEM learning path on the Datadog Learning... <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Read more here</a><br>
       <strong>Skills:</strong> Cloud SIEM, Datadog, Incident Management, Incident Response, Log Management<br>
-      <strong>Criteria:</strong> ('Cloud Security Engineer - Cloud SIEM Learning Path', None) <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Read more here</a><br>
+      <strong>Criteria:</strong> Cloud Security Engineer - Cloud SIEM Learning Path <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-cloud-siem-learning-path">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">
         <img src="https://images.credly.com/size/500x500/images/6f445fe0-ec75-4f53-af4d-95534512a0bf/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Backend Engineer Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge is earned after completion of the Backend Engineer learning path on the Datadog Learning Center. The learning path... <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Read more here</a><br>
       <strong>Skills:</strong> APM, Application Performance Monitoring, Backend Engineer, Cloud Network Monitoring, CNM<br>
-      <strong>Criteria:</strong> ('Backend Engineer Learning Path', None) <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Read more here</a><br>
+      <strong>Criteria:</strong> Backend Engineer Learning Path <a href="https://www.credly.com/org/datadog/badge/backend-engineer-learning-path">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">
         <img src="https://images.credly.com/size/500x500/images/bd5c7db0-db22-4d9f-b461-ab7cd9500bc5/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Site Reliability Engineer Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge is earned after completion of the Site Reliability Engineer learning path on the Datadog Learning Center. The learning... <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Read more here</a><br>
       <strong>Skills:</strong> APM, Application Performance Monitoring, Cloud Network Monitoring, CNM, Datadog<br>
-      <strong>Criteria:</strong> ('Site Reliability Engineer Learning Path', None) <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Read more here</a><br>
+      <strong>Criteria:</strong> Site Reliability Engineer Learning Path <a href="https://www.credly.com/org/datadog/badge/site-reliability-engineer-learning-path">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -3567,13 +3567,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">
         <img src="https://images.credly.com/size/500x500/images/392f43ef-c47d-4c35-9824-6ae2564540e6/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">Dremio Verified Reflections Specialist - Dremio</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Dremio Verified Reflections Specialist has demonstrated a capacity to learn, understand and critically think about Data Reflections in Dremio.... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">Read more here</a><br>
       <strong>Skills:</strong> Data Products, Dremio, Query Acceleration<br>
       <strong>Criteria:</strong> Run faster queries, consume less resources, and improve your overall performance. Learn about data reflections and begin using them right... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-reflections-specialist">Read more here</a><br>
@@ -3582,13 +3582,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">
         <img src="https://images.credly.com/size/500x500/images/5a340951-5fb9-485d-915e-0243062dece9/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">Dremio Verified Data Product Developer - Dremio</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Dremio Verified Data Product Developer has demonstrated a capacity to learn, understand and critically think about cutting edge Data... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">Read more here</a><br>
       <strong>Skills:</strong> Data Lakehouses, Data Products, Dremio<br>
       <strong>Criteria:</strong> The Dremio Fundamentals course covers the basics of working with the Dremio UI as well as the associated Data Lakehouse... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-product-developer">Read more here</a><br>
@@ -3597,13 +3597,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">
         <img src="https://images.credly.com/size/500x500/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">Dremio Verified Data Analyst - Dremio</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The “Dremio Verified Data Analyst” demonstrates a dedicated interest in and capacity to understand and work with Dremio. This individual... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">Read more here</a><br>
       <strong>Skills:</strong> Data Lakehouses, Dremio, SQL<br>
       <strong>Criteria:</strong> The Dremio Fundamentals course covers the basics of working with the Dremio UI as well as the associated Data Lakehouse... <a href="https://www.credly.com/org/dremio/badge/dremio-verified-data-analyst">Read more here</a><br>
@@ -3663,46 +3663,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">
         <img src="https://images.credly.com/size/500x500/images/3e18fcd5-b7a7-4990-8a50-5a686f63af2a/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Extreme Fabric - Installation and Configuration - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge can deploy Extreme Networks Fabric Connect solutions based on reference architectures from Extreme Networks customer scenarios.Upon... <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Read more here</a><br>
       <strong>Skills:</strong> ERS, Extreme Campus Fabric, Fabric Connect, Fabric Technology, Networking<br>
-      <strong>Criteria:</strong> ('Create an Extreme Academy - Certifications account Book and attend course Take Assessment on Extreme Academy - Certifications', None) <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Read more here</a><br>
+      <strong>Criteria:</strong> Create an Extreme Academy - Certifications account Book and attend course Take Assessment on Extreme Academy - Certifications <a href="https://www.credly.com/org/extreme-networks/badge/extreme-fabric-installation-and-configuration.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">
         <img src="https://images.credly.com/size/500x500/images/3833c91e-87ca-45b4-97f1-29e43069f63d/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">ExtremeCloud SD-WAN - Installation and Configuration - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge will be able to explain the architecture of the ExtremeCloud SD-WAN solution including the key solution... <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">Read more here</a><br>
       <strong>Skills:</strong> Application Performance, Connectivity, Deploy, ExtremeCloud SD-WAN Solution, Installation And Configuration<br>
-      <strong>Criteria:</strong> ('Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications', None) <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">Read more here</a><br>
+      <strong>Criteria:</strong> Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-installation-and-configuration">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">
         <img src="https://images.credly.com/size/500x500/images/4e1db7f0-ca13-4353-a3a6-cfb4f4d67591/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">ExtremeWireless Cloud - Management - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge will have the knowledge to manage the wireless network using ExtremeCloud™ IQ. Upon completion, they will... <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">Read more here</a><br>
       <strong>Skills:</strong> ExtremeWireless Cloud, Logs, ML Insights, Network Management, SNMP<br>
-      <strong>Criteria:</strong> ('Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications', None) <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">Read more here</a><br>
+      <strong>Criteria:</strong> Create an Extreme Academy - Certifications account Book and attend course Take assessment on Extreme Academy - Certifications <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -3803,46 +3803,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">
         <img src="https://images.credly.com/size/500x500/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Prompt Design in Vertex AI Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Complete the introductory Prompt Design in Vertex AI skill badge to demonstrate skills in the following: prompt engineering, image analysis,... <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Read more here</a><br>
       <strong>Skills:</strong> Artificial Intelligence (AI), Gemini APIs, Generative AI, Prompt Engineering<br>
-      <strong>Criteria:</strong> ('Successful completion of the hands-on challenge lab', None) <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Read more here</a><br>
+      <strong>Criteria:</strong> Successful completion of the hands-on challenge lab <a href="https://www.credly.com/org/google-cloud/badge/prompt-design-in-vertex-ai-skill-badge">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">
         <img src="https://images.credly.com/size/500x500/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Build Real World AI Applications with Gemini and Imagen Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Complete the introductory Build Real World AI Applications with Gemini and Imagen skill badge to demonstrate skills in the following:... <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Read more here</a><br>
       <strong>Skills:</strong> Gemini, Imagen, Natural Language Processing (NLP), Vertex AI<br>
-      <strong>Criteria:</strong> ('Successful completion of the hands-on challenge lab', None) <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Read more here</a><br>
+      <strong>Criteria:</strong> Successful completion of the hands-on challenge lab <a href="https://www.credly.com/org/google-cloud/badge/build-real-world-ai-applications-with-gemini-and-im">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">
         <img src="https://images.credly.com/size/500x500/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Get Started with Pub/Sub Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Complete the Get Started with Pub/Sub skill badge to demonstrate skills in the following: how to use Pub/Sub through the... <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Read more here</a><br>
       <strong>Skills:</strong> Cloud Scheduler, Pub/sub, Pub/sub lite<br>
-      <strong>Criteria:</strong> ('Successful completion of the hands-on challenge lab', None) <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Read more here</a><br>
+      <strong>Criteria:</strong> Successful completion of the hands-on challenge lab <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-pub-sub-skill-badge">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4097,13 +4097,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">
         <img src="https://images.credly.com/size/500x500/images/4e3e86d1-4aae-4724-9766-d82fb4779970/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">Fast start - HPE Cloud computing foundation - Hewlett Packard Enterprise</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have successfully completed the Cloud computing foundation curriculum which provides baseline fundamentals around the purpose, terminology,... <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">Read more here</a><br>
       <strong>Skills:</strong> Cloud Architectures, Containers, DevOps, Operational Models, Orchestration<br>
       <strong>Criteria:</strong> Recommendation of at least 1-year of baseline knowledge and experience working with cloud computing, IT/Cloud operational processes and services, ITIL... <a href="https://www.credly.com/org/hewlett-packard-enterprise/badge/fast-start-hpe-cloud-computing-foundation">Read more here</a><br>
@@ -4133,13 +4133,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">
         <img src="https://images.credly.com/size/500x500/images/a3eb64e4-313f-4564-b60f-b4ca0581fad6/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Developer Introduction to hx Renew - Hyperexponential</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the fundamentals of building, managing, and publishing pricing tools in hx... <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Read more here</a><br>
       <strong>Skills:</strong> hx Renew, Insurance modelling, Python<br>
       <strong>Criteria:</strong> Awarded for completion of hyperexponential’s Developer Essentials course, covering the fundamentals of building, managing, and publishing pricing tools in hx... <a href="https://www.credly.com/org/hyperexponential/badge/developer-introduction-to-hx-renew">Read more here</a><br>
@@ -4148,16 +4148,16 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">
         <img src="https://images.credly.com/size/500x500/images/b22a82db-e716-4d7d-95db-9baac0ac692d/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">An Introduction to the hyperexponential Partner Program - Hyperexponential</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This course introduces the hx Partner Program and outlines how we collaborate with partners to deliver value through hx Renew.... <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">Read more here</a><br>
       <strong>Skills:</strong> hx Renew, hyperexponential, Insurance<br>
-      <strong>Criteria:</strong> ("Earned for the completion of hyperexponential's 'An Introduction to the hyperexponential Partner Program' course.", None) <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">Read more here</a><br>
+      <strong>Criteria:</strong> Earned for the completion of hyperexponential's 'An Introduction to the hyperexponential Partner Program' course. <a href="https://www.credly.com/org/hyperexponential/badge/an-introduction-to-the-hyperexponential-partner-pro">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4184,28 +4184,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">
         <img src="https://images.credly.com/size/500x500/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Big Data Foundations - Level 1 - IBM</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge earner has a basic understanding of Big Data concepts and their applications to gain insight for providing better... <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Read more here</a><br>
       <strong>Skills:</strong> Big Data, Hadoop, PWID-B0257400<br>
-      <strong>Criteria:</strong> ('Satisfactory course completion: Big Data 101', None) <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Read more here</a><br>
+      <strong>Criteria:</strong> Satisfactory course completion: Big Data 101 <a href="https://www.credly.com/org/ibm/badge/big-data-foundations-level-1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">
         <img src="https://images.credly.com/size/500x500/images/678bcf1d-7baf-4322-9301-3f88d71ef113/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">Quantum-Safe Encryption Essentials - IBM</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge earner can explain the need for quantum-safe technologies to keep data, systems, and IT infrastructure safe. They understand... <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">Read more here</a><br>
       <strong>Skills:</strong> Cryptography, Cyber Resiliency, Data Security, Encryption, IBM Quantum Safe<br>
       <strong>Criteria:</strong> Successfully complete the course: 'Fundamentals of Encryption & Quantum-Safe Techniques' on Cognitive Class. Receiving a passing score on the final... <a href="https://www.credly.com/org/ibm/badge/quantum-safe-encryption-essentials">Read more here</a><br>
@@ -4214,16 +4214,16 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">
         <img src="https://images.credly.com/size/500x500/images/95272ba4-d722-4e3c-8727-d3235c75e4d6/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Data Privacy Fundamentals - IBM</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge earner understands the relationship between collection and dissemination of data in technology. The individual also understands the public... <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Read more here</a><br>
       <strong>Skills:</strong> Data Privacy, Data Science, Ethics, Government, IT Security<br>
-      <strong>Criteria:</strong> ('Successful completion of the course "Data Privacy Fundamentals".', None) <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Read more here</a><br>
+      <strong>Criteria:</strong> Successful completion of the course "Data Privacy Fundamentals". <a href="https://www.credly.com/org/ibm/badge/data-privacy-fundamentals">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4280,13 +4280,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">
         <img src="https://images.credly.com/size/500x500/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Getting Started with Artificial Intelligence - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This credential earner demonstrates a foundational understanding of Artificial Intelligence concepts and processes, including common applications of AI, and generative... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Read more here</a><br>
       <strong>Skills:</strong> AI Applications, Artificial Intelligence, Data Structures, Generative AI, Machine Learning<br>
       <strong>Criteria:</strong> Complete Getting Started with Artificial Intelligence, a prescribed set of courses, designed by IBM. Complete all the assessments with a... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-artificial-intelligence">Read more here</a><br>
@@ -4295,13 +4295,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">
         <img src="https://images.credly.com/size/500x500/images/8d1fe454-ecd2-40c1-b79f-b97ad326f8ea/Generative_20AI_20in_20action.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Generative AI in Action - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This credential earner has applied technical knowledge of principles of generative AI, prompt engineering techniques, and Python libraries. The individual... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Read more here</a><br>
       <strong>Skills:</strong> AI Ethics, Artificial Intelligence, Decoders, Encoders, Foundation Models<br>
       <strong>Criteria:</strong> Complete Generative AI, a prescribed set of courses, designed by IBM. Complete the end-of-course assessments with a score of 80%... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/generative-ai-in-action">Read more here</a><br>
@@ -4310,16 +4310,16 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">
         <img src="https://images.credly.com/size/500x500/images/7416ef81-78db-4222-b378-43d9f41c36e1/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Journey to Cloud: Envisioning Your Solution - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This credential earner demonstrates knowledge and understanding of the digital transformation drivers made possible by cloud technologies and services. This... <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Read more here</a><br>
       <strong>Skills:</strong> Agile Practices, API, Application Deployment, Application Testing, Business Framing<br>
-      <strong>Criteria:</strong> ('Complete the self-paced online course Journey to Cloud: Envisioning Your Solution. Pass the final course assessment.', None) <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the self-paced online course Journey to Cloud: Envisioning Your Solution. Pass the final course assessment. <a href="https://www.credly.com/org/ibm-skillsbuild/badge/journey-to-cloud-envisioning-your-solution.2">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
@@ -4431,28 +4431,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">
         <img src="https://images.credly.com/size/500x500/images/7787d682-d458-4587-b3d2-c758a73b33ac/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">aiCast 101 - Ikigai Labs</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has demonstrated the ability to utilize the Ikigai platform through preparing data and generating a forecast using... <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">Read more here</a><br>
       <strong>Skills:</strong> Artificial Intelligence (AI), Data Science, Forecasting, Generative AI, Machine Learning (ML)<br>
-      <strong>Criteria:</strong> ('Complete the 2-hour aiCast 101 course including hands-on exercises in the Ikigai platform.', None) <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the 2-hour aiCast 101 course including hands-on exercises in the Ikigai platform. <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-101.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Intermediate
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">
         <img src="https://images.credly.com/size/500x500/images/e76b661a-144a-466f-9d83-c3fb10fffdc7/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">CDII - Making Predictions - Ikigai Labs</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has demonstrated the ability to build an end-to-end AI solution with a real use-case and datasets. They... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">Read more here</a><br>
       <strong>Skills:</strong> AI Applications, Artificial Intelligence (AI), Data Science, Machine Learning (ML), Predictive Flows<br>
       <strong>Criteria:</strong> Completed a 2-hour course introducing how to build an end-to-end AI solution within the Ikigai platform. Created a prediction flow... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-predictions">Read more here</a><br>
@@ -4461,13 +4461,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">
         <img src="https://images.credly.com/size/500x500/images/760c4410-9806-4056-9ade-65448f969382/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">CDII - Making an AI App - Ikigai Labs</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has demonstrated the ability to build an end-to-end AI solution with a real use-case and datasets. They... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">Read more here</a><br>
       <strong>Skills:</strong> AI Applications, Artificial Intelligence (AI), Dashboards, Data Science, Data Visualization<br>
       <strong>Criteria:</strong> Completed a 2-hour course introducing how to build an embedded AI App solution within the Ikigai platform. Created a dashboard... <a href="https://www.credly.com/org/ikigai-labs/badge/cdii-making-an-ai-app">Read more here</a><br>
@@ -4538,13 +4538,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/intel/badge/cloud-devops">
         <img src="https://images.credly.com/size/500x500/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/cloud-devops">Cloud DevOps - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have demonstrated advanced knowledge, understanding, and proficiency in understanding DevOps and the cultural changes required to... <a href="https://www.credly.com/org/intel/badge/cloud-devops">Read more here</a><br>
       <strong>Skills:</strong> Agile, Application of DevOps for the Azure Cloud Platform, Application of DevOps for the Google Cloud Platform, artifacts, AWS Cloud Development Kit<br>
       <strong>Criteria:</strong> Learners must complete 5 hours of training and successfully pass each of the associated course quizzes. Passing score is 80%... <a href="https://www.credly.com/org/intel/badge/cloud-devops">Read more here</a><br>
@@ -4553,13 +4553,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/intel/badge/cloud-principles">
         <img src="https://images.credly.com/size/500x500/images/b35ff1ce-a4a9-436a-b9f3-355b65494070/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/cloud-principles">Cloud Principles - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have demonstrated knowledge, understanding, and proficiency of the Cloud including Intel® technologies and solutions to be... <a href="https://www.credly.com/org/intel/badge/cloud-principles">Read more here</a><br>
       <strong>Skills:</strong> Application Architecture and Development in the Cloud, Business Considerations Driving Enterprise Cloud Decisions, Cloud Consumption Models, Cloud Hyperscalers, Cloud Industry<br>
       <strong>Criteria:</strong> Learners must complete at least 4.25 hours of training and successfully pass each of the associated course quizzes. Passing score... <a href="https://www.credly.com/org/intel/badge/cloud-principles">Read more here</a><br>
@@ -4568,13 +4568,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/intel/badge/cloud-deployments">
         <img src="https://images.credly.com/size/500x500/images/02014e24-2f1c-47e7-8398-5e36e3966d54/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/cloud-deployments">Cloud Deployments - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have demonstrated knowledge, understanding, and proficiency of the Cloud including designing and implement workloads and solutions... <a href="https://www.credly.com/org/intel/badge/cloud-deployments">Read more here</a><br>
       <strong>Skills:</strong> Cloud Networking, Cloud Orchestration And Automation, Cloud Storage Architectures, Cloud Workload Deployment Strategies, Container Deployment Strategies<br>
       <strong>Criteria:</strong> Learners must complete at least 5.25 hours of training and successfully pass each of the associated course quizzes. Passing score... <a href="https://www.credly.com/org/intel/badge/cloud-deployments">Read more here</a><br>
@@ -4788,13 +4788,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">
         <img src="https://images.credly.com/size/500x500/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">ISC2 Candidate - ISC2</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> ISC2 Candidates are individuals pursuing or considering a cybersecurity certification. To become a Candidate, the individual must apply online and... <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">Read more here</a><br>
       <strong>Skills:</strong> ISC2 Candidates are part of the diverse, global community of individuals with a desire to create a safe and secure cyber world., ISC2 Candidates are part of the ISC2 pledge to certify one million individuals and as such, have access to foundational education materials to pursue the entry-level Certified in Cybersecurity certification., ISC2 Candidates are pursuing their first ISC2 certification, or gaining the foundational knowledge necessary to join the cybersecurity workforce.<br>
       <strong>Criteria:</strong> ISC2 Candidates agree to the ISC2 Privacy Policy ISC2 Candidates will create an account with ISC2 and agree to abide... <a href="https://www.credly.com/org/isc2/badge/isc2-candidate">Read more here</a><br>
@@ -4824,13 +4824,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">
         <img src="https://images.credly.com/size/500x500/images/d0e84df5-83ab-438b-b51f-c464c78faa52/tempfile20250605-58-6rrhp1.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">Foundations: Kubernetes Networking & Cilium - Isovalent</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge certifies that the Foundations Getting Started with Kubernetes Networking & Cilium lab by Isovalent has been successfully completed.... <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">Read more here</a><br>
       <strong>Skills:</strong> Cilium, Kubernetes, Networking<br>
       <strong>Criteria:</strong> The badge recipient has followed the Foundations: Kubernetes Networking & Cilium lab by Isovalent. The badge recipient has correctly answered... <a href="https://www.credly.com/org/isovalent/badge/foundations-kubernetes-networking-cilium">Read more here</a><br>
@@ -4860,31 +4860,31 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">
         <img src="https://images.credly.com/size/500x500/images/4b7cc57e-5a31-4928-96cb-1ad3756f3e07/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Kong Mesh Foundations - Kong</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Kong Mesh Foundations badge have demonstrated the competence through a series of modules and lab exercises in... <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Read more here</a><br>
       <strong>Skills:</strong> Kong Mesh Installation, Managing Traffic with Kong Mesh, Securing Kong Mesh<br>
-      <strong>Criteria:</strong> ('Completed Kong Mesh Foundations Passed knowledge check quiz with 70% or higher', None) <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Read more here</a><br>
+      <strong>Criteria:</strong> Completed Kong Mesh Foundations Passed knowledge check quiz with 70% or higher <a href="https://www.credly.com/org/kong/badge/kong-mesh-foundations">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">
         <img src="https://images.credly.com/size/500x500/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Kong Gateway Foundations - Kong</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Kong Gateway Foundations badge have demonstrated competence, through a series of modules and lab exercises, in the... <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Read more here</a><br>
       <strong>Skills:</strong> Configure Consumers, Configure Plugins, Configure Routes, Configure Services, Declarative Configuration with Deck<br>
-      <strong>Criteria:</strong> ('Completed Kong Gateway Foundations Passed knowledge check quiz with 70% accuracy or higher.', None) <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Read more here</a><br>
+      <strong>Criteria:</strong> Completed Kong Gateway Foundations Passed knowledge check quiz with 70% accuracy or higher. <a href="https://www.credly.com/org/kong/badge/kong-gateway-foundations.1">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -4911,46 +4911,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">
         <img src="https://images.credly.com/size/500x500/images/5df9ce6d-ab63-44f0-b351-d78ef0165abd/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Basics in Lucidspark - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Basics in Lucidspark badge know how to build a board, how to collaborate effectively with their team... <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Read more here</a><br>
       <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Virtual Collaboration, Virtual Whiteboarding<br>
-      <strong>Criteria:</strong> ('Complete every lesson of the Basics in Lucidspark Lucid Training Labs course and pass the final quiz.', None) <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Read more here</a><br>
+      <strong>Criteria:</strong> Complete every lesson of the Basics in Lucidspark Lucid Training Labs course and pass the final quiz. <a href="https://www.credly.com/org/lucidsoftware/badge/basics-in-lucidspark">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">
         <img src="https://images.credly.com/size/500x500/images/6b4ef123-36a4-4c52-b252-bf61fc94271e/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Brainstorming in Lucidspark - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Brainstorming in Lucidspark badge know how to generate new ideas using Lucidspark, how to organize and synthesize... <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Read more here</a><br>
       <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Virtual Collaboration, Virtual Whiteboarding<br>
-      <strong>Criteria:</strong> ('Complete each lesson in the Brainstorming in Lucidspark Lucid Training Labs course and pass the final quiz.', None) <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Read more here</a><br>
+      <strong>Criteria:</strong> Complete each lesson in the Brainstorming in Lucidspark Lucid Training Labs course and pass the final quiz. <a href="https://www.credly.com/org/lucidsoftware/badge/brainstorming-in-lucidspark">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">
         <img src="https://images.credly.com/size/500x500/images/9e60188b-381a-406f-9c90-dad6aa5c4bc2/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Planning in Lucidspark - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Planning in Lucidspark badge know how to transform ideas into clear plans using Lucidspark's unique planning features,... <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Read more here</a><br>
       <strong>Skills:</strong> Brainstorming, Collaboration, Lucidspark, Planning, Project Management<br>
-      <strong>Criteria:</strong> ('Complete each lesson in the Planning in Lucidspark Lucid Training Labs course and pass the final quiz.', None) <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Read more here</a><br>
+      <strong>Criteria:</strong> Complete each lesson in the Planning in Lucidspark Lucid Training Labs course and pass the final quiz. <a href="https://www.credly.com/org/lucidsoftware/badge/planning-in-lucidspark">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -5062,13 +5062,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/make/badge/make-basics">
         <img src="https://images.credly.com/size/500x500/images/dba526ad-3a2f-49af-becf-65d5a66a75ae/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/make/badge/make-basics">Make Basics - Make</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The earner of this badge has completed all courses within Make Basics and expanded their knowledge of several automation themes,... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
       <strong>Skills:</strong> Aggregation, Automation, Data, Data Literacy, Data Structures<br>
       <strong>Criteria:</strong> Complete the 'Introduction to Modules' course, and the associated assessment. Complete the 'An introduction to data types and data structures'... <a href="https://www.credly.com/org/make/badge/make-basics">Read more here</a><br>
@@ -5077,13 +5077,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/make/badge/make-foundation.1">
         <img src="https://images.credly.com/size/500x500/images/02e15286-d87a-45aa-9ba7-8d38307ca368/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/make/badge/make-foundation.1">Make Foundation - Make</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The earner of this badge has completed all courses within Make Foundation and created their first automation, demonstrating proficiency in... <a href="https://www.credly.com/org/make/badge/make-foundation.1">Read more here</a><br>
       <strong>Skills:</strong> Automation, Control Flow, Data Mapping, Filter Design, No-code<br>
       <strong>Criteria:</strong> Complete the 'Setting up my first scenario' course, and the associated assessment. Complete the 'Expanding my first scenario' course, and... <a href="https://www.credly.com/org/make/badge/make-foundation.1">Read more here</a><br>
@@ -5092,13 +5092,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/make/badge/make-intermediate">
         <img src="https://images.credly.com/size/500x500/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/make/badge/make-intermediate">Make Intermediate - Make</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The earner of this badge has completed all courses within Make Intermediate and expanded their knowledge of several automation themes,... <a href="https://www.credly.com/org/make/badge/make-intermediate">Read more here</a><br>
       <strong>Skills:</strong> Aggregator, Array, Automation, Data, Data Structures<br>
       <strong>Criteria:</strong> Complete the 'Introduction to Iterators and Array aggregators' course, and the associated assessment. Complete the 'Using get() and map() functions'... <a href="https://www.credly.com/org/make/badge/make-intermediate">Read more here</a><br>
@@ -5128,13 +5128,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">
         <img src="https://images.credly.com/size/500x500/images/71a08fbf-178b-4342-9b17-a5239942846c/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">MongoDB Schema Design Patterns and Anti-patterns Skill Badge - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This digital credential validates your knowledge of schema design patterns like inheritance and computed patterns. It recognizes your understanding of... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">Read more here</a><br>
       <strong>Skills:</strong> Databases, Database Schemas, Database Tuning, Data Modeling, MongoDB<br>
       <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, identifying and avoiding common... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-patterns-and-anti-patterns-sk">Read more here</a><br>
@@ -5143,13 +5143,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">
         <img src="https://images.credly.com/size/500x500/images/9aa3a2f5-20ad-4ba3-b7ac-dbc13f4db5db/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">MongoDB Schema Design Optimization Skill Badge - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This digital credential validates your knowledge of optimizing performance by applying schema design patterns like single collection and bucket. It... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">Read more here</a><br>
       <strong>Skills:</strong> Bucket, Course Evaluations, Data Analysis, Data Literacy, Data Modeling<br>
       <strong>Criteria:</strong> Complete 1 hour of training on mastering essential schema design patterns like inheritance and computed patterns, learning to identify and... <a href="https://www.credly.com/org/mongodb/badge/mongodb-schema-design-optimization-skill-badge">Read more here</a><br>
@@ -5158,13 +5158,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">
         <img src="https://images.credly.com/size/500x500/images/592afcf7-1323-4dc4-af0d-0c3cad726e95/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This digital credential validates your knowledge of advanced schema design patterns like approximation and schema versioning. It recognizes your understanding... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">Read more here</a><br>
       <strong>Skills:</strong> Antipatterns, Approximation, Case Sensitivity, Data Modeling, Data Normalization<br>
       <strong>Criteria:</strong> Complete 1 hour of training on learning advanced schema design patterns like approximation and schema versioning, managing schema lifecycle changes... <a href="https://www.credly.com/org/mongodb/badge/mongodb-advanced-schema-design-patterns-and-anti-pa">Read more here</a><br>
@@ -5389,13 +5389,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">
         <img src="https://images.credly.com/size/500x500/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">NASA Open Science 101 - NASA Open Science</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> NASA Open Science is a transformative initiative by NASA aimed at advancing open science practices, promoting transparency, and maximizing the... <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">Read more here</a><br>
       <strong>Skills:</strong> Ethos of Open Science, Open Code, Open Data, Open Results, Open Science<br>
       <strong>Criteria:</strong> This badge is earned by completing NASA's Open Science 101 training course. Open Science 101 provides a solid foundation on... <a href="https://www.credly.com/org/nasa-open-science/badge/nasa-open-science-101">Read more here</a><br>
@@ -5425,13 +5425,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">
         <img src="https://images.credly.com/size/500x500/images/8baee88f-43b8-47ab-a3ec-a1cd31b92c8f/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">NetApp Accredited Cloud Native Associate - NetApp</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Holding this credential is validation of your ability to explain how NetApp provides value by managing data in a cloud... <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">Read more here</a><br>
       <strong>Skills:</strong> Backup monitoring and classification, BlueXP suite of capabilities, Cloud Concepts, Identify 1st party services (ANF, FSX, Google Cloud NetApp Volumes), Methods and differences between public, private, and hybrid cloud deployments<br>
       <strong>Criteria:</strong> This introductory and foundational accreditation exam validates your ability to recognize and explain how NetApp provides value by managing data... <a href="https://www.credly.com/org/netapp/badge/netapp-accredited-cloud-native-associate">Read more here</a><br>
@@ -5461,46 +5461,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">
         <img src="https://images.credly.com/size/500x500/images/f4e2cfe4-8836-4a10-a326-75197c870eeb/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Define a Secure Policy Structure - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Badge earners understand security assurance concepts and how to apply them in Okta to enhance security. They can explain assurance... <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
       <strong>Skills:</strong> Okta Administration, Okta Policy Framework, Security Assurance, Security Policies<br>
-      <strong>Criteria:</strong> ('Complete the Define a Secure Policy Structure learning path. Pass the Assessment: Define a Secure Policy Structure.', None) <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Define a Secure Policy Structure learning path. Pass the Assessment: Define a Secure Policy Structure. <a href="https://www.credly.com/org/okta/badge/define-a-secure-policy-structure">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/okta/badge/implement-security-policies">
         <img src="https://images.credly.com/size/500x500/images/459a71a2-1053-4112-be10-630ea14825b0/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Implement Security Policies - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Badge earners understand authentication and MFA in Okta to enhance security. They can select authenticators based on risk, manage MFA... <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
       <strong>Skills:</strong> Authentication Policies, Global Session Policies, MFA, MFA Enrollment, Password Recovery<br>
-      <strong>Criteria:</strong> ('Complete the Implement Security Policies learning path. Pass the Assessment: Implement Security Policies with MFA.', None) <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Implement Security Policies learning path. Pass the Assessment: Implement Security Policies with MFA. <a href="https://www.credly.com/org/okta/badge/implement-security-policies">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/okta/badge/manage-network-zones">
         <img src="https://images.credly.com/size/500x500/images/4ac21e90-2546-4b41-b681-499fea38c359/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Manage Network Zones - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Badge earners understand Okta's network security features and how to configure them to secure access. They can define and configure... <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
       <strong>Skills:</strong> CIDR, Dynamic Zones, IP Zones, Network Zones, Trusted Proxies<br>
-      <strong>Criteria:</strong> ('Complete the Manage Network Zones learning path. Pass the Assessment: Manage Network Zones.', None) <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the Manage Network Zones learning path. Pass the Assessment: Manage Network Zones. <a href="https://www.credly.com/org/okta/badge/manage-network-zones">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> N/A
     </td>
@@ -5656,13 +5656,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">
         <img src="https://images.credly.com/size/500x500/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">OPSWAT Introduction to Critical Infrastructure Protection (ICIP) - OPSWAT</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This certification program introduces users to fundamental critical infrastructure protection concepts, how to navigate the OPSWAT certification program requirements, and... <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">Read more here</a><br>
       <strong>Skills:</strong> CIP, critical infrastructure, OPSWAT Academy<br>
       <strong>Criteria:</strong> Users are required to pass a final exam to earn both a certificate and to unlock the OPSWAT OFSA and... <a href="https://www.credly.com/org/opswat/badge/opswat-introduction-to-critical-infrastructure-protection-icip">Read more here</a><br>
@@ -5692,13 +5692,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">
         <img src="https://images.credly.com/size/500x500/images/d7e06f28-2a0b-41b1-9af3-bcd8024e7627/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">AI for Product Management - Pendo</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of AI for product management, including leveraging AI throughout the development life... <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">Read more here</a><br>
       <strong>Skills:</strong> AI, Artificial Intelligence, Data Analysis, Product Management<br>
       <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (90 minutes to complete) and is not proctored... <a href="https://www.credly.com/org/pendo/badge/ai-for-product-management">Read more here</a><br>
@@ -5707,13 +5707,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">
         <img src="https://images.credly.com/size/500x500/images/b3c64450-6392-48fc-862e-5945102d1043/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">Digital Adoption Certification - Pendo</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of digital adoption, including how to use data to analyze and optimize... <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">Read more here</a><br>
       <strong>Skills:</strong> Change Management, Digital Adoption, Digital Transformation, Product Management<br>
       <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (90 minutes to complete) and is not proctored... <a href="https://www.credly.com/org/pendo/badge/digital-adoption-certification">Read more here</a><br>
@@ -5722,13 +5722,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">
         <img src="https://images.credly.com/size/500x500/images/c22b8e26-21aa-41e1-8aa1-d7574efcda96/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">Product Discovery Certification - Pendo</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge have demonstrated their knowledge of product discovery, including how to use data and AI for more... <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">Read more here</a><br>
       <strong>Skills:</strong> Product Discovery, Product Management, User Research<br>
       <strong>Criteria:</strong> The exam requires a minimum score of 75% to pass, is timed (60 minutes to complete) and is not proctored... <a href="https://www.credly.com/org/pendo/badge/product-discovery-certification">Read more here</a><br>
@@ -5799,29 +5799,29 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">
         <img src="https://images.credly.com/size/500x500/images/395b0da8-49b7-4607-b432-57c526f56b17/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">2025 Process Documentation - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> ('Badge awarded to students upon completion of the Process Documentation course in the Designer Basics Learning Path at ProcessMaker University.', None) <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">Read more here</a><br>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Badge awarded to students upon completion of the Process Documentation course in the Designer Basics Learning Path at ProcessMaker University. <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">Read more here</a><br>
       <strong>Skills:</strong> Document with AI, Process Documentation, ProcessMaker AI, ProcessMaker Designer<br>
-      <strong>Criteria:</strong> ('Successfully complete the Process Documentation course. Demonstrate proficiency in documenting processes manually or using AI.', None) <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">Read more here</a><br>
+      <strong>Criteria:</strong> Successfully complete the Process Documentation course. Demonstrate proficiency in documenting processes manually or using AI. <a href="https://www.credly.com/org/processmaker/badge/2025-process-documentation">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/processmaker/badge/data-integrity">
         <img src="https://images.credly.com/size/500x500/images/6099625c-6475-48af-b7ef-107b46f2780e/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Data Integrity - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> ('Badge awarded to students upon completion of the Data Integrity course in the Developer Learning Path @ ProcessMaker University.', None) <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Read more here</a><br>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Badge awarded to students upon completion of the Data Integrity course in the Developer Learning Path @ ProcessMaker University. <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Read more here</a><br>
       <strong>Skills:</strong> Data Integrity, Environment Variables, ProcessMaker Developer, Vocabularies<br>
       <strong>Criteria:</strong> Successfully complete the Data Integrity course. Demonstrate proficiency in utilizing Vocabularies and Environment Variables to effectively manage and preserve data... <a href="https://www.credly.com/org/processmaker/badge/data-integrity">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
@@ -5829,14 +5829,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">
         <img src="https://images.credly.com/size/500x500/images/31f96ccf-0c15-4326-8369-58a39d377e1c/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">2025 ProcessMaker 101 - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
-      <strong>Description:</strong> ('Badge awarded to students upon completion of the ProcessMaker 101 course at ProcessMaker University.', None) <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">Read more here</a><br>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Badge awarded to students upon completion of the ProcessMaker 101 course at ProcessMaker University. <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">Read more here</a><br>
       <strong>Skills:</strong> Basics, ProcessMaker Platform, ProcessMaker User<br>
       <strong>Criteria:</strong> Successfully complete the ProcessMaker 101 course. Gain an understanding of the core features in ProcessMaker Platform. Familiarize with the fundamental... <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-101">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
@@ -6148,43 +6148,43 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">
         <img src="https://images.credly.com/size/500x500/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Fundamentals of Agile Project Management - Project Management Institute</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of Kickoff’s Fundamentals of Agile Project Management badge have an essential understanding of agile processes and terminology. They’ve demonstrated... <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Read more here</a><br>
       <strong>Skills:</strong> Backlog Formation, Creating User Stories, Establishing Scrum Environment, Product Planning & Alignment, Sprint Execution<br>
-      <strong>Criteria:</strong> ('Complete Kickoff’s 45-minute Fundamentals of Agile Project Management course, including all activities, lessons, and modules.', None) <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Read more here</a><br>
+      <strong>Criteria:</strong> Complete Kickoff’s 45-minute Fundamentals of Agile Project Management course, including all activities, lessons, and modules. <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-agile-project-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">
         <img src="https://images.credly.com/size/500x500/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Fundamentals of Predictive Project Management - Project Management Institute</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of Kickoff’s Fundamentals of Predictive Project Management badge have an essential understanding of predictive processes and terminology. They’ve demonstrated... <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Read more here</a><br>
       <strong>Skills:</strong> Project Planning & Alignment, Project Scheduling, Project Tracking, Requirements Gathering, Risk Mitigation<br>
-      <strong>Criteria:</strong> ('Complete Kickoff’s 45-minute Fundamentals of Predictive Project Management course, including all activities, lessons, and modules.', None) <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Read more here</a><br>
+      <strong>Criteria:</strong> Complete Kickoff’s 45-minute Fundamentals of Predictive Project Management course, including all activities, lessons, and modules. <a href="https://www.credly.com/org/project-management-institute/badge/fundamentals-of-predictive-project-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">
         <img src="https://images.credly.com/size/500x500/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">Generative AI Overview for Project Managers - Project Management Institute</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of this badge completed the eLearning course and assessment that will empower them to harness the power of AI... <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">Read more here</a><br>
       <strong>Skills:</strong> Enhancing PM with GenAI, Generative AI, Generative AI Tools<br>
       <strong>Criteria:</strong> Successful completion of the Generative AI for Project Managers eLearning course. Upon completion of the course, those who successfully pass... <a href="https://www.credly.com/org/project-management-institute/badge/generative-ai-overview-for-project-managers">Read more here</a><br>
@@ -6233,13 +6233,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">
         <img src="https://images.credly.com/size/500x500/images/9643810e-a1d8-4ea2-a747-3b051ce2305f/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">Red Hat AI Foundations Executive Certificate - Red Hat</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Red Hat AI Foundations Executive Certificate is awarded to professionals who have successfully completed a series of courses covering... <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">Read more here</a><br>
       <strong>Skills:</strong> AI Development, AI Ethics, AI Explainability, AI In Business, AI Tools and Frameworks<br>
       <strong>Criteria:</strong> Complete the AI Fundamentals course Complete the Introduction to Artificial Intelligence course Complete the AI Ethics course Complete The Value... <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-ai-foundations-executive-certificate">Read more here</a><br>
@@ -6269,46 +6269,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">
         <img src="https://images.credly.com/size/500x500/images/2b0bba48-c6e9-495e-b932-b61471701523/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Certified ARIS Modeler Associate - SAG ARIS GmbH</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has successfully completed the ARIS Modeler Basic course. The course helped demonstrate the basic and some intermediate... <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Read more here</a><br>
       <strong>Skills:</strong> ARIS, Business Process Modeling<br>
-      <strong>Criteria:</strong> ('(For Internal Users) - ARIS Modeler Basic Course', None) <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Read more here</a><br>
+      <strong>Criteria:</strong> (For Internal Users) - ARIS Modeler Basic Course <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-modeler-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">
         <img src="https://images.credly.com/size/500x500/images/6fdfbe24-b191-4711-81c8-a84176e4de62/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Certified ARIS Administrator Associate - SAG ARIS GmbH</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has successfully completed the ARIS Administrator Basic course. The course helped demonstrate demonstrate some intermediate functionality of... <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Read more here</a><br>
       <strong>Skills:</strong> ARIS, Business Process Modeling<br>
-      <strong>Criteria:</strong> ('(For External Users) ARIS Administrator Basic course', None) <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Read more here</a><br>
+      <strong>Criteria:</strong> (For External Users) ARIS Administrator Basic course <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-administrator-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">
         <img src="https://images.credly.com/size/500x500/images/b1671540-038b-406d-bb32-3b1460dec34b/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Certified ARIS Process Mining Associate - SAG ARIS GmbH</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has successfully completed the ARIS Process Mining Basic course. The course introduced the world of Process Mining:... <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Read more here</a><br>
       <strong>Skills:</strong> ARIS, ARIS Process Mining<br>
-      <strong>Criteria:</strong> ('(For Internal Users) - ARIS Process Mining Course', None) <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Read more here</a><br>
+      <strong>Criteria:</strong> (For Internal Users) - ARIS Process Mining Course <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-process-mining-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6365,13 +6365,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">
         <img src="https://images.credly.com/size/500x500/images/2311ca31-a895-4dfc-ab02-c846717bb1e0/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">Developing AI models with the Machine Learning clients for SAP HANA - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This Record of Achievement verifies that the learner has completed the learning journey “Developing AI models with the Machine Learning... <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">Read more here</a><br>
       <strong>Skills:</strong> Data Analysis for Machine Learning, Ethics of SAP Business AI, Introduction to SAP HANA APL/PAL libraries, SAP Business AI Components, SAP Business AI strategy<br>
       <strong>Criteria:</strong> Completed the SAP Learning Journey "Developing AI models with the Machine Learning clients for SAP HANA" and passed all quiz... <a href="https://www.credly.com/org/sap/badge/developing-ai-models-with-the-machine-learning-clie">Read more here</a><br>
@@ -6380,13 +6380,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">
         <img src="https://images.credly.com/size/500x500/images/16b4bf0f-8d8b-4e99-8ff9-fdfc0874b606/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">Putting AI Ethics into Practice at SAP - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This Record of Achievement validates that the learner has successfully completed the SAP Learning MOOC " Putting AI Ethics into... <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">Read more here</a><br>
       <strong>Skills:</strong> Artificial Intelligence, Governance, Machine Learning<br>
       <strong>Criteria:</strong> Completed the SAP Learning MOOC "Putting AI Ethics into Practice at SAP” and passed the quiz questions on the SAP... <a href="https://www.credly.com/org/sap/badge/putting-ai-ethics-into-practice-at-sap-record-of-ac">Read more here</a><br>
@@ -6395,16 +6395,16 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">
         <img src="https://images.credly.com/size/500x500/images/ae76cc80-7949-43da-8b30-c197fb25bab6/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Introducing the High Tech Industry - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This Record of Achievement verifies that the learner has completed the learning journey "Introducing the High Tech Industry". The learner... <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Read more here</a><br>
       <strong>Skills:</strong> Explaining and Leveraging SAP Solutions for the High Tech Industry, Identifying and Analyzing Differentiating Business Processes and Industry Trends, Understanding the Essentials of the High Tech Industry<br>
-      <strong>Criteria:</strong> ('Completed the SAP Learning Journey "Introducing the High Tech Industry" and passed all quiz questions on the SAP Learning site.', None) <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Read more here</a><br>
+      <strong>Criteria:</strong> Completed the SAP Learning Journey "Introducing the High Tech Industry" and passed all quiz questions on the SAP Learning site. <a href="https://www.credly.com/org/sap/badge/introducing-the-high-tech-industry-record-of-achiev">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6615,46 +6615,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">
         <img src="https://images.credly.com/size/500x500/images/07d67e9e-7af8-49ea-9fb6-a6686e9f5325/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Introduction to Web Design - SAS</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This course provides an introduction to web design using HTML, CSS, Bootstrap, and JavaScript. This course helps you prepare for... <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Read more here</a><br>
       <strong>Skills:</strong> Bootstrap (Front-End Framework), Cascading Style Sheets (CSS), HyperText Markup Language (HTML), JavaScript (Programming Language), SAS Studio<br>
-      <strong>Criteria:</strong> ('The owner of this badge completed Introduction to Web Design.', None) <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Read more here</a><br>
+      <strong>Criteria:</strong> The owner of this badge completed Introduction to Web Design. <a href="https://www.credly.com/org/sas/badge/introduction-to-web-design">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">
         <img src="https://images.credly.com/size/500x500/images/09e8d738-c9d4-4c46-8901-e1d19eca60e3/168058-badges-Learn-DataLiteracy.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Data Literacy Essentials - SAS</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This course is for anyone interested in learning how to use data in meaningful ways. It is designed as an... <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Read more here</a><br>
       <strong>Skills:</strong> Basic Data Analysis, Basic Data Exploration, Basic Data Interpretation, Data Literacy, SAS<br>
-      <strong>Criteria:</strong> ('The owner of this badge completed Data Literacy Essentials.', None) <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Read more here</a><br>
+      <strong>Criteria:</strong> The owner of this badge completed Data Literacy Essentials. <a href="https://www.credly.com/org/sas/badge/data-literacy-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">
         <img src="https://images.credly.com/size/500x500/images/7c19dbc4-7f4d-47e1-a5fd-f65eb9db41aa/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Modern Data Science with SAS Viya Workbench and Python - SAS</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This course showcases how to manage a data science project using both SAS and Python to predict customer churn for... <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Read more here</a><br>
       <strong>Skills:</strong> Python, SAS Viya, SAS Workbench<br>
-      <strong>Criteria:</strong> ('The owner of this badge completed the course Modern Data Science with SAS(R) Viya(R) Workbench and Python.', None) <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Read more here</a><br>
+      <strong>Criteria:</strong> The owner of this badge completed the course Modern Data Science with SAS(R) Viya(R) Workbench and Python. <a href="https://www.credly.com/org/sas/badge/modern-data-science-with-sas-viya-workbench-and-pyt">Read more here</a><br>
       <strong>Time to Earn:</strong> Days<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -6711,46 +6711,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">
         <img src="https://images.credly.com/size/500x500/images/624cf210-ddd0-4c37-9449-aceb770dfce9/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Software AG Certified Adabas Associate - Software AG</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has successfully completed the Adabas Basic course. The course lets the learner have understanding of the architecture,... <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Read more here</a><br>
       <strong>Skills:</strong> ADABAS, Natural<br>
-      <strong>Criteria:</strong> ('(For External Users) - Adabas Basic Course (For Internal Users) - Adabas Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Read more here</a><br>
+      <strong>Criteria:</strong> (For External Users) - Adabas Basic Course (For Internal Users) - Adabas Basic Course <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-adabas-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">
         <img src="https://images.credly.com/size/500x500/images/1e485440-3494-43ef-a8d6-640c7982fba5/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Software AG Certified NaturalONE Associate - Software AG</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has successfully completed the NaturalONE Basic course and has demonstrated a foundational knowledge of the integrated development... <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Read more here</a><br>
       <strong>Skills:</strong> Adabas & Natural, Eclipse, NaturalONE<br>
-      <strong>Criteria:</strong> ('(For External Users) - NaturalONE Basic Course (For Internal Users) - NaturalONE Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Read more here</a><br>
+      <strong>Criteria:</strong> (For External Users) - NaturalONE Basic Course (For Internal Users) - NaturalONE Basic Course <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-naturalone-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">
         <img src="https://images.credly.com/size/500x500/images/f3ad22df-7476-4450-a558-1d70d2bb5d30/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Software AG Certified Natural Associate - Software AG</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The badge earner has successfully completed the Natural Programming Basic course. The course gave an overview of the Natural programming... <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Read more here</a><br>
       <strong>Skills:</strong> ADABAS, Natural<br>
-      <strong>Criteria:</strong> ('(For External Users) - Natural Programming Basic Course (For Internal Users) - Natural Programming Basic Course', None) <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Read more here</a><br>
+      <strong>Criteria:</strong> (For External Users) - Natural Programming Basic Course (For Internal Users) - Natural Programming Basic Course <a href="https://www.credly.com/org/software-ag/badge/software-ag-certified-natural-associate">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -6777,46 +6777,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">
         <img src="https://images.credly.com/size/500x500/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">LFS162: Introduction to DevOps and Site Reliability Engineering - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the LFS162: Introduction to DevOps and Site Reliability Engineering badge are familiar with DevOps and SRE practices. They... <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">Read more here</a><br>
       <strong>Skills:</strong> CI/CD, Cloud Computing, Containers, DevOps, IAC<br>
-      <strong>Criteria:</strong> ('Score a 70% passing grade on the final exam.', None) <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">Read more here</a><br>
+      <strong>Criteria:</strong> Score a 70% passing grade on the final exam. <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs162-introduction-to-devops-and-site-reliability-">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">
         <img src="https://images.credly.com/size/500x500/images/efb4ebc9-5b26-49e4-bf8d-52a5996d247a/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">LFC194: Implementing Open Source License Compliance Management - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the Implementing Open Source License Compliance Management (LFC194) badge understand what license compliance management is, why it is... <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">Read more here</a><br>
       <strong>Skills:</strong> Open Source Community Engagement, Open Source Compliance and Processes, Open Source Licensing, Open Source Review<br>
-      <strong>Criteria:</strong> ('Score an 80% passing grade on the final exam.', None) <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">Read more here</a><br>
+      <strong>Criteria:</strong> Score an 80% passing grade on the final exam. <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc194-implementing-open-source-license-compliance-management">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">
         <img src="https://images.credly.com/size/500x500/images/c8c237d0-9abf-4752-840b-4a0801753975/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">LFD133: Introduction to WebAssembly - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Earners of the LFD133: Introduction to WebAssembly badge have gained a solid understanding of the WebAssembly runtime, its operations, and... <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">Read more here</a><br>
       <strong>Skills:</strong> Programming Languages, Web Applications, WebAssembly<br>
-      <strong>Criteria:</strong> ('Score a 70% passing grade on the final exam.', None) <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">Read more here</a><br>
+      <strong>Criteria:</strong> Score a 70% passing grade on the final exam. <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd133-introduction-to-webassembly">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Foundational
     </td>
@@ -7478,13 +7478,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">
         <img src="https://images.credly.com/size/500x500/images/b38c2d4f-f4bb-4f8e-aa6c-d8c8b01529a2/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">Kubernetes Admin Network Policy Shodan - Tigera</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This badge is awarded to Kubernetes experts who have completed training and successfully passed the exam on Kubernetes Admin Network... <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">Read more here</a><br>
       <strong>Skills:</strong> Application Security, Cloud Security, Kubernetes, Network Security<br>
       <strong>Criteria:</strong> The holder of this badge has successfully completed a hands-on lab workshop that demystifies Kubernetes Admin Network Policies (KANPs). During... <a href="https://www.credly.com/org/tigera/badge/kubernetes-admin-network-policy-shodan">Read more here</a><br>
@@ -7493,28 +7493,28 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">
         <img src="https://images.credly.com/size/500x500/images/29307826-ca75-40dc-a588-66215c4d495c/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Certified Calico Operator - eBPF - Tigera</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This course will provide an introduction to eBPF and then describe Calico’s eBPF pluggable data plane, reviewing the benefits and... <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Read more here</a><br>
       <strong>Skills:</strong> Cloud Security, eBPF, Kubernetes<br>
-      <strong>Criteria:</strong> ('The owner of this badge has completed a final exam about eBPF technology and Calico eBPF.', None) <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Read more here</a><br>
+      <strong>Criteria:</strong> The owner of this badge has completed a final exam about eBPF technology and Calico eBPF. <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-ebpf">Read more here</a><br>
       <strong>Time to Earn:</strong> Hours<br>
       <strong>Level:</strong> Advanced
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">
         <img src="https://images.credly.com/size/500x500/images/359fc4eb-c4cb-4313-9032-bd2afb6f6f10/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Certified Calico Operator - AWS Expert - Tigera</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> The Certified Calico Operator: AWS Expert course helps you understand how Kubernetes networking works, how to configure and manage a... <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Read more here</a><br>
       <strong>Skills:</strong> Amazon Elastic Kubernetes Service (EKS), Amazon Web Services (AWS), Cloud Security, Cluster Development<br>
       <strong>Criteria:</strong> To become a Certified Calico Operator: AWS Expert, you need to pass the final exam with a score of 60%... <a href="https://www.credly.com/org/tigera/badge/certified-calico-operator-aws-expert">Read more here</a><br>
@@ -7544,13 +7544,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">
         <img src="https://images.credly.com/size/500x500/images/fe4a469e-0317-4a46-a1bc-e8d4a2dd1c97/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Introduction to Apache Flink® SQL - Ververica</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This course is for data engineers and those interested in writing Flink applications and data streaming pipelines without Java or... <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Read more here</a><br>
       <strong>Skills:</strong> Apache Flink, Flink SQL, Stream Processing<br>
       <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with... <a href="https://www.credly.com/org/ververica/badge/introduction-to-apache-flink-sql">Read more here</a><br>
@@ -7559,13 +7559,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">
         <img src="https://images.credly.com/size/500x500/images/4e03183a-5dd7-4805-8928-ef6fe461e13a/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Introduction to Stream Processing and Apache Flink® - Ververica</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> This is a comprehensive introduction to Apache Flink and to stream processing systems tailored to anyone with an interest in... <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Read more here</a><br>
       <strong>Skills:</strong> Apache Flink, Flink SQL, Stream Processing<br>
       <strong>Criteria:</strong> In order to earn this badge, each learner will need to watch each module video and pass each quiz with... <a href="https://www.credly.com/org/ververica/badge/introduction-to-stream-processing-and-apache-flink">Read more here</a><br>
@@ -7595,46 +7595,46 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">
         <img src="https://images.credly.com/size/500x500/images/fca71862-8de3-4240-a75f-902c42b72079/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">ZEDEDA Certified Edge Computing Associate (ZCEA) - ZEDEDA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Recipients of the ZCEA badge have demonstrated they understand the benefits and solutions of extending the cloud experience to the... <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">Read more here</a><br>
       <strong>Skills:</strong> Edge, Edge Computing, Edge Device, edge management, edge orchestration<br>
-      <strong>Criteria:</strong> ('Complete Edge Computing 101 training Pass the ZEDEDA Certified Edge Computing Associate (ZCEA) exam', None) <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">Read more here</a><br>
+      <strong>Criteria:</strong> Complete Edge Computing 101 training Pass the ZEDEDA Certified Edge Computing Associate (ZCEA) exam <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-computing-associate-zcea">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">
         <img src="https://images.credly.com/size/500x500/images/1d38473a-1bdf-4229-9da4-688c0fb8b916/image.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">ZEDEDA Edge Orchestration Essentials - ZEDEDA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Recipients of this badge have learned the foundation to get started with the ZEDEDA edge orchestration solution including the ZEDEDA... <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">Read more here</a><br>
       <strong>Skills:</strong> Edge Computing, edge management, edge orchestration, zededa<br>
-      <strong>Criteria:</strong> ('Complete the ZEDEDA Edge Orchestration Essentials 1-day course', None) <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">Read more here</a><br>
+      <strong>Criteria:</strong> Complete the ZEDEDA Edge Orchestration Essentials 1-day course <a href="https://www.credly.com/org/zededa/badge/zededa-edge-orchestration-essentials">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Foundational
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">
         <img src="https://images.credly.com/size/500x500/images/5aa1b691-c403-4c7f-91b6-a329a06c0840/blob" width="100">
       </a><br>
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">ZEDEDA Certified Edge Orchestration Professional (ZCEP) - ZEDEDA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Recipient of the ZCEP badge have demonstrated the essential knowledge, skills, and abilities necessary to perform end-to-end configuration, implementation, and... <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">Read more here</a><br>
       <strong>Skills:</strong> Edge, Edge Computing, edge management, edge orchestration, IoT<br>
-      <strong>Criteria:</strong> ('6 months of hands-on experience with the ZEDEDA solution Pass the ZEDEDA Certified Edge Orchestration Professional (ZCEP) exam', None) <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">Read more here</a><br>
+      <strong>Criteria:</strong> 6 months of hands-on experience with the ZEDEDA solution Pass the ZEDEDA Certified Edge Orchestration Professional (ZCEP) exam <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-orchestration-professional-zc">Read more here</a><br>
       <strong>Time to Earn:</strong> None<br>
       <strong>Level:</strong> Advanced
     </td>
@@ -7680,13 +7680,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <th width="80%">Description</th>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">
         <img src="https://images.credly.com/size/500x500/images/46d75e0c-b1ff-46f8-9373-27401efae195/Learning_Path_Omnichannel_Agent_2x__1_.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">Omnichannel Agent - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Zendesk is built for agents first, which means that the Agent Workspace is made for them. After all, agents just... <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">Read more here</a><br>
       <strong>Skills:</strong> Agent, Customer Support, CX, Omnichannel Communications, Zendesk<br>
       <strong>Criteria:</strong> This 2 hr and 40 minute learning path includes mixed-media courses, lessons, downloadable content, and knowledge checks with a short... <a href="https://www.credly.com/org/zendesk/badge/omnichannel-agent.1">Read more here</a><br>
@@ -7695,13 +7695,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/zendesk/badge/messaging">
         <img src="https://images.credly.com/size/500x500/images/b8416912-4976-4937-a130-2859b1016a48/Learning_Path_Messaging_2x.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/messaging">Messaging - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Customers expect great service across all channels. Messaging makes it easy to stay in touch with personalized and engaging interactions.... <a href="https://www.credly.com/org/zendesk/badge/messaging">Read more here</a><br>
       <strong>Skills:</strong> Administrator, Customer Support, CX, Messaging, Support<br>
       <strong>Criteria:</strong> This 1h learning path contains 2 courses, lessons, downloadable content, and an assessment to help you learn Zendesk's messaging solution.... <a href="https://www.credly.com/org/zendesk/badge/messaging">Read more here</a><br>
@@ -7710,13 +7710,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%" padding="10">
+    <td align="center" width="20%" style="padding:10px">
       <a href="https://www.credly.com/org/zendesk/badge/talk-voice">
         <img src="https://images.credly.com/size/500x500/images/61d8fae2-9f25-431b-ba03-3d0a1e1f3df5/Learning_Path_Talk_voice_2x.png" width="100">
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/talk-voice">Talk / voice - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Description:</strong> Even in the age of emails, texts, and DMs, sometimes talking to a real human solves the problem fastest. Our... <a href="https://www.credly.com/org/zendesk/badge/talk-voice">Read more here</a><br>
       <strong>Skills:</strong> Administrator, Customer Support, CX, Support, Talk<br>
       <strong>Criteria:</strong> This 1h 20m learning path contains 2 courses, lessons, downloadable content, and an assessment to learn Zendesk's voice solution. We... <a href="https://www.credly.com/org/zendesk/badge/talk-voice">Read more here</a><br>
