@@ -196,7 +196,7 @@ Ready to start badge hunting? Let's dive in! 🚀
   </td>
   <td align="center" width="20%" padding="10">
     <a href="https://www.credly.com/organizations/hewlett-packard-enterprise/badges">
-      <img src="https://images.credly.com/size/200x200/images/e18e9c8e-9303-4c7d-9fd6-cbb222bc64c2/HPE_logo.png" width="100">
+      <img src="https://images.credly.com/size/400x400/images/0b1ac27e-e848-4d65-adfc-625bbd9a79f9/blob" width="100">
     </a><br>
     <a href="#hewlett-packard-enterprise-1">Hewlett Packard Enterprise</a>
   </td>
@@ -1222,7 +1222,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br>[Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5) | AWS's official training body offering cloud computing certifications and skill development. | 5 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
+| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br>[Amazon Web Services Training and Certification](#amazon-web-services-5) | AWS's official training body offering cloud computing certifications and skill development. | 5 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -4088,7 +4088,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/e18e9c8e-9303-4c7d-9fd6-cbb222bc64c2/HPE_logo.png' height='100' /><br>[Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | Hewlett Packard Enterprise specializes in enterprise IT solutions including servers, storage, and cloud services. | 1 | ✅ | [Hewlett Packard Enterprise](https://www.credly.com/organizations/hewlett-packard-enterprise/badges) |
+| <img src='https://images.credly.com/size/400x400/images/0b1ac27e-e848-4d65-adfc-625bbd9a79f9/blob' height='100' /><br>[Hewlett Packard Enterprise](#hewlett-packard-enterprise-1) | Hewlett Packard Enterprise specializes in enterprise IT solutions including servers, storage, and cloud services. | 1 | ✅ | [Hewlett Packard Enterprise](https://www.credly.com/organizations/hewlett-packard-enterprise/badges) |
 
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
