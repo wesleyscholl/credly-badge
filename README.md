@@ -7777,3 +7777,29 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 <!--END_SECTION:badges-->
+
+---
+
+## 📌 About This Repo
+
+This repository provides a **centralized source of truth** for tracking, sharing, and managing digital badges and certifications from Credly. It is designed for learners, educators, and professionals who want to **verify skills, document achievements, and access free learning resources**.  
+
+### ⚡ Key Features
+
+- Aggregate and display Credly badges  
+- Track completed courses and certifications  
+- Serve as a source of truth for free educational resources  
+- Easy to integrate into your personal portfolio or team tracking system  
+
+---
+
+### 🤝 Connect & Contribute
+
+Contributions, suggestions, and feedback are welcome! Feel free to **fork**, **star**, and **submit pull requests**.  
+
+Follow me for updates on learning automation and digital badges: [wesleyscholl](https://github.com/wesleyscholl)  
+
+---
+
+© 2025 Wesley Scholl · Licensed under [MIT License](LICENSE)
+
