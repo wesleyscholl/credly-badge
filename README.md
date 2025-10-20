@@ -468,7 +468,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/tech-associate-cybersecurity">Tech Associate Cybersecurity - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/tech-associate-cybersecurity">here</a><br>
     </td>
   </tr>
@@ -479,7 +479,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/tech-associate-backup-and-recovery">Tech Associate Backup and Recovery - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/tech-associate-backup-and-recovery">here</a><br>
     </td>
   </tr>
@@ -490,7 +490,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-fundamentals">Cloud Sales Fundamentals - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-fundamentals">here</a><br>
     </td>
   </tr>
@@ -501,7 +501,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/sales-associate-endpoint-protection-management">Sales Associate Endpoint Protection Management - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/sales-associate-endpoint-protection-management">here</a><br>
     </td>
   </tr>
@@ -512,7 +512,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-tech-professional-advanced-backup">Cloud Tech Professional Advanced Backup - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-tech-professional-advanced-backup">here</a><br>
     </td>
   </tr>
@@ -523,7 +523,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-tech-professional-advanced-disaster-recovery">Cloud Tech Professional Advanced Disaster Recovery - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-tech-professional-advanced-disaster-recovery">here</a><br>
     </td>
   </tr>
@@ -534,7 +534,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-professional-security-awareness-trainin">Cloud Sales Professional Security Awareness Training - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-professional-security-awareness-trainin">here</a><br>
     </td>
   </tr>
@@ -545,7 +545,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-cyber-scripting">MSP Academy: Cyber Scripting - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-cyber-scripting">here</a><br>
     </td>
   </tr>
@@ -556,7 +556,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-automation">MSP Academy: Automation - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-automation">here</a><br>
     </td>
   </tr>
@@ -567,7 +567,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-file-sync-and-share">MSP Academy: File Sync and Share - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-file-sync-and-share">here</a><br>
     </td>
   </tr>
@@ -578,7 +578,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-preventing-ransomware">MSP Academy: Preventing Ransomware - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-preventing-ransomware">here</a><br>
     </td>
   </tr>
@@ -589,7 +589,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-troubleshooting">MSP Academy: Troubleshooting - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-troubleshooting">here</a><br>
     </td>
   </tr>
@@ -600,7 +600,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-vulnerability-assessment-and-patch-mana">MSP Academy: Vulnerability Assessment and Patch Management - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-vulnerability-assessment-and-patch-mana">here</a><br>
     </td>
   </tr>
@@ -611,7 +611,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-disaster-recovery">MSP Academy: Disaster Recovery - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-disaster-recovery">here</a><br>
     </td>
   </tr>
@@ -622,7 +622,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-what-is-backup">MSP Academy: What is Backup? - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-what-is-backup">here</a><br>
     </td>
   </tr>
@@ -633,7 +633,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-xdr-basics">MSP Academy: XDR Basics - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-xdr-basics">here</a><br>
     </td>
   </tr>
@@ -644,7 +644,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-microsoft-365">MSP Academy: Microsoft 365 - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-microsoft-365">here</a><br>
     </td>
   </tr>
@@ -655,7 +655,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-mdr-basics">MSP Academy: MDR Basics - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-mdr-basics">here</a><br>
     </td>
   </tr>
@@ -666,7 +666,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-event-in-a-box-for-msp">MSP Academy: Event-in-a-Box for MSP - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-event-in-a-box-for-msp">here</a><br>
     </td>
   </tr>
@@ -677,7 +677,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-marketing-your-msp">MSP Academy: Marketing Your MSP - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-marketing-your-msp">here</a><br>
     </td>
   </tr>
@@ -688,7 +688,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-increasing-msps-efficiency-through-ai">MSP Academy: Increasing MSPs efficiency through AI - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-increasing-msps-efficiency-through-ai">here</a><br>
     </td>
   </tr>
@@ -699,7 +699,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-negotiation-skills">MSP Academy: Negotiation Skills - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-negotiation-skills">here</a><br>
     </td>
   </tr>
@@ -710,7 +710,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-difficult-partners">MSP Academy: Difficult Partners - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-difficult-partners">here</a><br>
     </td>
   </tr>
@@ -721,7 +721,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-work-relationships">MSP Academy: Work Relationships - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-work-relationships">here</a><br>
     </td>
   </tr>
@@ -732,7 +732,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-active-listening">MSP Academy: Active Listening - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-active-listening">here</a><br>
     </td>
   </tr>
@@ -743,7 +743,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-safe-communication-environment">MSP Academy: Safe Communication Environment - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-safe-communication-environment">here</a><br>
     </td>
   </tr>
@@ -754,7 +754,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-corporate-social-responsibility-csr-in-">MSP Academy: Corporate Social Responsibility (CSR) in a Box - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-corporate-social-responsibility-csr-in-">here</a><br>
     </td>
   </tr>
@@ -765,7 +765,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-maximizing-your-business-efficiency">MSP Academy: Maximizing Your Business Efficiency - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-maximizing-your-business-efficiency">here</a><br>
     </td>
   </tr>
@@ -776,7 +776,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-professional-xdr">Cloud Sales Professional XDR - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-professional-xdr">here</a><br>
     </td>
   </tr>
@@ -787,7 +787,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-navigating-the-landscape">MSP Academy: Navigating the landscape - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-navigating-the-landscape">here</a><br>
     </td>
   </tr>
@@ -798,7 +798,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-what-is-edr">MSP Academy: What is EDR? - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-what-is-edr">here</a><br>
     </td>
   </tr>
@@ -809,7 +809,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-what-is-dlp">MSP Academy: What is DLP? - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-what-is-dlp">here</a><br>
     </td>
   </tr>
@@ -820,7 +820,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-starting-an-msp-breaking-free-from-the-">MSP Academy: Starting an MSP - Breaking Free from the Break-Fix Model - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-starting-an-msp-breaking-free-from-the-">here</a><br>
     </td>
   </tr>
@@ -831,7 +831,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-running-an-msp-business">MSP Academy: Running an MSP Business - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-running-an-msp-business">here</a><br>
     </td>
   </tr>
@@ -842,7 +842,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-remote-desktop-and-monitoring">MSP Academy: Remote Desktop and Monitoring - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-remote-desktop-and-monitoring">here</a><br>
     </td>
   </tr>
@@ -853,7 +853,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-microsoft-365-integration-and-optimizat">MSP Academy: Microsoft 365 Integration and Optimization - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-microsoft-365-integration-and-optimizat">here</a><br>
     </td>
   </tr>
@@ -864,7 +864,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-how-to-grow-your-msp-faster-with-louis-">MSP Academy: How to Grow Your MSP faster with Louis Gudema - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-how-to-grow-your-msp-faster-with-louis-">here</a><br>
     </td>
   </tr>
@@ -875,7 +875,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/msp-academy-expert-communicator">MSP Academy: Expert Communicator - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/msp-academy-expert-communicator">here</a><br>
     </td>
   </tr>
@@ -886,7 +886,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-tech-associate-advanced-management">Cloud Tech Associate Advanced Management - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-tech-associate-advanced-management">here</a><br>
     </td>
   </tr>
@@ -897,7 +897,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/sales-associate-backup-and-recovery">Sales Associate Backup and Recovery - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/sales-associate-backup-and-recovery">here</a><br>
     </td>
   </tr>
@@ -908,7 +908,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/sales-associate-cybersecurity">Sales Associate Cybersecurity - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/sales-associate-cybersecurity">here</a><br>
     </td>
   </tr>
@@ -919,7 +919,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-backup">Cloud Sales Associate Advanced Backup - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-backup">here</a><br>
     </td>
   </tr>
@@ -930,7 +930,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-management">Cloud Sales Associate Advanced Management - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-management">here</a><br>
     </td>
   </tr>
@@ -941,7 +941,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-security-with-edr">Cloud Sales Associate Advanced Security with EDR - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-security-with-edr">here</a><br>
     </td>
   </tr>
@@ -952,7 +952,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-files-and-notary">Cloud Sales Associate Advanced Files and Notary - Acronis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/acronis/badge/cloud-sales-associate-advanced-files-and-notary">here</a><br>
     </td>
   </tr>
@@ -1037,7 +1037,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-digital-portfolios-with-ad">Adobe Lightning Learning | Digital Portfolios with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-digital-portfolios-with-ad">here</a><br>
     </td>
   </tr>
@@ -1048,7 +1048,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-infographics-with-adobe-ex.1">Adobe Lightning Learning | Infographics with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-infographics-with-adobe-ex.1">here</a><br>
     </td>
   </tr>
@@ -1059,7 +1059,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-language-and-literature-wi">Lightning Learning | Teach Language and Literature with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-language-and-literature-wi">here</a><br>
     </td>
   </tr>
@@ -1070,7 +1070,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-student-presentations-with">Adobe Lightning Learning | Student Presentations with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-student-presentations-with">here</a><br>
     </td>
   </tr>
@@ -1081,7 +1081,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-sketchnoting-with-adobe-ex">Adobe Lightning Learning | Sketchnoting with Adobe Express and Fresco - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/adobe-lightning-learning-sketchnoting-with-adobe-ex">here</a><br>
     </td>
   </tr>
@@ -1092,7 +1092,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-science-with-adobe-express">Lightning Learning | Teach Science with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-science-with-adobe-express">here</a><br>
     </td>
   </tr>
@@ -1103,7 +1103,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-math-with-adobe-express">Lightning Learning | Teach Math with Adobe Express - Adobe Education</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/adobe-education/badge/lightning-learning-teach-math-with-adobe-express">here</a><br>
     </td>
   </tr>
@@ -1290,7 +1290,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">AWS Educate Getting Started with Compute - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">here</a><br>
     </td>
   </tr>
@@ -1301,7 +1301,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">AWS Knowledge: Amazon Braket - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">here</a><br>
     </td>
   </tr>
@@ -1386,7 +1386,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-security-for-connected-cars-and-fleets-1-hour">API Security for Connected Cars and Fleets (1 hour) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/api-security-for-connected-cars-and-fleets-1-hour">here</a><br>
     </td>
   </tr>
@@ -1397,7 +1397,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-documentation-best-practices-2-hours">API Documentation Best Practices (2 hours) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/api-documentation-best-practices-2-hours">here</a><br>
     </td>
   </tr>
@@ -1408,7 +1408,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/securing-api-servers-2-hours">Securing API Servers (2 hours) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/securing-api-servers-2-hours">here</a><br>
     </td>
   </tr>
@@ -1419,7 +1419,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-authentication-2-hours">API Authentication (2 hours) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/api-authentication-2-hours">here</a><br>
     </td>
   </tr>
@@ -1430,7 +1430,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-product-management-masterclass-3-hours">API Product Management Masterclass (3 Hours) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/api-product-management-masterclass-3-hours">here</a><br>
     </td>
   </tr>
@@ -1441,7 +1441,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-security-for-pci-compliance">API Security for PCI Compliance - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/api-security-for-pci-compliance">here</a><br>
     </td>
   </tr>
@@ -1452,7 +1452,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/apisec-university/badge/api-security-fundamentals-25-2-hours">API Security Fundamentals '25 (2 hours) - APIsec University</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/apisec-university/badge/api-security-fundamentals-25-2-hours">here</a><br>
     </td>
   </tr>
@@ -1537,7 +1537,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/appcues/badge/product-launches-101">Product Launches 101 - Appcues</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/appcues/badge/product-launches-101">here</a><br>
     </td>
   </tr>
@@ -1548,7 +1548,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/appcues/badge/value-first-onboarding">Value-First Onboarding - Appcues</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/appcues/badge/value-first-onboarding">here</a><br>
     </td>
   </tr>
@@ -1559,7 +1559,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/appcues/badge/free-to-paid-conversion">Free-to-Paid Conversion - Appcues</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/appcues/badge/free-to-paid-conversion">here</a><br>
     </td>
   </tr>
@@ -1644,7 +1644,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/attackiq-foundational-blueprints">AttackIQ Foundational Blueprints - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/attackiq-foundational-blueprints">here</a><br>
     </td>
   </tr>
@@ -1655,7 +1655,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/strategic-cybersecurity-management">Strategic Cybersecurity Management - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/strategic-cybersecurity-management">here</a><br>
     </td>
   </tr>
@@ -1666,7 +1666,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/top-att-ck-techniques">Top ATT&CK Techniques - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/top-att-ck-techniques">here</a><br>
     </td>
   </tr>
@@ -1677,7 +1677,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/foundations-of-purple-teaming">Foundations of Purple Teaming - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/foundations-of-purple-teaming">here</a><br>
     </td>
   </tr>
@@ -1688,7 +1688,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/mapping-mitre-att-ck-to-cve-for-impact">Mapping MITRE ATT&CK to CVE for Impact - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/mapping-mitre-att-ck-to-cve-for-impact">here</a><br>
     </td>
   </tr>
@@ -1699,7 +1699,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/threat-informed-architecture">Threat-Informed Architecture - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/threat-informed-architecture">here</a><br>
     </td>
   </tr>
@@ -1710,7 +1710,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/delivering-value-with-the-att-ck-sightings-report.1">Delivering Value with the ATT&CK Sightings Report - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/delivering-value-with-the-att-ck-sightings-report.1">here</a><br>
     </td>
   </tr>
@@ -1721,7 +1721,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/uniting-threat-and-risk-management-with-nist-800-53-and-mitre-att-ck">Uniting Threat and Risk Management with NIST 800-53 and MITRE ATT&CK - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/uniting-threat-and-risk-management-with-nist-800-53-and-mitre-att-ck">here</a><br>
     </td>
   </tr>
@@ -1732,7 +1732,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/extending-att-ck-with-att-ck-workbench">Extending ATT&CK with ATT&CK Workbench - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/extending-att-ck-with-att-ck-workbench">here</a><br>
     </td>
   </tr>
@@ -1743,7 +1743,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/secure-digital-transformation-best-practices-and-strategies">Secure Digital Transformation - Best Practices and Strategies - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/secure-digital-transformation-best-practices-and-strategies">here</a><br>
     </td>
   </tr>
@@ -1754,7 +1754,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/mitre-att-ck-security-stack-mappings-aws">MITRE ATT&CK Security Stack Mappings: AWS - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/mitre-att-ck-security-stack-mappings-aws">here</a><br>
     </td>
   </tr>
@@ -1765,7 +1765,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/attackiq/badge/validating-defenses-quickly-with-micro-emulation-plans">Validating Defenses Quickly with Micro Emulation Plans - AttackIQ</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/attackiq/badge/validating-defenses-quickly-with-micro-emulation-plans">here</a><br>
     </td>
   </tr>
@@ -1850,7 +1850,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/programmatic-essentials">Programmatic Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/programmatic-essentials">here</a><br>
     </td>
   </tr>
@@ -1861,7 +1861,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/programmatic-guaranteed-pg-essentials-basis-user-edition">Programmatic Guaranteed (PG) Essentials: Basis User Edition - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/programmatic-guaranteed-pg-essentials-basis-user-edition">here</a><br>
     </td>
   </tr>
@@ -1872,7 +1872,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-essentials">Digital Media Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-essentials">here</a><br>
     </td>
   </tr>
@@ -1883,7 +1883,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/private-marketplace-essentials">Private Marketplace Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/private-marketplace-essentials">here</a><br>
     </td>
   </tr>
@@ -1894,7 +1894,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/direct-buying-essentials">Direct Buying Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/direct-buying-essentials">here</a><br>
     </td>
   </tr>
@@ -1905,7 +1905,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-associate">Digital Media Associate - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-associate">here</a><br>
     </td>
   </tr>
@@ -1916,7 +1916,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-strategist">Digital Media Strategist - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-strategist">here</a><br>
     </td>
   </tr>
@@ -1927,7 +1927,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-buyer">Digital Media Buyer - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/digital-media-buyer">here</a><br>
     </td>
   </tr>
@@ -1938,7 +1938,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/curated-marketplaces-with-audigent">Curated Marketplaces with Audigent - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/curated-marketplaces-with-audigent">here</a><br>
     </td>
   </tr>
@@ -1949,7 +1949,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/basis-connect">Basis Connect+ - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/basis-connect">here</a><br>
     </td>
   </tr>
@@ -1960,7 +1960,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/collaboration-communication">Collaboration & Communication - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/collaboration-communication">here</a><br>
     </td>
   </tr>
@@ -1971,7 +1971,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/optimizations">Optimizations - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/optimizations">here</a><br>
     </td>
   </tr>
@@ -1982,7 +1982,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/basis-planner">Basis Planner - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/basis-planner">here</a><br>
     </td>
   </tr>
@@ -1993,7 +1993,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/basis-bidding">Basis Bidding - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/basis-bidding">here</a><br>
     </td>
   </tr>
@@ -2004,7 +2004,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/basis-automate">Basis Automate+ - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/basis-automate">here</a><br>
     </td>
   </tr>
@@ -2015,7 +2015,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/basis-reporting">Basis Reporting - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/basis-reporting">here</a><br>
     </td>
   </tr>
@@ -2026,7 +2026,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/political-advertising-essentials">Political Advertising Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/political-advertising-essentials">here</a><br>
     </td>
   </tr>
@@ -2037,7 +2037,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/marketing-funnel-essentials">Marketing Funnel Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/marketing-funnel-essentials">here</a><br>
     </td>
   </tr>
@@ -2048,7 +2048,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-strategies-with-proximic-by-co">Contextual Targeting: Strategies with Proximic by Comscore - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/contextual-targeting-strategies-with-proximic-by-co">here</a><br>
     </td>
   </tr>
@@ -2059,7 +2059,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/search-essentials">Search Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/search-essentials">here</a><br>
     </td>
   </tr>
@@ -2070,7 +2070,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/connected-tv-ctv-essentials-basis-user-edition">Connected TV (CTV) Essentials: Basis User Edition - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/connected-tv-ctv-essentials-basis-user-edition">here</a><br>
     </td>
   </tr>
@@ -2081,7 +2081,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/basis-technologies/badge/dooh-essentials">DOOH Essentials - Basis Technologies</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/basis-technologies/badge/dooh-essentials">here</a><br>
     </td>
   </tr>
@@ -2283,7 +2283,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/process-automation-basics">Process Automation Basics - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/process-automation-basics">here</a><br>
     </td>
   </tr>
@@ -2294,7 +2294,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/administer-celonis-security-permissions">Administer Celonis: Security, Permissions - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/administer-celonis-security-permissions">here</a><br>
     </td>
   </tr>
@@ -2305,7 +2305,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/create-and-deliver-demos">Create and Deliver Demos - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/create-and-deliver-demos">here</a><br>
     </td>
   </tr>
@@ -2316,7 +2316,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/sustainability-base-camper">Sustainability Base Camper - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/sustainability-base-camper">here</a><br>
     </td>
   </tr>
@@ -2327,7 +2327,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/act-on-recommended-tasks">Act on Recommended Tasks - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/act-on-recommended-tasks">here</a><br>
     </td>
   </tr>
@@ -2338,7 +2338,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/use-and-interpret-views">Use and Interpret Views - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/use-and-interpret-views">here</a><br>
     </td>
   </tr>
@@ -2349,7 +2349,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/navigate-the-celonis-studio">Navigate the Celonis Studio - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/navigate-the-celonis-studio">here</a><br>
     </td>
   </tr>
@@ -2360,7 +2360,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/review-and-interpret-analyses">Review and Interpret Analyses - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/review-and-interpret-analyses">here</a><br>
     </td>
   </tr>
@@ -2371,7 +2371,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/celonis-process-management-foundations">Celonis Process Management Foundations - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/celonis-process-management-foundations">here</a><br>
     </td>
   </tr>
@@ -2382,7 +2382,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/model-in-process-designer">Model in Process Designer - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/model-in-process-designer">here</a><br>
     </td>
   </tr>
@@ -2393,7 +2393,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/prove-celonis-value">Prove Celonis Value - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/prove-celonis-value">here</a><br>
     </td>
   </tr>
@@ -2404,7 +2404,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/deliver-business-value-with-celonis">Deliver Business Value with Celonis - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/deliver-business-value-with-celonis">here</a><br>
     </td>
   </tr>
@@ -2415,7 +2415,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/build-views">Build Views - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/build-views">here</a><br>
     </td>
   </tr>
@@ -2426,7 +2426,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/build-analyses">Build Analyses - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/build-analyses">here</a><br>
     </td>
   </tr>
@@ -2437,7 +2437,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/celonis/badge/write-pql-queries">Write PQL Queries - Celonis</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/celonis/badge/write-pql-queries">here</a><br>
     </td>
   </tr>
@@ -2522,7 +2522,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/business-agility-learner-2025">Business Agility Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/business-agility-learner-2025">here</a><br>
     </td>
   </tr>
@@ -2533,7 +2533,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/design-sprint-learner-2025">Design Sprint Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/design-sprint-learner-2025">here</a><br>
     </td>
   </tr>
@@ -2544,7 +2544,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/remote-work-learner-2025">Remote Work Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/remote-work-learner-2025">here</a><br>
     </td>
   </tr>
@@ -2555,7 +2555,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/digital-marketing-learner-2025">Digital Marketing Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/digital-marketing-learner-2025">here</a><br>
     </td>
   </tr>
@@ -2566,7 +2566,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/business-intelligence-foundation-learner-2025">Business Intelligence Foundation Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/business-intelligence-foundation-learner-2025">here</a><br>
     </td>
   </tr>
@@ -2577,7 +2577,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/business-model-canvas-essentials-learner-2025">Business Model Canvas Essentials Learner 2025 - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/business-model-canvas-essentials-learner-2025">here</a><br>
     </td>
   </tr>
@@ -2588,7 +2588,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/lean-six-sigma-white-belt-learner">Lean Six Sigma White Belt Learner - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/lean-six-sigma-white-belt-learner">here</a><br>
     </td>
   </tr>
@@ -2599,7 +2599,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/certiprof/badge/lifelong-learning">Lifelong Learning - Certiprof</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/certiprof/badge/lifelong-learning">here</a><br>
     </td>
   </tr>
@@ -2750,7 +2750,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/cisco/badge/computer-hardware-basics">Computer Hardware Basics - Cisco</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/cisco/badge/computer-hardware-basics">here</a><br>
     </td>
   </tr>
@@ -2761,7 +2761,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/cisco/badge/introduction-to-iot">Introduction to IoT - Cisco</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/cisco/badge/introduction-to-iot">here</a><br>
     </td>
   </tr>
@@ -2772,7 +2772,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity">Introduction to Cybersecurity - Cisco</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity">here</a><br>
     </td>
   </tr>
@@ -2857,7 +2857,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/inserting-data-into-clickhouse">Inserting Data into ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/inserting-data-into-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2868,7 +2868,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/analyzing-data-with-clickhouse">Analyzing Data with ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/analyzing-data-with-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2879,7 +2879,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-materialized-views">ClickHouse Materialized Views - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-materialized-views">here</a><br>
     </td>
   </tr>
@@ -2890,7 +2890,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/aggregations-in-clickhouse-materialized-views">Aggregations in ClickHouse Materialized Views - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/aggregations-in-clickhouse-materialized-views">here</a><br>
     </td>
   </tr>
@@ -2901,7 +2901,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-sharding-and-replication">ClickHouse Sharding and Replication - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-sharding-and-replication">here</a><br>
     </td>
   </tr>
@@ -2912,7 +2912,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/joining-data-in-clickhouse">Joining Data in ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/joining-data-in-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2923,7 +2923,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/deleting-and-updating-data-in-clickhouse">Deleting and Updating Data in ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/deleting-and-updating-data-in-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2934,7 +2934,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/managing-data-in-clickhouse">Managing Data in ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/managing-data-in-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2945,7 +2945,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/optimizing-queries-in-clickhouse">Optimizing Queries in ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/optimizing-queries-in-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2956,7 +2956,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-developer-course">ClickHouse Developer Course - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-developer-course">here</a><br>
     </td>
   </tr>
@@ -2967,7 +2967,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/managing-access-to-clickhouse-cloud">Managing Access to ClickHouse Cloud - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/managing-access-to-clickhouse-cloud">here</a><br>
     </td>
   </tr>
@@ -2978,7 +2978,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/migrating-from-postgresql-to-clickhouse">Migrating from PostgreSQL to ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/migrating-from-postgresql-to-clickhouse">here</a><br>
     </td>
   </tr>
@@ -2989,7 +2989,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse">ClickHouse入門 - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/clickhouse">here</a><br>
     </td>
   </tr>
@@ -3000,7 +3000,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/query-optimization-with-clickhouse">Query Optimization with ClickHouse - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/query-optimization-with-clickhouse">here</a><br>
     </td>
   </tr>
@@ -3011,7 +3011,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/using-clickhouse-for-observability">Using ClickHouse for Observability - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/using-clickhouse-for-observability">here</a><br>
     </td>
   </tr>
@@ -3022,7 +3022,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/bigquery-to-clickhouse-workshop">BigQuery to ClickHouse Workshop - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/bigquery-to-clickhouse-workshop">here</a><br>
     </td>
   </tr>
@@ -3033,7 +3033,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-admin-workshop">ClickHouse Admin Workshop - ClickHouse</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/clickhouse/badge/clickhouse-admin-workshop">here</a><br>
     </td>
   </tr>
@@ -3184,7 +3184,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/completing-organization-verification">Completing Organization Verification - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/completing-organization-verification">here</a><br>
     </td>
   </tr>
@@ -3195,7 +3195,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/submitting-a-data-protection-assessment">Submitting a Data Protection Assessment - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/submitting-a-data-protection-assessment">here</a><br>
     </td>
   </tr>
@@ -3206,7 +3206,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-data-use-checkup">Navigating the Data Use Checkup - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/navigating-the-data-use-checkup">here</a><br>
     </td>
   </tr>
@@ -3217,7 +3217,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/data-subject-access-rights-readiness">Data Subject Access Rights Readiness - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/data-subject-access-rights-readiness">here</a><br>
     </td>
   </tr>
@@ -3228,7 +3228,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/apps-4-kids">Apps 4 Kids - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/apps-4-kids">here</a><br>
     </td>
   </tr>
@@ -3239,7 +3239,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/data-protector">Data Protector - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/data-protector">here</a><br>
     </td>
   </tr>
@@ -3250,7 +3250,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-protocol/badge/privacy-engineering-governance">Privacy Engineering: Governance - Data Protocol</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-protocol/badge/privacy-engineering-governance">here</a><br>
     </td>
   </tr>
@@ -3335,7 +3335,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/data-world/badge/data-world-admin-certification">data.world Admin Certification - data.world</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/data-world/badge/data-world-admin-certification">here</a><br>
     </td>
   </tr>
@@ -3420,7 +3420,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/application-security-engineer-learning-path">Application Security Engineer Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/application-security-engineer-learning-path">here</a><br>
     </td>
   </tr>
@@ -3431,7 +3431,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-learning-path">Cloud Security Engineer Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/cloud-security-engineer-learning-path">here</a><br>
     </td>
   </tr>
@@ -3442,7 +3442,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/attacks-threat-detection-learning-path">Attacks & Threat Detection Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/attacks-threat-detection-learning-path">here</a><br>
     </td>
   </tr>
@@ -3453,7 +3453,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/frontend-engineer-learning-path">Frontend Engineer Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/frontend-engineer-learning-path">here</a><br>
     </td>
   </tr>
@@ -3464,7 +3464,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/log-querying-analytics-learning-path">Log Querying & Analytics Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/log-querying-analytics-learning-path">here</a><br>
     </td>
   </tr>
@@ -3475,7 +3475,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/dashboards-learning-path">Dashboards Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/dashboards-learning-path">here</a><br>
     </td>
   </tr>
@@ -3486,7 +3486,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/application-performance-monitoring-learning-path.1">Application Performance Monitoring Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/application-performance-monitoring-learning-path.1">here</a><br>
     </td>
   </tr>
@@ -3497,7 +3497,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/core-skills-learning-path">Core Skills Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/core-skills-learning-path">here</a><br>
     </td>
   </tr>
@@ -3508,7 +3508,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/configuration-learning-path">Configuration Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/configuration-learning-path">here</a><br>
     </td>
   </tr>
@@ -3519,7 +3519,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/log-configuration-processing-learning-path">Log Configuration & Processing Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/log-configuration-processing-learning-path">here</a><br>
     </td>
   </tr>
@@ -3530,7 +3530,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/log-management-fundamentals">Log Management Fundamentals - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/log-management-fundamentals">here</a><br>
     </td>
   </tr>
@@ -3541,7 +3541,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/datadog/badge/kubernetes-monitoring-learning-path">Kubernetes Monitoring Learning Path - Datadog</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/datadog/badge/kubernetes-monitoring-learning-path">here</a><br>
     </td>
   </tr>
@@ -3626,7 +3626,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-lakehouse-associate">Dremio Verified Lakehouse Associate - Dremio</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-lakehouse-associate">here</a><br>
     </td>
   </tr>
@@ -3637,7 +3637,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/dremio/badge/dremio-verified-ai-architect">Dremio Verified AI Architect - Dremio</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/dremio/badge/dremio-verified-ai-architect">here</a><br>
     </td>
   </tr>
@@ -3722,7 +3722,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-iq-site-engine-management">ExtremeCloud IQ - Site Engine - Management - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-iq-site-engine-management">here</a><br>
     </td>
   </tr>
@@ -3733,7 +3733,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecontrol-installation-and-configuration">ExtremeControl - Installation and Configuration - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremecontrol-installation-and-configuration">here</a><br>
     </td>
   </tr>
@@ -3744,7 +3744,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecontrol-management">ExtremeControl - Management - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremecontrol-management">here</a><br>
     </td>
   </tr>
@@ -3755,7 +3755,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-iq-site-engine-installation-and-configuration">ExtremeCloud IQ - Site Engine - Installation and Configuration - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-iq-site-engine-installation-and-configuration">here</a><br>
     </td>
   </tr>
@@ -3766,7 +3766,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-management">ExtremeCloud SD-WAN - Management - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremecloud-sd-wan-management">here</a><br>
     </td>
   </tr>
@@ -3777,7 +3777,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-installation-and-configuration">ExtremeWireless Cloud - Installation and Configuration - Extreme Networks</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/extreme-networks/badge/extremewireless-cloud-installation-and-configuration">here</a><br>
     </td>
   </tr>
@@ -3862,7 +3862,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-cloud-storage-skill-badge">Get Started with Cloud Storage Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-cloud-storage-skill-badge">here</a><br>
     </td>
   </tr>
@@ -3873,7 +3873,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/store-process-and-manage-data-on-google-cloud-conso">Store, Process, and Manage Data on Google Cloud - Console Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/store-process-and-manage-data-on-google-cloud-conso">here</a><br>
     </td>
   </tr>
@@ -3884,7 +3884,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/store-process-and-manage-data-on-google-cloud-comma">Store, Process, and Manage Data on Google Cloud - Command Line Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/store-process-and-manage-data-on-google-cloud-comma">here</a><br>
     </td>
   </tr>
@@ -3895,7 +3895,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/monitor-and-manage-google-cloud-resources-skill-bad">Monitor and Manage Google Cloud Resources Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/monitor-and-manage-google-cloud-resources-skill-bad">here</a><br>
     </td>
   </tr>
@@ -3906,7 +3906,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/using-the-google-cloud-speech-api">Using the Google Cloud Speech API - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/using-the-google-cloud-speech-api">here</a><br>
     </td>
   </tr>
@@ -3917,7 +3917,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/use-apis-to-work-with-cloud-storage-skill-badge">Use APIs to Work with Cloud Storage Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/use-apis-to-work-with-cloud-storage-skill-badge">here</a><br>
     </td>
   </tr>
@@ -3928,7 +3928,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge">The Basics of Google Cloud Compute Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/the-basics-of-google-cloud-compute-skill-badge">here</a><br>
     </td>
   </tr>
@@ -3939,7 +3939,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/monitoring-in-google-cloud-skill-badge">Monitoring in Google Cloud Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/monitoring-in-google-cloud-skill-badge">here</a><br>
     </td>
   </tr>
@@ -3950,7 +3950,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/create-a-secure-data-lake-on-cloud-storage-skill-ba">Create a Secure Data Lake on Cloud Storage Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/create-a-secure-data-lake-on-cloud-storage-skill-ba">here</a><br>
     </td>
   </tr>
@@ -3961,7 +3961,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/analyze-sentiment-with-natural-language-api-skill-b">Analyze Sentiment with Natural Language API Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/analyze-sentiment-with-natural-language-api-skill-b">here</a><br>
     </td>
   </tr>
@@ -3972,7 +3972,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-api-gateway-skill-badge">Get Started with API Gateway Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-api-gateway-skill-badge">here</a><br>
     </td>
   </tr>
@@ -3983,7 +3983,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/use-machine-learning-apis-on-google-cloud-skill-bad">Use Machine Learning APIs on Google Cloud Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/use-machine-learning-apis-on-google-cloud-skill-bad">here</a><br>
     </td>
   </tr>
@@ -3994,7 +3994,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/create-ml-models-with-bigquery-ml-skill-badge">Create ML Models with BigQuery ML Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/create-ml-models-with-bigquery-ml-skill-badge">here</a><br>
     </td>
   </tr>
@@ -4005,7 +4005,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/analyze-images-with-the-cloud-vision-api-skill-badg">Analyze Images with the Cloud Vision API Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/analyze-images-with-the-cloud-vision-api-skill-badg">here</a><br>
     </td>
   </tr>
@@ -4016,7 +4016,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge">Get Started with Dataplex Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-dataplex-skill-badge">here</a><br>
     </td>
   </tr>
@@ -4027,7 +4027,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/analyze-speech-and-language-with-google-apis-skill-">Analyze Speech and Language with Google APIs Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/analyze-speech-and-language-with-google-apis-skill-">here</a><br>
     </td>
   </tr>
@@ -4038,7 +4038,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge">Cloud Speech API: 3 Ways Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/cloud-speech-api-3-ways-skill-badge">here</a><br>
     </td>
   </tr>
@@ -4049,7 +4049,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/configure-service-accounts-and-iam-roles-for-google">Configure Service Accounts and IAM Roles for Google Cloud Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/configure-service-accounts-and-iam-roles-for-google">here</a><br>
     </td>
   </tr>
@@ -4060,7 +4060,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-eventarc-skill-badge">Get Started with Eventarc Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/get-started-with-eventarc-skill-badge">here</a><br>
     </td>
   </tr>
@@ -4071,7 +4071,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/google-cloud/badge/protect-sensitive-data-with-data-loss-prevention-sk">Protect Sensitive Data with Data Loss Prevention Skill Badge - Google Cloud</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/google-cloud/badge/protect-sensitive-data-with-data-loss-prevention-sk">here</a><br>
     </td>
   </tr>
@@ -4243,7 +4243,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm/badge/statistics-101">Statistics 101 - IBM</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm/badge/statistics-101">here</a><br>
     </td>
   </tr>
@@ -4254,7 +4254,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm/badge/hadoop-programming-level-1">Hadoop Programming - Level 1 - IBM</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm/badge/hadoop-programming-level-1">here</a><br>
     </td>
   </tr>
@@ -4339,7 +4339,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-cybersecurity">Getting Started with Cybersecurity - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-cybersecurity">here</a><br>
     </td>
   </tr>
@@ -4350,7 +4350,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-data">Getting Started with Data - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/getting-started-with-data">here</a><br>
     </td>
   </tr>
@@ -4361,7 +4361,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/data-fundamentals">Data Fundamentals - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/data-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4372,7 +4372,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/cloud-computing-fundamentals">Cloud Computing Fundamentals - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/cloud-computing-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4383,7 +4383,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/explorations-into-mindfulness">Explorations into Mindfulness - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/explorations-into-mindfulness">here</a><br>
     </td>
   </tr>
@@ -4394,7 +4394,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/project-management-fundamentals">Project Management Fundamentals - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/project-management-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4405,7 +4405,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ibm-skillsbuild/badge/artificial-intelligence-fundamentals">Artificial Intelligence Fundamentals - IBM SkillsBuild</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ibm-skillsbuild/badge/artificial-intelligence-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4490,7 +4490,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-102">aiCast 102 - Ikigai Labs</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ikigai-labs/badge/aicast-102">here</a><br>
     </td>
   </tr>
@@ -4501,7 +4501,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ikigai-labs/badge/time-series-foundations">Time Series Foundations - Ikigai Labs</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ikigai-labs/badge/time-series-foundations">here</a><br>
     </td>
   </tr>
@@ -4512,7 +4512,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/ikigai-labs/badge/ai-foundations">AI Foundations - Ikigai Labs</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/ikigai-labs/badge/ai-foundations">here</a><br>
     </td>
   </tr>
@@ -4597,7 +4597,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/high-performance-computing.2">High Performance Computing - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/high-performance-computing.2">here</a><br>
     </td>
   </tr>
@@ -4608,7 +4608,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/intel-granulate-application-optimization">Intel® Granulate™ Application Optimization - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/intel-granulate-application-optimization">here</a><br>
     </td>
   </tr>
@@ -4619,7 +4619,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/principles-of-ai-everywhere">Principles of AI Everywhere - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/principles-of-ai-everywhere">here</a><br>
     </td>
   </tr>
@@ -4630,7 +4630,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/principles-of-ai-software-ecosystem">Principles of AI Software & Ecosystem - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/principles-of-ai-software-ecosystem">here</a><br>
     </td>
   </tr>
@@ -4641,7 +4641,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/cloud-telemetry-performance">Cloud Telemetry & Performance - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/cloud-telemetry-performance">here</a><br>
     </td>
   </tr>
@@ -4652,7 +4652,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/intel-tiber-trust-authority">Intel® Tiber™ Trust Authority - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/intel-tiber-trust-authority">here</a><br>
     </td>
   </tr>
@@ -4663,7 +4663,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/cloud-security">Cloud Security - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/cloud-security">here</a><br>
     </td>
   </tr>
@@ -4674,7 +4674,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/ai-in-the-cloud">AI in the Cloud - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/ai-in-the-cloud">here</a><br>
     </td>
   </tr>
@@ -4685,7 +4685,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/intel-adds-sales-methodology">Intel® ADDS Sales Methodology - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/intel-adds-sales-methodology">here</a><br>
     </td>
   </tr>
@@ -4696,7 +4696,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/cloud-finops">Cloud FinOps - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/cloud-finops">here</a><br>
     </td>
   </tr>
@@ -4707,7 +4707,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/on-premise-storage-fundamentals">On-premise Storage Fundamentals - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/on-premise-storage-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4718,7 +4718,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/confidential-computing-security">Confidential Computing Security - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/confidential-computing-security">here</a><br>
     </td>
   </tr>
@@ -4729,7 +4729,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/intel-gaudi-ai-accelerator">Intel® Gaudi® AI Accelerator - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/intel-gaudi-ai-accelerator">here</a><br>
     </td>
   </tr>
@@ -4740,7 +4740,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/ai-everywhere-ai-pcs">AI Everywhere - AI PCs - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/ai-everywhere-ai-pcs">here</a><br>
     </td>
   </tr>
@@ -4751,7 +4751,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/multi-cloud-strategies">Multi-Cloud Strategies - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/multi-cloud-strategies">here</a><br>
     </td>
   </tr>
@@ -4762,7 +4762,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/intel/badge/agents-agentic-ai-fundamentals">Agents & Agentic AI Fundamentals - Intel</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/intel/badge/agents-agentic-ai-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4970,7 +4970,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/meetings-in-lucidspark">Meetings in Lucidspark - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/meetings-in-lucidspark">here</a><br>
     </td>
   </tr>
@@ -4981,7 +4981,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/lucidspark-fundamentals">Lucidspark Fundamentals - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/lucidspark-fundamentals">here</a><br>
     </td>
   </tr>
@@ -4992,7 +4992,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/verified-lucid-admin.1">Verified Lucid Admin - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/verified-lucid-admin.1">here</a><br>
     </td>
   </tr>
@@ -5003,7 +5003,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/creative-facilitation">Creative Facilitation - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/creative-facilitation">here</a><br>
     </td>
   </tr>
@@ -5014,7 +5014,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/agile-visualization">Agile Visualization - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/agile-visualization">here</a><br>
     </td>
   </tr>
@@ -5025,7 +5025,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/diagramming-foundations">Diagramming Foundations - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/diagramming-foundations">here</a><br>
     </td>
   </tr>
@@ -5036,7 +5036,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/lucidsoftware/badge/intelligent-diagramming">Intelligent Diagramming - Lucid Software</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/lucidsoftware/badge/intelligent-diagramming">here</a><br>
     </td>
   </tr>
@@ -5187,7 +5187,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/from-relational-model-sql-to-mongodb-s-document-mod">From Relational Model (SQL) to MongoDB's Document Model - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/from-relational-model-sql-to-mongodb-s-document-mod">here</a><br>
     </td>
   </tr>
@@ -5198,7 +5198,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/deploying-and-evaluating-genai-apps-with-mongodb">Deploying and Evaluating GenAI Apps with MongoDB - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/deploying-and-evaluating-genai-apps-with-mongodb">here</a><br>
     </td>
   </tr>
@@ -5209,7 +5209,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/building-genai-applications-with-mongodb">Building GenAI Applications with MongoDB - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-genai-applications-with-mongodb">here</a><br>
     </td>
   </tr>
@@ -5220,7 +5220,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/building-rag-apps-using-mongodb">Building RAG Apps Using MongoDB - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-rag-apps-using-mongodb">here</a><br>
     </td>
   </tr>
@@ -5231,7 +5231,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/building-ai-powered-search-with-mongodb-vector-sear.1">Building AI-Powered Search with MongoDB Vector Search - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-ai-powered-search-with-mongodb-vector-sear.1">here</a><br>
     </td>
   </tr>
@@ -5242,7 +5242,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-query-optimization-techniques">MongoDB Query Optimization Techniques - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-query-optimization-techniques">here</a><br>
     </td>
   </tr>
@@ -5253,7 +5253,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-aggregation-fundamentals">MongoDB Aggregation Fundamentals - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-aggregation-fundamentals">here</a><br>
     </td>
   </tr>
@@ -5264,7 +5264,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/optimizing-and-maintaining-mongodb-cluster-reliabil">Optimizing and Maintaining MongoDB Cluster Reliability - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/optimizing-and-maintaining-mongodb-cluster-reliabil">here</a><br>
     </td>
   </tr>
@@ -5275,7 +5275,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-self-managed-authentication-author">Securing MongoDB Self-Managed: Authentication & Authorization - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-self-managed-authentication-author">here</a><br>
     </td>
   </tr>
@@ -5286,7 +5286,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-atlas-authentication-authorization">Securing MongoDB Atlas: Authentication & Authorization - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/securing-mongodb-atlas-authentication-authorization">here</a><br>
     </td>
   </tr>
@@ -5297,7 +5297,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/search-with-mongodb">Search with MongoDB - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/search-with-mongodb">here</a><br>
     </td>
   </tr>
@@ -5308,7 +5308,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/optimizing-mongodb-performance-with-tuning-tools.1">Optimizing MongoDB Performance with Tuning Tools - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/optimizing-mongodb-performance-with-tuning-tools.1">here</a><br>
     </td>
   </tr>
@@ -5319,7 +5319,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/monitoring-mongodb-with-built-in-tools">Monitoring MongoDB with Built-in Tools - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/monitoring-mongodb-with-built-in-tools">here</a><br>
     </td>
   </tr>
@@ -5330,7 +5330,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/building-ai-agents-with-mongodb">Building AI Agents with MongoDB - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-ai-agents-with-mongodb">here</a><br>
     </td>
   </tr>
@@ -5341,7 +5341,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-sharding-strategies">MongoDB Sharding Strategies - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-sharding-strategies">here</a><br>
     </td>
   </tr>
@@ -5352,7 +5352,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/mongodb-indexing-design-fundamentals">MongoDB Indexing Design Fundamentals - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/mongodb-indexing-design-fundamentals">here</a><br>
     </td>
   </tr>
@@ -5363,7 +5363,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/mongodb/badge/building-ai-apps-with-mongodb-on-aws">Building AI Apps with MongoDB on AWS - MongoDB</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/mongodb/badge/building-ai-apps-with-mongodb-on-aws">here</a><br>
     </td>
   </tr>
@@ -5520,7 +5520,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/implement-mfa-with-okta">Implement MFA with Okta - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/implement-mfa-with-okta">here</a><br>
     </td>
   </tr>
@@ -5531,7 +5531,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/secure-auth0-apps-with-mfa">Secure Auth0 Apps with MFA - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/secure-auth0-apps-with-mfa">here</a><br>
     </td>
   </tr>
@@ -5542,7 +5542,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/integrate-with-active-directory">Integrate with Active Directory - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/integrate-with-active-directory">here</a><br>
     </td>
   </tr>
@@ -5553,7 +5553,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/extend-auth0-with-actions">Extend Auth0 with Actions - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/extend-auth0-with-actions">here</a><br>
     </td>
   </tr>
@@ -5564,7 +5564,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/explore-identity-foundations">Explore Identity Foundations - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/explore-identity-foundations">here</a><br>
     </td>
   </tr>
@@ -5575,7 +5575,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/authenticate-with-auth0-database-and-passwordless-c">Authenticate with Auth0 Database and Passwordless Connections - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/authenticate-with-auth0-database-and-passwordless-c">here</a><br>
     </td>
   </tr>
@@ -5586,7 +5586,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/explore-the-okta-data-model-via-the-okta-core-api">Explore the Okta Data Model via the Okta Core API - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/explore-the-okta-data-model-via-the-okta-core-api">here</a><br>
     </td>
   </tr>
@@ -5597,7 +5597,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/organize-users-with-groups">Organize Users with Groups - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/organize-users-with-groups">here</a><br>
     </td>
   </tr>
@@ -5608,7 +5608,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/manage-user-profiles-in-ud">Manage User Profiles in UD - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/manage-user-profiles-in-ud">here</a><br>
     </td>
   </tr>
@@ -5619,7 +5619,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/define-your-users-in-okta">Define Your Users in Okta - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/define-your-users-in-okta">here</a><br>
     </td>
   </tr>
@@ -5630,7 +5630,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/okta/badge/manage-users-and-groups">Manage Users and Groups - Okta</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/okta/badge/manage-users-and-groups">here</a><br>
     </td>
   </tr>
@@ -5751,7 +5751,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/pendo/badge/radical-product-thinking-vision-setting">Radical Product Thinking: Vision Setting - Pendo</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/pendo/badge/radical-product-thinking-vision-setting">here</a><br>
     </td>
   </tr>
@@ -5762,7 +5762,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/pendo/badge/product-management-basics-certification">Product Management Basics Certification - Pendo</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/pendo/badge/product-management-basics-certification">here</a><br>
     </td>
   </tr>
@@ -5773,7 +5773,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/pendo/badge/product-analytics-certification">Product Analytics Certification - Pendo</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/pendo/badge/product-analytics-certification">here</a><br>
     </td>
   </tr>
@@ -5858,7 +5858,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-102">2025 ProcessMaker 102 - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/2025-processmaker-102">here</a><br>
     </td>
   </tr>
@@ -5869,7 +5869,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/designer-spring-2025-refresher.1">Designer Spring 2025 Refresher - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/designer-spring-2025-refresher.1">here</a><br>
     </td>
   </tr>
@@ -5880,7 +5880,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/designer-winter-2025-refresher">Designer Winter 2025 Refresher - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/designer-winter-2025-refresher">here</a><br>
     </td>
   </tr>
@@ -5891,7 +5891,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/designer-summer-refresher">Designer Summer Refresher - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/designer-summer-refresher">here</a><br>
     </td>
   </tr>
@@ -5902,7 +5902,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-collections">2025 Collections - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/2025-collections">here</a><br>
     </td>
   </tr>
@@ -5913,7 +5913,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-flowgenie">2025 Flowgenie - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/2025-flowgenie">here</a><br>
     </td>
   </tr>
@@ -5924,7 +5924,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-decision-tables">2025 Decision Tables - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/2025-decision-tables">here</a><br>
     </td>
   </tr>
@@ -5935,7 +5935,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-process-configuration">2025 Process Configuration - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/2025-process-configuration">here</a><br>
     </td>
   </tr>
@@ -5946,7 +5946,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/2025-run-cases">2025 Run Cases - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/2025-run-cases">here</a><br>
     </td>
   </tr>
@@ -5957,7 +5957,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/user-and-group-management">User and Group Management - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/user-and-group-management">here</a><br>
     </td>
   </tr>
@@ -5968,7 +5968,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/saved-searches-charts">Saved Searches & Charts - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/saved-searches-charts">here</a><br>
     </td>
   </tr>
@@ -5979,7 +5979,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/customize-user-interface">Customize User Interface - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/customize-user-interface">here</a><br>
     </td>
   </tr>
@@ -5990,7 +5990,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/admin-settings">Admin Settings - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/admin-settings">here</a><br>
     </td>
   </tr>
@@ -6001,7 +6001,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/advanced-modeler">Advanced Modeler - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/advanced-modeler">here</a><br>
     </td>
   </tr>
@@ -6012,7 +6012,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/custom-screens">Custom Screens - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/custom-screens">here</a><br>
     </td>
   </tr>
@@ -6023,7 +6023,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/pm-blocks">PM Blocks - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/pm-blocks">here</a><br>
     </td>
   </tr>
@@ -6034,7 +6034,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/data-connectors">Data Connectors - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/data-connectors">here</a><br>
     </td>
   </tr>
@@ -6045,7 +6045,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/scripts">Scripts - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/scripts">here</a><br>
     </td>
   </tr>
@@ -6056,7 +6056,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/screen-builder">Screen Builder - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/screen-builder">here</a><br>
     </td>
   </tr>
@@ -6067,7 +6067,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/decision-tables">Decision Tables - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/decision-tables">here</a><br>
     </td>
   </tr>
@@ -6078,7 +6078,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/process-configuration">Process Configuration - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/process-configuration">here</a><br>
     </td>
   </tr>
@@ -6089,7 +6089,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/collections">Collections - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/collections">here</a><br>
     </td>
   </tr>
@@ -6100,7 +6100,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/processmaker-101-winter-refresher">ProcessMaker 101 Winter Refresher - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/processmaker-101-winter-refresher">here</a><br>
     </td>
   </tr>
@@ -6111,7 +6111,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/requests-and-comments">Requests and Comments - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/requests-and-comments">here</a><br>
     </td>
   </tr>
@@ -6122,7 +6122,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/processmaker/badge/developer-summer-refresher">Developer Summer Refresher - ProcessMaker</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/processmaker/badge/developer-summer-refresher">here</a><br>
     </td>
   </tr>
@@ -6207,7 +6207,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/project-management-institute/badge/practical-application-of-gen-ai-for-project-manager">Practical Application of Gen AI for Project Managers - Project Management Institute</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/project-management-institute/badge/practical-application-of-gen-ai-for-project-manager">here</a><br>
     </td>
   </tr>
@@ -6328,7 +6328,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-dashboard-associate">Certified ARIS Dashboard Associate - SAG ARIS GmbH</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-dashboard-associate">here</a><br>
     </td>
   </tr>
@@ -6339,7 +6339,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-risk-compliance-associate">Certified ARIS Risk & Compliance Associate - SAG ARIS GmbH</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sag-aris-gmbh/badge/certified-aris-risk-compliance-associate">here</a><br>
     </td>
   </tr>
@@ -6424,7 +6424,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/creating-applications-and-extensions-using-sap-buil">Creating Applications and Extensions using SAP Build Code - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/creating-applications-and-extensions-using-sap-buil">here</a><br>
     </td>
   </tr>
@@ -6435,7 +6435,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/setting-up-an-abap-environment-on-sap-btp-record-of">Setting up an ABAP Environment on SAP BTP - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/setting-up-an-abap-environment-on-sap-btp-record-of">here</a><br>
     </td>
   </tr>
@@ -6446,7 +6446,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/exploring-sap-datasphere-record-of-achievement">Exploring SAP Datasphere - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/exploring-sap-datasphere-record-of-achievement">here</a><br>
     </td>
   </tr>
@@ -6457,7 +6457,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/getting-started-with-terraform-on-sap-btp-record-of">Getting Started with Terraform on SAP BTP - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/getting-started-with-terraform-on-sap-btp-record-of">here</a><br>
     </td>
   </tr>
@@ -6468,7 +6468,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/mastering-the-application-rationalization-with-sap-">Mastering the Application Rationalization with SAP LeanIX - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/mastering-the-application-rationalization-with-sap-">here</a><br>
     </td>
   </tr>
@@ -6479,7 +6479,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/exploring-the-sap-master-data-governance-deployment">Exploring the SAP Master Data Governance Deployments - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/exploring-the-sap-master-data-governance-deployment">here</a><br>
     </td>
   </tr>
@@ -6490,7 +6490,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/discovering-sap-integration-suite-managed-gateway-f">Discovering SAP Integration Suite - Managed Gateway for spend Management and SAP Business Network - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/discovering-sap-integration-suite-managed-gateway-f">here</a><br>
     </td>
   </tr>
@@ -6501,7 +6501,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/introducing-sap-s-4hana-cloud-for-group-reporting-r">Introducing SAP S/4HANA Cloud for Group Reporting - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/introducing-sap-s-4hana-cloud-for-group-reporting-r">here</a><br>
     </td>
   </tr>
@@ -6512,7 +6512,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/modernizing-integration-with-sap-integration-suite-">Modernizing Integration with SAP Integration Suite - SAP Learning MOOC - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/modernizing-integration-with-sap-integration-suite-">here</a><br>
     </td>
   </tr>
@@ -6523,7 +6523,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/exploring-sap-converged-cloud-record-of-achievement">Exploring SAP Converged Cloud - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/exploring-sap-converged-cloud-record-of-achievement">here</a><br>
     </td>
   </tr>
@@ -6534,7 +6534,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/introducing-the-media-industry-record-of-achievemen">Introducing the Media Industry - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/introducing-the-media-industry-record-of-achievemen">here</a><br>
     </td>
   </tr>
@@ -6545,7 +6545,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/enhancing-security-in-your-sap-concur-environment-r">Enhancing Security in Your SAP Concur Environment - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/enhancing-security-in-your-sap-concur-environment-r">here</a><br>
     </td>
   </tr>
@@ -6556,7 +6556,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/administering-sap-s-4hana-cloud-private-edition-int">Administering SAP S/4HANA Cloud Private Edition - Interaction with SAP - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/administering-sap-s-4hana-cloud-private-edition-int">here</a><br>
     </td>
   </tr>
@@ -6567,7 +6567,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/introducing-cybersecurity-record-of-achievement">Introducing Cybersecurity - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/introducing-cybersecurity-record-of-achievement">here</a><br>
     </td>
   </tr>
@@ -6578,7 +6578,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/discovering-sap-ariba-contracts-record-of-achieveme">Discovering SAP Ariba Contracts - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/discovering-sap-ariba-contracts-record-of-achieveme">here</a><br>
     </td>
   </tr>
@@ -6589,7 +6589,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sap/badge/discovering-finance-and-risk-for-grow-with-sap-reco">Discovering Finance and Risk for GROW with SAP - Record of Achievement - SAP</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sap/badge/discovering-finance-and-risk-for-grow-with-sap-reco">here</a><br>
     </td>
   </tr>
@@ -6674,7 +6674,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sas/badge/generative-ai-using-sas">Generative AI Using SAS - SAS</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sas/badge/generative-ai-using-sas">here</a><br>
     </td>
   </tr>
@@ -6685,7 +6685,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/sas/badge/responsible-innovation-and-trustworthy-ai">Responsible Innovation and Trustworthy AI - SAS</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/sas/badge/responsible-innovation-and-trustworthy-ai">here</a><br>
     </td>
   </tr>
@@ -6836,7 +6836,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc114-remote-work-at-scale">LFC114: Remote Work at Scale - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc114-remote-work-at-scale">here</a><br>
     </td>
   </tr>
@@ -6847,7 +6847,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1016-introduction-to-to-the-common-domain-model">LFEL1016: Introduction to to the Common Domain Model (CDM) - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1016-introduction-to-to-the-common-domain-model">here</a><br>
     </td>
   </tr>
@@ -6858,7 +6858,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs111-open-source-and-the-5g-transition">LFS111: Open Source and the 5G Transition - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs111-open-source-and-the-5g-transition">here</a><br>
     </td>
   </tr>
@@ -6869,7 +6869,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1007-automating-supply-chain-security-sboms-and">LFEL1007: Automating Supply Chain Security - SBOMs and Signatures - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1007-automating-supply-chain-security-sboms-and">here</a><br>
     </td>
   </tr>
@@ -6880,7 +6880,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc112-creating-effective-documentation-for-develop">LFC112: Creating Effective Documentation for Developers - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc112-creating-effective-documentation-for-develop">here</a><br>
     </td>
   </tr>
@@ -6891,7 +6891,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs180-introduction-to-devsecops-for-managers">LFS180: Introduction to DevSecOps for Managers - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs180-introduction-to-devsecops-for-managers">here</a><br>
     </td>
   </tr>
@@ -6902,7 +6902,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs169-introduction-to-gitops">LFS169: Introduction to GitOps - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs169-introduction-to-gitops">here</a><br>
     </td>
   </tr>
@@ -6913,7 +6913,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs183-introduction-to-zero-trust">LFS183: Introduction to Zero Trust - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs183-introduction-to-zero-trust">here</a><br>
     </td>
   </tr>
@@ -6924,7 +6924,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc111-open-source-technical-documentation-essentia">LFC111: Open Source Technical Documentation Essentials - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc111-open-source-technical-documentation-essentia">here</a><br>
     </td>
   </tr>
@@ -6935,7 +6935,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc101-inclusive-speaker-orientation">LFC101: Inclusive Speaker Orientation - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc101-inclusive-speaker-orientation">here</a><br>
     </td>
   </tr>
@@ -6946,7 +6946,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs158-introduction-to-kubernetes">LFS158: Introduction to Kubernetes - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs158-introduction-to-kubernetes">here</a><br>
     </td>
   </tr>
@@ -6957,7 +6957,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs170-blockchain-understanding-its-uses-and-implic">LFS170: Blockchain - Understanding Its Uses and Implications - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs170-blockchain-understanding-its-uses-and-implic">here</a><br>
     </td>
   </tr>
@@ -6968,7 +6968,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc102-inclusive-open-source-community-orientation">LFC102: Inclusive Open Source Community Orientation - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc102-inclusive-open-source-community-orientation">here</a><br>
     </td>
   </tr>
@@ -6979,7 +6979,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1005-security-self-assessments-for-open-source-">LFEL1005: Security Self-Assessments for Open Source Projects - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1005-security-self-assessments-for-open-source-">here</a><br>
     </td>
   </tr>
@@ -6990,7 +6990,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc191-open-source-licensing-basics-for-software-developers">LFC191: Open Source Licensing Basics for Software Developers - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc191-open-source-licensing-basics-for-software-developers">here</a><br>
     </td>
   </tr>
@@ -7001,7 +7001,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc192-generating-a-software-bill-of-materials">LFC192: Generating a Software Bill of Materials - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc192-generating-a-software-bill-of-materials">here</a><br>
     </td>
   </tr>
@@ -7012,7 +7012,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc120-leading-high-performance-working-group-meeti">LFC120: Leading High-Performance Working Group Meetings - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc120-leading-high-performance-working-group-meeti">here</a><br>
     </td>
   </tr>
@@ -7023,7 +7023,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc104-ethics-for-open-source-development">LFC104: Ethics for Open Source Development - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc104-ethics-for-open-source-development">here</a><br>
     </td>
   </tr>
@@ -7034,7 +7034,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals">LFEL1011: OpenAPI Fundamentals - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1011-openapi-fundamentals">here</a><br>
     </td>
   </tr>
@@ -7045,7 +7045,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc103-inclusive-strategies-for-open-source">LFC103: Inclusive Strategies for Open Source - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc103-inclusive-strategies-for-open-source">here</a><br>
     </td>
   </tr>
@@ -7056,7 +7056,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc193-introduction-to-open-source-licensing-compliance-management">LFC193: Introduction to Open Source Licensing Compliance Management - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc193-introduction-to-open-source-licensing-compliance-management">here</a><br>
     </td>
   </tr>
@@ -7067,7 +7067,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs112-ethics-in-ai-and-data-science">LFS112: Ethics in AI and Data Science - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs112-ethics-in-ai-and-data-science">here</a><br>
     </td>
   </tr>
@@ -7078,7 +7078,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs116-pytorch-and-deep-learning-for-decision-maker">LFS116: PyTorch and Deep Learning for Decision Makers - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs116-pytorch-and-deep-learning-for-decision-maker">here</a><br>
     </td>
   </tr>
@@ -7089,7 +7089,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs118-ethical-principles-for-conversational-ai">LFS118: Ethical Principles for Conversational AI - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs118-ethical-principles-for-conversational-ai">here</a><br>
     </td>
   </tr>
@@ -7100,7 +7100,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs120-conversational-ai-ensuring-compliance-and-mi">LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs120-conversational-ai-ensuring-compliance-and-mi">here</a><br>
     </td>
   </tr>
@@ -7111,7 +7111,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs142-introduction-to-backstage-developer-portals-">LFS142: Introduction to Backstage - Developer Portals Made Easy - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs142-introduction-to-backstage-developer-portals-">here</a><br>
     </td>
   </tr>
@@ -7122,7 +7122,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd134-webassembly-components-from-cloud-to-edge">LFD134: WebAssembly Components - From Cloud to Edge - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd134-webassembly-components-from-cloud-to-edge">here</a><br>
     </td>
   </tr>
@@ -7133,7 +7133,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd137-open-source-contribution-in-finance">LFD137: Open Source Contribution in Finance - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd137-open-source-contribution-in-finance">here</a><br>
     </td>
   </tr>
@@ -7144,7 +7144,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1006-securing-projects-with-openssf-scorecard">LFEL1006: Securing Projects with OpenSSF Scorecard - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1006-securing-projects-with-openssf-scorecard">here</a><br>
     </td>
   </tr>
@@ -7155,7 +7155,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs182-securing-your-software-supply-chain-with-sig">LFS182: Securing Your Software Supply Chain with Sigstore - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs182-securing-your-software-supply-chain-with-sig">here</a><br>
     </td>
   </tr>
@@ -7166,7 +7166,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1000-introduction-to-fdc3">LFEL1000: Introduction to FDC3 - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1000-introduction-to-fdc3">here</a><br>
     </td>
   </tr>
@@ -7177,7 +7177,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1003-creating-edge-iot-solutions-with-edgex-fou">LFEL1003: Creating Edge IoT Solutions with EdgeX Foundry - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1003-creating-edge-iot-solutions-with-edgex-fou">here</a><br>
     </td>
   </tr>
@@ -7188,7 +7188,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfq102-quantum-computing-essentials-for-senior-lead">LFQ102: Quantum Computing Essentials For Senior Leaders - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfq102-quantum-computing-essentials-for-senior-lead">here</a><br>
     </td>
   </tr>
@@ -7199,7 +7199,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd110-introduction-to-risc-v">LFD110: Introduction to RISC-V - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd110-introduction-to-risc-v">here</a><br>
     </td>
   </tr>
@@ -7210,7 +7210,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfq101-fundamentals-of-quantum-computing">LFQ101: Fundamentals of Quantum Computing - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfq101-fundamentals-of-quantum-computing">here</a><br>
     </td>
   </tr>
@@ -7221,7 +7221,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfw111-introduction-to-node-js">LFW111: Introduction to Node.js - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfw111-introduction-to-node-js">here</a><br>
     </td>
   </tr>
@@ -7232,7 +7232,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs146-introduction-to-cilium">LFS146: Introduction to Cilium - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs146-introduction-to-cilium">here</a><br>
     </td>
   </tr>
@@ -7243,7 +7243,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs179-introduction-to-nephio">LFS179: Introduction to Nephio - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs179-introduction-to-nephio">here</a><br>
     </td>
   </tr>
@@ -7254,7 +7254,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1009-getting-started-with-opentofu">LFEL1009: Getting Started with OpenTofu - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1009-getting-started-with-opentofu">here</a><br>
     </td>
   </tr>
@@ -7265,7 +7265,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs178-getting-started-with-self-sovereign-identity">LFS178: Getting Started with Self-Sovereign Identity - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs178-getting-started-with-self-sovereign-identity">here</a><br>
     </td>
   </tr>
@@ -7276,7 +7276,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs166-introduction-to-magma-cloud-native-wireless-">LFS166: Introduction to Magma - Cloud Native Wireless Networking - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs166-introduction-to-magma-cloud-native-wireless-">here</a><br>
     </td>
   </tr>
@@ -7287,7 +7287,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc108-cybersecurity-essentials">LFC108: Cybersecurity Essentials - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfc108-cybersecurity-essentials">here</a><br>
     </td>
   </tr>
@@ -7298,7 +7298,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs144-introduction-to-istio">LFS144: Introduction to Istio - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs144-introduction-to-istio">here</a><br>
     </td>
   </tr>
@@ -7309,7 +7309,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked">LFEL1014: Scaling Cloud Native Applications with KEDA - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1014-scaling-cloud-native-applications-with-ked">here</a><br>
     </td>
   </tr>
@@ -7320,7 +7320,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs157-introduction-to-serverless-on-kubernetes">LFS157: Introduction to Serverless on Kubernetes - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs157-introduction-to-serverless-on-kubernetes">here</a><br>
     </td>
   </tr>
@@ -7331,7 +7331,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1010-xss-exploits-and-defenses">LFEL1010: XSS Exploits and Defenses - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1010-xss-exploits-and-defenses">here</a><br>
     </td>
   </tr>
@@ -7342,7 +7342,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd103-a-beginner-s-guide-to-linux-kernel-development">LFD103: A Beginner's Guide to Linux Kernel Development - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd103-a-beginner-s-guide-to-linux-kernel-development">here</a><br>
     </td>
   </tr>
@@ -7353,7 +7353,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/skf100-understanding-the-owasp-top-10-security-thre">SKF100: Understanding the OWASP® Top 10 Security Threats - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/skf100-understanding-the-owasp-top-10-security-thre">here</a><br>
     </td>
   </tr>
@@ -7364,7 +7364,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs145-introduction-to-protocol-buffers">LFS145: Introduction to Protocol Buffers - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs145-introduction-to-protocol-buffers">here</a><br>
     </td>
   </tr>
@@ -7375,7 +7375,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd102-a-beginner-s-guide-to-open-source-software-development">LFD102: A Beginner's Guide to Open Source Software Development - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd102-a-beginner-s-guide-to-open-source-software-development">here</a><br>
     </td>
   </tr>
@@ -7386,7 +7386,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd116-software-engineering-basics-for-embedded-systems">LFD116: Software Engineering Basics for Embedded Systems - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfd116-software-engineering-basics-for-embedded-systems">here</a><br>
     </td>
   </tr>
@@ -7397,7 +7397,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs151-introduction-to-cloud-infrastructure-technol">LFS151: Introduction to Cloud Infrastructure Technologies - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs151-introduction-to-cloud-infrastructure-technol">here</a><br>
     </td>
   </tr>
@@ -7408,7 +7408,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs148-getting-started-with-opentelemetry">LFS148: Getting Started with OpenTelemetry - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs148-getting-started-with-opentelemetry">here</a><br>
     </td>
   </tr>
@@ -7419,7 +7419,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs101-introduction-to-linux">LFS101: Introduction to Linux - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs101-introduction-to-linux">here</a><br>
     </td>
   </tr>
@@ -7430,7 +7430,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs167-introduction-to-jenkins">LFS167: Introduction to Jenkins - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs167-introduction-to-jenkins">here</a><br>
     </td>
   </tr>
@@ -7441,7 +7441,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs147-introduction-to-ai-ml-toolkits-with-kubeflow">LFS147: Introduction to AI/ML Toolkits with Kubeflow - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs147-introduction-to-ai-ml-toolkits-with-kubeflow">here</a><br>
     </td>
   </tr>
@@ -7452,7 +7452,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1002-getting-started-with-rust">LFEL1002: Getting Started with Rust - The Linux Foundation</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1002-getting-started-with-rust">here</a><br>
     </td>
   </tr>
@@ -7654,7 +7654,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-administration-specialist-zce">ZEDEDA Certified Edge Administration Specialist (ZCES) - ZEDEDA</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zededa/badge/zededa-certified-edge-administration-specialist-zce">here</a><br>
     </td>
   </tr>
@@ -7739,7 +7739,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/sunshine-conversations-for-developers">Sunshine Conversations for Developers - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zendesk/badge/sunshine-conversations-for-developers">here</a><br>
     </td>
   </tr>
@@ -7750,7 +7750,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/sell-for-admins">Sell for Admins - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zendesk/badge/sell-for-admins">here</a><br>
     </td>
   </tr>
@@ -7761,7 +7761,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/sell-for-users">Sell for Users - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zendesk/badge/sell-for-users">here</a><br>
     </td>
   </tr>
@@ -7772,7 +7772,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/guide-self-service">Guide / self-service - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zendesk/badge/guide-self-service">here</a><br>
     </td>
   </tr>
@@ -7783,7 +7783,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/explore-analytics">Explore / analytics - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zendesk/badge/explore-analytics">here</a><br>
     </td>
   </tr>
@@ -7794,7 +7794,7 @@ Ready to start badge hunting? Let's dive in! 🚀
       </a><br>
       <a href="https://www.credly.com/org/zendesk/badge/foundational-support">Foundational Support - Zendesk</a>
     </td>
-    <td width="80%" padding="10">
+    <td width="80%" style="padding:10px">
       <strong>Read more <a href="https://www.credly.com/org/zendesk/badge/foundational-support">here</a><br>
     </td>
   </tr>
