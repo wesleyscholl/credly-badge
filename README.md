@@ -1,10 +1,10 @@
 # 🎖️🏆 Free Credly Badges 
 **A curated list of 500+ free Credly badges 🥇🏅** &nbsp; **Earn real, verified skills — all at zero cost! 🆓📚**
 
+<img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
+
 > 🌐 Check out the full website here — [wesleyscholl.github.io/credly-badge](https://wesleyscholl.github.io/credly-badge)  
 > 💡 _View in full-page mode or keep scrolling to explore all the organizations and free badges!_
-
-<img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
 
 ### 🏆 Your Free Badge Collection Awaits!
 Welcome to the ultimate treasure trove of completely free digital badges! 🎉
