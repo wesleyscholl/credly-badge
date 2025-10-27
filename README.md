@@ -1,27 +1,52 @@
 <div align="center">
   
-# 🏆 Free Credly Badges🏅 
+<h1>🏆 Free Credly Badges🏅</h1> 
 
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
 
-**🥇 A Curated List Of 500+ Free Digital Badges · 52 Organizations · 100% Free Training 🎖️**
+<p><strong>🥇 A Curated List Of 500+ Free Digital Badges · 52 Organizations · 100% Free Training 🎖️</strong></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/wesleyscholl/credly-badge?style=social)](https://github.com/wesleyscholl/credly-badge/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/wesleyscholl/credly-badge?style=social)](https://github.com/wesleyscholl/credly-badge/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+  <p>
+    <a href="https://github.com/wesleyscholl/credly-badge/stargazers">
+      <img src="https://img.shields.io/github/stars/wesleyscholl/credly-badge?style=social" alt="GitHub stars" />
+    </a>
+    <a href="https://github.com/wesleyscholl/credly-badge/network/members">
+      <img src="https://img.shields.io/github/forks/wesleyscholl/credly-badge?style=social" alt="GitHub forks" />
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+    </a>
+    <a href="CONTRIBUTING.md">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
+    </a>
+  </p>
 
-**[🌐 View Website](https://wesleyscholl.github.io/credly-badge)** · **[🤝 Contribute](CONTRIBUTING.md)** · **[❓ Ask Questions](https://github.com/wesleyscholl/credly-badge/discussions)** · **[⭐ Star This Repo](#)**
+  <p>
+    <strong><a href="https://wesleyscholl.github.io/credly-badge">🌐 View Website</a></strong> ·
+    <strong><a href="CONTRIBUTING.md">🤝 Contribute</a></strong> ·
+    <strong><a href="https://github.com/wesleyscholl/credly-badge/discussions">❓ Ask Questions</a></strong> ·
+    <strong><a href="#">⭐ Star This Repo</a></strong>
+  </p>
 
----
+  <hr />
 
-### 🎯 The Ultimate Collection of Free Digital Credentials - Earn real, verified skills — all at zero cost! 🆓📚
+  <h3>🎯 The Ultimate Collection of Free Digital Credentials - Earn real, verified skills — all at zero cost! 🆓📚</h3>
 
-Discover, earn, and showcase professional certifications from **top tech companies and educational institutions** — completely free! Build your skills portfolio without spending a dime.
-<br/>
-<br/>
-> 🌐 Check out the full website here — [wesleyscholl.github.io/credly-badge](https://wesleyscholl.github.io/credly-badge)  
-> 💡 _View in full-page mode or keep scrolling to explore all the organizations and free badges!_
+  <p>
+    Discover, earn, and showcase professional certifications from
+    <strong>top tech companies and educational institutions</strong> —
+    completely free! Build your skills portfolio without spending a dime.
+  </p>
+
+  <br />
+  <br />
+
+  <blockquote>
+    🌐 Check out the full website here —
+    <a href="https://wesleyscholl.github.io/credly-badge">wesleyscholl.github.io/credly-badge</a><br />
+    💡 <em>View in full-page mode or keep scrolling to explore all the organizations and free badges!</em>
+  </blockquote>
+</div>
 
 </div>
 
@@ -7992,36 +8017,49 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 <div align="center">
 
-## 📜 License
+  <h2>📜 License</h2>
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+  <p>
+    This project is licensed under the MIT License - see the
+    <a href="LICENSE">LICENSE</a> file for details.
+  </p>
 
-<br/>
-<br/>
+  <br />
+  <br />
 
+  <h2>📊 Repository Stats</h2>
 
-## 📊 Repository Stats
+  <p>
+    <img src="https://img.shields.io/github/stars/wesleyscholl/credly-badge?style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/wesleyscholl/credly-badge?style=social" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/issues/wesleyscholl/credly-badge" alt="GitHub Issues" />
+    <img src="https://img.shields.io/github/last-commit/wesleyscholl/credly-badge" alt="GitHub Last Commit" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wesleyscholl.credly-badge" alt="Visitors" />
+  </p>
 
-![GitHub Stars](https://img.shields.io/github/stars/wesleyscholl/credly-badge?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/wesleyscholl/credly-badge?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/wesleyscholl/credly-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/wesleyscholl/credly-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wesleyscholl.credly-badge)
+  <br />
+  <br />
 
-<br/>
-<br/>
+  <h2>⭐ Star History</h2>
 
+  <p>
+    If you find this repo useful, please consider starring the repository! Thanks
+  </p>
 
-## ⭐ Star History
+  <p>
+    <a href="https://star-history.com/#wesleyscholl/credly-badge&Date">
+      <img src="https://api.star-history.com/svg?repos=wesleyscholl/credly-badge&amp;type=Date" alt="Star History Chart" />
+    </a>
+  </p>
 
-If you find this repo useful, please consider starring the repository! Thanks
+  <br />
+  <br />
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wesleyscholl/credly-badge&type=Date)](https://star-history.com/#wesleyscholl/credly-badge&Date)
-
-<br/>
-<br/>
-
-
-© 2025 Wesley Scholl · Licensed under [MIT License](LICENSE)
+  <p>
+    <strong>
+    © 2025 Wesley Scholl · Licensed under
+    <a href="LICENSE">MIT License</a>
+  </strong>
+  </p>
 
 </div>
