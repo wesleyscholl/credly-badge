@@ -47,7 +47,6 @@
     <a href="https://wesleyscholl.github.io/credly-badge">wesleyscholl.github.io/credly-badge</a><br />
     💡 <em>View in full-page mode or keep scrolling to explore all the organizations and free badges!</em>
   </blockquote>
-</div>
 
 </div>
 
