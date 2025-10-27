@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/wesleyscholl/credly-badge/discussions
+    about: Ask questions and discuss with the community
+  - name: 📚 Credly Help Center
+    url: https://help.credly.com
+    about: Official Credly documentation and support
+  - name: 🌐 Website
+    url: https://wesleyscholl.github.io/credly-badge
+    about: View the full website version
