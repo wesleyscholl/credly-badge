@@ -7899,6 +7899,9 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 ---
 
+  <br />
+  <br />
+
 ## ❓ Frequently Asked Questions
 
 ### 📣 General Questions
