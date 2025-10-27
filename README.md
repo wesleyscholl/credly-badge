@@ -48,9 +48,10 @@
     💡 <em>View in full-page mode or keep scrolling to explore all the organizations and free badges!</em>
   </blockquote>
 
+---
+
 </div>
 
----
 <br/>
 <br/>
 
