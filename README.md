@@ -7996,7 +7996,9 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+<br/>
+<br/>
+
 
 ## 📊 Repository Stats
 
@@ -8006,7 +8008,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/wesleyscholl/credly-badge)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wesleyscholl.credly-badge)
 
----
+<br/>
+<br/>
+
 
 ## ⭐ Star History
 
@@ -8014,7 +8018,9 @@ If you find this repo useful, please consider starring the repository! Thanks
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wesleyscholl/credly-badge&type=Date)](https://star-history.com/#wesleyscholl/credly-badge&Date)
 
----
+<br/>
+<br/>
+
 
 © 2025 Wesley Scholl · Licensed under [MIT License](LICENSE)
 
