@@ -25,7 +25,8 @@
     <strong><a href="https://wesleyscholl.github.io/credly-badge">🌐 View Website</a></strong> ·
     <strong><a href="CONTRIBUTING.md">🤝 Contribute</a></strong> ·
     <strong><a href="https://github.com/wesleyscholl/credly-badge/discussions">❓ Ask Questions</a></strong> ·
-    <strong><a href="#">⭐ Star This Repo</a></strong>
+    <strong><a href="https://img.shields.io/github/stars/wesleyscholl/credly-badge.svg?style=social&label=Star">⭐ Star This Repo</a></strong>
+
   </p>
 
   <hr />
