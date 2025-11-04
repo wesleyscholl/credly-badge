@@ -27,6 +27,28 @@ Found a free Credly badge that's not on our list? Great! Here's how to add it:
 1. **Verify it's free**: The badge must be 100% free with no payment required
 2. **Check it's not already listed**: Search the README to avoid duplicates
 3. **Confirm it's from Credly**: Must be hosted on credly.com
+4. **Verify legitimacy**: Badge must be from a reputable, verifiable organization
+5. **Test enrollment**: Confirm you can actually enroll and the badge is currently available
+
+#### Badge Quality Criteria
+
+All badge submissions must meet these standards:
+
+**✅ Must Have:**
+- 100% free (no credit card, no hidden fees, no "premium" upsells)
+- Active program (currently accepting enrollments)
+- Digital badge issued via Credly platform
+- From reputable organization (educational institution, major company, professional body)
+- Clear learning objectives and criteria
+- Verifiable completion path
+
+**❌ Will Be Rejected:**
+- Requires any payment (even for "expedited processing")
+- Only PDF certificates (must be Credly digital badge)
+- Discontinued or expired programs
+- Unverifiable organizations
+- Employee-only or restricted access badges
+- Marketing schemes or scams
 
 #### Step-by-Step Process
 
