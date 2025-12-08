@@ -8006,7 +8006,7 @@ A: Yes! Every badge in this collection is 100% free with no hidden fees. Some or
 A: Yes, you'll need a free Credly account to earn and display badges. Sign up at [credly.com](https://www.credly.com).
 
 **Q: How long does it take to earn a badge?**  
-A: Time varies by badge. Some take as little as 15-30 minutes, while others may require several hours of coursework. Check the "Time to Earn" field in each badge listing.
+A: Time varies by badge. Some take as little as 30 minutes to 1 hour, while others may require several hours or days of coursework. Check the "Time to Earn" field in each Credly badge listing.
 
 **Q: Do badges expire?**  
 A: Most badges don't expire, but some certification-based badges may have expiration dates. Check the individual badge details on Credly.
@@ -8017,7 +8017,7 @@ A: Absolutely! Credly integrates directly with LinkedIn, making it easy to share
 ### Technical Questions
 
 **Q: How do I know if I've completed all requirements for a badge?**  
-A: Each badge has specific criteria listed on its Credly page. Most require completing a course and/or passing an assessment.
+A: Each badge has specific criteria listed on its Credly page. Most require completing a course and/or passing an assessment and you will receive an email from Credly when the badge has been issued.
 
 **Q: What if a badge link is broken?**  
 A: Please [open an issue](https://github.com/wesleyscholl/credly-badge/issues) and we'll update it promptly.
