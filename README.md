@@ -2,8 +2,6 @@
   
 <h1>🏆 Free Credly Badges🏅</h1> 
 
-**Status**: Comprehensive catalog of 500+ free professional certifications - actively maintained resource for skill development and career advancement.
-
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
 
 <p><strong>🥇 A Curated List Of 500+ Free Digital Badges · 52 Organizations · 100% Free Training 🎖️</strong></p>
