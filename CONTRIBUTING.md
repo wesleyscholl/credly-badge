@@ -329,4 +329,4 @@ Don't hesitate to ask! Open an issue with the `question` label or start a discus
 
 ---
 
-*Last updated: January 2025*
+*Last updated: March 2026*
