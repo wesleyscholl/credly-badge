@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Demo script for credly-badge - Digital badge documentation
+# Updated March 2026
 
 set -e
 
