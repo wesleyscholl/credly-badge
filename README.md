@@ -131,7 +131,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/amazon-web-services/badges">
       <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
     </a><br/>
-    <a href="#amazon-web-services-5">Amazon Web Services Training and Certification</a>
+    <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
   </td>
 </tr>
 <tr>
