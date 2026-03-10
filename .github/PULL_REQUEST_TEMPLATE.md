@@ -18,7 +18,7 @@ Please check the relevant option:
 
 <!-- Provide a detailed description of your changes -->
 
-### For Badge Additions
+### 🎖️ For Badge Additions
 
 - **Badge Name**: 
 - **Organization**: 
