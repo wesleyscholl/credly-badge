@@ -31,7 +31,7 @@
 
   <hr />
 
-  <h3>🎯 The Ultimate Collection of Free Digital Credentials - Earn real, verified skills — all at zero cost! 🆓📚</h3>
+  <h3>🎯⭐️ The Ultimate Collection of Free Digital Credentials - Earn real, verified skills — all at zero cost! 🆓📚</h3>
 
   <p>
     Discover, earn, and showcase professional certifications from
