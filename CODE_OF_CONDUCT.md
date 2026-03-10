@@ -161,9 +161,9 @@ learning-focused community:
 ## Contact
 
 For questions about this Code of Conduct, please contact:
-- Email: wesley.scholl@gmail.com
+- Name: Wesley Scholl
 - GitHub: [@wesleyscholl](https://github.com/wesleyscholl)
 
 ---
 
-*Last updated: January 2025*
+*Last updated: March 2026*
