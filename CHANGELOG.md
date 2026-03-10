@@ -124,7 +124,7 @@ Example:
 
 Check our [Roadmap](README.md#-roadmap) for planned features and enhancements.
 
-## Questions?
+## 🗣️ Questions?
 
 For questions about changes or to suggest additions, please [open an issue](https://github.com/wesleyscholl/credly-badge/issues).
 
