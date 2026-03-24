@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
 
-<p><strong>🥇 A Curated List Of 500+ Free Digital Badges · 52 Organizations · 100% Free Training 🎖️</strong></p>
+<p><strong>🥇 A Curated List Of 500+ Free Digital Badges · 51 Organizations · 100% Free Training 🎖️</strong></p>
 
   <p>
     <a href="https://github.com/wesleyscholl/credly-badge/stargazers">
