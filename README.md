@@ -99,7 +99,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 <!--START_SECTION:badges-->
 ## Total Badges: (508)
 
-## Issuing Organizations: (52)
+## Issuing Organizations: (51)
 
 <table width='100%' border='1' cellspacing='0' cellpadding='4'>
 <tr>
@@ -209,10 +209,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="#clickhouse-20">ClickHouse</a>
   </td>
   <td align="center" width="20%" style="padding:10px">
-    <a href="https://www.credly.com/organizations/comptia/badges">
-      <img src="https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png" width="100">
-    </a><br/>
-    <a href="#comptia-3">CompTIA</a>
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/data-protocol/badges">
@@ -436,7 +432,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 </table>
 
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [CompTIA](#comptia-3), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -3215,69 +3211,6 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 </details>
-
-
-
-### CompTIA (3)
-
-<strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
-
-| Issuing Organization | Description | Credly Badges | Verified | Organization Link |
-|        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/200x200/images/1d9d2038-abf7-49b4-a8db-c6fb884dfdb5/blob.png' height='100' /><br/>[CompTIA](#comptia-3) | CompTIA is a nonprofit trade association providing vendor-neutral IT certifications and professional development. | 3 | ✅ | [CompTIA](https://www.credly.com/organizations/comptia/badges) |
-
-<table width="100%" border="1" cellspacing="0" cellpadding="4">
-  <tr>
-    <th width="20%">Badge</th>
-    <th width="80%">Description</th>
-  </tr>
-  <tr>
-    <td align="center" width="20%" style="padding:10px">
-      <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">
-        <img src="https://images.credly.com/size/500x500/images/2d9ba442-a3ce-4105-9d69-57f478540f70/CompTIA_A_2B.png" width="100">
-      </a><br/>
-      <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">CompTIA A+ Certification - CompTIA</a>
-    </td>
-    <td width="80%" style="padding:10px">
-      <strong>Description:</strong> CompTIA A+ earners who certified between January 1993 and December 31, 2010, have an A+ considered good-for-life (GFL). It does... <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br/>
-      <strong>Skills:</strong> CompTIA A+, Computer Repair, PC Upgrades, Printer Maintenance, Windows Operating Systems<br/>
-      <strong>Criteria:</strong> Achieved a passing score on the CompTIA A+ exams prior to January 1, 2011 <a href="https://www.credly.com/org/comptia/badge/comptia-a-certification.7">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
-      <strong>Level:</strong> None
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" style="padding:10px">
-      <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
-        <img src="https://images.credly.com/size/500x500/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="100">
-      </a><br/>
-      <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">CompTIA Security+ ce Certification - CompTIA</a>
-    </td>
-    <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br/>
-      <strong>Skills:</strong> Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security<br/>
-      <strong>Criteria:</strong> Obtain the recommended experience -- CompTIA Network+ and two years of experience in IT administration with a security focus. Achieve... <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
-      <strong>Level:</strong> None
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" style="padding:10px">
-      <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">
-        <img src="https://images.credly.com/size/500x500/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" width="100">
-      </a><br/>
-      <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">CompTIA A+ ce Certification - CompTIA</a>
-    </td>
-    <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br/>
-      <strong>Skills:</strong> Backup And Recovery, Cloud Computing, CompTIA A+, Cybersecurity, Help Desk<br/>
-      <strong>Criteria:</strong> Obtain the recommended experience -- 9-12 months of hands-on tech support experience in the lab or field Achieve a passing... <a href="https://www.credly.com/org/comptia/badge/comptia-a-ce-certification.1">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
-      <strong>Level:</strong> None
-    </td>
-  </tr>
-</table>
-
 
 
 
