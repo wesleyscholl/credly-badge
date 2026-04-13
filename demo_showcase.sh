@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Demo script for credly-badge - Free Digital Badges
-# Updated March 2026
+# Updated April 2026
 
 set -e
 
