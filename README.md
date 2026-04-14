@@ -1264,7 +1264,154 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br/>[Amazon Web Services Training and Certification](#amazon-web-services-5) | AWS's official training body offering cloud computing certifications and skill development. | 5 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
+<details><summary>AWS Cloud Quest Badges (9)</summary>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+         <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">AWS Cloud Quest: Cloud Practitioner - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated basic solution building knowledge using AWS services and have a fundamental understanding of AWS Cloud concepts. Badge earners have acquired hands-on experience with compute, networking, database and security services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud basics, AWS fundamentals, role-based learning, practical scenarios<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">
+         <img src="https://images.credly.com/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">AWS Cloud Quest: Solutions Architect - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge using a broad set of AWS services. Badge owners have acquired hands-on experience building secure, fault tolerant and highly available AWS solutions. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Solution design, architecture choices, cloud patterns, workload planning<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">
+         <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">AWS Cloud Quest: Generative AI Practitioner - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge showcase proficiency in building generative AI solutions utilizing AWS AI services. They gained experience with prompt engineering, code generation, chatbot development, implementing content moderation systems, and fine-tuning models for enhanced performance. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">Read more here</a><br/>
+      <strong>Skills:</strong> Generative AI, AI use cases, foundation models, applied cloud AI<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">
+         <img src="https://images.credly.com/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">AWS Cloud Quest: Serverless Developer - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge with multi-tiered serverless applications. Badge earners have acquired hands-on experience with AWS serverless technologies. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless applications, events, managed services, developer workflows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">
+         <img src="https://images.credly.com/images/ea344df5-1074-410e-b359-ded4ea3574a7/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">AWS Cloud Quest: Security - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated efficient use of AWS security services to build solutions. Badge earners have acquired hands-on experience deploying solutions that respond to incidents, remediate quickly, detect vulnerabilities and prevent data loss. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Security controls, identity, monitoring, cloud protection, risk reduction<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">
+         <img src="https://images.credly.com/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">AWS Cloud Quest: Data Analytics - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge using Modern Data Architecture and AWS Analytics services. Badge owners have acquired hands-on experience working with scalable data lakes, data warehousing, real-time data ingestion, big data analytics, log analytics, streaming analytics, data storage, and business intelligence dashboards. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Data analytics, data pipelines, reporting, insights, analytical workflows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">
+         <img src="https://images.credly.com/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">AWS Cloud Quest: Machine Learning - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge with AWS Machine Learning services. Badge earners have acquired hands-on experience with AWS ML/AI services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Machine learning, model workflows, training, inference, ML services<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">
+         <img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">AWS Cloud Quest: Networking - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge using AWS services to scale network connectivity, connect to on-premises networks, protect applications, and monitor and analyze network traffic. Badge owners have acquired hands-on experience with network tunneling, peering, cross region routing endpoint security, traffic filtering and mirroring, threat identification, and log analysis. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> VPC design, connectivity, routing, secure communication, cloud networking<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">
+        <img src="https://images.credly.com/images/e3f85edd-57d4-4585-9311-7b99b3bc7a75/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">AWS Cloud Quest: Generative AI Architect - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge showcase proficiency in building generative AI solutions utilizing AWS AI services. They gained experience with prompt engineering, code generation, chatbot development, implementing content moderation systems, and fine-tuning models for enhanced performance. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">Read more here</a><br/>
+      <strong>Skills:</strong> GenAI architecture, solution design, model integration, AI system planning<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
