@@ -1412,6 +1412,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 <br>
 
+<details><summary>AWS Educate Badges (10)</summary>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
@@ -1426,10 +1427,10 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">AWS Educate Introduction to Cloud 101 - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br/>
-      <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, AWS Cloud Computing, Cloud Foundations<br/>
+      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment. They have demonstrated the ability to create simple cloud applications in a virtual lab environment. They have shown a fundamental understanding of AWS cloud core services and understand the technical roles required for cloud success. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud basics, shared resources, cloud value, AWS introduction<br/>
       <strong>Criteria:</strong> Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
+      <strong>Time to Earn:</strong> N/A<br/>
       <strong>Level:</strong> None
     </td>
   </tr>
@@ -1441,8 +1442,8 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">AWS Educate Introduction to Generative AI - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
-      <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br/>
+      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the post-course assessment. They have shown a fundamental understanding in generative artificial intelligence (AI) concepts, and demonstrated the ability to define foundation models, discuss generative AI use cases. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
+      <strong>Skills:</strong> Generative AI, AI basics, model-generated content, applied AI concepts<br/>
       <strong>Criteria:</strong> Successfully pass the AWS Educate Introduction to Generative AI assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
       <strong>Time to Earn:</strong> N/A<br/>
       <strong>Level:</strong> None
@@ -1456,16 +1457,123 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">AWS Educate Machine Learning Foundations - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br/>
-      <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, ML<br/>
+      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment. They have demonstrated the ability to discuss the fundamental concepts of machine learning and how to apply the machine learning pipeline to solve a business problem. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br/>
+      <strong>Skills:</strong> ML basics, data for ML, training process, inference concepts<br/>
       <strong>Criteria:</strong> Successfully pass the AWS Educate Machine Learning Foundations assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">
+        <img src="https://images.credly.com/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">AWS Educate Getting Started with Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Storage training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe storage solutions and use Amazon S3 to store and retrieve objects. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">Read more here</a><br/>
+      <strong>Skills:</strong> Storage models, object storage, file storage, block storage, data persistence<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">
+        <img src="https://images.credly.com/size/500x500/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" width="100"/>
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">AWS Educate Getting Started with Compute - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Compute training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe different types of compute and use Amazon EC2 to create a compute instance. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">Read more here</a><br/>
+      <strong>Skills:</strong> Compute resources, instances, scaling, workload execution<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate Getting Started with Compute course. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">
+        <img src="https://images.credly.com/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">AWS Educate Getting Started with Networking - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Networking training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe different ways to manage a network and how to use an Amazon VPC to do so. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">Read more here</a><br/>
+      <strong>Skills:</strong> Networking basics, connectivity, subnets, routing, secure traffic<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">
+        <img src="https://images.credly.com/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">AWS Educate Getting Started with Databases - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Databases training and achieved the required scores on the post-course assessment. They have demonstrated the ability to set up an Amazon Relational Database instance and how to use SQL commands to read and write to the database. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">Read more here</a><br/>
+      <strong>Skills:</strong> Databases, relational vs non-relational, managed data services, database basics<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">
+        <img src="https://images.credly.com/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">AWS Educate Getting Started with Security - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Security training and achieved the required scores on the post-course assessment. They have demonstrated the ability to use AWS Identity and Access Management (AWS IAM) and identify additional AWS security services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">Read more here</a><br/>
+      <strong>Skills:</strong> IAM, cloud security basics, access control, protection principles<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">
+        <img src="https://images.credly.com/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">AWS Educate Getting Started with Cloud Ops - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Cloud Operations training and achieved the required scores on the post-course assessment. They have demonstrated the ability to define the Well-Architected Framework and identify how to use AWS services to manage their AWS Cloud environment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">Read more here</a><br/>
+      <strong>Skills:</strong> Operations, monitoring, maintenance, cloud administration, operational practices<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">
+        <img src="https://images.credly.com/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">AWS Educate Getting Started with Serverless - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Serverless training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe how to configure an AWS Lambda function and identify services like Amazon Simple Queue Service, Amazon Simple Notification Service, and API Gateway to scale data. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless basics, event-driven apps, managed runtimes, simplified operations<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
       <strong>Level:</strong> None
     </td>
   </tr>
 </table>
 
+</details>
 
+<br>
 
 
 <details><summary>More Amazon Web Services Training and Certification (2)</summary>
