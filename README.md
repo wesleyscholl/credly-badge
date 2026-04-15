@@ -1575,8 +1575,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 <br>
 
-
-<details><summary>More Amazon Web Services Training and Certification (2)</summary>
+<details><summary>AWS Knowledge Badges (29)</summary>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
@@ -1585,13 +1584,287 @@ Ready to start badge hunting? Let's dive in! 🚀
   </tr>
   <tr>
     <td align="center" width="20%" style="padding:10px">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">
-        <img src="https://images.credly.com/size/500x500/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" width="100"/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="100">
       </a><br/>
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">AWS Educate Getting Started with Compute - Training Badge - Amazon Web Services Training and Certification</a>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">AWS Knowledge: Cloud Essentials - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Read more:</strong> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">here</a><br/>
+      <strong>Description:</strong> Earners of this badge have developed knowledge of foundational AWS Cloud concepts with a focus on AWS Compute, Storage, Networking and Database services, security, architecture, pricing, and support. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud computing, shared responsibility, global infrastructure, core AWS services<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">
+        <img src="https://images.credly.com/size/500x500/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Well-Architected Proficient - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge understand the strategies and best practices for architecting in the cloud using the AWS Well-Architected Framework. Earners are able to conduct a Well-Architected review using the Well-Architected Tool. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Skills:</strong> Operational excellence, security, reliability, performance efficiency, cost optimization<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/c2d44375-6567-495a-b868-d17828c62872/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">AWS Knowledge: Compute - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of AWS Compute concepts and services with a focus on Amazon EC2. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Virtual machines, containers, serverless compute, workload placement<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">AWS Knowledge: Networking Core - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical knowledge of AWS networking concepts and services with a focus on Amazon VPC, AWS Cloud WAN and Amazon Route 53. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> VPC, subnet, route tables, internet connectivity, hybrid networking<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">AWS Knowledge: Security Champion - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of fundamental to advanced level content on key security concepts in the AWS cloud, which include AWS Shared Responsibility Model, AWS Identity & Access Management (IAM), AWS Key Management Service, Threat modeling, Security governance and more. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Identity and access management, least privilege, monitoring, security best practices<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">AWS Knowledge: Serverless - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS serverless concepts and services with a focus on AWS Lambda and Amazon API Gateway. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless architecture, event-driven design, managed compute, service integration<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/b6050277-c769-4d17-8c77-3fa963830231/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">AWS Knowledge: Events and Workflows - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of event-driven computing and AWS Serverless concepts with a focus on AWS Step Functions, Amazon EventBridge, Amazon SQS and Amazon SNS. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Events, orchestration, workflows, automation, decoupled systems<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/177492fb-f012-48b3-b01b-729f84ef9e2a/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">AWS Knowledge: Amazon ECS - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge on Amazon Elastic Container Service (Amazon ECS) concepts and services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Containers, task definition, service deployment, cluster management<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">AWS Knowledge: Amazon EKS - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of running microservices and container workloads with Amazon Elastic Kubernetes Service (Amazon EKS). <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Kubernetes, managed clusters, pods, services, container orchestration<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">AWS Knowledge: AWS Graviton - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> The AWS Graviton badge recognizes verified knowledge and practical skills in leveraging Arm-based Graviton processors to optimize cloud workloads for performance, cost-efficiency, and sustainability. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> ARM architecture, price-performance, workload optimization, cloud compute efficiency<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/71fe0b13-e036-493b-b723-3e57a1face71/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">AWS Knowledge: Object Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3). <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Object storage, buckets, durability, scalability, data lifecycle<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/635449f2-3a53-40b3-bf08-5af4fb95df61/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">AWS Knowledge: File Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS storage services with a focus on Amazon Elastic File System (EFS) and Amazon FSx. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Shared file systems, file protocols, managed file storage, shared access<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/b9314088-1e50-4175-a969-4d2c5ac1a461/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">AWS Knowledge: Block Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Elastic Block Store (EBS). <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Block storage, volumes, low-latency storage, persistent disks<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">
+        <img src="https://images.credly.com/size/500x500/images/94af532a-9586-4cc5-b313-6341d3e5fb89/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">AWS Knowledge: Data Protection & Disaster Recovery - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS storage services with a focus on data protection and disaster recovery. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">Read more here</a><br/>
+      <strong>Skills:</strong> Backup, disaster recovery, resilience, recovery objectives, business continuity<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/f9092eff-1951-4b43-901c-d43df9034b22/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">AWS Knowledge: Data Migration - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS storage services with a focus on data migration and AWS DataSync. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Data transfer, migration patterns, replication, cutover, data movement<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/af87a78c-bd87-4f68-a179-d3edf6ac59d1/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">AWS Knowledge: Migration Foundations - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical knowledge on AWS migration concepts and services with a focus on AWS Migration Evaluator, AWS Application Migration Service and AWS Transform, along with focus on Elastic VMware Service (Amazon EVS) and full-stack Windows modernization. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Migration strategy, assessment, modernization, rehosting, migration planning<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">
+        <img src="https://images.credly.com/size/500x500/images/b56fe67d-3fc7-4a5c-890a-edb693b2a9ef/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">AWS Knowledge: Advanced PostgreSQL for Amazon Aurora and Amazon RDS - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to demonstrate advanced skills in using PostgreSQL for Amazon Aurora and Amazon RDS. This includes content on sophisticated database design techniques, maintenance strategies, performance optimization, and advanced replication architectures. Learners can explore advanced SQL features and complex data types in PostgreSQL and validate their skills with an assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">Read more here</a><br/>
+      <strong>Skills:</strong> PostgreSQL, managed databases, Aurora, RDS, database optimization<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/6ac6a8e7-6458-4413-a2fd-8dee7f865604/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">AWS Knowledge: Business Intelligence - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to demonstrate advanced skills in AWS Business Intelligence solutions and exposes you to essential concepts in data visualization, analytics, and dashboard creation using Amazon QuickSight. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Business intelligence, analytics, dashboards, reporting, data insights<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">
+        <img src="https://images.credly.com/size/500x500/images/7c51f63c-14ef-4df9-a340-14938d05963a/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">AWS Knowledge: Amazon Q Developer Fundamentals - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to demonstrate foundational skills in Amazon Q Developer to integrate AWS Generative AI capabilities into their development workflows. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">Read more here</a><br/>
+      <strong>Skills:</strong> AI-assisted development, developer productivity, code assistance, generative AI tools<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
@@ -1602,14 +1875,153 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">AWS Knowledge: Amazon Braket - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Read more:</strong> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">here</a><br/>
+      <strong>Description:</strong> Earners of this badge have developed knowledge of Quantum Computing with a focus on Amazon Braket. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Quantum computing, qubits, hybrid experimentation, research-oriented workloads<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">
+        <img src="https://images.credly.com/size/500x500/images/070a8f93-7b7d-46a7-aff3-2f56a3c528c8/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">AWS Knowledge: Amazon Connect Fundamentals - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to understand the foundational components of Amazon Connect. You will learn cloud contact center fundamentals with Amazon Connect. Starting with basic setup, learners progress through creating contact flows, managing user accounts, and implementing routing configurations with an understanding of AWS services and security controls. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">Read more here</a><br/>
+      <strong>Skills:</strong> Contact center, omnichannel communication, routing, customer interaction flows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">
+        <img src="https://images.credly.com/size/500x500/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">AWS Knowledge: Amazon Connect Developer - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational knowledge to select appropriate Amazon Connect integration strategies, implement Amazon Connect backend and front end solutions, and deploy Amazon Connect solutions using AWS CloudFormation and AWS CDK. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">Read more here</a><br/>
+      <strong>Skills:</strong> Contact flows, integrations, developer customization, communication workflows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">
+        <img src="https://images.credly.com/size/500x500/images/7296c476-fb6a-44bf-a802-2cc75b870d66/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">AWS Knowledge: Amazon Connect Communications Specialist - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational knowledge to manage telephony tasks in an Amazon Connect contact center, implement and maintain Amazon Connect flows, implement Amazon Connect conversational interfaces, manage Amazon Connect routing strategies. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">Read more here</a><br/>
+      <strong>Skills:</strong> Customer communications, contact center operations, routing strategy, service experience<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">
+         <img src="https://images.credly.com/images/b9372ccb-756a-4097-a21f-2e3e41b0e93e/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">AWS Knowledge: Amazon Connect AI Fundamentals - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This plan explores using AI and machine learning with Amazon Connect to enhance contact center operations. It focuses on improving agent performance and customer experience through AI-based incident handling, real-time analytics, and intelligent assistance via Amazon Q. The plan also addresses ethical considerations, including data privacy and responsible AI implementation for seamless workflows, personalized interactions, and sentiment analysis. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">Read more here</a><br/>
+      <strong>Skills:</strong> Conversational AI, automation, intelligent assistance, customer experience enhancement<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">
+         <img src="https://images.credly.com/images/7e19199c-3c3a-4752-9f41-a8a67e004a91/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">AWS Knowledge: Amazon Connect Reporting & Analytics - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated the ability to monitor and analyze Amazon Connect contact center performance through real-time metrics dashboards, custom historical reporting, and integration with AWS analytics services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">Read more here</a><br/>
+      <strong>Skills:</strong> Reporting, KPIs, operational analytics, customer service metrics<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">
+         <img src="https://images.credly.com/images/7ad52d33-5620-411e-997a-546b22ed33b7/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">AWS Knowledge: AWS for Games: Cloud Game Development - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS for Games concepts and services with a focus on building game development pipelines for distributed teams. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">Read more here</a><br/>
+      <strong>Skills:</strong> Game backends, live operations, scalability, player-facing services<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">
+         <img src="https://images.credly.com/images/59b94f73-1a96-4467-8af9-5771e65932e7/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational skills and knowledge to build and operate AWS Direct-to-Consumer or Broadcast workflows using AWS best practices. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">Read more here</a><br/>
+      <strong>Skills:</strong> Streaming, broadcast workflows, content delivery, media distribution<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">
+         <img src="https://images.credly.com/images/43767eb2-3c4d-4c78-afe5-306716a35c2c/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">AWS Knowledge: Media & Entertainment Content Production Foundations - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational skills and knowledge to build and operate AWS Content Production workflows using AWS best practices. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">Read more here</a><br/>
+      <strong>Skills:</strong> Content production, media workflows, asset management, collaborative creation<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">
+         <img src="https://images.credly.com/images/8cbcaa59-b5fb-4136-b3d2-a5fffb5794bc/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">AWS Knowledge: AWS End User Computing - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> The AWS End User Computing badge recognizes verified knowledge and practical skills in leveraging cloud-based desktop and application virtualization solutions to optimize end user computing workloads for performance, flexibility, and cost-efficiency. Through comprehensive validation of technical expertise across Amazon WorkSpaces Family services, recipients demonstrate proficiency in designing, implementing and managing secure, scalable EUC environments that meet diverse organizational needs. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Virtual desktops, remote work environments, managed user workspaces, end-user access<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
     </td>
   </tr>
 </table>
 
-
 </details>
 
+<br>
 
 
 ### APIsec University (10)
