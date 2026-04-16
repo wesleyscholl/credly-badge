@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
 
-<p><strong>🥇 A Curated List Of 500+ Free Digital Badges · 51 Organizations · 100% Free Training 🎖️</strong></p>
+<p><strong>🥇 A Curated List Of 550+ Free Digital Badges · 51 Organizations · 100% Free Training 🎖️</strong></p>
 
   <p>
     <a href="https://github.com/wesleyscholl/credly-badge/stargazers">
@@ -97,7 +97,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (508)
+## Total Badges: (558)
 
 ## Issuing Organizations: (51)
 
@@ -107,31 +107,31 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/acronis/badges">
       <img src="https://images.credly.com/size/200x200/images/d498c506-056e-4062-905a-c757724a4b23/blob.png" width="100">
     </a><br/>
-    <a href="#acronis-48">Acronis</a>
+    Acronis
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/adobe-education/badges">
       <img src="https://images.credly.com/size/200x200/images/bb708792-a2f0-4b4a-bc7d-27d4423938af/blob.png" width="100">
     </a><br/>
-    <a href="#adobe-education-10">Adobe Education</a>
+    Adobe Education
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/alation/badges">
       <img src="https://images.credly.com/size/400x400/images/491c6659-8c88-4158-80f2-3228bf18db12/blob" width="100">
     </a><br/>
-    <a href="#alation-university-3">Alation University</a>
+    Alation University
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/alteryx/badges">
       <img src="https://images.credly.com/size/200x200/images/b8079e20-ff5f-47c4-aadd-494b54ef02eb/blob.png" width="100">
     </a><br/>
-    <a href="#alteryx-1">Alteryx</a>
+    Alteryx
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/amazon-web-services/badges">
       <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
     </a><br/>
-    <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    Amazon Web Services Training and Certification
   </td>
 </tr>
 <tr>
@@ -139,28 +139,31 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/apisec-university/badges">
       <img src="https://images.credly.com/size/200x200/images/722366ec-1535-4d51-ac31-f5294833e3d4/blob.png" width="100">
     </a><br/>
-    <a href="#apisec-university-10">APIsec University</a>
+    APIsec University
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/appcues/badges">
       <img src="https://images.credly.com/size/200x200/images/98f63591-3d90-46a9-bc4f-25ca3044459e/blob.png" width="100">
     </a><br/>
-    <a href="#appcues-6">Appcues</a>
+    Appcues
   </td>
   <td align="center" width="20%" style="padding:10px">
+    <a href="https://www.credly.com/organizations/sag-aris-gmbh/badges">
+      <img src="https://images.credly.com/size/500x500/images/2b0bba48-c6e9-495e-b932-b61471701523/blob" width="100">
+    </a><br/>
     ARIS
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/attackiq/badges">
       <img src="https://images.credly.com/size/200x200/images/26bc3c78-d2d2-4fda-9464-c28609f305eb/blob.png" width="100">
     </a><br/>
-    <a href="#attackiq-15">AttackIQ</a>
+    AttackIQ
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/basis-technologies/badges">
       <img src="https://images.credly.com/size/200x200/images/93556319-5a06-4a08-a363-6390d8d8cf3e/blob.png" width="100">
     </a><br/>
-    <a href="#basis-technologies-26">Basis Technologies</a>
+    Basis Technologies
   </td>
 </tr>
 <tr>
@@ -168,31 +171,31 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/broadcom/badges">
       <img src="https://images.credly.com/size/200x200/images/e0b1d3bf-8d7f-4bc8-b0ff-4b6515b72561/blob.png" width="100">
     </a><br/>
-    <a href="#broadcom-3">Broadcom</a>
+    Broadcom
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/camunda/badges">
       <img src="https://images.credly.com/size/200x200/images/deb111b4-fd83-428d-b0b8-b8a450b21e03/blob.png" width="100">
     </a><br/>
-    <a href="#camunda-2">Camunda</a>
+    Camunda
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/celonis/badges">
       <img src="https://images.credly.com/size/200x200/images/f38665cc-b74f-4149-b784-c7302afc6461/blob.png" width="100">
     </a><br/>
-    <a href="#celonis-18">Celonis</a>
+    Celonis
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/certiprof/badges">
       <img src="https://images.credly.com/size/200x200/images/1598437d-f59f-4f0f-a138-7e00c69acbce/blob" width="100">
     </a><br/>
-    <a href="#certiprof-11">Certiprof</a>
+    Certiprof
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/chainguard/badges">
       <img src="https://images.credly.com/size/200x200/images/467f64a1-5da5-4e25-8b11-35a93fc11ec6/blob" width="100">
     </a><br/>
-    <a href="#chainguard-3">Chainguard</a>
+    Chainguard
   </td>
 </tr>
 <tr>
@@ -200,13 +203,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/cisco/badges">
       <img src="https://images.credly.com/size/200x200/images/81324abf-aff1-44e3-b36b-130a7b8361a0/blob.png" width="100">
     </a><br/>
-    <a href="#cisco-6">Cisco</a>
+    Cisco
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/clickhouse/badges">
       <img src="https://images.credly.com/size/200x200/images/2471a383-fb15-4cb8-84f0-1b14f3a926be/blob.png" width="100">
     </a><br/>
-    <a href="#clickhouse-20">ClickHouse</a>
+    ClickHouse
   </td>
   <td align="center" width="20%" style="padding:10px">
   </td>
@@ -214,9 +217,12 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/data-protocol/badges">
       <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
     </a><br/>
-    <a href="#data-protocol-10">Data Protocol</a>
+    Data Protocol
   </td>
   <td align="center" width="20%" style="padding:10px">
+    <a href="https://www.credly.com/organizations/data-world/badges">
+      <img src="https://images.credly.com/size/500x500/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" width="100">
+    </a><br/>
     data.world from ServiceNow
   </td>
 </tr>
@@ -225,13 +231,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/datadog/badges">
       <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
     </a><br/>
-    <a href="#datadog-15">Datadog</a>
+    Datadog
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/dremio/badges">
       <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
     </a><br/>
-    <a href="#dremio-5">Dremio</a>
+    Dremio
   </td>
 </tr>
 <tr>
@@ -239,19 +245,19 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/extreme-networks/badges">
       <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
     </a><br/>
-    <a href="#extreme-networks-9">Extreme Networks</a>
+    Extreme Networks
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/google-cloud/badges">
       <img src="https://images.credly.com/size/200x200/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="100">
     </a><br/>
-    <a href="#google-cloud-27">Google Cloud</a>
+    Google Cloud
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/hewlett-packard-enterprise/badges">
       <img src="https://images.credly.com/size/400x400/images/0b1ac27e-e848-4d65-adfc-625bbd9a79f9/blob" width="100">
     </a><br/>
-    <a href="#hewlett-packard-enterprise-1">Hewlett Packard Enterprise</a>
+    Hewlett Packard Enterprise
   </td>
 </tr>
 <tr>
@@ -259,13 +265,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/hyperexponential/badges">
       <img src="https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob" width="100">
     </a><br/>
-    <a href="#hyperexponential-2">Hyperexponential</a>
+    Hyperexponential
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/ibm/badges">
       <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
     </a><br/>
-    <a href="#ibm-5">IBM</a>
+    IBM
   </td>
 </tr>
 <tr>
@@ -273,19 +279,19 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
       <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
     </a><br/>
-    <a href="#ibm-skillsbuild-10">IBM SkillsBuild</a>
+    IBM SkillsBuild
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/ikigai-labs/badges">
       <img src="https://images.credly.com/size/200x200/images/65eec552-fee8-4948-bb86-5849368d57eb/blob.png" width="100">
     </a><br/>
-    <a href="#ikigai-labs-6">Ikigai Labs</a>
+    Ikigai Labs
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/intel/badges">
       <img src="https://images.credly.com/size/200x200/images/51b8845c-9404-4d49-be09-8decec250beb/blob.png" width="100">
     </a><br/>
-    <a href="#intel-19">Intel</a>
+    Intel
   </td>
 </tr>
 <tr>
@@ -293,13 +299,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/isc2/badges">
       <img src="https://images.credly.com/size/200x200/images/0e8d9cd4-ce53-4afd-be2e-d8b30021b61b/blob.png" width="100">
     </a><br/>
-    <a href="#isc2-1">ISC2</a>
+    ISC2
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/isovalent/badges">
       <img src="https://images.credly.com/size/200x200/images/ff41e983-ef0e-4f20-96d4-5c0daad904a7/blob.png" width="100">
     </a><br/>
-    <a href="#isovalent-1">Isovalent</a>
+    Isovalent
   </td>
 </tr>
 <tr>
@@ -307,19 +313,19 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/kong/badges">
       <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
     </a><br/>
-    <a href="#kong-2">Kong</a>
+    Kong
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/lucidsoftware/badges">
       <img src="https://images.credly.com/size/400x400/images/a0c7f3d8-9517-4b95-8a95-6ba75a03f360/blob.png" width="100">
     </a><br/>
-    <a href="#lucid-software-10">Lucid Software</a>
+    Lucid Software
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/make/badges">
       <img src="https://images.credly.com/size/200x200/images/7b59869c-3ce2-4c2a-85a5-e160dc33081b/blob.png" width="100">
     </a><br/>
-    <a href="#make-3">Make</a>
+    Make
   </td>
 </tr>
 <tr>
@@ -327,13 +333,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/mongodb/badges">
       <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
     </a><br/>
-    <a href="#mongodb-20">MongoDB</a>
+    MongoDB
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/nasa-open-science/badges">
       <img src="https://images.credly.com/size/200x200/images/d2cf3383-8989-4acd-8cb8-4ca9024643fc/blob.png" width="100">
     </a><br/>
-    <a href="#nasa-open-science-1">NASA Open Science</a>
+    NASA Open Science
   </td>
 </tr>
 <tr>
@@ -341,19 +347,19 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/netapp/badges">
       <img src="https://images.credly.com/size/200x200/images/92e705f4-b027-4d05-94fa-6d55048f2d92/NetApp_Logo.png" width="100">
     </a><br/>
-    <a href="#netapp-1">NetApp</a>
+    NetApp
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/okta/badges">
       <img src="https://images.credly.com/size/200x200/images/b83732ea-b75e-4335-8fd7-7749615387d2/blob" width="100">
     </a><br/>
-    <a href="#okta-14">Okta</a>
+    Okta
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/opswat/badges">
       <img src="https://images.credly.com/size/200x200/images/a5a39dfa-c315-422c-90d2-4b954b66ed28/blob.png" width="100">
     </a><br/>
-    <a href="#opswat-1">OPSWAT</a>
+    OPSWAT
   </td>
 </tr>
 <tr>
@@ -361,13 +367,13 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/pendo/badges">
       <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
     </a><br/>
-    <a href="#pendo-6">Pendo</a>
+    Pendo
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/processmaker/badges">
       <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
     </a><br/>
-    <a href="#processmaker-28">ProcessMaker</a>
+    ProcessMaker
   </td>
 </tr>
 <tr>
@@ -375,25 +381,25 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/project-management-institute/badges">
       <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
     </a><br/>
-    <a href="#project-management-institute-4">Project Management Institute</a>
+    Project Management Institute
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/red-hat/badges">
       <img src="https://images.credly.com/size/200x200/images/e0c8fa7e-3010-4e38-ba2b-2969641bb75c/blob.png" width="100">
     </a><br/>
-    <a href="#red-hat-1">Red Hat</a>
+    Red Hat
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/sap/badges">
       <img src="https://images.credly.com/size/200x200/images/cc566727-d258-4291-8bb5-cfffb53ebb9a/SAP_org.png" width="100">
     </a><br/>
-    <a href="#sap-19">SAP</a>
+    SAP
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/sas/badges">
       <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
     </a><br/>
-    <a href="#sas-5">SAS</a>
+    SAS
   </td>
 </tr>
 <tr>
@@ -401,31 +407,31 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/software-ag/badges">
       <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
     </a><br/>
-    <a href="#software-ag-3">Software AG</a>
+    Software AG
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/the-linux-foundation/badges">
       <img src="https://images.credly.com/size/200x200/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png" width="100">
     </a><br/>
-    <a href="#the-linux-foundation-62">The Linux Foundation</a>
+    The Linux Foundation
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/tigera/badges">
       <img src="https://images.credly.com/size/200x200/images/44031b8f-9364-42fb-9ba7-37858c650511/blob.png" width="100">
     </a><br/>
-    <a href="#tigera-3">Tigera</a>
+    Tigera
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/ververica/badges">
       <img src="https://images.credly.com/size/400x400/images/190e5ac2-80ea-4f85-b553-0f78addbd8f8/blob.png" width="100">
     </a><br/>
-    <a href="#ververica-2">Ververica</a>
+    Ververica
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/zededa/badges">
       <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
     </a><br/>
-    <a href="#zededa-4">ZEDEDA</a>
+    ZEDEDA
   </td>
 </tr>
 <tr>
@@ -433,7 +439,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/zendesk/badges">
       <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
     </a><br/>
-    <a href="#zendesk-9">Zendesk</a>
+    Zendesk
   </td>
   <td></td>
   <td></td>
@@ -443,7 +449,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 </table>
 
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-55), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -1269,13 +1275,220 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### Amazon Web Services Training and Certification (5)
+### Amazon Web Services Training and Certification (55)
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br/>[Amazon Web Services Training and Certification](#amazon-web-services-5) | AWS's official training body offering cloud computing certifications and skill development. | 5 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
+| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br/>[Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-55) | AWS's official training body offering cloud computing certifications and skill development. | 55 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+        <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">AWS Cloud Quest: Cloud Practitioner - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated basic solution building knowledge using AWS services and have a fundamental understanding of AWS Cloud concepts. Badge earners have acquired hands-on experience with compute, networking, database and security services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud basics, AWS fundamentals, role-based learning, practical scenarios<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">
+        <img src="https://images.credly.com/size/500x500/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">AWS Educate Introduction to Generative AI - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the post-course assessment. They have shown a fundamental understanding in generative artificial intelligence (AI) concepts, and demonstrated the ability to define foundation models, discuss generative AI use cases. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
+      <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br/>
+      <strong>Criteria:</strong> Successfully pass the AWS Educate Introduction to Generative AI assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">
+        <img src="https://images.credly.com/size/500x500/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Well-Architected Proficient - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge understand the strategies and best practices for architecting in the cloud using the AWS Well-Architected Framework. Earners are able to conduct a Well-Architected review using the Well-Architected Tool. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Skills:</strong> Operational excellence, security, reliability, performance efficiency, cost optimization<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details><summary>More AWS Training and Certification Badges (52)</summary>
+
+<br>
+
+<details><summary>AWS Cloud Quest Badges (9)</summary>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+         <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">AWS Cloud Quest: Cloud Practitioner - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated basic solution building knowledge using AWS services and have a fundamental understanding of AWS Cloud concepts. Badge earners have acquired hands-on experience with compute, networking, database and security services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud basics, AWS fundamentals, role-based learning, practical scenarios<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">
+         <img src="https://images.credly.com/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">AWS Cloud Quest: Solutions Architect - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge using a broad set of AWS services. Badge owners have acquired hands-on experience building secure, fault tolerant and highly available AWS solutions. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Solution design, architecture choices, cloud patterns, workload planning<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">
+         <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">AWS Cloud Quest: Generative AI Practitioner - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge showcase proficiency in building generative AI solutions utilizing AWS AI services. They gained experience with prompt engineering, code generation, chatbot development, implementing content moderation systems, and fine-tuning models for enhanced performance. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">Read more here</a><br/>
+      <strong>Skills:</strong> Generative AI, AI use cases, foundation models, applied cloud AI<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-practitioner-training">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">
+         <img src="https://images.credly.com/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">AWS Cloud Quest: Serverless Developer - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge with multi-tiered serverless applications. Badge earners have acquired hands-on experience with AWS serverless technologies. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless applications, events, managed services, developer workflows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">
+         <img src="https://images.credly.com/images/ea344df5-1074-410e-b359-ded4ea3574a7/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">AWS Cloud Quest: Security - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated efficient use of AWS security services to build solutions. Badge earners have acquired hands-on experience deploying solutions that respond to incidents, remediate quickly, detect vulnerabilities and prevent data loss. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Security controls, identity, monitoring, cloud protection, risk reduction<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-security-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">
+         <img src="https://images.credly.com/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">AWS Cloud Quest: Data Analytics - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge using Modern Data Architecture and AWS Analytics services. Badge owners have acquired hands-on experience working with scalable data lakes, data warehousing, real-time data ingestion, big data analytics, log analytics, streaming analytics, data storage, and business intelligence dashboards. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Data analytics, data pipelines, reporting, insights, analytical workflows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-data-analytics-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">
+         <img src="https://images.credly.com/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">AWS Cloud Quest: Machine Learning - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge with AWS Machine Learning services. Badge earners have acquired hands-on experience with AWS ML/AI services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Machine learning, model workflows, training, inference, ML services<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-machine-learning-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">
+         <img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">AWS Cloud Quest: Networking - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated solution building knowledge using AWS services to scale network connectivity, connect to on-premises networks, protect applications, and monitor and analyze network traffic. Badge owners have acquired hands-on experience with network tunneling, peering, cross region routing endpoint security, traffic filtering and mirroring, threat identification, and log analysis. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> VPC design, connectivity, routing, secure communication, cloud networking<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">
+        <img src="https://images.credly.com/images/e3f85edd-57d4-4585-9311-7b99b3bc7a75/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">AWS Cloud Quest: Generative AI Architect - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge showcase proficiency in building generative AI solutions utilizing AWS AI services. They gained experience with prompt engineering, code generation, chatbot development, implementing content moderation systems, and fine-tuning models for enhanced performance. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">Read more here</a><br/>
+      <strong>Skills:</strong> GenAI architecture, solution design, model integration, AI system planning<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-generative-ai-architect-training-ba">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
+<details><summary>AWS Educate Badges (10)</summary>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
@@ -1290,10 +1503,10 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">AWS Educate Introduction to Cloud 101 - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br/>
-      <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, AWS Cloud Computing, Cloud Foundations<br/>
+      <strong>Description:</strong> Earners of this badge have completed the Cloud Computing 101 training and achieved the required scores on the post-course assessment. They have demonstrated the ability to create simple cloud applications in a virtual lab environment. They have shown a fundamental understanding of AWS cloud core services and understand the technical roles required for cloud success. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud basics, shared resources, cloud value, AWS introduction<br/>
       <strong>Criteria:</strong> Complete the AWS Educate Introduction to Cloud 101 course. Successfully pass the AWS Educate Introduction to Cloud 101 assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-cloud-101-training-badg">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
+      <strong>Time to Earn:</strong> N/A<br/>
       <strong>Level:</strong> None
     </td>
   </tr>
@@ -1305,8 +1518,8 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">AWS Educate Introduction to Generative AI - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
-      <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br/>
+      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the post-course assessment. They have shown a fundamental understanding in generative artificial intelligence (AI) concepts, and demonstrated the ability to define foundation models, discuss generative AI use cases. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
+      <strong>Skills:</strong> Generative AI, AI basics, model-generated content, applied AI concepts<br/>
       <strong>Criteria:</strong> Successfully pass the AWS Educate Introduction to Generative AI assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
       <strong>Time to Earn:</strong> N/A<br/>
       <strong>Level:</strong> None
@@ -1320,24 +1533,27 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">AWS Educate Machine Learning Foundations - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment.... <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br/>
-      <strong>Skills:</strong> Amazon Web Services (AWS), AWS Cloud, ML<br/>
+      <strong>Description:</strong> Earners of this badge have completed the Machine Learning Foundations training and achieved the required scores on the post-course assessment. They have demonstrated the ability to discuss the fundamental concepts of machine learning and how to apply the machine learning pipeline to solve a business problem. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br/>
+      <strong>Skills:</strong> ML basics, data for ML, training process, inference concepts<br/>
       <strong>Criteria:</strong> Successfully pass the AWS Educate Machine Learning Foundations assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-machine-learning-foundations-training-b">Read more here</a><br/>
-      <strong>Time to Earn:</strong> None<br/>
+      <strong>Time to Earn:</strong> N/A<br/>
       <strong>Level:</strong> None
     </td>
   </tr>
-</table>
-
-
-
-
-<details><summary>More Amazon Web Services Training and Certification (2)</summary>
-
-<table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <th width="20%">Badge</th>
-    <th width="80%">Description</th>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">
+        <img src="https://images.credly.com/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">AWS Educate Getting Started with Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Storage training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe storage solutions and use Amazon S3 to store and retrieve objects. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">Read more here</a><br/>
+      <strong>Skills:</strong> Storage models, object storage, file storage, block storage, data persistence<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-storage-training-b">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
   </tr>
   <tr>
     <td align="center" width="20%" style="padding:10px">
@@ -1347,7 +1563,384 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">AWS Educate Getting Started with Compute - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Read more:</strong> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">here</a><br/>
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Compute training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe different types of compute and use Amazon EC2 to create a compute instance. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">Read more here</a><br/>
+      <strong>Skills:</strong> Compute resources, instances, scaling, workload execution<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate Getting Started with Compute course. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-compute-training-b">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">
+        <img src="https://images.credly.com/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">AWS Educate Getting Started with Networking - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Networking training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe different ways to manage a network and how to use an Amazon VPC to do so. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">Read more here</a><br/>
+      <strong>Skills:</strong> Networking basics, connectivity, subnets, routing, secure traffic<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-networking-trainin">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">
+        <img src="https://images.credly.com/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">AWS Educate Getting Started with Databases - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Databases training and achieved the required scores on the post-course assessment. They have demonstrated the ability to set up an Amazon Relational Database instance and how to use SQL commands to read and write to the database. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">Read more here</a><br/>
+      <strong>Skills:</strong> Databases, relational vs non-relational, managed data services, database basics<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-databases-training">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">
+        <img src="https://images.credly.com/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">AWS Educate Getting Started with Security - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Security training and achieved the required scores on the post-course assessment. They have demonstrated the ability to use AWS Identity and Access Management (AWS IAM) and identify additional AWS security services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">Read more here</a><br/>
+      <strong>Skills:</strong> IAM, cloud security basics, access control, protection principles<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-security-training-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">
+        <img src="https://images.credly.com/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">AWS Educate Getting Started with Cloud Ops - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Cloud Operations training and achieved the required scores on the post-course assessment. They have demonstrated the ability to define the Well-Architected Framework and identify how to use AWS services to manage their AWS Cloud environment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">Read more here</a><br/>
+      <strong>Skills:</strong> Operations, monitoring, maintenance, cloud administration, operational practices<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-cloud-ops-training">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">
+        <img src="https://images.credly.com/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">AWS Educate Getting Started with Serverless - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Getting Started with Serverless training and achieved the required scores on the post-course assessment. They have demonstrated the ability to describe how to configure an AWS Lambda function and identify services like Amazon Simple Queue Service, Amazon Simple Notification Service, and API Gateway to scale data. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless basics, event-driven apps, managed runtimes, simplified operations<br/>
+      <strong>Criteria:</strong> Complete the AWS Educate course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-getting-started-with-serverless-trainin">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
+<details><summary>AWS Knowledge Badges (29)</summary>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">AWS Knowledge: Cloud Essentials - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of foundational AWS Cloud concepts with a focus on AWS Compute, Storage, Networking and Database services, security, architecture, pricing, and support. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud computing, shared responsibility, global infrastructure, core AWS services<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-cloud-essentials-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">
+        <img src="https://images.credly.com/size/500x500/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Well-Architected Proficient - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge understand the strategies and best practices for architecting in the cloud using the AWS Well-Architected Framework. Earners are able to conduct a Well-Architected review using the Well-Architected Tool. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Skills:</strong> Operational excellence, security, reliability, performance efficiency, cost optimization<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/c2d44375-6567-495a-b868-d17828c62872/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">AWS Knowledge: Compute - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of AWS Compute concepts and services with a focus on Amazon EC2. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Virtual machines, containers, serverless compute, workload placement<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">AWS Knowledge: Networking Core - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical knowledge of AWS networking concepts and services with a focus on Amazon VPC, AWS Cloud WAN and Amazon Route 53. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> VPC, subnet, route tables, internet connectivity, hybrid networking<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">AWS Knowledge: Security Champion - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of fundamental to advanced level content on key security concepts in the AWS cloud, which include AWS Shared Responsibility Model, AWS Identity & Access Management (IAM), AWS Key Management Service, Threat modeling, Security governance and more. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Identity and access management, least privilege, monitoring, security best practices<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-security-champion-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">AWS Knowledge: Serverless - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS serverless concepts and services with a focus on AWS Lambda and Amazon API Gateway. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless architecture, event-driven design, managed compute, service integration<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-serverless-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/b6050277-c769-4d17-8c77-3fa963830231/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">AWS Knowledge: Events and Workflows - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of event-driven computing and AWS Serverless concepts with a focus on AWS Step Functions, Amazon EventBridge, Amazon SQS and Amazon SNS. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Events, orchestration, workflows, automation, decoupled systems<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-events-and-workflows-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/177492fb-f012-48b3-b01b-729f84ef9e2a/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">AWS Knowledge: Amazon ECS - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge on Amazon Elastic Container Service (Amazon ECS) concepts and services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Containers, task definition, service deployment, cluster management<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-ecs-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">AWS Knowledge: Amazon EKS - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed knowledge of running microservices and container workloads with Amazon Elastic Kubernetes Service (Amazon EKS). <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Kubernetes, managed clusters, pods, services, container orchestration<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-eks-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">AWS Knowledge: AWS Graviton - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> The AWS Graviton badge recognizes verified knowledge and practical skills in leveraging Arm-based Graviton processors to optimize cloud workloads for performance, cost-efficiency, and sustainability. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> ARM architecture, price-performance, workload optimization, cloud compute efficiency<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-graviton-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/71fe0b13-e036-493b-b723-3e57a1face71/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">AWS Knowledge: Object Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Simple Storage Service (S3). <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Object storage, buckets, durability, scalability, data lifecycle<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-object-storage-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/635449f2-3a53-40b3-bf08-5af4fb95df61/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">AWS Knowledge: File Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS storage services with a focus on Amazon Elastic File System (EFS) and Amazon FSx. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Shared file systems, file protocols, managed file storage, shared access<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/b9314088-1e50-4175-a969-4d2c5ac1a461/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">AWS Knowledge: Block Storage - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed the technical skills and knowledge of AWS storage services with a focus on Amazon Elastic Block Store (EBS). <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Block storage, volumes, low-latency storage, persistent disks<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-block-storage-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">
+        <img src="https://images.credly.com/size/500x500/images/94af532a-9586-4cc5-b313-6341d3e5fb89/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">AWS Knowledge: Data Protection & Disaster Recovery - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS storage services with a focus on data protection and disaster recovery. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">Read more here</a><br/>
+      <strong>Skills:</strong> Backup, disaster recovery, resilience, recovery objectives, business continuity<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-protection-disaster-recovery-tra">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/f9092eff-1951-4b43-901c-d43df9034b22/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">AWS Knowledge: Data Migration - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS storage services with a focus on data migration and AWS DataSync. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Data transfer, migration patterns, replication, cutover, data movement<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-data-migration-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/af87a78c-bd87-4f68-a179-d3edf6ac59d1/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">AWS Knowledge: Migration Foundations - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical knowledge on AWS migration concepts and services with a focus on AWS Migration Evaluator, AWS Application Migration Service and AWS Transform, along with focus on Elastic VMware Service (Amazon EVS) and full-stack Windows modernization. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Migration strategy, assessment, modernization, rehosting, migration planning<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-migration-foundations-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">
+        <img src="https://images.credly.com/size/500x500/images/b56fe67d-3fc7-4a5c-890a-edb693b2a9ef/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">AWS Knowledge: Advanced PostgreSQL for Amazon Aurora and Amazon RDS - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to demonstrate advanced skills in using PostgreSQL for Amazon Aurora and Amazon RDS. This includes content on sophisticated database design techniques, maintenance strategies, performance optimization, and advanced replication architectures. Learners can explore advanced SQL features and complex data types in PostgreSQL and validate their skills with an assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">Read more here</a><br/>
+      <strong>Skills:</strong> PostgreSQL, managed databases, Aurora, RDS, database optimization<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-advanced-postgresql-for-amazon-aurora">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">
+        <img src="https://images.credly.com/size/500x500/images/6ac6a8e7-6458-4413-a2fd-8dee7f865604/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">AWS Knowledge: Business Intelligence - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to demonstrate advanced skills in AWS Business Intelligence solutions and exposes you to essential concepts in data visualization, analytics, and dashboard creation using Amazon QuickSight. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Business intelligence, analytics, dashboards, reporting, data insights<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-business-intelligence-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">
+        <img src="https://images.credly.com/size/500x500/images/7c51f63c-14ef-4df9-a340-14938d05963a/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">AWS Knowledge: Amazon Q Developer Fundamentals - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to demonstrate foundational skills in Amazon Q Developer to integrate AWS Generative AI capabilities into their development workflows. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">Read more here</a><br/>
+      <strong>Skills:</strong> AI-assisted development, developer productivity, code assistance, generative AI tools<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-q-developer-fundamentals-train">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
     </td>
   </tr>
   <tr>
@@ -1358,15 +1951,271 @@ Ready to start badge hunting? Let's dive in! 🚀
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">AWS Knowledge: Amazon Braket - Training Badge - Amazon Web Services Training and Certification</a>
     </td>
     <td width="80%" style="padding:10px">
-      <strong>Read more:</strong> <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">here</a><br/>
+      <strong>Description:</strong> Earners of this badge have developed knowledge of Quantum Computing with a focus on Amazon Braket. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Quantum computing, qubits, hybrid experimentation, research-oriented workloads<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-braket-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">
+        <img src="https://images.credly.com/size/500x500/images/070a8f93-7b7d-46a7-aff3-2f56a3c528c8/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">AWS Knowledge: Amazon Connect Fundamentals - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This collection of learning resources has been created specifically for learners who desire to understand the foundational components of Amazon Connect. You will learn cloud contact center fundamentals with Amazon Connect. Starting with basic setup, learners progress through creating contact flows, managing user accounts, and implementing routing configurations with an understanding of AWS services and security controls. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">Read more here</a><br/>
+      <strong>Skills:</strong> Contact center, omnichannel communication, routing, customer interaction flows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-fundamentals-training-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">
+        <img src="https://images.credly.com/size/500x500/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">AWS Knowledge: Amazon Connect Developer - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational knowledge to select appropriate Amazon Connect integration strategies, implement Amazon Connect backend and front end solutions, and deploy Amazon Connect solutions using AWS CloudFormation and AWS CDK. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">Read more here</a><br/>
+      <strong>Skills:</strong> Contact flows, integrations, developer customization, communication workflows<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-developer-training-bad">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">
+        <img src="https://images.credly.com/size/500x500/images/7296c476-fb6a-44bf-a802-2cc75b870d66/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">AWS Knowledge: Amazon Connect Communications Specialist - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational knowledge to manage telephony tasks in an Amazon Connect contact center, implement and maintain Amazon Connect flows, implement Amazon Connect conversational interfaces, manage Amazon Connect routing strategies. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">Read more here</a><br/>
+      <strong>Skills:</strong> Customer communications, contact center operations, routing strategy, service experience<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-communications-special">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">
+         <img src="https://images.credly.com/images/b9372ccb-756a-4097-a21f-2e3e41b0e93e/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">AWS Knowledge: Amazon Connect AI Fundamentals - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> This plan explores using AI and machine learning with Amazon Connect to enhance contact center operations. It focuses on improving agent performance and customer experience through AI-based incident handling, real-time analytics, and intelligent assistance via Amazon Q. The plan also addresses ethical considerations, including data privacy and responsible AI implementation for seamless workflows, personalized interactions, and sentiment analysis. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">Read more here</a><br/>
+      <strong>Skills:</strong> Conversational AI, automation, intelligent assistance, customer experience enhancement<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-ai-fundamentals-traini">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">
+         <img src="https://images.credly.com/images/7e19199c-3c3a-4752-9f41-a8a67e004a91/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">AWS Knowledge: Amazon Connect Reporting & Analytics - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated the ability to monitor and analyze Amazon Connect contact center performance through real-time metrics dashboards, custom historical reporting, and integration with AWS analytics services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">Read more here</a><br/>
+      <strong>Skills:</strong> Reporting, KPIs, operational analytics, customer service metrics<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-amazon-connect-reporting-analytics-tr">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">
+         <img src="https://images.credly.com/images/7ad52d33-5620-411e-997a-546b22ed33b7/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">AWS Knowledge: AWS for Games: Cloud Game Development - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have developed technical skills and knowledge of AWS for Games concepts and services with a focus on building game development pipelines for distributed teams. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">Read more here</a><br/>
+      <strong>Skills:</strong> Game backends, live operations, scalability, player-facing services<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-for-games-cloud-game-development-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">
+         <img src="https://images.credly.com/images/59b94f73-1a96-4467-8af9-5771e65932e7/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational skills and knowledge to build and operate AWS Direct-to-Consumer or Broadcast workflows using AWS best practices. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">Read more here</a><br/>
+      <strong>Skills:</strong> Streaming, broadcast workflows, content delivery, media distribution<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-direct-to-consume">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">
+         <img src="https://images.credly.com/images/43767eb2-3c4d-4c78-afe5-306716a35c2c/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">AWS Knowledge: Media & Entertainment Content Production Foundations - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have the foundational skills and knowledge to build and operate AWS Content Production workflows using AWS best practices. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">Read more here</a><br/>
+      <strong>Skills:</strong> Content production, media workflows, asset management, collaborative creation<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-media-entertainment-content-productio">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">
+         <img src="https://images.credly.com/images/8cbcaa59-b5fb-4136-b3d2-a5fffb5794bc/blob" width="100">
+       </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">AWS Knowledge: AWS End User Computing - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> The AWS End User Computing badge recognizes verified knowledge and practical skills in leveraging cloud-based desktop and application virtualization solutions to optimize end user computing workloads for performance, flexibility, and cost-efficiency. Through comprehensive validation of technical expertise across Amazon WorkSpaces Family services, recipients demonstrate proficiency in designing, implementing and managing secure, scalable EUC environments that meet diverse organizational needs. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Virtual desktops, remote work environments, managed user workspaces, end-user access<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-aws-end-user-computing-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
     </td>
   </tr>
 </table>
 
+</details>
+
+<br>
+
+<details><summary>.NET Workloads on AWS Badges (7)</summary>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">
+        <img src="https://images.credly.com/images/eea64560-121f-4437-af9c-91cf20968d35/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">.NET Workloads on AWS App Runner - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with .NET workloads on the AWS App Runner service. AWS App Runner is a fully-managed AWS compute service that makes it easy for developers to quickly deploy web applications and APIs, at scale and with no prior infrastructure experience required. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">Read more here</a><br/>
+      <strong>Skills:</strong> App Runner basics, containerized .NET applications, automatic scaling, load balancing, managed runtime, observability for .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET Workloads on AWS – App Runner course. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">
+        <img src="https://images.credly.com/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">.NET Workloads on AWS Lambda - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with .NET workloads on AWS Lambda. AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing serve <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless compute, event‑driven architecture, cold start, Lambda resource model, integrating Lambda with other AWS services for .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET Workloads on AWS – Lambda course. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">
+        <img src="https://images.credly.com/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">.NET Workloads on Amazon ECS on AWS Fargate - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with .NET workloads on the Amazon Elastic Container Service (ECS) using AWS Fargate serverless compute. Amazon ECS is a fully-managed container orchestration service that makes it easy for you to deploy, manage, and scale containerized applications. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">Read more here</a><br/>
+      <strong>Skills:</strong> Amazon ECS, Fargate serverless compute for containers, task definition, service, auto scaling, Dockerized .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET Workloads on AWS – ECS on Fargate course. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">
+        <img src="https://images.credly.com/images/97f12235-506f-4fbf-a9ff-23c8c5042d2e/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">Amazon Rekognition and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with the Amazon Rekognition service and .NET workloads. Amazon Rekognition makes it easy to add image and video analysis to your applications. You provide an image or video to the Amazon Rekognition API, and the service can identify objects, people, text, scenes, and activities. It can detect inappropriate content as well. Rekognition also provides highly accurate facial analysis, face comparison, and face search capabilities. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">Read more here</a><br/>
+      <strong>Skills:</strong> Image/video analysis APIs, label detection, text detection, facial analysis, content moderation, .NET SDK integration with Rekognition<br/>
+      <strong>Criteria:</strong> Complete the .NET + Rekognition course. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">
+        <img src="https://images.credly.com/images/4c080efa-4375-4f88-836b-5b62a2c16c5d/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">Amazon Textract and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with the Amazon Textract service and .NET workloads. With Textract, your applications can extract text and structured data such as tables and forms from documents using artificial intelligence (AI)—no configuration or templates necessary. Go beyond simple optical character recognition (OCR) by extracting relationships, structure, and text from documents. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">Read more here</a><br/>
+      <strong>Skills:</strong> AI‑powered OCR, structured data extraction, form & table extraction, document processing pipelines for .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET + Textract course. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">
+        <img src="https://images.credly.com/images/9569f9aa-1426-4c6d-964e-daa7e5bc55ce/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">AWS App2Container and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer tool skills badge have demonstrated proficiency with the AWS App2Container tool (A2C). A2C helps you containerize and migrate existing applications to AWS. A2C is a command line tool you can use to you lift and shift applications that run in your on-premises data centers or on virtual machines, and run them in containers that are managed by Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), or AWS App Runner. <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">Read more here</a><br/>
+      <strong>Skills:</strong> Application discovery, containerization automation, ECS/EKS/App Runner targets, migration patterns for legacy .NET applications<br/>
+      <strong>Criteria:</strong> Complete the AWS App2Container for .NET course. <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">
+        <img src="https://images.credly.com/images/fdd42c00-b695-4bb0-95f6-28eaa31874bd/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">Migration Hub Strategy Recommendations and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer tool skills badge have demonstrated proficiency with Migration Hub Strategy Recommendations (MHSR). MHSR helps you plan migration and modernization initiatives, offering migration and modernization strategy recommendations for viable transformation paths for your applications. It is a part of AWS Migration Hub which provides a single location to track migration tasks across multiple AWS tools and partner solutions. <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">Read more here</a><br/>
+      <strong>Skills:</strong> Migration assessment, 7R migration strategies, portfolio analysis, mapping .NET workloads to AWS services<br/>
+      <strong>Criteria:</strong> Complete the Migration Hub Strategy Recommendations for .NET course. <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
 
 </details>
 
-
+</details>
 
 ### APIsec University (10)
 
@@ -7936,7 +8785,7 @@ A: Yes! Please see the [Contributing](#-how-to-contribute) section below.
 ## 📈 Current Project Status
 
 ### Current Achievements
-- ✅ **Massive Badge Collection**: Curated 503+ free Credly badges from 52 organizations with 100% verification
+- ✅ **Massive Badge Collection**: Curated 558+ free Credly badges from 51 organizations with 100% verification
 - ✅ **Community Impact**: 21 GitHub stars, 4 forks, and growing community engagement
 - ✅ **Comprehensive Documentation**: Professional badge directory with detailed skill mappings and time estimates
 - ✅ **Web Platform**: Live website at wesleyscholl.github.io/credly-badge for easy navigation
@@ -7945,7 +8794,7 @@ A: Yes! Please see the [Contributing](#-how-to-contribute) section below.
 - ✅ **Educational Resource**: Supporting professional development across tech, cybersecurity, cloud, and business domains
 
 ### Recent Milestones
-- **November 2024**: Reached 503 verified badges milestone with enhanced categorization system
+- **November 2024**: Reached 503 verified badges milestone, now at 558 verified badges with AWS Training and Certification expansion
 - **October 2024**: Added 25+ new organizations including advanced AI/ML and cybersecurity providers
 - **September 2024**: Implemented automated badge verification system and quality scoring
 - **August 2024**: Enhanced web platform with advanced filtering and search capabilities
@@ -7974,7 +8823,7 @@ A: Yes! Please see the [Contributing](#-how-to-contribute) section below.
 ### Long-term Vision
 Transform credly-badge into the world's premier free credential discovery platform, enabling millions of professionals to access quality training and advance their careers without financial barriers. Target: 100,000+ unique badge earners by 2027.
 
-## 🤝 How to Contribute
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -8011,8 +8860,8 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ### Recently Added
 
-- ✅ 500+ badges milestone reached
-- ✅ 52 issuing organizations
+- ✅ 550+ badges milestone reached
+- ✅ 51 issuing organizations
 - ✅ GitHub Pages website launched
 - ✅ Automated badge count tracking
 
@@ -8054,6 +8903,8 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 <br/>
 <br/>
+
+## License
 
 <div align="center">
 
