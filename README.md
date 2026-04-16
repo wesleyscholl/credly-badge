@@ -237,8 +237,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     Dremio
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/extreme-networks/badges">
       <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
@@ -271,8 +269,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     IBM
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
       <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
@@ -305,8 +301,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     Isovalent
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/kong/badges">
       <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
@@ -339,8 +333,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     NASA Open Science
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/netapp/badges">
       <img src="https://images.credly.com/size/200x200/images/92e705f4-b027-4d05-94fa-6d55048f2d92/NetApp_Logo.png" width="100">
@@ -373,8 +365,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     ProcessMaker
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/project-management-institute/badges">
       <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
