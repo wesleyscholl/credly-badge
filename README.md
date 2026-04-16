@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/26046897-dd8d-463e-9384-fe74fd3644b9" alt="credly-logo" width="200">
 
-<p><strong>🥇 A Curated List Of 500+ Free Digital Badges · 51 Organizations · 100% Free Training 🎖️</strong></p>
+<p><strong>🥇 A Curated List Of 550+ Free Digital Badges · 51 Organizations · 100% Free Training 🎖️</strong></p>
 
   <p>
     <a href="https://github.com/wesleyscholl/credly-badge/stargazers">
@@ -97,7 +97,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 <!--START_SECTION:badges-->
-## Total Badges: (508)
+## Total Badges: (558)
 
 ## Issuing Organizations: (51)
 
@@ -432,7 +432,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 </table>
 
 
-[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-5), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
+[Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-55), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
 
 
@@ -1264,7 +1264,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
-| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br/>[Amazon Web Services Training and Certification](#amazon-web-services-5) | AWS's official training body offering cloud computing certifications and skill development. | 55 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
+| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br/>[Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-55) | AWS's official training body offering cloud computing certifications and skill development. | 55 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
@@ -8768,7 +8768,7 @@ A: Yes! Please see the [Contributing](#-how-to-contribute) section below.
 ## 📈 Current Project Status
 
 ### Current Achievements
-- ✅ **Massive Badge Collection**: Curated 503+ free Credly badges from 52 organizations with 100% verification
+- ✅ **Massive Badge Collection**: Curated 558+ free Credly badges from 51 organizations with 100% verification
 - ✅ **Community Impact**: 21 GitHub stars, 4 forks, and growing community engagement
 - ✅ **Comprehensive Documentation**: Professional badge directory with detailed skill mappings and time estimates
 - ✅ **Web Platform**: Live website at wesleyscholl.github.io/credly-badge for easy navigation
@@ -8777,7 +8777,7 @@ A: Yes! Please see the [Contributing](#-how-to-contribute) section below.
 - ✅ **Educational Resource**: Supporting professional development across tech, cybersecurity, cloud, and business domains
 
 ### Recent Milestones
-- **November 2024**: Reached 503 verified badges milestone with enhanced categorization system
+- **November 2024**: Reached 503 verified badges milestone, now at 558 verified badges with AWS Training and Certification expansion
 - **October 2024**: Added 25+ new organizations including advanced AI/ML and cybersecurity providers
 - **September 2024**: Implemented automated badge verification system and quality scoring
 - **August 2024**: Enhanced web platform with advanced filtering and search capabilities
@@ -8843,8 +8843,8 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ### Recently Added
 
-- ✅ 500+ badges milestone reached
-- ✅ 52 issuing organizations
+- ✅ 550+ badges milestone reached
+- ✅ 51 issuing organizations
 - ✅ GitHub Pages website launched
 - ✅ Automated badge count tracking
 
