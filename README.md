@@ -148,7 +148,10 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="#appcues-6">Appcues</a>
   </td>
   <td align="center" width="20%" style="padding:10px">
-    ARIS
+    <a href="https://www.credly.com/organizations/sag-aris-gmbh/badges">
+      <img src="https://images.credly.com/size/500x500/images/2b0bba48-c6e9-495e-b932-b61471701523/blob" width="100">
+    </a><br/>
+    <a href="#aris-5">ARIS</a>
   </td>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/attackiq/badges">
@@ -217,7 +220,10 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="#data-protocol-10">Data Protocol</a>
   </td>
   <td align="center" width="20%" style="padding:10px">
-    data.world from ServiceNow
+    <a href="https://www.credly.com/organizations/data-world/badges">
+      <img src="https://images.credly.com/size/500x500/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" width="100">
+    </a><br/>
+    <a href="#dataworld-from-servicenow-4">data.world from ServiceNow</a>
   </td>
 </tr>
 <tr>
@@ -8806,7 +8812,7 @@ A: Yes! Please see the [Contributing](#-how-to-contribute) section below.
 ### Long-term Vision
 Transform credly-badge into the world's premier free credential discovery platform, enabling millions of professionals to access quality training and advance their careers without financial barriers. Target: 100,000+ unique badge earners by 2027.
 
-## 🤝 How to Contribute
+## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -8886,6 +8892,8 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 <br/>
 <br/>
+
+## License
 
 <div align="center">
 
