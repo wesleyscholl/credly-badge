@@ -131,7 +131,7 @@ Ready to start badge hunting? Let's dive in! 🚀
     <a href="https://www.credly.com/organizations/amazon-web-services/badges">
       <img src="https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png" width="100">
     </a><br/>
-    <a href="#amazon-web-services-training-and-certification-5">Amazon Web Services Training and Certification</a>
+    <a href="#amazon-web-services-training-and-certification-55">Amazon Web Services Training and Certification</a>
   </td>
 </tr>
 <tr>
@@ -1258,12 +1258,71 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 
 
-### Amazon Web Services Training and Certification (5)
+### Amazon Web Services Training and Certification (55)
 
 <strong><a href="#user-content-free-credly-badges">Back to Top ⬆️</a></strong>
 
 | Issuing Organization | Description | Credly Badges | Verified | Organization Link |
 |        :---:         |-------------|     :---:     |   :---:  |       :---:       |
+| <img src='https://images.credly.com/size/400x400/images/14a6da77-7f93-4867-81ef-ad7c6a400ec2/blob.png' height='100' /><br/>[Amazon Web Services Training and Certification](#amazon-web-services-5) | AWS's official training body offering cloud computing certifications and skill development. | 55 | ✅ | [Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) |
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+        <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">AWS Cloud Quest: Cloud Practitioner - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have demonstrated basic solution building knowledge using AWS services and have a fundamental understanding of AWS Cloud concepts. Badge earners have acquired hands-on experience with compute, networking, database and security services. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Skills:</strong> Cloud basics, AWS fundamentals, role-based learning, practical scenarios<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">
+        <img src="https://images.credly.com/size/500x500/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">AWS Educate Introduction to Generative AI - Training Badge - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge have completed the Introduction to Generative Artificial Intelligence training and achieved the required scores on the post-course assessment. They have shown a fundamental understanding in generative artificial intelligence (AI) concepts, and demonstrated the ability to define foundation models, discuss generative AI use cases. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
+      <strong>Skills:</strong> AI, AI and ML on AWS - Foundational, Amazon Web Services (AWS), AWS Cloud<br/>
+      <strong>Criteria:</strong> Successfully pass the AWS Educate Introduction to Generative AI assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/aws-educate-introduction-to-generative-ai-training-">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">
+        <img src="https://images.credly.com/size/500x500/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Well-Architected Proficient - Amazon Web Services Training and Certification</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this badge understand the strategies and best practices for architecting in the cloud using the AWS Well-Architected Framework. Earners are able to conduct a Well-Architected review using the Well-Architected Tool. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Skills:</strong> Operational excellence, security, reliability, performance efficiency, cost optimization<br/>
+      <strong>Criteria:</strong> Complete the Skill Builder course and pass assessment. <a href="https://www.credly.com/org/amazon-web-services/badge/well-architected-proficient">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details><summary>More AWS Training and Certification Badges (52)</summary>
+
+<br>
+
 <details><summary>AWS Cloud Quest Badges (9)</summary>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
@@ -2139,6 +2198,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 </details>
 
+</details>
 
 ### APIsec University (10)
 
