@@ -212,8 +212,6 @@ Ready to start badge hunting? Let's dive in! 🚀
     ClickHouse
   </td>
   <td align="center" width="20%" style="padding:10px">
-  </td>
-  <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/data-protocol/badges">
       <img src="https://images.credly.com/size/200x200/images/96cd563f-98e3-4f18-9ab8-240bc7aead90/blob.png" width="100">
     </a><br/>
@@ -225,14 +223,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     data.world from ServiceNow
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/datadog/badges">
       <img src="https://images.credly.com/size/200x200/images/cd7dca42-ab31-41a9-9d2d-d90f37dced30/blob.png" width="100">
     </a><br/>
     Datadog
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/dremio/badges">
       <img src="https://images.credly.com/size/200x200/images/3627d9c5-d7db-4d16-8a70-18a0587a4775/organization-600x600.png" width="100">
@@ -259,14 +257,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     Hewlett Packard Enterprise
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/hyperexponential/badges">
       <img src="https://images.credly.com/size/400x400/images/4b69f1aa-55d1-486d-9cae-35029d734c94/blob" width="100">
     </a><br/>
     Hyperexponential
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/ibm/badges">
       <img src="https://images.credly.com/size/200x200/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png" width="100">
@@ -293,14 +291,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     Intel
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/isc2/badges">
       <img src="https://images.credly.com/size/200x200/images/0e8d9cd4-ce53-4afd-be2e-d8b30021b61b/blob.png" width="100">
     </a><br/>
     ISC2
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/isovalent/badges">
       <img src="https://images.credly.com/size/200x200/images/ff41e983-ef0e-4f20-96d4-5c0daad904a7/blob.png" width="100">
@@ -327,14 +325,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     Make
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/mongodb/badges">
       <img src="https://images.credly.com/size/200x200/images/ef0ef46d-47a5-4025-a1bc-9d46732310da/blob.png" width="100">
     </a><br/>
     MongoDB
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/nasa-open-science/badges">
       <img src="https://images.credly.com/size/200x200/images/d2cf3383-8989-4acd-8cb8-4ca9024643fc/blob.png" width="100">
@@ -361,14 +359,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     OPSWAT
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/pendo/badges">
       <img src="https://images.credly.com/size/200x200/images/648b5cb8-8fc1-44df-9a2e-6a4f3e86f49e/blob.png" width="100">
     </a><br/>
     Pendo
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/processmaker/badges">
       <img src="https://images.credly.com/size/200x200/images/7b79da44-2fa1-4bbf-b638-11f7e3284908/blob" width="100">
@@ -447,7 +445,6 @@ Ready to start badge hunting? Let's dive in! 🚀
   <td></td>
 </tr>
 </table>
-
 
 [Acronis](#acronis-48), [Adobe Education](#adobe-education-10), [Alation University](#alation-university-3), [Alteryx](#alteryx-1), [Amazon Web Services Training and Certification](#amazon-web-services-training-and-certification-55), [APIsec University](#apisec-university-10), [Appcues](#appcues-6), [ARIS](#aris-5), [AttackIQ](#attackiq-15), [Basis Technologies](#basis-technologies-26), [Broadcom](#broadcom-3), [Camunda](#camunda-2), [Celonis](#celonis-18), [Certiprof](#certiprof-11), [Chainguard](#chainguard-3), [Cisco](#cisco-6), [ClickHouse](#clickhouse-20), [Data Protocol](#data-protocol-10), [data.world from ServiceNow](#dataworld-from-servicenow-4), [Datadog](#datadog-15), [Dremio](#dremio-5), [Extreme Networks](#extreme-networks-9), [Google Cloud](#google-cloud-27), [Hewlett Packard Enterprise](#hewlett-packard-enterprise-1), [Hyperexponential](#hyperexponential-2), [IBM](#ibm-5), [IBM SkillsBuild](#ibm-skillsbuild-10), [Ikigai Labs](#ikigai-labs-6), [Intel](#intel-19), [ISC2](#isc2-1), [Isovalent](#isovalent-1), [Kong](#kong-2), [Lucid Software](#lucid-software-10), [Make](#make-3), [MongoDB](#mongodb-20), [NASA Open Science](#nasa-open-science-1), [NetApp](#netapp-1), [Okta](#okta-14), [OPSWAT](#opswat-1), [Pendo](#pendo-6), [ProcessMaker](#processmaker-28), [Project Management Institute](#project-management-institute-4), [Red Hat](#red-hat-1), [SAP](#sap-19), [SAS](#sas-5), [Software AG](#software-ag-3), [The Linux Foundation](#the-linux-foundation-62), [Tigera](#tigera-3), [Ververica](#ververica-2), [ZEDEDA](#zededa-4), [Zendesk](#zendesk-9)
 
