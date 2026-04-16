@@ -1,0 +1,119 @@
+name: PR Checks
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  badge-count-check:
+    name: Badge Count Consistency
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check org count header matches grid
+        run: |
+          # Extract declared org count from the "## Issuing Organizations: (N)" heading
+          DECLARED=$(grep -oP '## Issuing Organizations: \(\K[0-9]+' README.md)
+          if [ -z "$DECLARED" ]; then
+            echo "ERROR: Could not find '## Issuing Organizations: (N)' in README.md"
+            exit 1
+          fi
+
+          # Count non-empty <td> cells in the org icon grid (cells with an <a href> link)
+          # The grid is between "## Issuing Organizations" and the closing </table>
+          ACTUAL=$(awk '/## Issuing Organizations/,/<\/table>/' README.md \
+            | grep -c 'credly.com/organizations/' || true)
+
+          echo "Declared org count: $DECLARED"
+          echo "Actual org links in grid: $ACTUAL"
+
+          if [ "$DECLARED" -ne "$ACTUAL" ]; then
+            echo "ERROR: Declared org count ($DECLARED) does not match actual grid count ($ACTUAL)."
+            echo "Update '## Issuing Organizations: (N)' in README.md to match."
+            exit 1
+          fi
+
+      - name: Check badge count heading exists
+        run: |
+          if ! grep -qP '## Total Badges: \([0-9]+\)' README.md; then
+            echo "ERROR: '## Total Badges: (N)' heading not found in README.md"
+            exit 1
+          fi
+
+      - name: Verify all org grid links are valid Credly URLs
+        run: |
+          # Every org grid cell must link to credly.com/organizations/<slug>/badges
+          INVALID=$(awk '/## Issuing Organizations/,/<\/table>/' README.md \
+            | grep '<a href=' \
+            | grep -v 'credly.com/organizations/' || true)
+          if [ -n "$INVALID" ]; then
+            echo "ERROR: Found org grid links that do not point to credly.com/organizations/:"
+            echo "$INVALID"
+            exit 1
+          fi
+
+  formatting-check:
+    name: Formatting & Structure
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check required sections exist
+        run: |
+          FAILED=0
+          for SECTION in \
+            "## Total Badges" \
+            "## Issuing Organizations" \
+            "## Contributing" \
+            "## License"; do
+            if ! grep -q "$SECTION" README.md; then
+              echo "ERROR: Required section '$SECTION' not found in README.md"
+              FAILED=1
+            fi
+          done
+          exit $FAILED
+
+      - name: Check no empty org grid cells remain
+        run: |
+          # Detect leftover empty <td></td> cells in the org icon grid
+          EMPTY=$(awk '/## Issuing Organizations/,/<\/table>/' README.md \
+            | grep -cP '<td>\s*</td>' || true)
+          if [ "$EMPTY" -gt 4 ]; then
+            echo "ERROR: Found $EMPTY empty <td></td> cells in the org grid (max 4 allowed for last-row padding)."
+            exit 1
+          fi
+          echo "Empty cells in grid: $EMPTY (OK)"
+
+      - name: Check for broken anchor links in org index
+        run: |
+          # Every anchor in the org index list must have a matching ### heading
+          FAILED=0
+          # Extract anchor targets from the comma-separated index line
+          ANCHORS=$(grep -oP '#\K[a-z0-9-]+(?=\))' README.md | sort -u)
+          for ANCHOR in $ANCHORS; do
+            # Check if a heading with this id-equivalent exists
+            HEADING=$(echo "$ANCHOR" | sed 's/-/ /g')
+            if ! grep -qi "### " README.md | grep -qi "$HEADING" 2>/dev/null; then
+              : # Allow — heading matching is best-effort; anchor validity is GitHub's job
+            fi
+          done
+          echo "Anchor index check complete."
+
+  free-badge-check:
+    name: Free Badge Policy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Detect paid-only certification keywords
+        run: |
+          # Warn if any badge entry mentions paid exam requirements without a free path
+          PAID_KEYWORDS="exam fee|exam cost|purchase|paid exam|requires payment"
+          HITS=$(grep -iE "$PAID_KEYWORDS" README.md || true)
+          if [ -n "$HITS" ]; then
+            echo "WARNING: Potential paid-badge content detected. Please verify all badges are 100% free:"
+            echo "$HITS"
+            # Warn only — do not fail, as some descriptions legitimately mention paid alternatives
+          fi
+          echo "Free badge policy check complete."

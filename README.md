@@ -233,6 +233,8 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#dremio-5">Dremio</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/extreme-networks/badges">
       <img src="https://images.credly.com/size/200x200/images/f4a679e4-a683-4475-8f1e-3e36d05d2a38/blob.png" width="100">
@@ -265,6 +267,8 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#ibm-5">IBM</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/ibm-skillsbuild/badges">
       <img src="https://images.credly.com/size/200x200/images/adc55fbb-55a1-425c-b133-6ed5b83f5d38/blob.png" width="100">
@@ -297,6 +301,8 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#isovalent-1">Isovalent</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/kong/badges">
       <img src="https://images.credly.com/size/200x200/images/85dcf844-10cc-4587-8534-cc68b6595f8e/blob.png" width="100">
@@ -329,6 +335,8 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#nasa-open-science-1">NASA Open Science</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/netapp/badges">
       <img src="https://images.credly.com/size/200x200/images/92e705f4-b027-4d05-94fa-6d55048f2d92/NetApp_Logo.png" width="100">
@@ -361,6 +369,8 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#processmaker-28">ProcessMaker</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/project-management-institute/badges">
       <img src="https://images.credly.com/size/200x200/images/31da017a-a50c-48a8-8012-c4811063581f/blob.png" width="100">
@@ -379,14 +389,14 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#sap-19">SAP</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/sas/badges">
       <img src="https://images.credly.com/size/200x200/images/b108f83f-fedf-4479-8515-48a48a9df862/blob.png" width="100">
     </a><br/>
     <a href="#sas-5">SAS</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/software-ag/badges">
       <img src="https://images.credly.com/size/200x200/images/cb804039-a63a-4e8e-82c8-058b6fcff38a/blob.png" width="100">
@@ -411,20 +421,21 @@ Ready to start badge hunting? Let's dive in! 🚀
     </a><br/>
     <a href="#ververica-2">Ververica</a>
   </td>
-</tr>
-<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/zededa/badges">
       <img src="https://images.credly.com/size/200x200/images/32b1c161-6993-4b70-a104-ef9301b3b456/blob.png" width="100">
     </a><br/>
     <a href="#zededa-4">ZEDEDA</a>
   </td>
+</tr>
+<tr>
   <td align="center" width="20%" style="padding:10px">
     <a href="https://www.credly.com/organizations/zendesk/badges">
       <img src="https://images.credly.com/size/200x200/images/a648362b-1174-4b27-93f1-a3e12fe6d49a/blob.png" width="100">
     </a><br/>
     <a href="#zendesk-9">Zendesk</a>
   </td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
