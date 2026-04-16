@@ -2023,6 +2023,122 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 <br>
 
+<details><summary>.NET Workloads on AWS Badges (7)</summary>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th width="20%">Badge</th>
+    <th width="80%">Description</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">
+        <img src="https://images.credly.com/images/eea64560-121f-4437-af9c-91cf20968d35/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">.NET Workloads on AWS App Runner - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with .NET workloads on the AWS App Runner service. AWS App Runner is a fully-managed AWS compute service that makes it easy for developers to quickly deploy web applications and APIs, at scale and with no prior infrastructure experience required. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">Read more here</a><br/>
+      <strong>Skills:</strong> App Runner basics, containerized .NET applications, automatic scaling, load balancing, managed runtime, observability for .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET Workloads on AWS – App Runner course. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">
+        <img src="https://images.credly.com/images/221e7d7f-bceb-422e-8c31-436ecbcda614/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">.NET Workloads on AWS Lambda - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with .NET workloads on AWS Lambda. AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing serve <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">Read more here</a><br/>
+      <strong>Skills:</strong> Serverless compute, event‑driven architecture, cold start, Lambda resource model, integrating Lambda with other AWS services for .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET Workloads on AWS – Lambda course. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">
+        <img src="https://images.credly.com/images/7e5e1967-439e-48e5-a913-625c712b2dc5/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">.NET Workloads on Amazon ECS on AWS Fargate - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with .NET workloads on the Amazon Elastic Container Service (ECS) using AWS Fargate serverless compute. Amazon ECS is a fully-managed container orchestration service that makes it easy for you to deploy, manage, and scale containerized applications. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">Read more here</a><br/>
+      <strong>Skills:</strong> Amazon ECS, Fargate serverless compute for containers, task definition, service, auto scaling, Dockerized .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET Workloads on AWS – ECS on Fargate course. <a href="https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">
+        <img src="https://images.credly.com/images/97f12235-506f-4fbf-a9ff-23c8c5042d2e/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">Amazon Rekognition and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with the Amazon Rekognition service and .NET workloads. Amazon Rekognition makes it easy to add image and video analysis to your applications. You provide an image or video to the Amazon Rekognition API, and the service can identify objects, people, text, scenes, and activities. It can detect inappropriate content as well. Rekognition also provides highly accurate facial analysis, face comparison, and face search capabilities. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">Read more here</a><br/>
+      <strong>Skills:</strong> Image/video analysis APIs, label detection, text detection, facial analysis, content moderation, .NET SDK integration with Rekognition<br/>
+      <strong>Criteria:</strong> Complete the .NET + Rekognition course. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-rekognition-and-net-workloads">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">
+        <img src="https://images.credly.com/images/4c080efa-4375-4f88-836b-5b62a2c16c5d/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">Amazon Textract and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer skills badge have demonstrated proficiency with the Amazon Textract service and .NET workloads. With Textract, your applications can extract text and structured data such as tables and forms from documents using artificial intelligence (AI)—no configuration or templates necessary. Go beyond simple optical character recognition (OCR) by extracting relationships, structure, and text from documents. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">Read more here</a><br/>
+      <strong>Skills:</strong> AI‑powered OCR, structured data extraction, form & table extraction, document processing pipelines for .NET workloads<br/>
+      <strong>Criteria:</strong> Complete the .NET + Textract course. <a href="https://www.credly.com/org/dotnetonaws/badge/amazon-textract-and-net-workloads">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">
+        <img src="https://images.credly.com/images/9569f9aa-1426-4c6d-964e-daa7e5bc55ce/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">AWS App2Container and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer tool skills badge have demonstrated proficiency with the AWS App2Container tool (A2C). A2C helps you containerize and migrate existing applications to AWS. A2C is a command line tool you can use to you lift and shift applications that run in your on-premises data centers or on virtual machines, and run them in containers that are managed by Amazon Elastic Container Service (Amazon ECS), Amazon Elastic Kubernetes Service (Amazon EKS), or AWS App Runner. <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">Read more here</a><br/>
+      <strong>Skills:</strong> Application discovery, containerization automation, ECS/EKS/App Runner targets, migration patterns for legacy .NET applications<br/>
+      <strong>Criteria:</strong> Complete the AWS App2Container for .NET course. <a href="https://www.credly.com/org/dotnetonaws/badge/aws-app2container-and-net-workloads">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding:10px">
+      <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">
+        <img src="https://images.credly.com/images/fdd42c00-b695-4bb0-95f6-28eaa31874bd/image.png" width="100">
+      </a><br/>
+      <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">Migration Hub Strategy Recommendations and .NET Workloads - .NET on AWS</a>
+    </td>
+    <td width="80%" style="padding:10px">
+      <strong>Description:</strong> Earners of this developer tool skills badge have demonstrated proficiency with Migration Hub Strategy Recommendations (MHSR). MHSR helps you plan migration and modernization initiatives, offering migration and modernization strategy recommendations for viable transformation paths for your applications. It is a part of AWS Migration Hub which provides a single location to track migration tasks across multiple AWS tools and partner solutions. <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">Read more here</a><br/>
+      <strong>Skills:</strong> Migration assessment, 7R migration strategies, portfolio analysis, mapping .NET workloads to AWS services<br/>
+      <strong>Criteria:</strong> Complete the Migration Hub Strategy Recommendations for .NET course. <a href="https://www.credly.com/org/dotnetonaws/badge/migration-hub-strategy-recommendations-and-net-work">Read more here</a><br/>
+      <strong>Time to Earn:</strong> N/A<br/>
+      <strong>Level:</strong> None
+    </td>
+  </tr>
+</table>
+
+</details>
+
 
 ### APIsec University (10)
 
