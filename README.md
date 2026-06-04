@@ -7747,6 +7747,7 @@ Ready to start badge hunting? Let's dive in! 🚀
 
 <details><summary>More The Linux Foundation (59)</summary>
 
+
 <table width="100%" border="1" cellspacing="0" cellpadding="4">
   <tr>
     <th width="20%">Badge</th>
