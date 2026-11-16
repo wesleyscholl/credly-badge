@@ -8939,7 +8939,6 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 This repository serves as a curated directory of legitimate free digital badges from reputable organizations. All badges listed are completely free—no credit card required, no hidden fees.
 
 ---
-
   <p>
     <strong>
     © 2025 Wesley Scholl · Licensed under
